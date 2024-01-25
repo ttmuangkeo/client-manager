@@ -1,0 +1,44 @@
+{
+    "ChangeOrder": {
+        "details": "{\"oldOfferId\":\"scsdcsd\",\"newOfferId\":\"e9b413d5-3115-4777-85f9-adfeac193c38\",\"oldProjectCost\":18862.3,\"newProjectCost\":16402,\"oldTotalAmount\":23000,\"newTotalAmount\":20000,\"oldSelectedLoanOption\":\"9\",\"newSelectedLoanOption\":\"9\",\"oldTotalSystemCost\":23000,\"newTotalSystemCost\":20000,\"verifiedBy\":\"eeClientEnergy\",\"autopayIntent\":true}",
+        "eventType": "{{events}}",
+        "id": "{{ uuid }}",
+        "loanId": "{{loanId}}",
+        "timestamp": "{{ utc }}"
+    },
+    "SystemVerified": {
+        "details": "{\"oldTotalSystemCost\":\"$50,000.00\",\"newTotalSystemCost\":\"$50,000.00\",\"oldSelectedLoanOption\":\"17\",\"newSelectedLoanOption\":\"17\",\"autopayIntent\":true,\"verifiedBy\":\"StandardEco\",\"username\":\"ashley@standardecosolar.com\"}",
+        "eventType": "SystemVerified",
+        "id": "a6d96422-f4b2-4e7a-b627-7e03c407075e",
+        "loanId": "21-14-052099",
+        "timestamp": "2021-07-16T21:04:29.982Z"
+      },
+      "FundingRecalculation": {
+        "details": "{\"verifiedBy\":\"CLIENTID\",\"username\":\"sgarcia@loanpal.com\",\"source\":\"SystemVerified\",\"oldTotalSystemCost\":\"$xx,xxx.00\",\"newTotalSystemCost\":\"$xx,xxx.00\"}",
+        "eventType": "FundingRecalculation",
+        "id": "new uuid#",
+        "loanId": "loan id#",
+        "timestamp": "2021-05-28T02:08:00.000Z"
+      },
+      "DocsRequested": {
+        "details": "{\"requestedBy\":\"sgarcia@loanpal.com\",\"forceRegen\":true}",
+        "eventType": "DocsRequested",
+        "id": "UUID#",
+        "loanId": "####",
+        "timestamp": "2019-02-28T:18:05.086Z"
+      },
+      "LoanCanceled": {
+        "details": "{\"requestedBy\":\"isoria@goodleap.com\",\"forceRegen\":true,\"skipAuthorizer\":false}",
+        "eventType": "DocsRequested",
+        "id": "2022b9ce-6813-4d8b-98c9-f61fd34e4507",
+        "loanId": "21-10-057572",
+        "timestamp": "2021-07-28T16:55:00.000Z"
+    },
+    "wireSucceed": {
+        "details": "{\"id\":\"funding-detail-id\",\"wireBatchId\":\"wire-batch-id\",\"accountNumber\":\"account-number\",\"borrowerName\":\"first,last\",\"fedRefNum\":\"fed-ref-num\",\"fundedDate\":\"10/10/2020\",\"fundsToSend\":1050.2,\"loanId\":\"10-20-304050\",\"routingNumber\":\"routing\",\"sourceFile\":\"manual invoice\",\"warehousePrincipal\":\"1050.20\",\"wiredBy\":\"Manual Invoice\"}",
+        "eventType": "WireSucceeded",
+        "id": "ddc11947-0991-456d-a962-5f27cff2b5c7",
+        "loanId": "20-12-004732",
+        "timestamp": "2020-04-17T23:30:27.899Z"
+    }
+}

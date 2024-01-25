@@ -36,7 +36,7 @@
         </b-row>
       </div>
       <hr class="my-4">
-      <button @click="createKey" class="btn btn-success">Create Key</button>
+      <button @click="createKey" class="btn btn-success">Create Keys</button>
     </b-form>
   </card>
 </template>

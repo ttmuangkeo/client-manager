@@ -112,8 +112,8 @@ export default {
   },
   methods: {
     getUsers() {
-      const BASEURL = "https://directory-dev.loanpal.services/";
-      const ENDPOINT = "Users/me?tenant=sandbox01";
+      const BASEURL = "https://auth.brytecore.com/";
+      const ENDPOINT = "oauth/token";
       axios
         .create({
           baseURL: BASEURL,
@@ -124,11 +124,12 @@ export default {
         })
         .get(ENDPOINT)
         .then((res) => {
-          if(res.status === 200) {
-            const self = this;
-            self.$store.commit("updateUser", res.data);
-            this.authorization(res.data.contexts[0].guid);
-          }
+          console.log(res)
+          // if(res.status === 200) {
+          //   const self = this;
+          //   self.$store.commit("updateUser", res.data);
+          //   this.authorization(res.data.contexts[0].guid);
+          // }
         })
         .catch((err) => {
             if (err.response.status === 401) {

@@ -1,7 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import SideBar from '../views/Starter/SideBar.vue';
-import ApiKeyGenerator from '../views/Starter/ApiKeyGenerator.vue';
 
 Vue.use(Router);
 
@@ -37,6 +36,11 @@ export default new Router({
           path: '/partner-config-builder',
           name: 'partnerConfigBuilder',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/ConfigBuilder.vue')
+        },        
+        {
+          path: '/brytecore',
+          name: 'brytecore',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Brytecore.vue')
         }        
       ]
     }

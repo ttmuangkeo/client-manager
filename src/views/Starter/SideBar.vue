@@ -25,6 +25,13 @@
               }"
             >
         </sidebar-item>
+        <sidebar-item
+            :link="{
+              name: 'Brytecore',
+              path: '/brytecore'
+              }"
+            >
+        </sidebar-item>
       </template>
 
     </side-bar>

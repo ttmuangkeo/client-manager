@@ -17,7 +17,7 @@
                     <b-col lg="12">
                       <base-input
                         type="Text"
-                        label="Organization ID"
+                        label="Organization IDsss"
                         placeholder="3fa85f64-5717-4562-b3fc-2c963f66afa6"
                         v-model="orgId"
                         @blur="getOrgUser"

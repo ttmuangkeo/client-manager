@@ -11,7 +11,7 @@ class BrytecoreAuthController < ApplicationController
         access_token = fetch_access_token(username, password)
         render json: { access_token: access_token }
       else
-        render json: { error: 'Invalid credentials' }, status: :unauthorized
+        render json: { error: 'Invalid credentialsss' }, status: :unauthorized
       end
     end
   

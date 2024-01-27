@@ -1,0 +1,2 @@
+module BrytecoreAuthHelper
+end

@@ -5,9 +5,10 @@ import store from './data/Store';
 import UUID from 'vue-uuid';
 import axios from 'axios';
 
-
 // router setup
 import router from './routes/starterRouter';
+import { main } from '@popperjs/core';
+
 // plugin setup
 Vue.use(DashboardPlugin, UUID, axios);
 
@@ -17,5 +18,5 @@ new Vue({
   render: h => h(App),
   router,
   axios,
-  store
+  store,
 });

@@ -43,7 +43,7 @@ const router = new Router({
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Brytecore.vue')
         },        
         {
-          path: '/brytecore/companies',
+          path: '/brytecore/companies/:companyId',
           name: 'getCompanies',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
           // added required auth to view this page

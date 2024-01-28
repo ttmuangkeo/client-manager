@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import SideBar from '../views/Starter/SideBar.vue';
-import store from '../data/Store'
+
 
 Vue.use(Router);
 const router = new Router({
@@ -9,33 +9,18 @@ const router = new Router({
     {
       path: '/',
       name: 'home',
-      redirect: '/apikey-generator',
+      redirect: '/home',
       component: SideBar,
-      children: [
+      children: [      
         {
-          path: 'apikey-generator',
-          name: 'apikey generator',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/ApiKeyGenerator.vue')
-        },
-        {
-          path: '/event-generator',
-          name: 'event generator',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/EventGenerator.vue')
+          path: '/',
+          name: 'home',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Home.vue')
         },        
         {
-          path: '/partner-config',
-          name: 'partner config',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/PartnerConfig.vue')
-        },        
-        {
-          path: '/loan/:loanId',
-          name: 'getLoan',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/LoanOption.vue')
-        },        
-        {
-          path: '/partner-config-builder',
-          name: 'partnerConfigBuilder',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/ConfigBuilder.vue')
+          path: '/evocalize',
+          name: 'evocalize',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Evocalize.vue')
         },        
         {
           path: '/brytecore',
@@ -48,7 +33,15 @@ const router = new Router({
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
           // added required auth to view this page
           // meta: {requiredAuth: true}
-        }        
+        }
+        // This component will be a thing if brytecore allows a get ALL company. As far as i know they do not. However if they do will need to build a company page to host all the companies
+        // {
+        //   path: '/brytecore/companies',
+        //   name: 'getCompanies',
+        //   component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
+        //   // added required auth to view this page
+        //   // meta: {requiredAuth: true}
+        // }        
       ]
     }
   ],

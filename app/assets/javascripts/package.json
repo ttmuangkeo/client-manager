@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-vue-argon-dashboard",
+  "name": "client-manager",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -61,6 +61,6 @@
     "last 2 versions",
     "not ie <= 10"
   ],
-  "author": "Creative Tim - https://www.creative-tim.com/",
-  "description": "BootstrapVue Argon Dashboard"
+  "author": "Tim Muangkeo",
+  "description": "Internal tool for external api use"
 }

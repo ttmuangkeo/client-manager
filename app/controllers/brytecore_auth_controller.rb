@@ -1,32 +1,32 @@
 # app/controllers/brytecore_auth_controller.rb
 
 class BrytecoreAuthController < ApplicationController
-    skip_before_action :verify_authenticity_token, only: :authenticate
+  skip_before_action :verify_authenticity_token, only: :authenticate
 
-    def authenticate
-        username = ENV['BRYTECORE_USERNAME']
-        password = ENV['BRYTECORE_PASSWORD']
-  
-      if valid_credentials?(username, password)
-        access_token = fetch_access_token(username, password)
-        render json: { access_token: access_token }
-      else
-        render json: { error: 'Invalid credentialsss' }, status: :unauthorized
-      end
+  def authenticate
+    provided_username = params[:username]
+    provided_password = params[:password]
+
+    if valid_credentials?(provided_username, provided_password)
+      access_token = fetch_access_token(provided_username, provided_password)
+      render json: {access_token: access_token}
+    else
+      render json: {error: 'Invalid Creds'}, status: :unauthorized
     end
+  end
   
-    private
-  
-    def valid_credentials?(username, password)
-        expected_username = ENV['BRYTECORE_USERNAME']
-        expected_password = ENV['BRYTECORE_PASSWORD']
-    
-        username == expected_username && password == expected_password
+  private
+
+    def valid_credentials?(provided_username, provided_password)
+      expected_username = ENV['BRYTECORE_USERNAME']      
+      expected_password = ENV['BRYTECORE_PASSWORD']
+
+      provided_username == expected_username && provided_password == expected_password
     end
-  
+
     def fetch_access_token(username, password)
-      response = RestClient.post(
-        'https://auth.brytecore.com/oauth/token',
+      res = RestClient.post(
+        "#{Rails.application.config.base_brytecore_url}/oauth/token",
         {
           grant_type: 'client_credentials',
           scope: '*'
@@ -36,15 +36,12 @@ class BrytecoreAuthController < ApplicationController
           content_type: :json,
           accept: :json
         }
-      )
-  
-      data = JSON.parse(response.body)
+      )      
+      data = JSON.parse(res.body)
       data['access_token']
-    rescue RestClient::ExceptionWithResponse => e
-      # Handle any errors or exceptions here
-      # For example, you can log the error and return nil
-      Rails.logger.error("Error fetching access token: #{e.response}")
+    rescue Restclient::ExceptionWithResponce => e 
+      Rails.logger.error("error fetch token: #{e.res}")
       nil
     end
-  end
+end
   

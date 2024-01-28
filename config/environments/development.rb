@@ -61,5 +61,6 @@ Rails.application.configure do
 
 
   config.base_service = "http://localhost:8080"
-  config.base_brytecore_url = "https://auth.brytecore.com"
+  config.base_auth_brytecore_url = "https://auth.brytecore.com"
+  config.base_api_brytecore_url = "https://api.brytecore.com"
 end

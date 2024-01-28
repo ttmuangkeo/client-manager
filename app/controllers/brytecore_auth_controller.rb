@@ -26,7 +26,7 @@ class BrytecoreAuthController < ApplicationController
 
     def fetch_access_token(username, password)
       res = RestClient.post(
-        "#{Rails.application.config.base_brytecore_url}/oauth/token",
+        "#{Rails.application.config.base_auth_brytecore_url}/oauth/token",
         {
           grant_type: 'client_credentials',
           scope: '*'

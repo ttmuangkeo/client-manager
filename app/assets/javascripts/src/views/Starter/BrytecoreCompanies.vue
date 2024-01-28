@@ -2,23 +2,33 @@
 <template>
   <div>
     <base-header class="pt-md-5 bg-transparent">
-      <h1>{{data.data.name}}</h1>
+      <h1>{{company.data.name}}</h1>
     </base-header>
     <hr>  
     <b-container fluid>
+      <h2>Company Info:</h2>
       <b-row>
-        <b-col xl="4" class="order-xl-1">
-          <stats-card >
-            companyID: {{data.data.companyId}}
+        <b-col xl="3" class="order-xl-6">
+          <stats-card>
+              companyID: {{company.data.companyId}}
           </stats-card>
           <stats-card>
-            Team Email: {{data.data.teamEmail}}
+            <p>
+              Team Email: {{company.data.teamEmail}}
+            </p>
+            <p>
+              Vendor ID: {{company.data.vendorCompanyId}}
+            </p>
           </stats-card>
-          <stats-card>
-            Vendor ID: {{data.data.vendorCompanyId}}
-          </stats-card>
-          <stats-card>
-            Team Name: {{data.data.teamName}}
+        </b-col>
+        <b-col xl="3" md="6" v-for="(res, key) in this.apiKeys.data" :key="key">
+          <stats-card class="mb-4">
+            <template slot="footer">
+              <p>{{res.name}}</p>
+              <p>{{res.apiKey}}</p>
+              <p class="text-" v-if="res.trackingKey">Tracking Key</p>
+              <p v-if="res.testkey" class="btn">Test Key</p>
+            </template>  
           </stats-card>
         </b-col>
       </b-row>
@@ -34,7 +44,8 @@ export default {
   data() {
     return {
       success: false,
-      data: {},
+      company: {},
+      apiKeys: {},
       error: '',
     };
   },
@@ -59,11 +70,34 @@ export default {
 
         const result = await response.json();
         this.success = true;
-        this.data = result.data;
+        this.company = result.data;
+
+        this.fetchApiKeys(companyId);
       } catch (error) {
         this.success = false;
         this.error = 'An error occurred while fetching company data.';
         console.error('Error:', error);
+      }
+    },
+    async fetchApiKeys(companyId) {
+      try {
+        const accessToken = this.$store.getters.getAccessToken;
+        const res = await fetch(`http://localhost:3000/apikeys/${companyId}`, {
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${accessToken}`
+          }
+        });
+
+        if(!res.ok) {
+          throw new Error('Failed to fetch api keys')
+        }
+
+        const result = await res.json();
+        console.log(result.data)
+        this.apiKeys = result.data
+      } catch(err) {
+        console.log('Error fetching api keys', err);
       }
     }
   },

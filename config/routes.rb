@@ -8,6 +8,8 @@ Rails.application.routes.draw do
   #company route
   get '/companies/:id', to: 'brytecore_companies#show'
 
+  get '/apikeys/:id', to: 'brytecore_companies#api_keys'
+
   # This catch-all route will redirect all other requests to the Vue.js app
   get '*path', to: 'application#index', via: :all
 end

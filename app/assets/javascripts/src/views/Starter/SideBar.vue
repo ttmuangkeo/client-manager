@@ -4,24 +4,9 @@
     <side-bar>
       <template slot="links">
         <sidebar-item
-          :link="{
-            name: 'Generate API Keys',
-            path: '/apikey-generator'
-          }"
-        >
-        </sidebar-item>
-
-        <sidebar-item
             :link="{
-              name: 'Event Generator',
-              path: '/event-generator'
-              }"
-            >
-        </sidebar-item>
-        <sidebar-item
-            :link="{
-              name: 'Partner Configs',
-              path: '/partner-config'
+              name: 'Evocalize',
+              path: '/evocalize'
               }"
             >
         </sidebar-item>

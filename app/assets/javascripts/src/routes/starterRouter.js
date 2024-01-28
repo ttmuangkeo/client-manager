@@ -1,10 +1,10 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import SideBar from '../views/Starter/SideBar.vue';
+import store from '../data/Store'
 
 Vue.use(Router);
-
-export default new Router({
+const router = new Router({
   routes: [
     {
       path: '/',
@@ -41,6 +41,13 @@ export default new Router({
           path: '/brytecore',
           name: 'brytecore',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Brytecore.vue')
+        },        
+        {
+          path: '/brytecore/companies',
+          name: 'getCompanies',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
+          // added required auth to view this page
+          // meta: {requiredAuth: true}
         }        
       ]
     }
@@ -55,3 +62,18 @@ export default new Router({
     return { x: 0, y: 0 };
   }
 });
+// logic to require access token to view the companies page
+// router.beforeEach((to, from, next) => {
+//   if(to.meta.requiredAuth) {
+//     const accessToken = store.getters.getAccessToken;
+//     if(!accessToken) {
+//       next('/');
+//     } else {
+//       next()
+//     }
+//   } else {
+//     next()
+//   }
+// })
+
+export default router

@@ -63,3 +63,276 @@ Processing by BrytecoreAuthController#authenticate as */*
 Completed 200 OK in 717ms (Views: 0.2ms | ActiveRecord: 0.0ms)
 
 
+Started POST "/authenticate" for ::1 at 2024-01-27 20:17:18 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:30: syntax error, unexpected {, expecting ')'
+        {
+        ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:33: syntax error, unexpected ',', expecting keyword_end
+        },
+         ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:39: syntax error, unexpected ')', expecting keyword_end
+      )
+      ^):
+  
+app/controllers/brytecore_auth_controller.rb:30: syntax error, unexpected {, expecting ')'
+app/controllers/brytecore_auth_controller.rb:33: syntax error, unexpected ',', expecting keyword_end
+app/controllers/brytecore_auth_controller.rb:39: syntax error, unexpected ')', expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:18:24 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:29: syntax error, unexpected ',', expecting ')'
+...se_brytecore_url}/oauth/token",
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:33: syntax error, unexpected ',', expecting ')'
+        },
+         ^):
+  
+app/controllers/brytecore_auth_controller.rb:29: syntax error, unexpected ',', expecting ')'
+app/controllers/brytecore_auth_controller.rb:33: syntax error, unexpected ',', expecting ')'
+Started POST "/authenticate" for ::1 at 2024-01-27 20:20:01 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]"}}
+Completed 200 OK in 661ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:20:27 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]"}}
+Completed 200 OK in 669ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:20:36 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]"}}
+Completed 200 OK in 470ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:21:12 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]"}}
+Completed 200 OK in 445ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:22:23 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"asd", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"asd", "password"=>"[FILTERED]"}}
+Completed 200 OK in 845ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:22:45 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"qwe", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"qwe", "password"=>"[FILTERED]"}}
+Completed 200 OK in 400ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:22:57 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"qwe", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"qwe", "password"=>"[FILTERED]"}}
+Completed 200 OK in 633ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:23:25 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"asd", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"asd", "password"=>"[FILTERED]"}}
+Completed 200 OK in 488ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:23:47 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"asd", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"asd", "password"=>"[FILTERED]"}}
+Completed 200 OK in 660ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:24:14 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 200 OK in 480ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:41:48 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+...ed_password, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ror: 'Invalid Creds'}, status :unauthorized
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+    end
+    ^~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:18: duplicated argument name
+...ded_password, provided_password)
+...              ^~~~~~~~~~~~~~~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:45: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+app/controllers/brytecore_auth_controller.rb:18: duplicated argument name
+app/controllers/brytecore_auth_controller.rb:45: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:42:45 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+...ed_password, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ror: 'Invalid Creds'}, status :unauthorized
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+    end
+    ^~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:45: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+app/controllers/brytecore_auth_controller.rb:45: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:43:36 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ror: 'Invalid Creds'}, status :unauthorized
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+    end
+    ^~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:45: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+app/controllers/brytecore_auth_controller.rb:45: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:46:23 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ror: 'Invalid Creds'}, status :unauthorized
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+    end
+    ^~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:47: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+app/controllers/brytecore_auth_controller.rb:14: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+app/controllers/brytecore_auth_controller.rb:47: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:46:55 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+    end
+    ^~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:47: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+app/controllers/brytecore_auth_controller.rb:47: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:48:14 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+    end
+    ^~~
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:47: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/brytecore_auth_controller.rb:10: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+app/controllers/brytecore_auth_controller.rb:15: syntax error, unexpected keyword_end, expecting '}'
+app/controllers/brytecore_auth_controller.rb:47: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/authenticate" for ::1 at 2024-01-27 20:48:35 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+...ed_username, provided_password)
+...                              ^
+/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+    else
+    ^~~~):
+  
+app/controllers/brytecore_auth_controller.rb:11: syntax error, unexpected ')', expecting '='
+app/controllers/brytecore_auth_controller.rb:13: syntax error, unexpected keyword_else, expecting '}'
+Started POST "/authenticate" for ::1 at 2024-01-27 20:48:57 -0800
+  
+ActionController::RoutingError (undefined local variable or method `authenticate' for BrytecoreAuthController:Class):
+  
+app/controllers/brytecore_auth_controller.rb:4:in `<class:BrytecoreAuthController>'
+app/controllers/brytecore_auth_controller.rb:3:in `<top (required)>'
+Started POST "/authenticate" for ::1 at 2024-01-27 20:49:04 -0800
+  
+ActionController::RoutingError (undefined local variable or method `authenticate' for BrytecoreAuthController:Class):
+  
+app/controllers/brytecore_auth_controller.rb:4:in `<class:BrytecoreAuthController>'
+app/controllers/brytecore_auth_controller.rb:3:in `<top (required)>'
+Started POST "/authenticate" for ::1 at 2024-01-27 20:50:21 -0800
+  
+ArgumentError (Before process_action callback :verify_authenticty_token has not been defined):
+  
+app/controllers/brytecore_auth_controller.rb:4:in `<class:BrytecoreAuthController>'
+app/controllers/brytecore_auth_controller.rb:3:in `<top (required)>'
+Started POST "/authenticate" for ::1 at 2024-01-27 20:52:20 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for ::1 at 2024-01-27 20:52:44 -0800
+Processing by BrytecoreAuthController#authenticate as */*
+  Parameters: {"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"02b82a8e-81d1-4406-ab27-2813de75f9e1", "password"=>"[FILTERED]"}}
+Completed 200 OK in 976ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+

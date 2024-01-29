@@ -13,19 +13,19 @@ const router = new Router({
       component: SideBar,
       children: [      
         {
-          path: '/',
+          path: '/home',
           name: 'home',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Home.vue')
         },        
         {
-          path: '/evocalize',
-          name: 'evocalize',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Evocalize.vue')
+          path: '/moxi/company',
+          name: 'moxiCompany',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiCompany.vue')
         },        
         {
-          path: '/brytecore',
-          name: 'brytecore',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Brytecore.vue')
+          path: '/brytecore/company',
+          name: 'company',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompany.vue')
         },        
         {
           path: '/brytecore/companies/:companyId',
@@ -33,15 +33,15 @@ const router = new Router({
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
           // added required auth to view this page
           // meta: {requiredAuth: true}
-        }
+        },
         // This component will be a thing if brytecore allows a get ALL company. As far as i know they do not. However if they do will need to build a company page to host all the companies
-        // {
-        //   path: '/brytecore/companies',
-        //   name: 'getCompanies',
-        //   component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
-        //   // added required auth to view this page
-        //   // meta: {requiredAuth: true}
-        // }        
+        {
+          path: '/brytecore/login',
+          name: 'login',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreLogin.vue'),
+          // added required auth to view this page
+          // meta: {requiredAuth: true}
+        }        
       ]
     }
   ],

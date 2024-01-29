@@ -1,0 +1,2 @@
+class MoxiListingController < ApplicationController
+end

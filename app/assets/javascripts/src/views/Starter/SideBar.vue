@@ -5,15 +5,15 @@
       <template slot="links">
         <sidebar-item
             :link="{
-              name: 'Evocalize',
-              path: '/evocalize'
+              name: 'Moxi Company',
+              path: '/moxi/company'
               }"
             >
         </sidebar-item>
         <sidebar-item
             :link="{
               name: 'Brytecore',
-              path: '/brytecore'
+              path: '/brytecore/company'
               }"
             >
         </sidebar-item>

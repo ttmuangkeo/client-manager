@@ -33,7 +33,7 @@ export default {
         const token = await this.fetchToken();
         this.$store.dispatch('setAccessToken', token)
         this.error = '';
-        this.$router.push('brytecore/companies');
+        this.$router.push('/brytecore/company');
       } catch(err) {
         console.log(err)
         this.error = err.message

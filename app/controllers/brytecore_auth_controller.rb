@@ -8,12 +8,14 @@ class BrytecoreAuthController < ApplicationController
     provided_password = params[:password]
 
     auth_service = AuthenticationService.new 
+    expected_username = ENV['BRYTECORE_USERNAME'] || ''
+    expected_password = ENV['BRYTECORE_PASSWORD'] || ''
     
     result = auth_service.authenticate(
       provided_username,
       provided_password,
-      ENV['BRYTECORE_USERNAME'],
-      ENV['BRYTECORE_PASSWORD'],
+      expected_username,
+      expected_password,
       "#{Rails.application.config.base_auth_brytecore_url}/oauth/token"
     )
 
@@ -24,4 +26,3 @@ class BrytecoreAuthController < ApplicationController
     end
   end
 end
-  

@@ -21,7 +21,9 @@ async function authenticate(username, password) {
         return {success: true};
     } catch(err) {
         console.log(err)
-        return {success: false, error: 'failed to auth in'}
+        return {
+            success: false, 
+            error: 'failed to auth in'}
     }
 }
 

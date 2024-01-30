@@ -20,11 +20,11 @@ module.exports = {
   },
   devServer: {
     proxy: {
-      '/api': {
-        target: 'https://api.moxiworks.com',
+      '/moxi': {
+        target: 'https://api.moxiworks.com/api',
         changeOrigin: true,
         pathRewrite: {
-          '^/api': '/api',
+          '^/moxi': '',
         }
       }
     }

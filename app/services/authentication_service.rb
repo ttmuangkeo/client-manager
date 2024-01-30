@@ -21,7 +21,7 @@ class AuthenticationService
 
         data = JSON.parse(response.body)
         {success: true, company_data: data}
-        rescue.RestClient::ExceptionWithResponse => e
+        rescue RestClient::ExceptionWithResponse => e
             Rails.logger.error("Error fetching company data: #{e.response}")
             {success: false, error: 'failed to fetch company data'}
     end

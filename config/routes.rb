@@ -9,8 +9,7 @@ Rails.application.routes.draw do
   get '/apikeys/:id', to: 'brytecore_companies#api_keys'
 
   #moxi routes
-  # get '/moxi/companies', to: 'moxi_auth#index'
-  get '/moxi/companies', to: 'moxi_auth#authenticate'
+  post '/moxi/authenticate', to: 'moxi_auth#authenticate'
 
   get '/moxi/companies', to: 'moxi_auth#show'
   # This catch-all route will redirect all other requests to the Vue.js app

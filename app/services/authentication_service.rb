@@ -8,24 +8,6 @@ class AuthenticationService
         end
     end
 
-
-    def self.fetch_moxi_company_data(username, password)
-        response = RestClient.get(
-            "#{Rails.application.config.base_moxi_url}/companies",
-            {
-                Authorization: "Basic #{Base64.strict_encode64("#{username}:#{password}")}",
-                content_type: 'application/x-www-form-urlencoded',
-                accept: 'application/vnd.moxi-platform+json;version=1'
-            }
-        )
-
-        data = JSON.parse(response.body)
-        {success: true, company_data: data}
-        rescue RestClient::ExceptionWithResponse => e
-            Rails.logger.error("Error fetching company data: #{e.response}")
-            {success: false, error: 'failed to fetch company data'}
-    end
-
     private
 
     def valid_credentials?(provided_username, provided_password, expected_username, expected_password) 

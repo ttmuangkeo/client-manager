@@ -2414,3 +2414,807 @@ SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/moxi
 ...                              ^):
   
 app/controllers/moxi_auth_controller.rb:20: syntax error, unexpected '}', expecting =>
+Started GET "/" for ::1 at 2024-01-30 15:41:51 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/timmuangkeo/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/timmuangkeo/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 15ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/moxi/company" for ::1 at 2024-01-30 15:41:54 -0800
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"moxi/company"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/moxi/authenticate" for ::1 at 2024-01-30 15:42:00 -0800
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"moxi/authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-01-30 15:46:00 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/timmuangkeo/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/timmuangkeo/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 14ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/companies" for 127.0.0.1 at 2024-01-30 15:47:32 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"companies"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/companies" for 127.0.0.1 at 2024-01-30 15:48:25 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"companies"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 38ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/companies" for 127.0.0.1 at 2024-01-30 15:49:23 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"companies"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 35ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for 127.0.0.1 at 2024-01-30 15:50:20 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 32ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for 127.0.0.1 at 2024-01-30 15:50:25 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 43ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for 127.0.0.1 at 2024-01-30 15:50:56 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 31ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for 127.0.0.1 at 2024-01-30 15:59:54 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 33ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/authenticate" for 127.0.0.1 at 2024-01-30 16:00:07 -0800
+Processing by ApplicationController#index as 
+  Parameters: {"path"=>"authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 36ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:04:31 -0800
+Processing by BrytecoreAuthController#authenticate as HTML
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "headers"=>{"Content-Type"=>"application/x-www-form-urlencoded", "Accept"=>"application/vnd.moxi-platform+json;version=1"}, "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]", "headers"=>{"Content-Type"=>"application/x-www-form-urlencoded", "Accept"=>"application/vnd.moxi-platform+json;version=1"}}}
+Completed 401 Unauthorized in 18ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:04:57 -0800
+Processing by BrytecoreAuthController#authenticate as HTML
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "headers"=>{"Content-Type"=>"application/x-www-form-urlencoded", "Accept"=>"application/vnd.moxi-platform+json;version=1"}, "brytecore_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "headers"=>{"Content-Type"=>"application/x-www-form-urlencoded", "Accept"=>"application/vnd.moxi-platform+json;version=1"}}}
+Completed 401 Unauthorized in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:13:34 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]"}
+Completed 401 Unauthorized in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:15:36 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]"}
+Completed 401 Unauthorized in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:15:53 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]"}
+Completed 401 Unauthorized in 5ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:18:17 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]"}
+Completed 401 Unauthorized in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:19:59 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]"}
+Completed 401 Unauthorized in 5ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:21:03 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]"}
+Completed 401 Unauthorized in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:23:19 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:25:06 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/moxi/authenticate" for ::1 at 2024-01-30 16:25:12 -0800
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"moxi/authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 3041ms (Views: 3040.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:25:38 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"dfv", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"dfv", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/moxi/authenticate" for ::1 at 2024-01-30 16:25:44 -0800
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"moxi/authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:26:38 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:26:54 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:26:56 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 16:27:22 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/moxi_auth_controller.rb:47: syntax error, unexpected '}', expecting =>
+... { company_result[:companies] }
+...                              ^):
+  
+app/controllers/moxi_auth_controller.rb:47: syntax error, unexpected '}', expecting =>
+Started POST "/api/moxi/authenticate" for 127.0.0.1 at 2024-01-30 16:28:13 -0800
+  
+ActionController::RoutingError (No route matches [POST] "/api/moxi/authenticate"):
+  
+actionpack (5.2.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.8.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.8) lib/rack/method_override.rb:24:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+railties (5.2.8.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/api/moxi/authenticate" for 127.0.0.1 at 2024-01-30 16:29:19 -0800
+  
+ActionController::RoutingError (No route matches [POST] "/api/moxi/authenticate"):
+  
+actionpack (5.2.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.8.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.8) lib/rack/method_override.rb:24:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+railties (5.2.8.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 16:29:32 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 3ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:31:18 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/moxi_auth_controller.rb:47: syntax error, unexpected '}', expecting =>
+... { company_result[:companies] }
+...                              ^):
+  
+app/controllers/moxi_auth_controller.rb:47: syntax error, unexpected '}', expecting =>
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:40:07 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/moxi_auth_controller.rb:45: syntax error, unexpected '}', expecting =>
+... { company_result[:companies] }
+...                              ^):
+  
+app/controllers/moxi_auth_controller.rb:45: syntax error, unexpected '}', expecting =>
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:41:09 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+HTTP Origin header (http://localhost:8080) didn't match request.base_url (http://localhost:3000)
+Completed 422 Unprocessable Entity in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:215:in `handle_unverified_request'
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:247:in `handle_unverified_request'
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:242:in `verify_authenticity_token'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:426:in `block in make_lambda'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (5.2.8.1) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `block in invoke_before'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `each'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `invoke_before'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.2.8.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.8.1) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.8.1) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.8.1) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.8.1) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.8.1) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.8.1) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.8.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.8.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.8.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.2.8) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.8) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.8) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.8.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.8.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.8) lib/rack/method_override.rb:24:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+railties (5.2.8.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:41:39 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+HTTP Origin header (http://localhost:8080) didn't match request.base_url (http://localhost:3000)
+Completed 422 Unprocessable Entity in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:215:in `handle_unverified_request'
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:247:in `handle_unverified_request'
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:242:in `verify_authenticity_token'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:426:in `block in make_lambda'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (5.2.8.1) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `block in invoke_before'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `each'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `invoke_before'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.2.8.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.8.1) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.8.1) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.8.1) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.8.1) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.8.1) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.8.1) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.8.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.8.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.8.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.2.8) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.8) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.8) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.8.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.8.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.8) lib/rack/method_override.rb:24:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+railties (5.2.8.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:47:34 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+HTTP Origin header (http://localhost:8080) didn't match request.base_url (http://localhost:3000)
+Completed 422 Unprocessable Entity in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:215:in `handle_unverified_request'
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:247:in `handle_unverified_request'
+actionpack (5.2.8.1) lib/action_controller/metal/request_forgery_protection.rb:242:in `verify_authenticity_token'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:426:in `block in make_lambda'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:198:in `block (2 levels) in halting'
+actionpack (5.2.8.1) lib/abstract_controller/callbacks.rb:34:in `block (2 levels) in <module:Callbacks>'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:199:in `block in halting'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `block in invoke_before'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `each'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:513:in `invoke_before'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.2.8.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (5.2.8.1) lib/active_support/notifications.rb:168:in `block in instrument'
+activesupport (5.2.8.1) lib/active_support/notifications/instrumenter.rb:23:in `instrument'
+activesupport (5.2.8.1) lib/active_support/notifications.rb:168:in `instrument'
+actionpack (5.2.8.1) lib/action_controller/metal/instrumentation.rb:32:in `process_action'
+actionpack (5.2.8.1) lib/action_controller/metal/params_wrapper.rb:256:in `process_action'
+activerecord (5.2.8.1) lib/active_record/railties/controller_runtime.rb:24:in `process_action'
+actionpack (5.2.8.1) lib/abstract_controller/base.rb:134:in `process'
+actionview (5.2.8.1) lib/action_view/rendering.rb:32:in `process'
+actionpack (5.2.8.1) lib/action_controller/metal.rb:191:in `dispatch'
+actionpack (5.2.8.1) lib/action_controller/metal.rb:252:in `dispatch'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:52:in `dispatch'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:34:in `serve'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:52:in `block in serve'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:35:in `each'
+actionpack (5.2.8.1) lib/action_dispatch/journey/router.rb:35:in `serve'
+actionpack (5.2.8.1) lib/action_dispatch/routing/route_set.rb:840:in `call'
+rack (2.2.8) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.8) lib/rack/etag.rb:27:in `call'
+rack (2.2.8) lib/rack/conditional_get.rb:40:in `call'
+rack (2.2.8) lib/rack/head.rb:12:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.8) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.8) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/cookies.rb:670:in `call'
+activerecord (5.2.8.1) lib/active_record/migration.rb:559:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.8.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.8.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.8.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.8.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.2.8) lib/rack/method_override.rb:24:in `call'
+rack (2.2.8) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.8.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.8.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.2.8) lib/rack/sendfile.rb:110:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+rack-cors (2.0.1) lib/rack/cors.rb:102:in `call'
+railties (5.2.8.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:47:47 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 34432df264c9594ed369c8a4e659d9c5
+Authentication successful. Session cookie: 34432df264c9594ed369c8a4e659d9c5
+Completed 200 OK in 997ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:51:50 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 280ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/moxi/authenticate" for ::1 at 2024-01-30 16:53:23 -0800
+Processing by ApplicationController#index as HTML
+  Parameters: {"path"=>"moxi/authenticate"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.2ms)
+Completed 200 OK in 3894ms (Views: 3893.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 16:56:57 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: fcb29a8702a23355bc6ed36b6be2f92b
+Authentication successful. Session cookie: fcb29a8702a23355bc6ed36b6be2f92b
+Completed 200 OK in 618ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 17:01:52 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 264ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 17:04:38 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 12fa821880933d3aed2b3c32dbe4492c
+Authentication successful. Session cookie: 12fa821880933d3aed2b3c32dbe4492c
+Completed 200 OK in 448ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 17:05:46 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 181ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for ::1 at 2024-01-30 17:07:21 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 96d76d55fd167ea5c151be132a7da1d5
+Authentication successful. Session cookie: 96d76d55fd167ea5c151be132a7da1d5
+Completed 200 OK in 5259ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/authenticate" for 127.0.0.1 at 2024-01-30 17:15:01 -0800
+Processing by BrytecoreAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "brytecore_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Completed 401 Unauthorized in 8ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:15:54 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 462ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/201cc40873f6076804fc.hot-update.json" for 127.0.0.1 at 2024-01-30 17:16:35 -0800
+Processing by ApplicationController#index as JSON
+  Parameters: {"path"=>"201cc40873f6076804fc.hot-update"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 17ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/img/brand/green.png" for 127.0.0.1 at 2024-01-30 17:16:36 -0800
+Processing by ApplicationController#index as PNG
+  Parameters: {"path"=>"img/brand/green"}
+  Rendering app/assets/javascripts/src/main.js
+  Rendered app/assets/javascripts/src/main.js (0.3ms)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:16:41 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 007703206c0ab72b26f12e83c6fa85cb
+Authentication successful. Session cookie: 007703206c0ab72b26f12e83c6fa85cb
+Completed 200 OK in 278ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:20:01 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 323ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:20:15 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/moxi_auth_controller.rb:36: syntax error, unexpected ':', expecting tSTRING_DEND
+...Rails.logger.info("Data #{data: data}")
+...                              ^):
+  
+app/controllers/moxi_auth_controller.rb:36: syntax error, unexpected ':', expecting tSTRING_DEND
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:20:47 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 4d1c24dfd817ee382a3d15adbcc62196
+Data [{"name":"Deal & Company Real Estate","moxi_works_company_id":"deal_company_real_estate","numeric_id":"21239662","client_company_id":null,"public_partner_attrs":null}]
+Authentication successful. Session cookie: 4d1c24dfd817ee382a3d15adbcc62196
+Completed 200 OK in 1906ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-01-30 17:22:28 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/timmuangkeo/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/timmuangkeo/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/railties-5.2.8.1/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 13ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:23:37 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 480ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:27:32 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 13c5c9dac0d3a170a9948a2db2656627
+Authentication successful. Session cookie: 13c5c9dac0d3a170a9948a2db2656627
+Completed 200 OK in 945ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:28:48 -0800
+  
+SyntaxError (/Users/timmuangkeo/Desktop/fork/client-manager/app/controllers/moxi_auth_controller.rb:14: syntax error, unexpected '}', expecting =>
+... render json: { result[:data] }
+...                              ^):
+  
+app/controllers/moxi_auth_controller.rb:14: syntax error, unexpected '}', expecting =>
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:30:32 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 581ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:30:35 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: fc919e1b5affee09c4977e73dfc4594a
+Authentication successful. Session cookie: fc919e1b5affee09c4977e73dfc4594a
+Completed 200 OK in 200ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:31:11 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 160ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:31:33 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"", "password"=>"[FILTERED]"}}
+Error fetching company data: {"status":"error","messages":["Invalid Basic Authorization header"],"status_code":2010,"request_id":"91fe0a6b-7896-432c-a646-63978dcf55df"}
+Completed 500 Internal Server Error in 195ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `[]' for true:TrueClass):
+  
+app/controllers/moxi_auth_controller.rb:10:in `authenticate'
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:31:46 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 62918d6a908abf95dde50a20743110f6
+Authentication successful. Session cookie: 62918d6a908abf95dde50a20743110f6
+Completed 200 OK in 216ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:32:34 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"094db42a-e3d4-11ed-9c4a-525400582952", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 303ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:32:58 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"2991d0d6-9681-11e8-84cf-0050569c54ad", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"2991d0d6-9681-11e8-84cf-0050569c54ad", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 12d68a119782a7771d64406b1093bd16
+Authentication successful. Session cookie: 12d68a119782a7771d64406b1093bd16
+Completed 200 OK in 499ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:33:27 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"af9e69ba-100d-11ec-84a1-525400a0a13a", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"af9e69ba-100d-11ec-84a1-525400a0a13a", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 301ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:38:50 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"af9e69ba-100d-11ec-84a1-525400a0a13a", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"af9e69ba-100d-11ec-84a1-525400a0a13a", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 43f14a7714edd6c9c6ebd1eb4abe0652
+Authentication successful. Session cookie: 43f14a7714edd6c9c6ebd1eb4abe0652
+Completed 200 OK in 865ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:39:33 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"2d26597a-c59c-11e8-8dd9-f40f24347e23", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"2d26597a-c59c-11e8-8dd9-f40f24347e23", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 
+Authentication successful. Session cookie: 
+Completed 200 OK in 165ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:39:36 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"2d26597a-c59c-11e8-8dd9-f40f24347e23", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"2d26597a-c59c-11e8-8dd9-f40f24347e23", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 67d8253e84b74887698c2f97e5fcc44e
+Authentication successful. Session cookie: 67d8253e84b74887698c2f97e5fcc44e
+Completed 200 OK in 813ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:49:07 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"5dd18f80-eeb8-11ea-8eae-5254000a4153", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"5dd18f80-eeb8-11ea-8eae-5254000a4153", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: c5fc8bc6a355bf14498485a810660a3b
+Authentication successful. Session cookie: c5fc8bc6a355bf14498485a810660a3b
+Completed 200 OK in 852ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:49:22 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"af9e69ba-100d-11ec-84a1-525400a0a13a", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"af9e69ba-100d-11ec-84a1-525400a0a13a", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: dcc7443e944d318ed7448bde2446ad5e
+Authentication successful. Session cookie: dcc7443e944d318ed7448bde2446ad5e
+Completed 200 OK in 222ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/moxi/authenticate" for 127.0.0.1 at 2024-01-30 17:49:34 -0800
+Processing by MoxiAuthController#authenticate as 
+  Parameters: {"username"=>"e8dcf1ce-aa27-11ec-9837-525400a0a13a", "password"=>"[FILTERED]", "moxi_auth"=>{"username"=>"e8dcf1ce-aa27-11ec-9837-525400a0a13a", "password"=>"[FILTERED]"}}
+Data fetching successful. Session cookie: 6ca50228fe6d3bac15feb2ed0dd8ee26
+Authentication successful. Session cookie: 6ca50228fe6d3bac15feb2ed0dd8ee26
+Completed 200 OK in 1002ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+

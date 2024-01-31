@@ -23,6 +23,24 @@ const router = new Router({
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiCompany.vue')
         },        
         {
+          path: '/moxi/branding/:moxi_works_company_id',
+          name: 'moxiCompanyBranding',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiBranding.vue'),
+          props: true
+        },        
+        {
+          path: '/moxi/listings/:moxi_works_company_id',
+          name: 'moxiListings',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiListings.vue'),
+          props: true
+        },        
+        {
+          path: '/moxi/agents/:moxi_works_company_id',
+          name: 'moxiAgents',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiAgents.vue'),
+          props: true
+        },        
+        {
           path: '/brytecore/company',
           name: 'company',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompany.vue')

@@ -6,7 +6,7 @@
         <sidebar-item
             :link="{
               name: 'Moxi Company',
-              path: '/moxi/company'
+              path: '/moxi/login'
               }"
             >
         </sidebar-item>

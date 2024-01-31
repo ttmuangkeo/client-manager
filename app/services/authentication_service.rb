@@ -14,6 +14,7 @@ class AuthenticationService
         provided_username == expected_username && provided_password == expected_password
     end
     
+    
     def fetch_access_token(username, password, auth_url)
         response = RestClient.post(
             auth_url,

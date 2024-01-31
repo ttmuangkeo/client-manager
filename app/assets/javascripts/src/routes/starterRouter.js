@@ -18,9 +18,15 @@ const router = new Router({
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Home.vue')
         },        
         {
-          path: '/moxi/company',
+          path: '/moxi/login',
+          name: 'moxiLogin',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiLogin.vue')
+        },        
+        {
+          path: '/moxi/company/:username',
           name: 'moxiCompany',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiCompany.vue')
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiCompany.vue'),
+          props: true
         },        
         {
           path: '/moxi/branding/:moxi_works_company_id',

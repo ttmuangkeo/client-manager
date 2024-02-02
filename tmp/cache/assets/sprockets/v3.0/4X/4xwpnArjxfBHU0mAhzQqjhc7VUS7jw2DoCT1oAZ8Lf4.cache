@@ -1,0 +1,53 @@
+{:uriI"ªfile://app/assets/javascripts/node_modules/del/node_modules/globby/node_modules/pify/package.json?type=application/json&id=4bf8c2a1b2ad983043f4994e59494c93c5c3692f333bb310863afd5b7902129f:ET:load_pathI"app/assets/javascripts;T:filenameI"_app/assets/javascripts/node_modules/del/node_modules/globby/node_modules/pify/package.json;T:	nameI"Cnode_modules/del/node_modules/globby/node_modules/pify/package;T:logical_pathI"Hnode_modules/del/node_modules/globby/node_modules/pify/package.json;T:content_typeI"application/json;T:sourceI"z{
+  "name": "pify",
+  "version": "2.3.0",
+  "description": "Promisify a callback-style function",
+  "license": "MIT",
+  "repository": "sindresorhus/pify",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava && npm run optimization-test",
+    "optimization-test": "node --allow-natives-syntax optimization-test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "promise",
+    "promises",
+    "promisify",
+    "denodify",
+    "denodeify",
+    "callback",
+    "cb",
+    "node",
+    "then",
+    "thenify",
+    "convert",
+    "transform",
+    "wrap",
+    "wrapper",
+    "bind",
+    "to",
+    "async",
+    "es2015"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "pinkie-promise": "^1.0.0",
+    "v8-natives": "0.0.2",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"mfile-digest://app/assets/javascripts/node_modules/del/node_modules/globby/node_modules/pify/package.json;TTF:charsetI"
+utf-8;F:digest"%ªBeÚZEKMØqkÅÂ%gùwO≤2≥ÒRÑÚ7#æN2Ñ:lengthiz:dependencies_digest"%q◊7ë2{Ÿ_FÛ÷QdÑã0]Å≤aüπ9§ïz:idI"E4bf8c2a1b2ad983043f4994e59494c93c5c3692f333bb310863afd5b7902129f;F:
+mtimel+Q¢¥e

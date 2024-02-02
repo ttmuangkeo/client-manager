@@ -1,0 +1,38 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/@babel/plugin-transform-shorthand-properties/package.json?type=application/json&id=601ad87048278417a491cfcbb4cfed68738dcc7c0925e32e24804df3916a01fe:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/@babel/plugin-transform-shorthand-properties/package.json;T:	nameI"Fnode_modules/@babel/plugin-transform-shorthand-properties/package;T:logical_pathI"Knode_modules/@babel/plugin-transform-shorthand-properties/package.json;T:content_typeI"application/json;T:sourceI"}{
+  "name": "@babel/plugin-transform-shorthand-properties",
+  "version": "7.23.3",
+  "description": "Compile ES2015 shorthand properties to ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-shorthand-properties"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-shorthand-properties",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-shorthand-properties/package.json;TTF:charsetI"
+utf-8;F:digest"%á%½ŠÑö-„…ê¿˜Z‡-tØ—°¢gÒ8Bq±RDf:lengthi}:dependencies_digest"%&€Õ7byğm\v·R—ñğ(RddY?c(„f–:idI"E601ad87048278417a491cfcbb4cfed68738dcc7c0925e32e24804df3916a01fe;F:
+mtimel+Q¢´e

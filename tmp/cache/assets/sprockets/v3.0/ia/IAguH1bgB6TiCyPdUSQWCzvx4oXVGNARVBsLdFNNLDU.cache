@@ -1,0 +1,12 @@
+{:uriI" file://app/assets/javascripts/node_modules/d3-format/locale/fr-FR.json?type=application/json&id=f7c6a440b1290095e6ff5198ad2bc65c9ffb1f57da8e126dcccbdca750201697:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/d3-format/locale/fr-FR.json;T:	nameI"(node_modules/d3-format/locale/fr-FR;T:logical_pathI"-node_modules/d3-format/locale/fr-FR.json;T:content_typeI"application/json;T:sourceI"{
+  "decimal": ",",
+  "thousands": "\u00a0",
+  "grouping": [3],
+  "currency": ["", "\u00a0â‚¬"],
+  "percent": "\u202f%"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/d3-format/locale/fr-FR.json;TTF:charsetI"
+utf-8;F:digest"%öØ÷Öãt‚ÚÎ0ñ#¥Ì”ÑGø©ÒÎÓø'µ:lengthi:dependencies_digest"%6ç“6)s Øq{â¼dq†óç„«øK­£öáD©:idI"Ef7c6a440b1290095e6ff5198ad2bc65c9ffb1f57da8e126dcccbdca750201697;F:
+mtimel+S¢´e

@@ -1,0 +1,65 @@
+{:uriI"—file://app/assets/javascripts/node_modules/upath/package.json?type=application/json&id=568e3c0f02858658e6c4e75ea329835bcf2ff9f000096f1d63d53d6c74f9c330:ET:load_pathI"app/assets/javascripts;T:filenameI";app/assets/javascripts/node_modules/upath/package.json;T:	nameI"node_modules/upath/package;T:logical_pathI"$node_modules/upath/package.json;T:content_typeI"application/json;T:sourceI"Ã{
+  "name": "upath",
+  "description": "A proxy to `path`, replacing `\\` with `/` for all results & new methods to normalize & join keeping leading `./` and add, change, default, trim file extensions.",
+  "version": "1.2.0",
+  "homepage": "http://github.com/anodynos/upath/",
+  "author": {
+    "name": "Angelos Pikoulas",
+    "email": "agelos.pikoulas@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "path",
+    "unix",
+    "windows",
+    "extension",
+    "file extension",
+    "replace extension",
+    "change extension",
+    "trim extension",
+    "add extension",
+    "default extension"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anodynos/upath"
+  },
+  "bugs": {
+    "url": "http://github.com/anodynos/upath/issues",
+    "email": "agelos.pikoulas@gmail.com"
+  },
+  "main": "./build/code/upath.js",
+  "types": "./upath.d.ts",
+  "preferGlobal": false,
+  "scripts": {
+    "test": "grunt",
+    "build": "grunt lib"
+  },
+  "directories": {
+    "doc": "./doc",
+    "dist": "./build"
+  },
+  "engines": {
+    "node": ">=4",
+    "yarn": "*"
+  },
+  "devDependencies": {
+    "chai": "~4.0.2",
+    "coffee-script": "1.12.6",
+    "grunt": "0.4.5",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-urequire": "0.7.x",
+    "lodash": "^4.17.15",
+    "mocha": "~3.4.2",
+    "uberscore": "0.0.19",
+    "underscore.string": "^3.3.5",
+    "urequire": "0.7.0-beta.33",
+    "urequire-ab-specrunner": "^0.2.5",
+    "urequire-rc-inject-version": "^0.1.6"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ifile-digest://app/assets/javascripts/node_modules/upath/package.json;TTF:charsetI"
+utf-8;F:digest"%™¬ï?¢ca­ô!eû+¬NînÉ‡iA¬qÂ¾š’:lengthiÃ:dependencies_digest"%½x„¶]‚a`ü(Žô>‹KÊZ£ÿ•E=J_Ì0ñü=:idI"E568e3c0f02858658e6c4e75ea329835bcf2ff9f000096f1d63d53d6c74f9c330;F:
+mtimel+Q¢´e

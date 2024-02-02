@@ -1,0 +1,36 @@
+{:uriI"•file://app/assets/javascripts/node_modules/vee-validate/dist/locale/en.json?type=application/json&id=9d3efc0ca775837e9fc04128b6ae5a51b0ab45eb6c599773f31321a973ad4f8e:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/en.json;T:	nameI"-node_modules/vee-validate/dist/locale/en;T:logical_pathI"2node_modules/vee-validate/dist/locale/en.json;T:content_typeI"application/json;T:sourceI"{
+  "code": "en",
+  "messages": {
+    "alpha": "The {_field_} field may only contain alphabetic characters",
+    "alpha_num": "The {_field_} field may only contain alpha-numeric characters",
+    "alpha_dash": "The {_field_} field may contain alpha-numeric characters as well as dashes and underscores",
+    "alpha_spaces": "The {_field_} field may only contain alphabetic characters as well as spaces",
+    "between": "The {_field_} field must be between {min} and {max}",
+    "confirmed": "The {_field_} field confirmation does not match",
+    "digits": "The {_field_} field must be numeric and exactly contain {length} digits",
+    "dimensions": "The {_field_} field must be {width} pixels by {height} pixels",
+    "email": "The {_field_} field must be a valid email",
+    "excluded": "The {_field_} field is not a valid value",
+    "ext": "The {_field_} field is not a valid file",
+    "image": "The {_field_} field must be an image",
+    "integer": "The {_field_} field must be an integer",
+    "length": "The {_field_} field must be {length} long",
+    "max_value": "The {_field_} field must be {max} or less",
+    "max": "The {_field_} field may not be greater than {length} characters",
+    "mimes": "The {_field_} field must have a valid file type",
+    "min_value": "The {_field_} field must be {min} or more",
+    "min": "The {_field_} field must be at least {length} characters",
+    "numeric": "The {_field_} field may only contain numeric characters",
+    "oneOf": "The {_field_} field is not a valid value",
+    "regex": "The {_field_} field format is invalid",
+    "required_if": "The {_field_} field is required",
+    "required": "The {_field_} field is required",
+    "size": "The {_field_} field size must be less than {size}KB",
+    "double": "The {_field_} field must be a valid decimal"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/en.json;TTF:charsetI"
+utf-8;F:digest"%CZ˘'ó˚¥+$*ãW?ûè[\=à#oÁº˙ˆÑÑ:lengthi:dependencies_digest"%ÚRŒÑ¿~ˇÎ0K –(t/–©]©Ê´æ.∏{Jw§R:idI"E9d3efc0ca775837e9fc04128b6ae5a51b0ab45eb6c599773f31321a973ad4f8e;F:
+mtimel+S¢¥e

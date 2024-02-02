@@ -1,0 +1,30 @@
+{:uriI"”file://app/assets/javascripts/node_modules/ip/package.json?type=application/json&id=66e06a6363c60d1178b439b52c5289d8f7a8e300b4b86110bc2f8af9258d7d5a:ET:load_pathI"app/assets/javascripts;T:filenameI"8app/assets/javascripts/node_modules/ip/package.json;T:	nameI"node_modules/ip/package;T:logical_pathI"!node_modules/ip/package.json;T:content_typeI"application/json;T:sourceI"0{
+  "name": "ip",
+  "version": "1.1.8",
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "homepage": "https://github.com/indutny/node-ip",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/indutny/node-ip.git"
+  },
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "main": "lib/ip",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "lint": "eslint lib/*.js test/*.js",
+    "test": "npm run lint && mocha --reporter spec test/*-test.js",
+    "fix": "npm run lint -- --fix"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ffile-digest://app/assets/javascripts/node_modules/ip/package.json;TTF:charsetI"
+utf-8;F:digest"%ÊFº4-îçx3vþRO@Àú¡PïöÞ ëìL³Ñþàœ:lengthi0:dependencies_digest"%ü4Þ?¨‘Ÿ­‘ïÉ3‰€Ã•¿1À­Éµ¨/^Ø:idI"E66e06a6363c60d1178b439b52c5289d8f7a8e300b4b86110bc2f8af9258d7d5a;F:
+mtimel+Q¢´e

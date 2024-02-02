@@ -1,0 +1,42 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/clipboard/demo/target-input.html?type=text/html&id=4ba52f9f7cb596432367cf028104b20dfec641ffd92519fd2587be7390121b43:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/clipboard/demo/target-input.html;T:	nameI"-node_modules/clipboard/demo/target-input;T:logical_pathI"2node_modules/clipboard/demo/target-input.html;T:content_typeI"text/html;T:sourceI"z<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>target-input</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <!-- 1. Define some markup -->
+    <input id="foo" type="text" value="hello" />
+    <button
+      class="btn"
+      data-clipboard-action="copy"
+      data-clipboard-target="#foo"
+    >
+      Copy
+    </button>
+
+    <!-- 2. Include library -->
+    <script src="../dist/clipboard.min.js"></script>
+
+    <!-- 3. Instantiate clipboard -->
+    <script>
+      var clipboard = new ClipboardJS('.btn');
+
+      clipboard.on('success', function (e) {
+        console.info('Action:', e.action);
+        console.info('Text:', e.text);
+        console.info('Trigger:', e.trigger);
+      });
+
+      clipboard.on('error', function (e) {
+        console.log(e);
+      });
+    </script>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Wfile-digest://app/assets/javascripts/node_modules/clipboard/demo/target-input.html;TTF:charsetI"
+utf-8;F:digest"%oT[çˇ‰ë;à9î–}Hò≠éf§%›V˝Ûb@ø:lengthiz:dependencies_digest"%Ah:6¥T¯1ZEÜï,ÁíyÇÔı/	ÎK¥HK.ÄG¿:idI"E4ba52f9f7cb596432367cf028104b20dfec641ffd92519fd2587be7390121b43;F:
+mtimel+R¢¥e

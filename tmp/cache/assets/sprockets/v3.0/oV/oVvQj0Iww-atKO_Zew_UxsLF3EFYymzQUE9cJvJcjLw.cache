@@ -1,0 +1,31 @@
+{:uriI"™file://app/assets/javascripts/node_modules/tryer/component.json?type=application/json&id=a49d64fef195bdc44b60ae3f059b2300a3baa3c0dded3870a716c8e2cd51b539:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/tryer/component.json;T:	nameI"!node_modules/tryer/component;T:logical_pathI"&node_modules/tryer/component.json;T:content_typeI"application/json;T:sourceI"Ù{
+  "name": "tryer",
+  "version": "1.0.1",
+  "description": "Because everyone loves a tryer! Conditional and repeated task invocation for node and browser.",
+  "repo": "philbooth/tryer",
+  "license": "MIT",
+  "main": "src/tryer.js",
+  "keywords": [
+    "repeat",
+    "retry",
+    "predicate",
+    "conditional",
+    "invocation",
+    "execution",
+    "loop",
+    "condition",
+    "termination",
+    "exponential",
+    "backoff"
+  ],
+  "scripts": [
+    "src/tryer.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/tryer/component.json;TTF:charsetI"
+utf-8;F:digest"%
+ö–ù2–çCü
+\Ó?É¢\±7&ÓL+LƒÅS:lengthiÙ:dependencies_digest"%.Õê~ƒ*¶,œøhNO¹úüÄ1‡¶* {*°¿:idI"Ea49d64fef195bdc44b60ae3f059b2300a3baa3c0dded3870a716c8e2cd51b539;F:
+mtimel+R¢´e

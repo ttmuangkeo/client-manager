@@ -1,0 +1,39 @@
+{:uriI"·file://app/assets/javascripts/node_modules/@babel/plugin-transform-destructuring/package.json?type=application/json&id=91a06843a12b6efc7590c6d9d0e129e02d7f9a3a2520ea2a133903ce5234bf14:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/@babel/plugin-transform-destructuring/package.json;T:	nameI"?node_modules/@babel/plugin-transform-destructuring/package;T:logical_pathI"Dnode_modules/@babel/plugin-transform-destructuring/package.json;T:content_typeI"application/json;T:sourceI"ƒ{
+  "name": "@babel/plugin-transform-destructuring",
+  "version": "7.23.3",
+  "description": "Compile ES2015 destructuring to ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-destructuring"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-destructuring",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "@babel/traverse": "^7.23.3"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-destructuring/package.json;TTF:charsetI"
+utf-8;F:digest"%5%‰ÀfI6£’Ï¼¿åLa&ì¥_ĞSo? :lengthiƒ:dependencies_digest"%&)••1Ég–Ç[Îç˜§.÷[M£GğÖ(…80û(:idI"E91a06843a12b6efc7590c6d9d0e129e02d7f9a3a2520ea2a133903ce5234bf14;F:
+mtimel+R¢´e

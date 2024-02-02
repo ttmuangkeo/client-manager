@@ -1,0 +1,36 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/fa.json?type=application/json&id=d326c5ccc58c9b1f3cef021e850d0669b7c920788ff8c24fa24ad6d6eaa0fe29:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/fa.json;T:	nameI"-node_modules/vee-validate/dist/locale/fa;T:logical_pathI"2node_modules/vee-validate/dist/locale/fa.json;T:content_typeI"application/json;T:sourceI";{
+  "code": "fa",
+  "messages": {
+    "alpha": "{_field_} فقط می تواند از حروف تشکیل شود",
+    "alpha_num": "{_field_} فقط میتواند از حروف و اعداد تشکیل شود",
+    "alpha_dash": "{_field_} فقط می تواند از حروف، اعداد، خط فاصله و زیرخط تشکیل شود",
+    "alpha_spaces": "{_field_} فقط می تواند از حروف و فاصله تشکیل شود",
+    "between": "{_field_} باید بین {min} و {max} کارکتر باشد",
+    "confirmed": "{_field_} با تاییدیه اش مطابقت ندارد",
+    "digits": "{_field_} باید یک مقدار عددی و دقیقاً {length} رقم باشد",
+    "dimensions": "{_field_} باید در اندازه {width} پیکسل عرض و {height} پیکسل ارتفاع باشد",
+    "email": "{_field_} باید یک پست الکترونیک معتبر باشد",
+    "excluded": "{_field_}باید یک مقدار معتبر باشد",
+    "ext": "{_field_} باید یک فایل معتبر باشد",
+    "image": "{_field_} باید یک تصویر باشد",
+    "integer": "{_field_} باید یک عدد صحیح باشد",
+    "length": "{_field_} باید دقیقا {length} کاراکتر باشد",
+    "max_value": "مقدار {_field_} باید {max} یا کمتر باشد",
+    "max": "{_field_} نباید بیشتر از {length} کارکتر باشد",
+    "mimes": "{_field_} باید از نوع معتبر باشد",
+    "min_value": "مقدار {_field_} باید {min} یا بیشتر باشد",
+    "min": "{_field_} باید حداقل {length} کارکتر باشد",
+    "numeric": "{_field_} فقط می تواند عددی باشد",
+    "oneOf": "{_field_} باید یک مقدار معتبر باشد",
+    "regex": "قالب {_field_} قابل قبول نیست",
+    "required_if": "{_field_} الزامی است",
+    "required": "{_field_} الزامی است",
+    "size": "حجم {_field_} کمتر از {size}KB باشد",
+    "double": "قسمت {_field_} باید یک اعشار معتبر باشد"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/fa.json;TTF:charsetI"
+utf-8;F:digest"%�nNԪg�[���*Z`m�h�h�z�`�'c�4:lengthi;:dependencies_digest"%�ǖ�l����T6�����"�y�/�������K:idI"Ed326c5ccc58c9b1f3cef021e850d0669b7c920788ff8c24fa24ad6d6eaa0fe29;F:
+mtimel+S��e

@@ -1,0 +1,59 @@
+{:uriI"™file://app/assets/javascripts/node_modules/d3-time/package.json?type=application/json&id=b13d0eb8cc6b154fc3599e5c38a4a3ae27cc78df85df7c1a64114a1e42556942:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/d3-time/package.json;T:	nameI"!node_modules/d3-time/package;T:logical_pathI"&node_modules/d3-time/package.json;T:content_typeI"application/json;T:sourceI"p{
+  "name": "d3-time",
+  "version": "3.1.0",
+  "description": "A calculator for humanityâ€™s peculiar conventions of time.",
+  "homepage": "https://d3js.org/d3-time/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-time.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "time",
+    "interval",
+    "calendar"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-time.min.js",
+  "unpkg": "dist/d3-time.min.js",
+  "exports": {
+    "umd": "./dist/d3-time.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "d3-array": "2 - 3"
+  },
+  "devDependencies": {
+    "eslint": "8",
+    "mocha": "10",
+    "rollup": "3",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "TZ=America/Los_Angeles mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/d3-time/package.json;TTF:charsetI"
+utf-8;F:digest"%ñEÍT\É…'×\7¾‘Yaf€ş[£ÃP‚‹D…~æ:lengthip:dependencies_digest"%1°Á4ËP
+Ÿ×°+ZË2übG¶~mbKåÉ5™:idI"Eb13d0eb8cc6b154fc3599e5c38a4a3ae27cc78df85df7c1a64114a1e42556942;F:
+mtimel+R¢´e

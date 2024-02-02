@@ -1,0 +1,55 @@
+{:uriI"¯file://app/assets/javascripts/node_modules/regenerate-unicode-properties/package.json?type=application/json&id=e346fca553d6b28294034f9963f93388fd107b1b250a50794efb5af33bf13392:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/regenerate-unicode-properties/package.json;T:	nameI"7node_modules/regenerate-unicode-properties/package;T:logical_pathI"<node_modules/regenerate-unicode-properties/package.json;T:content_typeI"application/json;T:sourceI"¬{
+  "name": "regenerate-unicode-properties",
+  "version": "10.1.1",
+  "description": "Regenerate sets for Unicode properties and values.",
+  "homepage": "https://github.com/mathiasbynens/regenerate-unicode-properties",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "LICENSE-MIT.txt",
+    "index.js",
+    "unicode-version.js",
+    "Binary_Property",
+    "General_Category",
+    "Property_of_Strings",
+    "Script",
+    "Script_Extensions"
+  ],
+  "keywords": [
+    "unicode",
+    "unicode-data",
+    "regenerate"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/regenerate-unicode-properties.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/regenerate-unicode-properties/issues",
+  "dependencies": {
+    "regenerate": "^1.4.2"
+  },
+  "devDependencies": {
+    "ava": "^4.3.3",
+    "fs-extra": "^10.1.0",
+    "jsesc": "^3.0.2",
+    "@unicode/unicode-15.1.0": "^1.5.2",
+    "unicode-canonical-property-names-ecmascript": "^2.0.0"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "test": "ava tests/tests.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"afile-digest://app/assets/javascripts/node_modules/regenerate-unicode-properties/package.json;TTF:charsetI"
+utf-8;F:digest"%ØÍŠí~p¯Ïğ[„†áØ³*SskÑ7‚EİËL:lengthi¬:dependencies_digest"%2¦éæ‹ÖÚÉªöCS$ò¿ó.;[WT5ÉYÊV
+:idI"Ee346fca553d6b28294034f9963f93388fd107b1b250a50794efb5af33bf13392;F:
+mtimel+T¢´e

@@ -1,0 +1,63 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/request-promise-native/package.json?type=application/json&id=0870ffadbcc13ce80679ea145be0a325e337bdd897ed01f77cd4d5f30d29cdbd:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/request-promise-native/package.json;T:	nameI"0node_modules/request-promise-native/package;T:logical_pathI"5node_modules/request-promise-native/package.json;T:content_typeI"application/json;T:sourceI"×{
+  "name": "request-promise-native",
+  "version": "1.0.9",
+  "description": "The simplified HTTP request client 'request' with Promise support. Powered by native ES6 promises.",
+  "keywords": [
+    "xhr",
+    "http",
+    "https",
+    "promise",
+    "request",
+    "then",
+    "thenable",
+    "native"
+  ],
+  "main": "./lib/rp.js",
+  "scripts": {
+    "test": "./node_modules/.bin/gulp ci",
+    "test-publish": "./node_modules/.bin/gulp ci-no-cov",
+    "publish-please": "publish-please",
+    "prepublish": "publish-please guard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/request/request-promise-native.git"
+  },
+  "author": "Nicolai Kamenzky (https://github.com/analog-nico)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/request/request-promise-native/issues"
+  },
+  "homepage": "https://github.com/request/request-promise-native#readme",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+    "request-promise-core": "1.1.4",
+    "stealthy-require": "^1.1.1",
+    "tough-cookie": "^2.3.3"
+  },
+  "peerDependencies": {
+    "request": "^2.34"
+  },
+  "devDependencies": {
+    "body-parser": "~1.15.2",
+    "chai": "~3.5.0",
+    "chalk": "~1.1.3",
+    "gulp": "~3.9.1",
+    "gulp-coveralls": "~0.1.4",
+    "gulp-eslint": "~2.1.0",
+    "gulp-istanbul": "~1.0.0",
+    "gulp-mocha": "~2.2.0",
+    "lodash": "~4.13.1",
+    "publish-please": "~2.1.4",
+    "request": "^2.34.0",
+    "rimraf": "~2.5.3",
+    "run-sequence": "~1.2.2"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/request-promise-native/package.json;TTF:charsetI"
+utf-8;F:digest"%öøH`ÜÄñ2…ñ^äFÁø:‚¸	O ~—Ä‡÷`,^Ós:lengthi×:dependencies_digest"%b@·®Y2¾›lå¿}šAhE Q5?Vgrco~Èœ,:idI"E0870ffadbcc13ce80679ea145be0a325e337bdd897ed01f77cd4d5f30d29cdbd;F:
+mtimel+Q¢´e

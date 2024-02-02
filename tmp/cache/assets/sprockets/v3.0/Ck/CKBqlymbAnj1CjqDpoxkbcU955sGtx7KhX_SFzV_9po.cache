@@ -1,0 +1,22 @@
+{:uriI"‹file://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/content.json?type=application/json&id=3fc40b67634cc5d13fb720a891ed3230f9553b873b9d1ba7f99467fbf0b1479c:ET:load_pathI"app/assets/javascripts;T:filenameI"{app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/content.json;T:	nameI"dnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/content;T:logical_pathI"inode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/content.json;T:content_typeI"application/json;T:sourceI"ﬂ{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://json-schema.org/draft/2020-12/meta/content",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/content": true
+  },
+  "$dynamicAnchor": "meta",
+
+  "title": "Content vocabulary meta-schema",
+
+  "type": ["object", "boolean"],
+  "properties": {
+    "contentEncoding": {"type": "string"},
+    "contentMediaType": {"type": "string"},
+    "contentSchema": {"$dynamicRef": "#meta"}
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"âfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/content.json;TTF:charsetI"
+utf-8;F:digest"%~ﬁÜÚƒçdbø2Æ˙Ùm≤h…C’óRr}∑$}¬í:lengthiﬂ:dependencies_digest"%|NF∆£Ò©©õﬂr˝_üÙKsC¯¥±Då»¶ôI'≥:idI"E3fc40b67634cc5d13fb720a891ed3230f9553b873b9d1ba7f99467fbf0b1479c;F:
+mtimel+S¢¥e

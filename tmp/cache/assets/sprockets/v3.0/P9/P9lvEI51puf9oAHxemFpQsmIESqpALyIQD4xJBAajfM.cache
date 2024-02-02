@@ -1,0 +1,66 @@
+{:uriI"­file://app/assets/javascripts/node_modules/@humanwhocodes/config-array/package.json?type=application/json&id=389dfeff3e81985eb9534f921c8574ef65da6a42c9e54b55b29a4686b727d90b:ET:load_pathI"app/assets/javascripts;T:filenameI"Qapp/assets/javascripts/node_modules/@humanwhocodes/config-array/package.json;T:	nameI"5node_modules/@humanwhocodes/config-array/package;T:logical_pathI":node_modules/@humanwhocodes/config-array/package.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "name": "@humanwhocodes/config-array",
+  "version": "0.11.14",
+  "description": "Glob-based configuration matching.",
+  "author": "Nicholas C. Zakas",
+  "main": "api.js",
+  "files": [
+    "api.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humanwhocodes/config-array.git"
+  },
+  "bugs": {
+    "url": "https://github.com/humanwhocodes/config-array/issues"
+  },
+  "homepage": "https://github.com/humanwhocodes/config-array#readme",
+  "scripts": {
+    "build": "rollup -c",
+    "format": "nitpik",
+    "lint": "eslint *.config.js src/*.js tests/*.js",
+    "lint:fix": "eslint --fix *.config.js src/*.js tests/*.js",
+    "prepublish": "npm run build",
+    "test:coverage": "nyc --include src/*.js npm run test",
+    "test": "mocha -r esm tests/ --recursive"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --ignore-pattern '!.eslintrc.js'"
+    ]
+  },
+  "keywords": [
+    "configuration",
+    "configarray",
+    "config file"
+  ],
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=10.10.0"
+  },
+  "dependencies": {
+    "@humanwhocodes/object-schema": "^2.0.2",
+    "debug": "^4.3.1",
+    "minimatch": "^3.0.5"
+  },
+  "devDependencies": {
+    "@nitpik/javascript": "0.4.0",
+    "@nitpik/node": "0.0.5",
+    "chai": "4.3.10",
+    "eslint": "8.52.0",
+    "esm": "3.2.25",
+    "lint-staged": "15.0.2",
+    "mocha": "6.2.3",
+    "nyc": "15.1.0",
+    "rollup": "3.28.1",
+    "yorkie": "2.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"_file-digest://app/assets/javascripts/node_modules/@humanwhocodes/config-array/package.json;TTF:charsetI"
+utf-8;F:digest"%¢øä0?‹ºŠÅÂ|æƒÄş"¿eM×± GR(:lengthiØ:dependencies_digest"%i	8BÔU—::s[#êÊ¿1Ö7ù ïBr¬®Æ|ö±%Ÿ‹:idI"E389dfeff3e81985eb9534f921c8574ef65da6a42c9e54b55b29a4686b727d90b;F:
+mtimel+Q¢´e

@@ -1,0 +1,57 @@
+{:uriI"Ùfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/core.json?type=application/json&id=6b6775d501cc29af935235f430ee44b6706a3ff4aac93a8098f645b78ea7fa48:ET:load_pathI"app/assets/javascripts;T:filenameI"}app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/core.json;T:	nameI"anode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/core;T:logical_pathI"fnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/core.json;T:content_typeI"application/json;T:sourceI"@{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://json-schema.org/draft/2020-12/meta/core",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/core": true
+  },
+  "$dynamicAnchor": "meta",
+
+  "title": "Core vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "$id": {
+      "$ref": "#/$defs/uriReferenceString",
+      "$comment": "Non-empty fragments not allowed.",
+      "pattern": "^[^#]*#?$"
+    },
+    "$schema": {"$ref": "#/$defs/uriString"},
+    "$ref": {"$ref": "#/$defs/uriReferenceString"},
+    "$anchor": {"$ref": "#/$defs/anchorString"},
+    "$dynamicRef": {"$ref": "#/$defs/uriReferenceString"},
+    "$dynamicAnchor": {"$ref": "#/$defs/anchorString"},
+    "$vocabulary": {
+      "type": "object",
+      "propertyNames": {"$ref": "#/$defs/uriString"},
+      "additionalProperties": {
+        "type": "boolean"
+      }
+    },
+    "$comment": {
+      "type": "string"
+    },
+    "$defs": {
+      "type": "object",
+      "additionalProperties": {"$dynamicRef": "#meta"}
+    }
+  },
+  "$defs": {
+    "anchorString": {
+      "type": "string",
+      "pattern": "^[A-Za-z_][-A-Za-z0-9._]*$"
+    },
+    "uriString": {
+      "type": "string",
+      "format": "uri"
+    },
+    "uriReferenceString": {
+      "type": "string",
+      "format": "uri-reference"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"†file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/core.json;TTF:charsetI"
+utf-8;F:digest"%Ã¥”y’ÔþgÉ\Úy‘7kºä
+NÉçæ™.zI:lengthi@:dependencies_digest"%Rßý‘ã„á•˜½¿U£|vÔeEÝI¶«È 8:idI"E6b6775d501cc29af935235f430ee44b6706a3ff4aac93a8098f645b78ea7fa48;F:
+mtimel+S¢´e

@@ -1,0 +1,52 @@
+{:uriI"ñfile://app/assets/javascripts/node_modules/levn/package.json?type=application/json&id=a79839b8eb8f2a92737a63295f15c6f8d5e1987892625fe9889dbfbfeec85505:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/levn/package.json;T:	nameI"node_modules/levn/package;T:logical_pathI"#node_modules/levn/package.json;T:content_typeI"application/json;T:sourceI"Ö{
+  "name": "levn",
+  "version": "0.4.1",
+  "author": "George Zahariev <z@georgezahariev.com>",
+  "description": "Light ECMAScript (JavaScript) Value Notation - human written, concise, typed, flexible",
+  "homepage": "https://github.com/gkz/levn",
+  "keywords": [
+    "levn",
+    "light",
+    "ecmascript",
+    "value",
+    "notation",
+    "json",
+    "typed",
+    "human",
+    "concise",
+    "typed",
+    "flexible"
+  ],
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "main": "./lib/",
+  "bugs": "https://github.com/gkz/levn/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gkz/levn.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "prelude-ls": "^1.2.1",
+    "type-check": "~0.4.0"
+  },
+  "devDependencies": {
+    "livescript": "^1.6.0",
+    "mocha": "^7.1.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/levn/package.json;TTF:charsetI"
+utf-8;F:digest"%
+%B∂n≈mÔt#HXı,Y;$T\ﬂÍ£$»˛:lengthiÖ:dependencies_digest"%’"IgÁ–çÑb£«§[Â¬”Ã¬∞%ÁM5œ:idI"Ea79839b8eb8f2a92737a63295f15c6f8d5e1987892625fe9889dbfbfeec85505;F:
+mtimel+R¢¥e

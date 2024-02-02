@@ -1,0 +1,70 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/split-string/package.json?type=application/json&id=9cf4c041191996ff5282661ba5a645d873925951da09dc09793f8876d183a6ba:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/split-string/package.json;T:	nameI"&node_modules/split-string/package;T:logical_pathI"+node_modules/split-string/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "split-string",
+  "description": "Split a string on a character except when the character is escaped.",
+  "version": "3.1.0",
+  "homepage": "https://github.com/jonschlinkert/split-string",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "jonschlinkert/split-string",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/split-string/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "extend-shallow": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "character",
+    "escape",
+    "split",
+    "string"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "titles": [
+      ".",
+      "install",
+      "Why use this?"
+    ],
+    "related": {
+      "list": [
+        "deromanize",
+        "randomatic",
+        "repeat-string",
+        "romanize"
+      ]
+    },
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/split-string/package.json;TTF:charsetI"
+utf-8;F:digest"%åÔ`Ùﬁs»›ìËD.≈«Çuı‘m∑∂I'ÈsTg:lengthi:dependencies_digest"%T;Lë˘ñªji∞[V;fDì\∞5Å¢òˆÃ®Ñ»~¡¶:idI"E9cf4c041191996ff5282661ba5a645d873925951da09dc09793f8876d183a6ba;F:
+mtimel+Q¢¥e

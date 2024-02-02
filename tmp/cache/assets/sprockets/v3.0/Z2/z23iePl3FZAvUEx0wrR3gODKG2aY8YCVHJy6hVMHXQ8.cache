@@ -1,0 +1,31 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/flush-write-stream/package.json?type=application/json&id=ee582e488bbf68d0b3712dd03baa04f4de2a46444b950635438b0c6c3a8fa38d:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/flush-write-stream/package.json;T:	nameI",node_modules/flush-write-stream/package;T:logical_pathI"1node_modules/flush-write-stream/package.json;T:content_typeI"application/json;T:sourceI"¶{
+  "name": "flush-write-stream",
+  "version": "1.1.1",
+  "description": "A write stream constructor that supports a flush function that is called before finish is emitted",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "^2.0.3",
+    "readable-stream": "^2.3.6"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/flush-write-stream.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/flush-write-stream/issues"
+  },
+  "homepage": "https://github.com/mafintosh/flush-write-stream"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/flush-write-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%wí`>N[ ;¸/Ÿfš³S­sáêpQ@JáÇ::lengthi¶:dependencies_digest"%'d¥ùÊƒ/„\ôŞUùk‚¶¥ú}/`Ù®ì†$:idI"Eee582e488bbf68d0b3712dd03baa04f4de2a46444b950635438b0c6c3a8fa38d;F:
+mtimel+Q¢´e

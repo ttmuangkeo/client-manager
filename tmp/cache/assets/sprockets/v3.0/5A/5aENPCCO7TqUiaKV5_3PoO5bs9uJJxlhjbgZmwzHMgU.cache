@@ -1,0 +1,54 @@
+{:uriI"¦file://app/assets/javascripts/node_modules/@nuxt/opencollective/package.json?type=application/json&id=6f5738c26e0d0069bfd3d0518da00911dabe6b15985a52f055bea33f5f71bc96:ET:load_pathI"app/assets/javascripts;T:filenameI"Japp/assets/javascripts/node_modules/@nuxt/opencollective/package.json;T:	nameI".node_modules/@nuxt/opencollective/package;T:logical_pathI"3node_modules/@nuxt/opencollective/package.json;T:content_typeI"application/json;T:sourceI"Œ{
+  "name": "@nuxt/opencollective",
+  "version": "0.3.3",
+  "repository": "nuxt-contrib/opencollective",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "bin": "bin/opencollective.js",
+  "files": [
+    "bin",
+    "dist"
+  ],
+  "scripts": {
+    "build": "bili -t node --format cjs src/index.js",
+    "lint": "eslint src test",
+    "prepublish": "yarn build",
+    "release": "standard-version && git push --follow-tags && npm publish",
+    "test": "yarn lint && yarn test:coverage",
+    "test:ava": "nyc ava --verbose",
+    "test:coverage": "nyc --reporter=lcov --reporter=html ava"
+  },
+  "ava": {
+    "require": [
+      "jiti/register"
+    ]
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "consola": "^2.15.0",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "@nuxtjs/eslint-config": "^10.0.0",
+    "ava": "^4.2.0",
+    "bili": "latest",
+    "eslint": "^8.15.0",
+    "fetch-mock": "^9.11.0",
+    "jiti": "^1.13.0",
+    "nyc": "latest",
+    "sinon": "^14.0.0",
+    "standard-version": "^9.5.0"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Xfile-digest://app/assets/javascripts/node_modules/@nuxt/opencollective/package.json;TTF:charsetI"
+utf-8;F:digest"%	y-0kä{X–xzø‘E9Î4Ú´¹gÁIà0ø
+8:lengthiŒ:dependencies_digest"%u,ö³f4ºeg*‘rÆ4PÍÎÂÁä£Œ¥+Ú:’:idI"E6f5738c26e0d0069bfd3d0518da00911dabe6b15985a52f055bea33f5f71bc96;F:
+mtimel+R¢´e

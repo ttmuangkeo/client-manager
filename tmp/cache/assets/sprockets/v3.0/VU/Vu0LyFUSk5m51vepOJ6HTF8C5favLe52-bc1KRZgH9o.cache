@@ -1,0 +1,51 @@
+{:uriI"£file://app/assets/javascripts/node_modules/crypto-browserify/package.json?type=application/json&id=70580d00378b4ca0588b26139250434c8652aa96e942819b24d92db24866cd07:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/crypto-browserify/package.json;T:	nameI"+node_modules/crypto-browserify/package;T:logical_pathI"0node_modules/crypto-browserify/package.json;T:content_typeI"application/json;T:sourceI"ˆ{
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (dominictarr.com)",
+  "name": "crypto-browserify",
+  "description": "implementation of crypto for the browser",
+  "version": "3.12.0",
+  "homepage": "https://github.com/crypto-browserify/crypto-browserify",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crypto-browserify/crypto-browserify.git"
+  },
+  "scripts": {
+    "standard": "standard",
+    "test": "npm run standard && npm run unit",
+    "unit": "node test/",
+    "browser": "zuul --browser-version $BROWSER_VERSION --browser-name $BROWSER_NAME -- test/index.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "browserify-cipher": "^1.0.0",
+    "browserify-sign": "^4.0.0",
+    "create-ecdh": "^4.0.0",
+    "create-hash": "^1.1.0",
+    "create-hmac": "^1.1.0",
+    "diffie-hellman": "^5.0.0",
+    "inherits": "^2.0.1",
+    "pbkdf2": "^3.0.3",
+    "public-encrypt": "^4.0.0",
+    "randombytes": "^2.0.0",
+    "randomfill": "^1.0.3"
+  },
+  "devDependencies": {
+    "hash-test-vectors": "~1.3.2",
+    "pseudorandombytes": "^2.0.0",
+    "safe-buffer": "^5.1.1",
+    "standard": "^5.0.2",
+    "tape": "~2.3.2",
+    "zuul": "^3.6.0"
+  },
+  "optionalDependencies": {},
+  "browser": {
+    "crypto": false
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ufile-digest://app/assets/javascripts/node_modules/crypto-browserify/package.json;TTF:charsetI"
+utf-8;F:digest"%ÿÅë˜:“zRΩäâ⁄ñ<5◊ÚÅ>õ ævgƒlÃÎ:lengthiˆ:dependencies_digest"%ƒjE©ÖÒQT”E∆Ì∞üGóøX≤D∫"3"…$b«:idI"E70580d00378b4ca0588b26139250434c8652aa96e942819b24d92db24866cd07;F:
+mtimel+Q¢¥e

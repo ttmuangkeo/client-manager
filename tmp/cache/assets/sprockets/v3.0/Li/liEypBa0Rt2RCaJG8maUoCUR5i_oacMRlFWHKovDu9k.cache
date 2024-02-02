@@ -1,0 +1,51 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/@vue/shared/package.json?type=application/json&id=47b5553ce5f4d47f3eef4cac0ebe3741877adb0d0c3841104e7ca6f4ec327b52:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/@vue/shared/package.json;T:	nameI"%node_modules/@vue/shared/package;T:logical_pathI"*node_modules/@vue/shared/package.json;T:content_typeI"application/json;T:sourceI":{
+  "name": "@vue/shared",
+  "version": "3.4.15",
+  "description": "internal utils shared across @vue packages",
+  "main": "index.js",
+  "module": "dist/shared.esm-bundler.js",
+  "types": "dist/shared.d.ts",
+  "files": [
+    "index.js",
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/shared.d.ts",
+      "node": {
+        "production": "./dist/shared.cjs.prod.js",
+        "development": "./dist/shared.cjs.js",
+        "default": "./index.js"
+      },
+      "module": "./dist/shared.esm-bundler.js",
+      "import": "./dist/shared.esm-bundler.js",
+      "require": "./index.js"
+    },
+    "./*": "./*"
+  },
+  "sideEffects": false,
+  "buildOptions": {
+    "formats": [
+      "esm-bundler",
+      "cjs"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/shared"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/core/issues"
+  },
+  "homepage": "https://github.com/vuejs/core/tree/main/packages/shared#readme"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/@vue/shared/package.json;TTF:charsetI"
+utf-8;F:digest"%Á‹‚?∆◊#IﬂÈŸF”≤µÖ4Uπò‰V=,¨ÊtÀ:lengthi::dependencies_digest"%¡Í%3¢Q∑HäÙÃëxsÛ√«dªê«ñRrﬁ¸oÂª:idI"E47b5553ce5f4d47f3eef4cac0ebe3741877adb0d0c3841104e7ca6f4ec327b52;F:
+mtimel+R¢¥e

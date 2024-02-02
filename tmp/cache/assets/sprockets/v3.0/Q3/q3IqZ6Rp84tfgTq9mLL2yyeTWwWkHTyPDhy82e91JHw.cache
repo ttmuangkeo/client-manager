@@ -1,0 +1,47 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/on-headers/package.json?type=application/json&id=96c49cba4d22fc8e31e9c6352523bc47fa2e7f9dc7659328f9164f656616bcea:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/on-headers/package.json;T:	nameI"$node_modules/on-headers/package;T:logical_pathI")node_modules/on-headers/package.json;T:content_typeI"application/json;T:sourceI"€{
+  "name": "on-headers",
+  "description": "Execute a listener when a response is about to write headers",
+  "version": "1.0.2",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+  "license": "MIT",
+  "keywords": [
+    "event",
+    "headers",
+    "http",
+    "onheaders"
+  ],
+  "repository": "jshttp/on-headers",
+  "devDependencies": {
+    "eslint": "5.14.1",
+    "eslint-config-standard": "12.0.0",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-markdown": "1.0.0",
+    "eslint-plugin-node": "8.0.1",
+    "eslint-plugin-promise": "4.0.1",
+    "eslint-plugin-standard": "4.0.0",
+    "istanbul": "0.4.5",
+    "mocha": "6.0.1",
+    "supertest": "3.4.2"
+  },
+  "files": [
+    "LICENSE",
+    "HISTORY.md",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint --plugin markdown --ext js,md .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/",
+    "version": "node scripts/version-history.js && git add HISTORY.md"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/on-headers/package.json;TTF:charsetI"
+utf-8;F:digest"%ßDµ†w:Ì¿]´b^B¥ö7Òj√Y‡0ËΩ¢Of:lengthi€:dependencies_digest"%BèïS8‘4˛Œª1ÕÙû≠KÆù	qjé»•Á:idI"E96c49cba4d22fc8e31e9c6352523bc47fa2e7f9dc7659328f9164f656616bcea;F:
+mtimel+Q¢¥e

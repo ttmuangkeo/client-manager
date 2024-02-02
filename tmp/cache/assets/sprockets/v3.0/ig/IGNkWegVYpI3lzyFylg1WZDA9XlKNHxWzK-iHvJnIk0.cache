@@ -1,0 +1,31 @@
+{:uriI"›file://app/assets/javascripts/node_modules/select/demo/non-editable.html?type=text/html&id=e28acbf743b6faf7562245d7793aaa8af32a466d36c6f74a2e8278eab15d288d:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/select/demo/non-editable.html;T:	nameI"*node_modules/select/demo/non-editable;T:logical_pathI"/node_modules/select/demo/non-editable.html;T:content_typeI"text/html;T:sourceI"B<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>non-editable</title>
+</head>
+<body>
+    <!-- 1. Define some markup -->
+    <button type="button">Select</button>
+    <p>Lorem ipsum</p>
+
+    <!-- 2. Include library -->
+    <script src="../dist/select.js"></script>
+
+    <!-- 3. Select! -->
+    <script>
+    var p = document.querySelector('p');
+    var button = document.querySelector('button');
+
+    button.addEventListener('click', function(e) {
+        var selected = select(p);
+        console.log(selected);
+    });
+    </script>
+</body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Tfile-digest://app/assets/javascripts/node_modules/select/demo/non-editable.html;TTF:charsetI"
+utf-8;F:digest"%ëYS@•oJª˜AÁ¥’Š‡×™‰qÇphÕFÍ2Dú®U:lengthiB:dependencies_digest"%š”£V 2Éßlwyü¼m€¨@“©1SâˆNw.yï:idI"Ee28acbf743b6faf7562245d7793aaa8af32a466d36c6f74a2e8278eab15d288d;F:
+mtimel+R¢´e

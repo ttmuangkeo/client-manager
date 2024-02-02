@@ -1,0 +1,42 @@
+{:uriI"ﬁfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2019-09/meta/meta-data.json?type=application/json&id=bb2d8654cd1edbcd7624a9ece744d9dd49b658bc3ee3f0b36aeb8b88b7917f8d:ET:load_pathI"app/assets/javascripts;T:filenameI"}app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2019-09/meta/meta-data.json;T:	nameI"fnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2019-09/meta/meta-data;T:logical_pathI"knode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2019-09/meta/meta-data.json;T:content_typeI"application/json;T:sourceI"ˆ{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "https://json-schema.org/draft/2019-09/meta/meta-data",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2019-09/vocab/meta-data": true
+  },
+  "$recursiveAnchor": true,
+
+  "title": "Meta-data vocabulary meta-schema",
+
+  "type": ["object", "boolean"],
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "default": true,
+    "deprecated": {
+      "type": "boolean",
+      "default": false
+    },
+    "readOnly": {
+      "type": "boolean",
+      "default": false
+    },
+    "writeOnly": {
+      "type": "boolean",
+      "default": false
+    },
+    "examples": {
+      "type": "array",
+      "items": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ãfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2019-09/meta/meta-data.json;TTF:charsetI"
+utf-8;F:digest"%‡8Y=6øUáZ∏Å$i÷¢÷.”	Ckúö/•§∫Y^:lengthiˆ:dependencies_digest"%Àº~'5‡m˝ã+Œ{g^√Ãâ1?±4VTÏq*≤ˇ:idI"Ebb2d8654cd1edbcd7624a9ece744d9dd49b658bc3ee3f0b36aeb8b88b7917f8d;F:
+mtimel+S¢¥e

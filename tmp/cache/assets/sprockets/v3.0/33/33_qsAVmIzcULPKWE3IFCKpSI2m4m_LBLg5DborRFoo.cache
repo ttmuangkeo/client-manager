@@ -1,0 +1,36 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/el.json?type=application/json&id=d9015ccda91543c7b9565dd8ee02baa0d054a95272437ca1f21c0ac5e9a00a7f:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/el.json;T:	nameI"-node_modules/vee-validate/dist/locale/el;T:logical_pathI"2node_modules/vee-validate/dist/locale/el.json;T:content_typeI"application/json;T:sourceI"�	{
+  "code": "el",
+  "messages": {
+    "alpha": "{_field_} πρέπει να περιέχει μόνο αλφαβητικούς χαρακτήρες",
+    "alpha_num": "{_field_} πρέπει να περιέχει μόνο αλφαριθμητικούς χαρακτήρες",
+    "alpha_dash": "{_field_} μπορεί να περιέχει αλφαριθμητικούς χαρακτήρες, παύλες και κάτω παύλες",
+    "alpha_spaces": "{_field_} μπορεί να περιέχει μόνο αλφαβητικούς χαρακτήρες και κενά",
+    "between": "{_field_} πρέπει να είναι μεταξύ {min} καί {max}",
+    "confirmed": "{_field_} δεν ταιριάζει με {target}",
+    "digits": "{_field_} πρέπει να είναι αριθμός και να περιέχει {length} ψηφία",
+    "dimensions": "{_field_} πρέπει να είναι {width} pixels επί {height} pixels",
+    "email": "{_field_} πρέπει να είναι έγκυρο email",
+    "excluded": "{_field_} πρέπει να είναι έγκυρη τιμή",
+    "ext": "{_field_} πρέπει να είναι έγκυρο αρχείο",
+    "image": "{_field_} πρέπει να είναι εικόνα",
+    "integer": "{_field_} πρέπει να είναι ακέραιος αριθμός",
+    "length": "{_field_} πρέπει να είναι {length} χαρακτήρες",
+    "max_value": "{_field_} πρέπει να είναι {max} ή λιγότερο",
+    "max": "{_field_} δεν πρέπει να υπερβαίνει τους {length} χαρακτήρες",
+    "mimes": "{_field_} πρέπει να είναι έγκυρο αρχείο ΜΙΜΕ",
+    "min_value": "{_field_} πρέπει να είναι {min} ή περισσότερο",
+    "min": "{_field_} πρέπει να είναι τουλάχιστον {length} χαρακτήρες",
+    "numeric": "{_field_} πρέπει να περιέχει μόνο αριθμούς",
+    "oneOf": "{_field_} πρέπει να είναι έγκυρη τιμή",
+    "regex": "{_field_} δεν είναι έγκυρο",
+    "required": "{_field_} δεν έχει συμπληρωθεί",
+    "required_if": "{_field_} δεν έχει συμπληρωθεί",
+    "size": "{_field_} πρέπει να μην υπερβαίνει τα {size}KB",
+    "double": "{_field_} πρέπει να είναι έγκυρο δεκαδικό"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/el.json;TTF:charsetI"
+utf-8;F:digest"%��Mc���֌)����Ib���a�1�gKP:lengthi�	:dependencies_digest"%S�|�\c����������¤p=yp�D|�d��:idI"Ed9015ccda91543c7b9565dd8ee02baa0d054a95272437ca1f21c0ac5e9a00a7f;F:
+mtimel+S��e

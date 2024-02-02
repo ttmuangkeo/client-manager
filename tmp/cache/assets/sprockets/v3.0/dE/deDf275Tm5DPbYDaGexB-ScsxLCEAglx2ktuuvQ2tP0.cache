@@ -1,0 +1,38 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/bg.json?type=application/json&id=951fa32d4cbdcf1d5b8fbe70c50bf7b5286d62ccbd84e3b606419502e6152205:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/bg.json;T:	nameI"-node_modules/vee-validate/dist/locale/bg;T:logical_pathI"2node_modules/vee-validate/dist/locale/bg.json;T:content_typeI"application/json;T:sourceI"{
+{
+  "code": "bg",
+  "messages": {
+    "alpha": "Полето {_field_} може да съдържа само азбучни знаци",
+    "alpha_num": "Полето {_field_} може да съдържа само буквено-цифрови символи",
+    "alpha_dash": "Полето {_field_} може да съдържа буквено-цифрови знаци, както и тирета и долни черти",
+    "alpha_spaces": "Полето {_field_} може да съдържа само азбучни знаци, както и интервали",
+    "between": "Полето {_field_} може да е между {min} и {max}",
+    "confirmed": "Потвърждението не съвпада за полето {_field_}",
+    "digits": "Полето {_field_} трябва да е цифрово и да съдържа точно {length} цифри",
+    "dimensions": "Полето {_field_} трябва да е {width} пиксела по {height} пиксела",
+    "email": "Полето {_field_} трябва да е коректен Email адрес",
+    "excluded": "Полето {_field_} трябва да е с валидна стойност",
+    "ext": "Полето {_field_} трябва да е валиден файл",
+    "image": "Полето {_field_} трябва да е снимка",
+    "integer": "Полето {_field_} трябва да е цяло число",
+    "length": "Полето {_field_} трябва да е с дължилна {length} знака",
+    "max_value": "Полето {_field_} трябва да бъде {max} или по-малко",
+    "max": "Полето {_field_} не може да бъде по-голямо от {length} знака",
+    "mimes": "Полето {_field_} трябва да е валиден тип файл",
+    "min_value": "Полето {_field_} трябва да бъде минимум {min} или повече",
+    "min": "Полето {_field_} трябва да съдържа минимум {length} символа",
+    "numeric": "Полето {_field_} може да съдържа само цифри",
+    "oneOf": "Полето {_field_} трябва да е валидна стойност",
+    "regex": "Полето {_field_} съдържа невалиден формат",
+    "required": "Полето {_field_} е задължително",
+    "required_if": "Полето {_field_} е задължително",
+    "size": "Размерът на файла за полето {_field_} трябва да е под {size}KB",
+    "double": "Полето {_field_} трябва да е валиден десетичен знак"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/bg.json;TTF:charsetI"
+utf-8;F:digest"%dё��?���ރ̥#.+�ъ!�������:lengthi{
+:dependencies_digest"%5���2���w\_"<��!k�E=�W�&���:idI"E951fa32d4cbdcf1d5b8fbe70c50bf7b5286d62ccbd84e3b606419502e6152205;F:
+mtimel+S��e

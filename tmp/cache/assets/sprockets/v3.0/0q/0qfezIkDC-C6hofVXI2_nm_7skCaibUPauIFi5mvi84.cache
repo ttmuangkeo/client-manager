@@ -1,0 +1,46 @@
+{:uriI" file://app/assets/javascripts/node_modules/is-binary-path/package.json?type=application/json&id=93e02bb67c09ff07e5f170ab920c47c191b3f4f53ced8f50b3339def89d8e2fb:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/is-binary-path/package.json;T:	nameI"(node_modules/is-binary-path/package;T:logical_pathI"-node_modules/is-binary-path/package.json;T:content_typeI"application/json;T:sourceI"‘{
+	"name": "is-binary-path",
+	"version": "2.1.0",
+	"description": "Check if a file path is a binary file",
+	"license": "MIT",
+	"repository": "sindresorhus/is-binary-path",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"binary",
+		"extensions",
+		"extension",
+		"file",
+		"path",
+		"check",
+		"detect",
+		"is"
+	],
+	"dependencies": {
+		"binary-extensions": "^2.0.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/is-binary-path/package.json;TTF:charsetI"
+utf-8;F:digest"%5àwp¨92_eœÕ3«óF“OEDËoBÎ›ÈR«Ò)™Â:lengthi‘:dependencies_digest"%¸Ô-±¬Q=Ô+©ÏJ„Å¡	i	Ï./¢;×³£ä 
+:idI"E93e02bb67c09ff07e5f170ab920c47c191b3f4f53ced8f50b3339def89d8e2fb;F:
+mtimel+Q¢´e

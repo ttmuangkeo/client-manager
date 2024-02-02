@@ -1,0 +1,45 @@
+{:uriI"†file://app/assets/javascripts/node_modules/assign-symbols/package.json?type=application/json&id=943bf017a6ba0e5b3b67e5acf65e4b00a51303d50c3c5cf35067a812387ff850:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/assign-symbols/package.json;T:	nameI"(node_modules/assign-symbols/package;T:logical_pathI"-node_modules/assign-symbols/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "assign-symbols",
+  "description": "Assign the enumerable es6 Symbol properties from an object (or objects) to the first object passed on the arguments. Can be used as a supplement to other extend, assign or merge methods as a polyfill for the Symbols part of the es6 Object.assign method.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonschlinkert/assign-symbols",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/assign-symbols",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/assign-symbols/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.0"
+  },
+  "keywords": [
+    "assign",
+    "symbols"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "assign-deep",
+        "mixin-deep",
+        "merge-deep",
+        "extend-shallow",
+        "clone-deep"
+      ]
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/assign-symbols/package.json;TTF:charsetI"
+utf-8;F:digest"%êváDP®≥§7≤ÉÑëÂZ8]°ã‚÷‰÷‰®µÙ§∞Ω:lengthi:dependencies_digest"%õ‰ã¬ZläΩÍÑ¿†ˆK‹„Íyëcî áiâ!ñ0L:idI"E943bf017a6ba0e5b3b67e5acf65e4b00a51303d50c3c5cf35067a812387ff850;F:
+mtimel+Q¢¥e

@@ -1,0 +1,34 @@
+{:uriI"®file://app/assets/javascripts/node_modules/vee-validate/dist/locale/nn_NO.json?type=application/json&id=6fb310446a2ba5f42527e0b0246580f34278e8d58983b3d8f162d6427e89d554:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/vee-validate/dist/locale/nn_NO.json;T:	nameI"0node_modules/vee-validate/dist/locale/nn_NO;T:logical_pathI"5node_modules/vee-validate/dist/locale/nn_NO.json;T:content_typeI"application/json;T:sourceI"o{
+  "code": "nn_NO",
+  "messages": {
+    "alpha": "{_field_}-feltet kan berre innehalde bokstaver",
+    "alpha_dash": "{_field_}-feltet kan berre innehalde alfa-numeriske tegn, samt bindestrek og understrek",
+    "alpha_num": "{_field_} kan berre innehalde alfanumeriske tegn",
+    "alpha_spaces": "{_field_}-feltet kan berre innehalde alfanumeriske tegn og mellomrom",
+    "between": "{_field_}-feltet m√• vere mellom verdiane {min} og {max}",
+    "confirmed": "{_field_}-feltet samsvarer ikkje",
+    "digits": "{_field_}-feltet m√• vere numerisk og innehalde n√∏yaktig {length} siffer",
+    "dimensions": "{_field_}-feltet m√• vere {width} gonger {height} piksler",
+    "email": "{_field_}-feltet m√• innehalde ein gyldig E-post adresse",
+    "excluded": "{_field_}-feltet m√• ha ein gyldig verdi",
+    "ext": "{_field_}-feltet m√• innehalde ei gyldig fil",
+    "image": "{_field_}-feltet m√• vere eit bilete",
+    "oneOf": "{_field_}-feltet m√• vere ein gyldig verdi",
+    "max": "{_field_}-feltet kan ikkje vere lengre enn {length} tegn",
+    "max_value": "{_field_} kan ikkje vere lengre enn {max} tegn",
+    "mimes": "{_field_}-feltet m√• ha ein gyldig filtype",
+    "min": "{_field_}-feltet m√• innehalde minst {length} tegn",
+    "min_value": "{_field_}-feltet m√• vere {min} eller mer",
+    "numeric": "{_field_}-feltet kan berre innehalde nummer",
+    "regex": "{_field_} har ugyldig formatering",
+    "required": "{_field_} er eit obligatorisk felt",
+    "required_if": "{_field_} er eit obligatorisk felt",
+    "size": "{_field_}-feltet m√• vere mindre enn {size}KB",
+    "double": "{_field_}-feltet m√• v√¶re en gyldig desimal"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/nn_NO.json;TTF:charsetI"
+utf-8;F:digest"%$UÙ∫$âäÌtéjlBÃU@Ò‹5Hù¸V‚YùÛfh"I:lengthio:dependencies_digest"%ã@‰¿J¨-ÂÜLíH„]Ç≈B|¶è™V'!˘t*:idI"E6fb310446a2ba5f42527e0b0246580f34278e8d58983b3d8f162d6427e89d554;F:
+mtimel+S¢¥e

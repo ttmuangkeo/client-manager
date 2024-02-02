@@ -1,0 +1,49 @@
+{:uriI"file://app/assets/javascripts/node_modules/internal-ip/package.json?type=application/json&id=038222a98b903b17f662a5d6b611f0172f2a1625a04f48e07950e3f4f8769ca2:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/internal-ip/package.json;T:	nameI"%node_modules/internal-ip/package;T:logical_pathI"*node_modules/internal-ip/package.json;T:content_typeI"application/json;T:sourceI"¬{
+	"name": "internal-ip",
+	"version": "4.3.0",
+	"description": "Get your internal IP address",
+	"license": "MIT",
+	"repository": "sindresorhus/internal-ip",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"ip",
+		"ipv6",
+		"ipv4",
+		"address",
+		"internal",
+		"local",
+		"machine",
+		"system",
+		"net",
+		"gateway"
+	],
+	"dependencies": {
+		"default-gateway": "^4.2.0",
+		"ipaddr.js": "^1.9.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/internal-ip/package.json;TTF:charsetI"
+utf-8;F:digest"%Á\‚'s?Zı•şöäüŒ+:ÒrŞV‘™Ãõ^ì"Ü:lengthi¬:dependencies_digest"%‡XD‚ÂqsÇf–"-.ë‰úÂ9?àÍˆ,il
+º:idI"E038222a98b903b17f662a5d6b611f0172f2a1625a04f48e07950e3f4f8769ca2;F:
+mtimel+Q¢´e

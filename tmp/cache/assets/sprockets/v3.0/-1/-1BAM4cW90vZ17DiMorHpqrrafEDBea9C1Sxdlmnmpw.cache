@@ -1,0 +1,48 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/multicast-dns/package.json?type=application/json&id=93690fe363878142b2cb4f43e47d6243699b3d33c11123080f6b50c720de9745:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/multicast-dns/package.json;T:	nameI"'node_modules/multicast-dns/package;T:logical_pathI",node_modules/multicast-dns/package.json;T:content_typeI"application/json;T:sourceI"~{
+  "name": "multicast-dns",
+  "version": "6.2.3",
+  "description": "Low level multicast-dns implementation in pure javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "bin": "cli.js",
+  "dependencies": {
+    "dns-packet": "^1.3.1",
+    "thunky": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/multicast-dns.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/multicast-dns/issues"
+  },
+  "homepage": "https://github.com/mafintosh/multicast-dns",
+  "keywords": [
+    "multicast",
+    "dns",
+    "mdns",
+    "multicastdns",
+    "dns-sd",
+    "service",
+    "discovery",
+    "bonjour",
+    "avahi"
+  ],
+  "coordinates": [
+    55.6465878,
+    12.5492251
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/multicast-dns/package.json;TTF:charsetI"
+utf-8;F:digest"%ÔPˆKFjTÛ•“Ã&Ê±ÂIF¢‘(Sc7)š§n:lengthi~:dependencies_digest"%²ÍÍÛG€õÚJìhÎu_ûE¤9'€T+@õ¯Ã?	{:idI"E93690fe363878142b2cb4f43e47d6243699b3d33c11123080f6b50c720de9745;F:
+mtimel+Q¢´e

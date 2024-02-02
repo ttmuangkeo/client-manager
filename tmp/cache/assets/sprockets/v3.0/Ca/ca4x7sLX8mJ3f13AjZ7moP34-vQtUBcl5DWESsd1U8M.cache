@@ -1,0 +1,20 @@
+{:uriI"«file://app/assets/javascripts/node_modules/request/node_modules/qs/component.json?type=application/json&id=5acbb2e83204ce953d68b0095e34aba4344bc9b60fc1b84f30569e2accdf68e0:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/request/node_modules/qs/component.json;T:	nameI"3node_modules/request/node_modules/qs/component;T:logical_pathI"8node_modules/request/node_modules/qs/component.json;T:content_typeI"application/json;T:sourceI"ƒ{
+    "name": "qs",
+    "repository": "ljharb/qs",
+    "description": "query-string parser / stringifier with nesting support",
+    "version": "6.5.3",
+    "keywords": ["querystring", "query", "parser"],
+    "main": "lib/index.js",
+    "scripts": [
+        "lib/index.js",
+        "lib/parse.js",
+        "lib/stringify.js",
+        "lib/utils.js"
+    ],
+    "license": "BSD-3-Clause"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"]file-digest://app/assets/javascripts/node_modules/request/node_modules/qs/component.json;TTF:charsetI"
+utf-8;F:digest"%\=Mpté;'Ñ?YŒ1s£ƒ†å­ßðXNe‚ù;Iª:lengthiƒ:dependencies_digest"%ƒ¹ZùçðyYòd—°u0[>NE¦Ã8v)0i‚:gV:idI"E5acbb2e83204ce953d68b0095e34aba4344bc9b60fc1b84f30569e2accdf68e0;F:
+mtimel+R¢´e

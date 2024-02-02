@@ -1,0 +1,96 @@
+{:uriI"file://app/assets/javascripts/node_modules/class-utils/package.json?type=application/json&id=a128f9ddedb119c97a5104c81ce11cad5f2bd4325d81eee076388af450242d73:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/class-utils/package.json;T:	nameI"%node_modules/class-utils/package;T:logical_pathI"*node_modules/class-utils/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "class-utils",
+  "description": "Utils for working with JavaScript classes and prototype methods.",
+  "version": "0.3.6",
+  "homepage": "https://github.com/jonschlinkert/class-utils",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "(https://github.com/wtgtybhertgeghgtwtg)"
+  ],
+  "repository": "jonschlinkert/class-utils",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/class-utils/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "arr-union": "^3.1.0",
+    "define-property": "^0.2.5",
+    "isobject": "^3.0.0",
+    "static-extend": "^0.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-format-md": "^0.1.7",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5",
+    "should": "^8.2.2",
+    "through2": "^2.0.1"
+  },
+  "keywords": [
+    "array",
+    "assign",
+    "class",
+    "copy",
+    "ctor",
+    "define",
+    "delegate",
+    "descriptor",
+    "extend",
+    "extends",
+    "inherit",
+    "inheritance",
+    "merge",
+    "method",
+    "object",
+    "prop",
+    "properties",
+    "property",
+    "prototype",
+    "util",
+    "utils"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "define-property",
+        "delegate-properties",
+        "is-descriptor"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/class-utils/package.json;TTF:charsetI"
+utf-8;F:digest"%\/‡}•xOÛc
+ÖtûIKØûtÛ®`«Š;…7<GCÏ:lengthi:dependencies_digest"%LŸ‚ü f,¤%–‡'’$:ÅºßÐ×•€•pëaÿ•:idI"Ea128f9ddedb119c97a5104c81ce11cad5f2bd4325d81eee076388af450242d73;F:
+mtimel+Q¢´e

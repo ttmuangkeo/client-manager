@@ -1,0 +1,70 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/snapdragon-util/package.json?type=application/json&id=f15fa388e91df747d4ef371ab9f8307939ad5f6b74ba0e78af5c056a16a3ae7b:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/snapdragon-util/package.json;T:	nameI")node_modules/snapdragon-util/package;T:logical_pathI".node_modules/snapdragon-util/package.json;T:content_typeI"application/json;T:sourceI"*{
+  "name": "snapdragon-util",
+  "description": "Utilities for the snapdragon parser/compiler.",
+  "version": "3.0.1",
+  "homepage": "https://github.com/jonschlinkert/snapdragon-util",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/snapdragon-util",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/snapdragon-util/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "kind-of": "^3.2.0"
+  },
+  "devDependencies": {
+    "define-property": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-format-md": "^0.1.12",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-mocha": "^3.0.0",
+    "isobject": "^3.0.0",
+    "mocha": "^3.3.0",
+    "snapdragon": "^0.11.0",
+    "snapdragon-node": "^1.0.6"
+  },
+  "keywords": [
+    "capture",
+    "compile",
+    "compiler",
+    "convert",
+    "match",
+    "parse",
+    "parser",
+    "plugin",
+    "render",
+    "snapdragon",
+    "snapdragonplugin",
+    "transform",
+    "util"
+  ],
+  "verb": {
+    "toc": "collapsible",
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/snapdragon-util/package.json;TTF:charsetI"
+utf-8;F:digest"%ÄWµë$1ôuönEM [5ƒ¶şí¼3-×aÅ6‹ı€¿:lengthi*:dependencies_digest"%,ñÏ-\¥§¥¦{ø”çcX†ß]/í2ˆä¬uô©î:idI"Ef15fa388e91df747d4ef371ab9f8307939ad5f6b74ba0e78af5c056a16a3ae7b;F:
+mtimel+Q¢´e

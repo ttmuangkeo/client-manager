@@ -1,0 +1,25 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json?type=application/json&id=87c852a7aff98e2fe41771c9216dc0b3dccde6cb9db994df65a74c698b8b9aea:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json;T:	nameI"=node_modules/@webassemblyjs/helper-wasm-bytecode/package;T:logical_pathI"Bnode_modules/@webassemblyjs/helper-wasm-bytecode/package.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name": "@webassemblyjs/helper-wasm-bytecode",
+  "version": "1.9.0",
+  "description": "WASM's Bytecode constants",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0440b420888c1f7701eb9762ec657775506b87d8"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json;TTF:charsetI"
+utf-8;F:digest"%ÔHxT¾sâ OÑÐì,©uø†,HI_É²•‡¿õ:lengthi÷:dependencies_digest"%Ò{Wk¸ú´¸É¶Ò.Žzõ]>¢émCðø‘3TZ:idI"E87c852a7aff98e2fe41771c9216dc0b3dccde6cb9db994df65a74c698b8b9aea;F:
+mtimel+Q¢´e

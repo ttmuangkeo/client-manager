@@ -1,0 +1,38 @@
+{:uriI"®file://app/assets/javascripts/node_modules/vee-validate/dist/locale/pt_BR.json?type=application/json&id=115de2598e22057f6063550101ba2c0275629a07300556151e8c21b74084b8ec:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/vee-validate/dist/locale/pt_BR.json;T:	nameI"0node_modules/vee-validate/dist/locale/pt_BR;T:logical_pathI"5node_modules/vee-validate/dist/locale/pt_BR.json;T:content_typeI"application/json;T:sourceI"`{
+  "code": "pt_BR",
+  "messages": {
+    "alpha": "O campo {_field_} deve conter somente letras",
+    "alpha_dash": "O campo {_field_} deve conter letras, n√∫meros e tra√ßos",
+    "alpha_num": "O campo {_field_} deve conter somente letras e n√∫meros",
+    "alpha_spaces": "O campo {_field_} s√≥ pode conter caracteres alfab√©ticos e espa√ßos",
+    "between": "O campo {_field_} deve estar entre {min} e {max}",
+    "confirmed": "A confirma√ß√£o do campo {_field_} deve ser igual",
+    "digits": "O campo {_field_} deve ser num√©rico e ter exatamente {length} d√≠gitos",
+    "dimensions": "O campo {_field_} deve ter {width} pixels de largura por {height} pixels de altura",
+    "email": "O campo {_field_} deve ser um email v√°lido",
+    "excluded": "O campo {_field_} deve ser um valor v√°lido",
+    "ext": "O campo {_field_} deve ser um arquivo v√°lido",
+    "image": "O campo {_field_} deve ser uma imagem",
+    "integer": "O campo {_field_} deve ser um n√∫mero inteiro",
+    "is": "O valor inserido no campo {_field_} n√£o √© v√°lido",
+    "oneOf": "O campo {_field_} deve ter um valor v√°lido",
+    "length": "O tamanho do campo {_field_} deve ser {length}",
+    "max": "O campo {_field_} n√£o deve ter mais que {length} caracteres",
+    "max_value": "O campo {_field_} precisa ser {max} ou menor",
+    "mimes": "O campo {_field_} deve ser um tipo de arquivo v√°lido",
+    "min": "O campo {_field_} deve conter pelo menos {length} caracteres",
+    "min_value": "O campo {_field_} precisa ser {min} ou maior",
+    "numeric": "O campo {_field_} deve conter apenas n√∫meros",
+    "regex": "O campo {_field_} possui um formato inv√°lido",
+    "required": "O campo {_field_} √© obrigat√≥rio",
+    "required_if": "O campo {_field_} √© obrigat√≥rio",
+    "size": "O campo {_field_} deve ser menor que {size}KB",
+    "double": "O campo {_field_} deve conter um numero decimal v√°lido"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/pt_BR.json;TTF:charsetI"
+utf-8;F:digest"%"2ÌíÖ7m¥
+oÛN¡€Îsf<É]?ûçâ‘ÅI“:lengthi`:dependencies_digest"%úÃn\ó.Ót6)Û”@Y—Œ∆≥¶£Ì/™`G˚ÔÔ:idI"E115de2598e22057f6063550101ba2c0275629a07300556151e8c21b74084b8ec;F:
+mtimel+S¢¥e

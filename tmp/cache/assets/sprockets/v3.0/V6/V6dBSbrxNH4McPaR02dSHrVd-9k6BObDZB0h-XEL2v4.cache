@@ -1,0 +1,46 @@
+{:uriI"³file://app/assets/javascripts/node_modules/@babel/plugin-proposal-decorators/package.json?type=application/json&id=9f56e4ac503b8c3a166fb0bc0736c6aafcc343d067d73b03f982e39cffb03bd7:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/@babel/plugin-proposal-decorators/package.json;T:	nameI";node_modules/@babel/plugin-proposal-decorators/package;T:logical_pathI"@node_modules/@babel/plugin-proposal-decorators/package.json;T:content_typeI"application/json;T:sourceI"—{
+  "name": "@babel/plugin-proposal-decorators",
+  "version": "7.23.9",
+  "author": "The Babel Team (https://babel.dev/team)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Compile class and object decorators to ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-proposal-decorators"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-proposal-decorators",
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "decorators"
+  ],
+  "dependencies": {
+    "@babel/helper-create-class-features-plugin": "^7.23.9",
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/plugin-syntax-decorators": "^7.23.3"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "@babel/traverse": "^7.23.9",
+    "array.prototype.concat": "^1.0.2",
+    "babel-plugin-polyfill-es-shims": "^0.10.2",
+    "object.getownpropertydescriptors": "^2.1.1"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/@babel/plugin-proposal-decorators/package.json;TTF:charsetI"
+utf-8;F:digest"%×´Hê¬Jı>ú>ÌZ^€Ãv´kÆaWÙty¬:lengthi—:dependencies_digest"%WDÁ<Á3Eƒ5—¡Ó([8ClW¬‚ÇœuÄïxÓ2gúJ:idI"E9f56e4ac503b8c3a166fb0bc0736c6aafcc343d067d73b03f982e39cffb03bd7;F:
+mtimel+R¢´e

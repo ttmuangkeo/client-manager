@@ -1,0 +1,118 @@
+{:uriI"–file://app/assets/javascripts/node_modules/base/package.json?type=application/json&id=424f747e713bd137fcfb491349125505f7c9e44c8456002801fdebbb1b5383dd:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/base/package.json;T:	nameI"node_modules/base/package;T:logical_pathI"#node_modules/base/package.json;T:content_typeI"application/json;T:sourceI"M
+{
+  "name": "base",
+  "description": "base is the foundation for creating modular, unit testable and highly pluggable node.js applications, starting with a handful of common methods, like `set`, `get`, `del` and `use`.",
+  "version": "0.11.2",
+  "homepage": "https://github.com/node-base/base",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "maintainers": [
+    "Brian Woodward (https://github.com/doowb)",
+    "Jon Schlinkert (https://github.com/jonschlinkert)"
+  ],
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "John O'Donnell (https://github.com/criticalmash)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "tunnckoCore (https://i.am.charlike.online)",
+    "(https://github.com/wtgtybhertgeghgtwtg)"
+  ],
+  "repository": "node-base/base",
+  "bugs": {
+    "url": "https://github.com/node-base/base/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "cache-base": "^1.0.1",
+    "class-utils": "^0.3.5",
+    "component-emitter": "^1.2.1",
+    "define-property": "^1.0.0",
+    "isobject": "^3.0.1",
+    "mixin-deep": "^1.2.0",
+    "pascalcase": "^0.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-format-md": "^1.0.0",
+    "gulp-istanbul": "^1.1.2",
+    "gulp-mocha": "^3.0.1",
+    "helper-coverage": "^0.1.3",
+    "mocha": "^3.5.0",
+    "should": "^13.0.1",
+    "through2": "^2.0.3",
+    "verb-generate-readme": "^0.6.0"
+  },
+  "keywords": [
+    "base",
+    "boilerplate",
+    "cache",
+    "del",
+    "get",
+    "inherit",
+    "methods",
+    "set",
+    "starter",
+    "unset",
+    "visit"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "helpers": [
+      "helper-coverage"
+    ],
+    "related": {
+      "description": "There are a number of different plugins available for extending base. Let us know if you create your own!",
+      "hightlight": "generate",
+      "list": [
+        "base-cwd",
+        "base-data",
+        "base-fs",
+        "base-generators",
+        "base-option",
+        "base-pipeline",
+        "base-pkg",
+        "base-plugins",
+        "base-questions",
+        "base-store",
+        "base-task"
+      ]
+    },
+    "reflinks": [
+      "assemble",
+      "boilerplate",
+      "cache-base",
+      "class-utils",
+      "generate",
+      "scaffold",
+      "static-extend",
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/base/package.json;TTF:charsetI"
+utf-8;F:digest"%Íz.„¤ôŞey`Øz>b©ÔÀ±$}Ÿ§iN3+Rë:lengthiM
+:dependencies_digest"%úyRÂ»<J—ã¦şíOUdŸ®¶mNÖ*³¥³h:idI"E424f747e713bd137fcfb491349125505f7c9e44c8456002801fdebbb1b5383dd;F:
+mtimel+Q¢´e

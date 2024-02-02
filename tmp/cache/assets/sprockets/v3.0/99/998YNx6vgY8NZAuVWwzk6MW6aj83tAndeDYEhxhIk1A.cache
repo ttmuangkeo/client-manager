@@ -1,0 +1,63 @@
+{:uriI"Ífile://app/assets/javascripts/node_modules/postcss-normalize-unicode/node_modules/postcss-value-parser/package.json?type=application/json&id=d33d755c5c10a376a0c67f61f2ca9dbcd125adbfc1ed7fd274628fcde03dfe9c:ET:load_pathI"app/assets/javascripts;T:filenameI"qapp/assets/javascripts/node_modules/postcss-normalize-unicode/node_modules/postcss-value-parser/package.json;T:	nameI"Unode_modules/postcss-normalize-unicode/node_modules/postcss-value-parser/package;T:logical_pathI"Znode_modules/postcss-normalize-unicode/node_modules/postcss-value-parser/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "postcss-value-parser",
+  "version": "3.3.1",
+  "description": "Transforms css values and at-rule params into the tree",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "husky": "^1.0.0",
+    "lint-staged": "^7.3.0",
+    "prettier": "^1.4.4",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.2.0"
+  },
+  "scripts": {
+    "lint:prettier": "prettier '**/*.js' --list-different",
+    "lint:js": "eslint . --cache",
+    "lint": "yarn lint:js && yarn lint:prettier",
+    "pretest": "yarn lint",
+    "test": "tape test/*.js | tap-spec"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": "eslint:recommended"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint",
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "author": "Bogdan Chadkin <trysound@yandex.ru>",
+  "license": "MIT",
+  "homepage": "https://github.com/TrySound/postcss-value-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrySound/postcss-value-parser.git"
+  },
+  "keywords": [
+    "postcss",
+    "value",
+    "parser"
+  ],
+  "bugs": {
+    "url": "https://github.com/TrySound/postcss-value-parser/issues"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/javascripts/node_modules/postcss-normalize-unicode/node_modules/postcss-value-parser/package.json;TTF:charsetI"
+utf-8;F:digest"%Þ2!ðÛ9é´<í¶sŽ„OwxRlü8b·,LÐð—¼:lengthi:dependencies_digest"%¨a’kíý)§]mm|íÙhÊþ–é~M,\Ëõ:idI"Ed33d755c5c10a376a0c67f61f2ca9dbcd125adbfc1ed7fd274628fcde03dfe9c;F:
+mtimel+Q¢´e

@@ -1,0 +1,36 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/normalize-package-data/lib/warning_messages.json?type=application/json&id=e5beed1d99abffb263a199e6be57f699cc0814e86869fc5442f341c128c4b9e8:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/normalize-package-data/lib/warning_messages.json;T:	nameI"=node_modules/normalize-package-data/lib/warning_messages;T:logical_pathI"Bnode_modules/normalize-package-data/lib/warning_messages.json;T:content_typeI"application/json;T:sourceI"{
+  "repositories": "'repositories' (plural) Not supported. Please pick one as the 'repository' field"
+  ,"missingRepository": "No repository field."
+  ,"brokenGitUrl": "Probably broken git url: %s"
+  ,"nonObjectScripts": "scripts must be an object"
+  ,"nonStringScript": "script values must be string commands"
+  ,"nonArrayFiles": "Invalid 'files' member"
+  ,"invalidFilename": "Invalid filename in 'files' list: %s"
+  ,"nonArrayBundleDependencies": "Invalid 'bundleDependencies' list. Must be array of package names"
+  ,"nonStringBundleDependency": "Invalid bundleDependencies member: %s"
+  ,"nonDependencyBundleDependency": "Non-dependency in bundleDependencies: %s"
+  ,"nonObjectDependencies": "%s field must be an object"
+  ,"nonStringDependency": "Invalid dependency: %s %s"
+  ,"deprecatedArrayDependencies": "specifying %s as array is deprecated"
+  ,"deprecatedModules": "modules field is deprecated"
+  ,"nonArrayKeywords": "keywords should be an array of strings"
+  ,"nonStringKeyword": "keywords should be an array of strings"
+  ,"conflictingName": "%s is also the name of a node core module."
+  ,"nonStringDescription": "'description' field should be a string"
+  ,"missingDescription": "No description"
+  ,"missingReadme": "No README data"
+  ,"missingLicense": "No license field."
+  ,"nonEmailUrlBugsString": "Bug string field must be url, email, or {email,url}"
+  ,"nonUrlBugsUrlField": "bugs.url field must be a string url. Deleted."
+  ,"nonEmailBugsEmailField": "bugs.email field must be a string email. Deleted."
+  ,"emptyNormalizedBugs": "Normalized value of bugs field is an empty object. Deleted."
+  ,"nonUrlHomepage": "homepage field must be a string url. Deleted."
+  ,"invalidLicense": "license should be a valid SPDX license expression"
+  ,"typo": "%s should probably be %s."
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/normalize-package-data/lib/warning_messages.json;TTF:charsetI"
+utf-8;F:digest"%çG|ê++ÕçÅR¶´∆c≤¨‘<ØA∆L©â‹¸>]u∂A:lengthi:dependencies_digest"%ÓÓ
+¢'`âë´Ôdé∑2±≤1O]Â<+#ı3áØs :idI"Ee5beed1d99abffb263a199e6be57f699cc0814e86869fc5442f341c128c4b9e8;F:
+mtimel+R¢¥e

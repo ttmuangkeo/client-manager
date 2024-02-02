@@ -1,0 +1,34 @@
+{:uriI"¥file://app/assets/javascripts/node_modules/vee-validate/dist/locale/lt.json?type=application/json&id=a7f3187b2e46d846cadc76f84bcffb388835f2bc828446cca9f85f191b4ae0d2:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/lt.json;T:	nameI"-node_modules/vee-validate/dist/locale/lt;T:logical_pathI"2node_modules/vee-validate/dist/locale/lt.json;T:content_typeI"application/json;T:sourceI"${
+  "code": "lt",
+  "messages": {
+    "alpha": "Laukelyje {_field_} leidÅ¾iamos tik raidÄ—s",
+    "alpha_dash": "Laukelyje {_field_} leidÅ¾iamos tik raidÄ—s, skaiÄiai bei brÅ«kÅ¡neliai",
+    "alpha_num": "Laukelyje {_field_} leidÅ¾iamos tik raidÄ—s ir skaiÄiai",
+    "alpha_spaces": "Laukelyje {_field_} leidÅ¾iamos tik raidÄ—s ir tarpai",
+    "between": "Laukelio {_field_} reikÅ¡mÄ— turi bÅ«ti tarp {min} ir {max}",
+    "confirmed": "Laukelio {_field_} patvirtinimas nesutampa",
+    "digits": "Lauklio {_field_} reikÅ¡mÄ— turi buti {length} Å¾enklÅ³(-o) skaitmuo",
+    "dimensions": "{_field_} turi bÅ«ti {width} px x {height} px",
+    "email": "Laukelis {_field_} turi bÅ«ti teisinga el. paÅ¡to adresas",
+    "excluded": "{_field_} reikÅ¡mÄ— nÄ—ra leidÅ¾iama",
+    "ext": "{_field_} turi bÅ«ti tinkamas failas",
+    "image": "{_field_} turi bÅ«ti paveikslÄ—lis",
+    "oneOf": "{_field_} reikÅ¡mÄ— nÄ—ra leidÅ¾iama",
+    "max": "{_field_} negali bÅ«ti ilgesnis nei {length}",
+    "max_value": "{_field_} turi bÅ«ti {max} arba maÅ¾iau",
+    "mimes": "{_field_}  privalo turÄ—ti tinkmÄ… failo tipÄ…",
+    "min": "{_field_} ilgis privalo bÅ«ti bent {length}",
+    "min_value": "{_field_} turi bÅ«ti {min} arba daugiau",
+    "numeric": "{_field_} turi bÅ«ti tik skaitmenys",
+    "regex": "Laukelio {_field_} formatas netinkamas",
+    "required": "Laukelis {_field_} privalomas",
+    "required_if": "Laukelis {_field_} privalomas",
+    "size": "{_field_} turi bÅ«ti maÅ¾esnis nei {size}KB",
+    "double": "{_field_} laukas turi bÅ«ti tinkamas deÅ¡imtainis skaiÄius"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/lt.json;TTF:charsetI"
+utf-8;F:digest"%ìß×q½“Voÿ E"•Ù¯IÅä´Y!î]çG:lengthi$:dependencies_digest"%ƒ<§«A»ƒ*¤ÚÕ\"=÷êpÂöäÑ]ô	ÕZçN:idI"Ea7f3187b2e46d846cadc76f84bcffb388835f2bc828446cca9f85f191b4ae0d2;F:
+mtimel+S¢´e

@@ -1,0 +1,48 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/@vue/babel-sugar-v-on/node_modules/camelcase/package.json?type=application/json&id=3269df0c42a1a8a4484ecdc9c49be3afa0b540ce447a43afb1be30db168b8dfe:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/@vue/babel-sugar-v-on/node_modules/camelcase/package.json;T:	nameI"Fnode_modules/@vue/babel-sugar-v-on/node_modules/camelcase/package;T:logical_pathI"Knode_modules/@vue/babel-sugar-v-on/node_modules/camelcase/package.json;T:content_typeI"application/json;T:sourceI"ê{
+	"name": "camelcase",
+	"version": "5.3.1",
+	"description": "Convert a dash/dot/underscore/space separated string to camelCase or PascalCase: `foo-bar` â†’ `fooBar`",
+	"license": "MIT",
+	"repository": "sindresorhus/camelcase",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"camelcase",
+		"camel-case",
+		"camel",
+		"case",
+		"dash",
+		"hyphen",
+		"dot",
+		"underscore",
+		"separator",
+		"string",
+		"text",
+		"convert",
+		"pascalcase",
+		"pascal-case"
+	],
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.1",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/@vue/babel-sugar-v-on/node_modules/camelcase/package.json;TTF:charsetI"
+utf-8;F:digest"%¶Õ3Ç@ÑDÞM¡I9@µA—Šwªé×Ý`Ÿ`ÅŒƒ§>:lengthiê:dependencies_digest"%"!tÞa5¸‚?©èþ¡ÄÄ¯Øg6´`Ý#7!‡:idI"E3269df0c42a1a8a4484ecdc9c49be3afa0b540ce447a43afb1be30db168b8dfe;F:
+mtimel+Q¢´e

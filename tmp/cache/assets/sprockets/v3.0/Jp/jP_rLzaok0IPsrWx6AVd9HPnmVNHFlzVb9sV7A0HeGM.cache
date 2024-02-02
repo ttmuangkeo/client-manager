@@ -1,0 +1,50 @@
+{:uriI"üfile://app/assets/javascripts/node_modules/call-me-maybe/package.json?type=application/json&id=fd4c8308318fcdb23cac624c03e8f237b2269b2856be95ecadc4d67df74b86b0:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/call-me-maybe/package.json;T:	nameI"'node_modules/call-me-maybe/package;T:logical_pathI",node_modules/call-me-maybe/package.json;T:content_typeI"application/json;T:sourceI"Ñ{
+  "name": "call-me-maybe",
+  "version": "1.0.2",
+  "description": "Let your JS API users either give you a callback or receive a promise",
+  "main": "src/maybe.js",
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "@commitlint/config-conventional": "^17.1.0",
+    "browserify": "^17.0.0",
+    "commitlint": "^17.1.2",
+    "husky": "^7.0.0",
+    "is-ci": "^3.0.1",
+    "karma": "^6.4.1",
+    "karma-browserify": "^8.1.0",
+    "karma-browserstack-launcher": "^1.6.0",
+    "karma-mocha": "^2.0.1",
+    "mocha": "^2.3.2",
+    "promise": "^7.0.4",
+    "semantic-release": "^19.0.5"
+  },
+  "scripts": {
+    "test": "mocha",
+    "prepare": "is-ci || husky install",
+    "test-browsers": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limulus/call-me-maybe.git"
+  },
+  "keywords": [
+    "promise",
+    "callback",
+    "denodeify",
+    "promisify",
+    "carlyraejepsen"
+  ],
+  "author": "Eric McCarthy <eric@limulus.net> (http://www.limulus.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limulus/call-me-maybe/issues"
+  },
+  "homepage": "https://github.com/limulus/call-me-maybe#readme"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/call-me-maybe/package.json;TTF:charsetI"
+utf-8;F:digest"%Wí®A>çÊGÄXäE≤ª5|+∞ÛÂLG∏Dé´óIâÀ:lengthiÑ:dependencies_digest"%<àT)gGX˜ó$∏Ö⁄ºæÔV¡ ç˝Zj–çÿfSÍ:idI"Efd4c8308318fcdb23cac624c03e8f237b2269b2856be95ecadc4d67df74b86b0;F:
+mtimel+Q¢¥e

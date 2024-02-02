@@ -1,0 +1,42 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/@babel/traverse/package.json?type=application/json&id=3756c220db0a41c540bc50d0d155a28e723771ee34c9de09cee966dd51e4da16:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/@babel/traverse/package.json;T:	nameI")node_modules/@babel/traverse/package;T:logical_pathI".node_modules/@babel/traverse/package.json;T:content_typeI"application/json;T:sourceI"à{
+  "name": "@babel/traverse",
+  "version": "7.23.9",
+  "description": "The Babel Traverse module maintains the overall tree state, and is responsible for replacing, removing, and adding nodes",
+  "author": "The Babel Team (https://babel.dev/team)",
+  "homepage": "https://babel.dev/docs/en/next/babel-traverse",
+  "bugs": "https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A%20traverse%22+is%3Aopen",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-traverse"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/code-frame": "^7.23.5",
+    "@babel/generator": "^7.23.6",
+    "@babel/helper-environment-visitor": "^7.22.20",
+    "@babel/helper-function-name": "^7.23.0",
+    "@babel/helper-hoist-variables": "^7.22.5",
+    "@babel/helper-split-export-declaration": "^7.22.6",
+    "@babel/parser": "^7.23.9",
+    "@babel/types": "^7.23.9",
+    "debug": "^4.3.1",
+    "globals": "^11.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/helper-plugin-test-runner": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/@babel/traverse/package.json;TTF:charsetI"
+utf-8;F:digest"%ò41…ïˆDhŸ`+î­¤bC(ôñÒ#:I?kÉ:lengthià:dependencies_digest"%X·k6‰ï;šÁ“fåù‰ñÏ¬4ú2'*ş—*”š:idI"E3756c220db0a41c540bc50d0d155a28e723771ee34c9de09cee966dd51e4da16;F:
+mtimel+S¢´e

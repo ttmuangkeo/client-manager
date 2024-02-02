@@ -1,0 +1,158 @@
+{:uriI"ôfile://app/assets/javascripts/node_modules/ci-info/vendors.json?type=application/json&id=99186ae36d7b9d6bdc5486f69a22637aae19ad173f3b1c3425ea47a0cd07705f:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/ci-info/vendors.json;T:	nameI"!node_modules/ci-info/vendors;T:logical_pathI"&node_modules/ci-info/vendors.json;T:content_typeI"application/json;T:sourceI"\[
+  {
+    "name": "AppVeyor",
+    "constant": "APPVEYOR",
+    "env": "APPVEYOR",
+    "pr": "APPVEYOR_PULL_REQUEST_NUMBER"
+  },
+  {
+    "name": "Bamboo",
+    "constant": "BAMBOO",
+    "env": "bamboo_planKey"
+  },
+  {
+    "name": "Bitbucket Pipelines",
+    "constant": "BITBUCKET",
+    "env": "BITBUCKET_COMMIT"
+  },
+  {
+    "name": "Bitrise",
+    "constant": "BITRISE",
+    "env": "BITRISE_IO",
+    "pr": "BITRISE_PULL_REQUEST"
+  },
+  {
+    "name": "Buddy",
+    "constant": "BUDDY",
+    "env": "BUDDY_WORKSPACE_ID",
+    "pr": "BUDDY_EXECUTION_PULL_REQUEST_ID"
+  },
+  {
+    "name": "Buildkite",
+    "constant": "BUILDKITE",
+    "env": "BUILDKITE",
+    "pr": { "env": "BUILDKITE_PULL_REQUEST", "ne": "false" }
+  },
+  {
+    "name": "CircleCI",
+    "constant": "CIRCLE",
+    "env": "CIRCLECI",
+    "pr": "CIRCLE_PULL_REQUEST"
+  },
+  {
+    "name": "Cirrus CI",
+    "constant": "CIRRUS",
+    "env": "CIRRUS_CI",
+    "pr": "CIRRUS_PR"
+  },
+  {
+    "name": "AWS CodeBuild",
+    "constant": "CODEBUILD",
+    "env": "CODEBUILD_BUILD_ARN"
+  },
+  {
+    "name": "Codeship",
+    "constant": "CODESHIP",
+    "env": { "CI_NAME": "codeship" }
+  },
+  {
+    "name": "Drone",
+    "constant": "DRONE",
+    "env": "DRONE",
+    "pr": { "DRONE_BUILD_EVENT": "pull_request" }
+  },
+  {
+    "name": "dsari",
+    "constant": "DSARI",
+    "env": "DSARI"
+  },
+  {
+    "name": "GitLab CI",
+    "constant": "GITLAB",
+    "env": "GITLAB_CI"
+  },
+  {
+    "name": "GoCD",
+    "constant": "GOCD",
+    "env": "GO_PIPELINE_LABEL"
+  },
+  {
+    "name": "Hudson",
+    "constant": "HUDSON",
+    "env": "HUDSON_URL"
+  },
+  {
+    "name": "Jenkins",
+    "constant": "JENKINS",
+    "env": ["JENKINS_URL", "BUILD_ID"],
+    "pr": { "any": ["ghprbPullId", "CHANGE_ID"] }
+  },
+  {
+    "name": "Magnum CI",
+    "constant": "MAGNUM",
+    "env": "MAGNUM"
+  },
+  {
+    "name": "Sail CI",
+    "constant": "SAIL",
+    "env": "SAILCI",
+    "pr": "SAIL_PULL_REQUEST_NUMBER"
+  },
+  {
+    "name": "Semaphore",
+    "constant": "SEMAPHORE",
+    "env": "SEMAPHORE",
+    "pr": "PULL_REQUEST_NUMBER"
+  },
+  {
+    "name": "Shippable",
+    "constant": "SHIPPABLE",
+    "env": "SHIPPABLE",
+    "pr": { "IS_PULL_REQUEST": "true" }
+  },
+  {
+    "name": "Solano CI",
+    "constant": "SOLANO",
+    "env": "TDDIUM",
+    "pr": "TDDIUM_PR_ID"
+  },
+  {
+    "name": "Strider CD",
+    "constant": "STRIDER",
+    "env": "STRIDER"
+  },
+  {
+    "name": "TaskCluster",
+    "constant": "TASKCLUSTER",
+    "env": ["TASK_ID", "RUN_ID"]
+  },
+  {
+    "name": "Solano CI",
+    "constant": "TDDIUM",
+    "env": "TDDIUM",
+    "pr": "TDDIUM_PR_ID",
+    "deprecated": true
+  },
+  {
+    "name": "TeamCity",
+    "constant": "TEAMCITY",
+    "env": "TEAMCITY_VERSION"
+  },
+  {
+    "name": "Team Foundation Server",
+    "constant": "TFS",
+    "env": "TF_BUILD"
+  },
+  {
+    "name": "Travis CI",
+    "constant": "TRAVIS",
+    "env": "TRAVIS",
+    "pr": { "env": "TRAVIS_PULL_REQUEST", "ne": "false" }
+  }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/ci-info/vendors.json;TTF:charsetI"
+utf-8;F:digest"%C·•ì¶/@:ÆÑ∞˝◊≥ç≥ÏX6ï±E®??å∏∫Ï€:lengthi\:dependencies_digest"%_Ÿ´„tH›|˜ ®Ö-ÉË^ìõ«&
+œ'´ÂN…?B:idI"E99186ae36d7b9d6bdc5486f69a22637aae19ad173f3b1c3425ea47a0cd07705f;F:
+mtimel+Q¢¥e

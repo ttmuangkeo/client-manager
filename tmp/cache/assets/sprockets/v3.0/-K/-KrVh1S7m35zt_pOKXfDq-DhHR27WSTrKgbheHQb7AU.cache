@@ -1,0 +1,13 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/datamaps/src/js/data/sxm.json?type=application/json&id=a265a859a200b488407b16dc8d5cecde64000d6c24387e32d60909ab7c7bc02c:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/datamaps/src/js/data/sxm.json;T:	nameI"*node_modules/datamaps/src/js/data/sxm;T:logical_pathI"/node_modules/datamaps/src/js/data/sxm.json;T:content_typeI"application/json;T:sourceI"‹{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "adm1_code": "SXM-5146", "OBJECTID_1": 3613, "diss_me": 5146, "adm1_cod_1": "SXM-5146", "iso_3166_2": "NL-SX", "wikipedia": null, "iso_a2": "SX", "adm0_sr": 3, "name": "Sint Maarten", "name_alt": null, "name_local": null, "type": null, "type_en": null, "code_local": null, "code_hasc": "SX.", "note": null, "hasc_maybe": null, "region": null, "region_cod": null, "provnum_ne": 0, "gadm_level": 0, "check_me": 0, "scalerank": 10, "datarank": 10, "abbrev": null, "postal": null, "area_sqkm": 0, "sameascity": -99, "labelrank": 20, "featurecla": "Admin-1 scale rank", "name_len": 12, "mapcolor9": 2, "mapcolor13": 0, "fips": null, "fips_alt": null, "woe_id": 23425000, "woe_label": null, "woe_name": "St. Maarten", "latitude": 18.040099999999999, "longitude": -63.067700000000002, "sov_a3": "NL1", "adm0_a3": "SXM", "adm0_label": 8, "admin": "Sint Maarten", "geonunit": "Sint Maarten", "gu_a3": "SXM", "gn_id": -99, "gn_name": null, "gns_id": 0, "gns_name": null, "gn_level": 0, "gn_region": null, "gn_a1_code": "SX.", "region_sub": null, "sub_code": null, "gns_level": 0, "gns_lang": null, "gns_adm1": null, "gns_region": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -63.017568585052601, 18.033391472135662 ], [ -63.030629035999908, 18.019110419000043 ], [ -63.097645636999886, 18.035956122000044 ], [ -63.112172003999916, 18.043036200000103 ], [ -63.11888587099989, 18.051499742000146 ], [ -63.107004360999923, 18.059475002000084 ], [ -63.107004360999923, 18.0621092720001 ], [ -63.085886190999901, 18.058511251000112 ], [ -63.017568585052601, 18.033391472135662 ] ] ] } }
+]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/datamaps/src/js/data/sxm.json;TTF:charsetI"
+utf-8;F:digest"%(€«Ò˜O≈ÉO!˝∞Qå/ùµ•B
+ ¥:@?Ÿn:lengthi‹:dependencies_digest"%1¶è’Â<Ω©Ò~πº˛(Uê2–ÎM©CÈñœØha(ı+:idI"Ea265a859a200b488407b16dc8d5cecde64000d6c24387e32d60909ab7c7bc02c;F:
+mtimel+U¢¥e

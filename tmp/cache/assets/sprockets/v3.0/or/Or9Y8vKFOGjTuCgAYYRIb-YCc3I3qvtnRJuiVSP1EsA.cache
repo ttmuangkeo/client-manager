@@ -1,0 +1,49 @@
+{:uriI"öfile://app/assets/javascripts/node_modules/yargs/locales/nn.json?type=application/json&id=e25aa5d4ee88e90bc363ffcf1a53e9a8956d62b9b34e39217308fc037950534e:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/yargs/locales/nn.json;T:	nameI""node_modules/yargs/locales/nn;T:logical_pathI"'node_modules/yargs/locales/nn.json;T:content_typeI"application/json;T:sourceI"}{
+  "Commands:": "Kommandoar:",
+  "Options:": "Alternativ:",
+  "Examples:": "D√∏me:",
+  "boolean": "boolsk",
+  "count": "mengd",
+  "string": "streng",
+  "number": "nummer",
+  "array": "matrise",
+  "required": "obligatorisk",
+  "default": "standard",
+  "default:": "standard:",
+  "choices:": "val:",
+  "generated-value": "generert-verdi",
+  "Not enough non-option arguments: got %s, need at least %s": {
+    "one": "Ikkje nok ikkje-alternativ argument: fekk %s, treng minst %s",
+    "other": "Ikkje nok ikkje-alternativ argument: fekk %s, treng minst %s"
+  },
+  "Too many non-option arguments: got %s, maximum of %s": {
+    "one": "For mange ikkje-alternativ argument: fekk %s, maksimum %s",
+    "other": "For mange ikkje-alternativ argument: fekk %s, maksimum %s"
+  },
+  "Missing argument value: %s": {
+    "one": "Manglar argumentverdi: %s",
+    "other": "Manglar argumentverdiar: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Manglar obligatorisk argument: %s",
+    "other": "Manglar obligatoriske argument: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Ukjent argument: %s",
+    "other": "Ukjende argument: %s"
+  },
+  "Invalid values:": "Ugyldige verdiar:",
+  "Argument: %s, Given: %s, Choices: %s": "Argument: %s, Gjeve: %s, Val: %s",
+  "Argument check failed: %s": "Argumentsjekk mislukkast: %s",
+  "Implications failed:": "Konsekvensane mislukkast:",
+  "Not enough arguments following: %s": "Ikkje nok fylgjande argument: %s",
+  "Invalid JSON config file: %s": "Ugyldig JSON konfigurasjonsfil: %s",
+  "Path to JSON config file": "Bane til JSON konfigurasjonsfil",
+  "Show help": "Vis hjelp",
+  "Show version number": "Vis versjonsnummer"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/yargs/locales/nn.json;TTF:charsetI"
+utf-8;F:digest"%Fk-tûa∞ºè‡¸‰ Ù‡IÛ«Êò1ÆJ∞Êk@"0¶':lengthi}:dependencies_digest"%Í.ˆ´ _ø˝‡œJªéfDﬁˆp™oks◊bIí—ô,:B[:idI"Ee25aa5d4ee88e90bc363ffcf1a53e9a8956d62b9b34e39217308fc037950534e;F:
+mtimel+S¢¥e

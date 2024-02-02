@@ -1,0 +1,44 @@
+{:uriI"Ãfile://app/assets/javascripts/node_modules/mini-css-extract-plugin/node_modules/loader-utils/package.json?type=application/json&id=3132e1df5ad9f1d57d7e8cb38afae53d037acb4e3d5e37d6b25b977cd956acfd:ET:load_pathI"app/assets/javascripts;T:filenameI"gapp/assets/javascripts/node_modules/mini-css-extract-plugin/node_modules/loader-utils/package.json;T:	nameI"Knode_modules/mini-css-extract-plugin/node_modules/loader-utils/package;T:logical_pathI"Pnode_modules/mini-css-extract-plugin/node_modules/loader-utils/package.json;T:content_typeI"application/json;T:sourceI"d{
+  "name": "loader-utils",
+  "version": "1.4.2",
+  "author": "Tobias Koppers @sokra",
+  "description": "utils for webpack loaders",
+  "dependencies": {
+    "big.js": "^5.2.2",
+    "emojis-list": "^3.0.0",
+    "json5": "^1.0.1"
+  },
+  "scripts": {
+    "lint": "eslint lib test",
+    "pretest": "yarn lint",
+    "test": "jest",
+    "test:ci": "jest --coverage",
+    "release": "yarn test && standard-version"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpack/loader-utils.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.2",
+    "eslint": "^5.11.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "jest": "^21.2.1",
+    "prettier": "^1.19.1",
+    "standard-version": "^4.0.0"
+  },
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ufile-digest://app/assets/javascripts/node_modules/mini-css-extract-plugin/node_modules/loader-utils/package.json;TTF:charsetI"
+utf-8;F:digest"%©,m9.È®Ä"ŠÖª¨kÛË/éÂ€¡_¶^:lengthid:dependencies_digest"%²^x;H­\|t¼ÛâNA†Vá’ƒ.`–Ğó¤²âä:idI"E3132e1df5ad9f1d57d7e8cb38afae53d037acb4e3d5e37d6b25b977cd956acfd;F:
+mtimel+R¢´e

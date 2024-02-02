@@ -1,0 +1,28 @@
+{:uriI"·file://app/assets/javascripts/node_modules/datamaps/src/tests/components/jquery/composer.json?type=application/json&id=98bbf695d54b09756c26c8ef3a8f258dbe6dc8bab08781d1057fc27cedf5f1a7:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/datamaps/src/tests/components/jquery/composer.json;T:	nameI"?node_modules/datamaps/src/tests/components/jquery/composer;T:logical_pathI"Dnode_modules/datamaps/src/tests/components/jquery/composer.json;T:content_typeI"application/json;T:sourceI"O{
+    "name": "components/jquery",
+    "description": "jQuery JavaScript Library",
+    "type": "component",
+    "homepage": "http://jquery.com",
+    "license": "MIT",
+    "support": {
+        "irc": "irc://irc.freenode.org/jquery",
+        "issues": "http://bugs.jquery.com",
+        "forum": "http://forum.jquery.com",
+        "wiki": "http://docs.jquery.com/",
+        "source": "https://github.com/jquery/jquery"
+    },
+    "authors": [
+        {
+            "name": "John Resig",
+            "email": "jeresig@gmail.com"
+        }
+    ],
+    "extra": {
+        "js": "jquery.js"
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/datamaps/src/tests/components/jquery/composer.json;TTF:charsetI"
+utf-8;F:digest"%[˜±+5ªmÂ.îyº²¯¿_/–üiù¬‰ßquuh:lengthiO:dependencies_digest"%ËÎ?UÁ@™ëI‹­%¼Ö¥ P·Ð”«™i÷>åd:idI"E98bbf695d54b09756c26c8ef3a8f258dbe6dc8bab08781d1057fc27cedf5f1a7;F:
+mtimel+U¢´e

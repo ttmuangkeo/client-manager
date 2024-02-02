@@ -1,0 +1,47 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/default-gateway/package.json?type=application/json&id=9d93aed7d30e17e2509e261b8a81aa614e2c101ef1c19819d3995794de096867:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/default-gateway/package.json;T:	nameI")node_modules/default-gateway/package;T:logical_pathI".node_modules/default-gateway/package.json;T:content_typeI"application/json;T:sourceI"†{
+  "name": "default-gateway",
+  "version": "5.0.5",
+  "description": "Get the default network gateway, cross-platform.",
+  "author": "silverwind <me@silverwind.io>",
+  "repository": "silverwind/default-gateway",
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "test": "eslint *.js && node --pending-deprecation --trace-deprecation --throw-deprecation --trace-warnings test.js"
+  },
+  "engines": {
+    "node": "^8.12.0 || >=9.7.0"
+  },
+  "dependencies": {
+    "execa": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "6.6.0",
+    "eslint-config-silverwind": "5.0.0",
+    "updates": "9.0.1",
+    "ver": "6.0.2"
+  },
+  "files": [
+    "index.js",
+    "android.js",
+    "darwin.js",
+    "freebsd.js",
+    "linux.js",
+    "openbsd.js",
+    "sunos.js",
+    "win32.js",
+    "ibmi.js"
+  ],
+  "keywords": [
+    "default gateway",
+    "network",
+    "default",
+    "gateway",
+    "routing",
+    "route"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/default-gateway/package.json;TTF:charsetI"
+utf-8;F:digest"%Âvö€pö]}{¶»%döÒê†çÒû!QIˆ:lengthi†:dependencies_digest"%íš³˜—¹ú<á;ßñ;ÎuŒ>â	oMöƒ*DàŸêÂ:idI"E9d93aed7d30e17e2509e261b8a81aa614e2c101ef1c19819d3995794de096867;F:
+mtimel+R¢´e

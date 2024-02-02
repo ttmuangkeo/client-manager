@@ -1,0 +1,18 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pirate.json?type=application/json&id=f841ca1f5a4675b95a81222448e7195cd9661b5ec477a97c88b8105769e13c31:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pirate.json;T:	nameI"Fnode_modules/webpack-dev-server/node_modules/yargs/locales/pirate;T:logical_pathI"Knode_modules/webpack-dev-server/node_modules/yargs/locales/pirate.json;T:content_typeI"application/json;T:sourceI"9{
+  "Commands:": "Choose yer command:",
+  "Options:": "Options for me hearties!",
+  "Examples:": "Ex. marks the spot:",
+  "required": "requi-yar-ed",
+  "Missing required argument: %s": {
+    "one": "Ye be havin' to set the followin' argument land lubber: %s",
+    "other": "Ye be havin' to set the followin' arguments land lubber: %s"
+  },
+  "Show help": "Parlay this here code of conduct",
+  "Show version number": "'Tis the version ye be askin' fer",
+  "Arguments %s and %s are mutually exclusive" : "Yon scurvy dogs %s and %s be as bad as rum and a prudish wench"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pirate.json;TTF:charsetI"
+utf-8;F:digest"%f­Ñ/HrT….ºÂ"P­»ÈYµÞ@0ÐG€ä6:lengthi9:dependencies_digest"%mˆš¢[)çmÒ’v=ý÷&ßå´q“ê)±£š]ã«:idI"Ef841ca1f5a4675b95a81222448e7195cd9661b5ec477a97c88b8105769e13c31;F:
+mtimel+R¢´e

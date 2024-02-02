@@ -1,0 +1,83 @@
+{:uriI"×file://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/anymatch/node_modules/normalize-path/package.json?type=application/json&id=4555ea8a7907812fa4c99f2d0484597e8766ee4ba6357e2cdd1d1dd54d975646:ET:load_pathI"app/assets/javascripts;T:filenameI"{app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/anymatch/node_modules/normalize-path/package.json;T:	nameI"_node_modules/watchpack-chokidar2/node_modules/anymatch/node_modules/normalize-path/package;T:logical_pathI"dnode_modules/watchpack-chokidar2/node_modules/anymatch/node_modules/normalize-path/package.json;T:content_typeI"application/json;T:sourceI"ø{
+  "name": "normalize-path",
+  "description": "Normalize file path slashes to be unix-like forward slashes. Also condenses repeat slashes to a single slash and removes and trailing slashes unless disabled.",
+  "version": "2.1.1",
+  "homepage": "https://github.com/jonschlinkert/normalize-path",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Blaine Bublitz <blaine.bublitz@gmail.com> (https://twitter.com/BlaineBublitz)",
+    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "jonschlinkert/normalize-path",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/normalize-path/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "remove-trailing-separator": "^1.0.1"
+  },
+  "devDependencies": {
+    "benchmarked": "^0.1.1",
+    "gulp-format-md": "^0.1.11",
+    "minimist": "^1.2.0",
+    "mocha": "*"
+  },
+  "keywords": [
+    "backslash",
+    "file",
+    "filepath",
+    "fix",
+    "forward",
+    "fp",
+    "fs",
+    "normalize",
+    "path",
+    "slash",
+    "slashes",
+    "trailing",
+    "unix",
+    "urix"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "contains-path",
+        "ends-with",
+        "is-absolute",
+        "is-relative",
+        "parse-filepath",
+        "path-ends-with",
+        "path-segments",
+        "rewrite-ext",
+        "unixify"
+      ],
+      "description": "Other useful libraries for working with paths in node.js:"
+    },
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"„file-digest://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/anymatch/node_modules/normalize-path/package.json;TTF:charsetI"
+utf-8;F:digest"%Í-ˆ>ÑOE%Ì:‡Dac'Ó	mîó_L`ÚÉ×–:lengthiø:dependencies_digest"%ÿ!ul³\‘PÒŞÆó :~œZ”À9â»†ö•Q@:idI"E4555ea8a7907812fa4c99f2d0484597e8766ee4ba6357e2cdd1d1dd54d975646;F:
+mtimel+Q¢´e

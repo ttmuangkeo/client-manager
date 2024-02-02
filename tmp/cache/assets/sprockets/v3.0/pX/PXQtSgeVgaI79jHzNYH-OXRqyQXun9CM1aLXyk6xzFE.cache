@@ -1,0 +1,72 @@
+{:uriI"©file://app/assets/javascripts/node_modules/vue-flatpickr-component/package.json?type=application/json&id=5464cd3102b402fe35b7825da8ab95c2acbad6ce2e3757ad9f474cb4854a5104:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/vue-flatpickr-component/package.json;T:	nameI"1node_modules/vue-flatpickr-component/package;T:logical_pathI"6node_modules/vue-flatpickr-component/package.json;T:content_typeI"application/json;T:sourceI"o{
+  "name": "vue-flatpickr-component",
+  "version": "8.1.8",
+  "description": "Vue.js component for Flatpickr date-time picker",
+  "main": "dist/vue-flatpickr.js",
+  "files": [
+    "src",
+    "dist",
+    "types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurk91/vue-flatpickr-component.git"
+  },
+  "keywords": [
+    "vue",
+    "flatpickr",
+    "datepicker",
+    "timepicker"
+  ],
+  "author": "ankurk91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankurk91/vue-flatpickr-component/issues"
+  },
+  "homepage": "https://github.com/ankurk91/vue-flatpickr-component",
+  "scripts": {
+    "test": "jest --runInBand",
+    "test:watch": "npm run test --watch --notify",
+    "start": "npm run dev",
+    "dev": "webpack serve --node-env=development --progress --hot --config=webpack.config.dev.js",
+    "docs": "webpack --node-env=production --config=webpack.config.dev.js --progress --mode=production",
+    "build": "webpack --node-env=production --progress --mode=production",
+    "prepublishOnly": "npm run test && npm run build"
+  },
+  "dependencies": {
+    "flatpickr": "^4.6.13"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/plugin-transform-object-assign": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "@vue/test-utils": "^1.1.4",
+    "babel-jest": "^29.0.0",
+    "babel-loader": "^9.1.2",
+    "bootstrap": "^4.6.2",
+    "css-loader": "^6.0",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^5.3.0",
+    "jest": "^29.1.2",
+    "jest-environment-jsdom": "^29.1.2",
+    "mini-css-extract-plugin": "^2.6",
+    "style-loader": "^3.3.1",
+    "vue": "^2.7.14",
+    "vue-loader": "^15.10",
+    "vue-template-compiler": "^2.7.14",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.0"
+  },
+  "peerDependencies": {
+    "vue": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=12.13.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"[file-digest://app/assets/javascripts/node_modules/vue-flatpickr-component/package.json;TTF:charsetI"
+utf-8;F:digest"%%l¸Ğ™¨QÄòNÁ¦+XK–ä¶S©µzÙ¿‚ÒÊ:lengthio:dependencies_digest"%$Œ¯Â:5À[£dµ“!u®’øÙâx‚3oIç}M­Dâ§:idI"E5464cd3102b402fe35b7825da8ab95c2acbad6ce2e3757ad9f474cb4854a5104;F:
+mtimel+R¢´e

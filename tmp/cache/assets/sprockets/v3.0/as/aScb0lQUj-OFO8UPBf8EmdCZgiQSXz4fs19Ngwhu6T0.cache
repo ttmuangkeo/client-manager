@@ -1,0 +1,46 @@
+{:uriI"´file://app/assets/javascripts/node_modules/postcss-normalize-unicode/package.json?type=application/json&id=1edf1174f03b1b92f356306733c7380b403fe96e750e4967bc76abeaf24438b0:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/postcss-normalize-unicode/package.json;T:	nameI"3node_modules/postcss-normalize-unicode/package;T:logical_pathI"8node_modules/postcss-normalize-unicode/package.json;T:content_typeI"application/json;T:sourceI"≤{
+  "name": "postcss-normalize-unicode",
+  "version": "4.0.1",
+  "description": "Normalize unicode-range descriptors, and can convert to wildcard ranges.",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "dependencies": {
+    "browserslist": "^4.0.0",
+    "postcss": "^7.0.0",
+    "postcss-value-parser": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"]file-digest://app/assets/javascripts/node_modules/postcss-normalize-unicode/package.json;TTF:charsetI"
+utf-8;F:digest"%¿7sßÿ«÷Ú≈OAﬁ°\Jw*’2„wEDﬂøPë:lengthi≤:dependencies_digest"%˙≈Êlî®ÁTﬁF÷ß.î8Q!TCvN~M:”n„0K:idI"E1edf1174f03b1b92f356306733c7380b403fe96e750e4967bc76abeaf24438b0;F:
+mtimel+Q¢¥e

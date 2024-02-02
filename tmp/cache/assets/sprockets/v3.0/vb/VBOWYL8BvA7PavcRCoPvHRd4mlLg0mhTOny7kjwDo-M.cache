@@ -1,0 +1,37 @@
+{:uriI"›file://app/assets/javascripts/node_modules/hmac-drbg/package.json?type=application/json&id=09d5ea0e47776f9c0c999cf2d3bf2aabfc1082eb8ec0fed93d2766c896da527f:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/hmac-drbg/package.json;T:	nameI"#node_modules/hmac-drbg/package;T:logical_pathI"(node_modules/hmac-drbg/package.json;T:content_typeI"application/json;T:sourceI"ğ{
+  "name": "hmac-drbg",
+  "version": "1.0.1",
+  "description": "Deterministic random bit generator (hmac)",
+  "main": "lib/hmac-drbg.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/hmac-drbg.git"
+  },
+  "keywords": [
+    "hmac",
+    "drbg",
+    "prng"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/hmac-drbg/issues"
+  },
+  "homepage": "https://github.com/indutny/hmac-drbg#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "hash.js": "^1.0.3",
+    "minimalistic-assert": "^1.0.0",
+    "minimalistic-crypto-utils": "^1.0.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/hmac-drbg/package.json;TTF:charsetI"
+utf-8;F:digest"%Qhm»•FÍq:»Û×¯oL8Ñr4U˜f¯>:lengthiğ:dependencies_digest"%(”ÂA;Ì{J,xêka ùí›‚!ë_Ï°A:idI"E09d5ea0e47776f9c0c999cf2d3bf2aabfc1082eb8ec0fed93d2766c896da527f;F:
+mtimel+Q¢´e

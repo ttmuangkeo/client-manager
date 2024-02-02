@@ -1,0 +1,46 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/estraverse/package.json?type=application/json&id=689c20bf50b7c7c729da9ecb6fd60a4e62062f29ddadfb5b49a3b3043c35b6fc:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/estraverse/package.json;T:	nameI"$node_modules/estraverse/package;T:logical_pathI")node_modules/estraverse/package.json;T:content_typeI"application/json;T:sourceI"ñ{
+  "name": "estraverse",
+  "description": "ECMAScript JS AST traversal functions",
+  "homepage": "https://github.com/estools/estraverse",
+  "main": "estraverse.js",
+  "version": "5.3.0",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "maintainers": [
+    {
+      "name": "Yusuke Suzuki",
+      "email": "utatane.tea@gmail.com",
+      "web": "http://github.com/Constellation"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/estools/estraverse.git"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.3.13",
+    "chai": "^2.1.1",
+    "espree": "^1.11.0",
+    "gulp": "^3.8.10",
+    "gulp-bump": "^0.2.2",
+    "gulp-filter": "^2.0.0",
+    "gulp-git": "^1.0.1",
+    "gulp-tag-version": "^1.3.0",
+    "jshint": "^2.5.6",
+    "mocha": "^2.1.0"
+  },
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "test": "npm run-script lint && npm run-script unit-test",
+    "lint": "jshint estraverse.js",
+    "unit-test": "mocha --compilers js:babel-register"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/estraverse/package.json;TTF:charsetI"
+utf-8;F:digest"%:[á` :Ò
+¸ò½ª¢ı”ëó@9–¿L¶–æ¨Je:lengthiñ:dependencies_digest"%N;z§¥‰Ù&òë[t‹ıa×ãªèK³iËRµ:idI"E689c20bf50b7c7c729da9ecb6fd60a4e62062f29ddadfb5b49a3b3043c35b6fc;F:
+mtimel+R¢´e

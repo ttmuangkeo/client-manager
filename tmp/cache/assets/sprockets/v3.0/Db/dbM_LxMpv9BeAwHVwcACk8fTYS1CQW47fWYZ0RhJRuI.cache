@@ -1,0 +1,36 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/ar.json?type=application/json&id=98852c753116bacc28e82dc8f55acc86237d4ef7d426418e4a0145979939f164:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/ar.json;T:	nameI"-node_modules/vee-validate/dist/locale/ar;T:logical_pathI"2node_modules/vee-validate/dist/locale/ar.json;T:content_typeI"application/json;T:sourceI"<{
+  "code": "ar",
+  "messages": {
+    "alpha": "{_field_} يجب ان يحتوي على حروف فقط",
+    "alpha_num": "{_field_} قد يحتوي فقط على حروف وارقام",
+    "alpha_dash": "{_field_} قد يحتوي على حروف او الرموز - و _",
+    "alpha_spaces": "{_field_} قد يحتوي فقط على حروف ومسافات",
+    "between": "قيمة {_field_} يجب ان تكون ما بين {min} و {max}",
+    "confirmed": "{_field_} لا يماثل التأكيد",
+    "digits": "{_field_} يجب ان تحتوي فقط على ارقام والا يزيد عددها عن {length} رقم",
+    "dimensions": "{_field_} يجب ان تكون بمقاس {width} بكسل في {height} بكسل",
+    "email": "{_field_} يجب ان يكون بريدا اليكتروني صحيح",
+    "excluded": "الحقل {_field_} غير صحيح",
+    "ext": "نوع ملف {_field_} غير صحيح",
+    "image": "{_field_} يجب ان تكون صورة",
+    "integer": "الحقل {_field_} يجب ان يكون عدداً صحيحاً",
+    "length": "حقل {_field_} يجب الا يزيد عن {length}",
+    "max_value": "قيمة الحقل {_field_} يجب ان تكون اصغر من {max} او تساويها",
+    "max": "الحقل {_field_} يجب ان يحتوي على {length} حروف على الأكثر",
+    "mimes": "نوع ملف {_field_} غير صحيح",
+    "min_value": "قيمة الحقل {_field_} يجب ان تكون اكبر من {min} او تساويها",
+    "min": "الحقل {_field_} يجب ان يحتوي على {length} حروف على الأقل",
+    "numeric": "{_field_} يمكن ان يحتوي فقط على ارقام",
+    "oneOf": "الحقل {_field_} يجب ان يكون قيمة صحيحة",
+    "regex": "الحقل {_field_} غير صحيح",
+    "required": "{_field_} مطلوب",
+    "required_if": "حقل {_field_} مطلوب",
+    "size": "{_field_} يجب ان يكون اقل من {size} كيلوبايت",
+    "double": "يجب أن يكون الحقل {_field_} عددًا عشريًا صالحًا"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/ar.json;TTF:charsetI"
+utf-8;F:digest"%_��n$����(Q��"��G�W��ˑ� �:lengthi<:dependencies_digest"%P�Oc�U{z|��M�m�F@cz�w��R�֥:idI"E98852c753116bacc28e82dc8f55acc86237d4ef7d426418e4a0145979939f164;F:
+mtimel+S��e

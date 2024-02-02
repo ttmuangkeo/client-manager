@@ -1,0 +1,40 @@
+{:uriI"™file://app/assets/javascripts/node_modules/assert/node_modules/util/package.json?type=application/json&id=f365d6a37062fcd99a01c4fc2c8aa6d1caa8d1e5b7aaa3bb7c3b034ca1ebf95e:ET:load_pathI"app/assets/javascripts;T:filenameI"Napp/assets/javascripts/node_modules/assert/node_modules/util/package.json;T:	nameI"2node_modules/assert/node_modules/util/package;T:logical_pathI"7node_modules/assert/node_modules/util/package.json;T:content_typeI"application/json;T:sourceI"∏{
+  "author": {
+    "name": "Joyent",
+    "url": "http://www.joyent.com"
+  },
+  "name": "util",
+  "description": "Node.JS util module",
+  "keywords": [
+    "util"
+  ],
+  "version": "0.10.4",
+  "homepage": "https://github.com/defunctzombie/node-util",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/defunctzombie/node-util"
+  },
+  "main": "./util.js",
+  "files": [
+    "util.js",
+    "support"
+  ],
+  "scripts": {
+    "test": "node test/node/*.js && zuul test/browser/*.js"
+  },
+  "dependencies": {
+    "inherits": "2.0.3"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "zuul": "~1.0.9"
+  },
+  "browser": {
+    "./support/isBuffer.js": "./support/isBufferBrowser.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"\file-digest://app/assets/javascripts/node_modules/assert/node_modules/util/package.json;TTF:charsetI"
+utf-8;F:digest"%R°ÆFa5∂a_ê‹∂Rä2∞N~j)≥rdI˝¡€πI6V†:lengthi∏:dependencies_digest"%kÚ“§Ÿ;dEx∏u:*¡ÏçD'D·ÍúæKYq"Ô:idI"Ef365d6a37062fcd99a01c4fc2c8aa6d1caa8d1e5b7aaa3bb7c3b034ca1ebf95e;F:
+mtimel+R¢¥e

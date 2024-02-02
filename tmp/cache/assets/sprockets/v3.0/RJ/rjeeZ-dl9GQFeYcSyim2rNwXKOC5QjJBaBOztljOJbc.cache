@@ -1,0 +1,59 @@
+{:uriI"file://app/assets/javascripts/node_modules/static-eval/package.json?type=application/json&id=9530995351bfa44e164841adf7d69ec44f4924f27e03c99a1c8df8b9c3fb65ee:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/static-eval/package.json;T:	nameI"%node_modules/static-eval/package;T:logical_pathI"*node_modules/static-eval/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "static-eval",
+  "description": "evaluate statically-analyzable expressions",
+  "version": "2.1.1",
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "contributors": [
+    {
+      "name": "RenÃ©e Kooi",
+      "email": "renee@kooi.me"
+    }
+  ],
+  "dependencies": {
+    "escodegen": "^2.1.0"
+  },
+  "devDependencies": {
+    "esprima": "^3.1.3",
+    "tape": "^4.10.1"
+  },
+  "homepage": "https://github.com/browserify/static-eval",
+  "keywords": [
+    "abstract",
+    "analysis",
+    "ast",
+    "esprima",
+    "eval",
+    "expression",
+    "static",
+    "syntax",
+    "tree"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/static-eval.git"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "ff/latest",
+      "chrome/latest",
+      "opera/latest",
+      "safari/latest"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/static-eval/package.json;TTF:charsetI"
+utf-8;F:digest"%²Iš¿@aEYÔÄ_aòpxõÅ¿¯ R@·qüØ»O.:lengthi:dependencies_digest"%®Ïüóû°ò‡)Ù¾*Ü-ûúFÄÒäeí¥g¿rH:idI"E9530995351bfa44e164841adf7d69ec44f4924f27e03c99a1c8df8b9c3fb65ee;F:
+mtimel+R¢´e

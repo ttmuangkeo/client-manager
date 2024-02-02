@@ -1,0 +1,42 @@
+{:uriI"­file://app/assets/javascripts/node_modules/body-parser/node_modules/ms/package.json?type=application/json&id=e18a560fcdca76c73b5853d873bc31d9fd5d1942e8c46e68c57a1af1f95a5f60:ET:load_pathI"app/assets/javascripts;T:filenameI"Qapp/assets/javascripts/node_modules/body-parser/node_modules/ms/package.json;T:	nameI"5node_modules/body-parser/node_modules/ms/package;T:logical_pathI":node_modules/body-parser/node_modules/ms/package.json;T:content_typeI"application/json;T:sourceI"À{
+  "name": "ms",
+  "version": "2.0.0",
+  "description": "Tiny milisecond conversion utility",
+  "repository": "zeit/ms",
+  "main": "./index",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "precommit": "lint-staged",
+    "lint": "eslint lib/* bin/*",
+    "test": "mocha tests.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint:recommended",
+    "env": {
+      "node": true,
+      "es6": true
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run lint",
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "expect.js": "0.3.1",
+    "husky": "0.13.3",
+    "lint-staged": "3.4.1",
+    "mocha": "3.4.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"_file-digest://app/assets/javascripts/node_modules/body-parser/node_modules/ms/package.json;TTF:charsetI"
+utf-8;F:digest"%0ûú£„/c—ŠÔ¼×íÂM'{ŽGUþ“í¨ËÈ·L:lengthiÀ:dependencies_digest"%jþÃ½ëÅã€`×5©£xò`mãMÖÃƒÌ¦‡ú>ž:idI"Ee18a560fcdca76c73b5853d873bc31d9fd5d1942e8c46e68c57a1af1f95a5f60;F:
+mtimel+Q¢´e

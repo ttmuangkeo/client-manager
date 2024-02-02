@@ -1,0 +1,56 @@
+{:uriI"®file://app/assets/javascripts/node_modules/postcss-modules-values/package.json?type=application/json&id=195c357c7e8964a69aa4df1fe56c56fa6cf43a0382e41a543173e19c0cd8efb6:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/postcss-modules-values/package.json;T:	nameI"0node_modules/postcss-modules-values/package;T:logical_pathI"5node_modules/postcss-modules-values/package.json;T:content_typeI"application/json;T:sourceI"7{
+  "name": "postcss-modules-values",
+  "version": "1.3.0",
+  "description": "PostCSS plugin for CSS Modules to pass arbitrary values between your module files",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "standard src test",
+    "build": "babel --out-dir lib src",
+    "autotest": "chokidar src test -c 'npm test'",
+    "test": "mocha --compilers js:babel-core/register",
+    "posttest": "npm run lint && npm run build",
+    "travis": "npm run test",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-modules/postcss-modules-values.git"
+  },
+  "keywords": [
+    "css",
+    "modules",
+    "postcss"
+  ],
+  "author": "Glen Maddern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css-modules/postcss-modules-values/issues"
+  },
+  "homepage": "https://github.com/css-modules/postcss-modules-values#readme",
+  "devDependencies": {
+    "babel-cli": "^6.5.2",
+    "babel-core": "^6.5.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "chokidar": "^1.2.0",
+    "mocha": "^3.0.2",
+    "standard": "^8.4.0"
+  },
+  "dependencies": {
+    "icss-replace-symbols": "^1.1.0",
+    "postcss": "^6.0.1"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ],
+    "plugins": [
+      "add-module-exports"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/postcss-modules-values/package.json;TTF:charsetI"
+utf-8;F:digest"%-’äˆ€ó¸¡#°kÙD‘éiha!.K˚'ë»≠Í†_û:lengthi7:dependencies_digest"%ˇ8ál¿X•	èà2-7f¯Qí%ÔOŒ<˘#pΩ:idI"E195c357c7e8964a69aa4df1fe56c56fa6cf43a0382e41a543173e19c0cd8efb6;F:
+mtimel+Q¢¥e

@@ -1,0 +1,40 @@
+{:uriI"†file://app/assets/javascripts/node_modules/faye-websocket/package.json?type=application/json&id=491c2d3dc8d410f19864110d0e3815b85b135a101563b74202392820f8ea4527:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/faye-websocket/package.json;T:	nameI"(node_modules/faye-websocket/package;T:logical_pathI"-node_modules/faye-websocket/package.json;T:content_typeI"application/json;T:sourceI"é{
+          "name": "faye-websocket",
+          "description": "Standards-compliant WebSocket server and client",
+          "homepage": "https://github.com/faye/faye-websocket-node",
+          "author": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
+          "keywords": [
+                    "websocket",
+                    "eventsource"
+          ],
+          "license": "Apache-2.0",
+          "version": "0.11.4",
+          "engines": {
+                    "node": ">=0.8.0"
+          },
+          "files": [
+                    "lib"
+          ],
+          "main": "./lib/faye/websocket",
+          "dependencies": {
+                    "websocket-driver": ">=0.5.1"
+          },
+          "devDependencies": {
+                    "jstest": "*",
+                    "pace": "*",
+                    "permessage-deflate": "*"
+          },
+          "scripts": {
+                    "test": "jstest spec/runner.js"
+          },
+          "repository": {
+                    "type": "git",
+                    "url": "git://github.com/faye/faye-websocket-node.git"
+          },
+          "bugs": "https://github.com/faye/faye-websocket-node/issues"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/faye-websocket/package.json;TTF:charsetI"
+utf-8;F:digest"%˘≥Õı¶üo•€H gÁL?“T<yê∞Åà‘⁄ΩÛ°ÍM:lengthié:dependencies_digest"%øv»ˆ3∞>‰Ap¬8Àn]`∂ª;¶”N≥ùÆmÎà?:idI"E491c2d3dc8d410f19864110d0e3815b85b135a101563b74202392820f8ea4527;F:
+mtimel+R¢¥e

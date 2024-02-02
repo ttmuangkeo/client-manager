@@ -1,0 +1,61 @@
+{:uriI"±file://app/assets/javascripts/node_modules/eslint/node_modules/ansi-styles/package.json?type=application/json&id=349c095dc3fa9ac9c524e2794896c7e15d4740ff0b745bdd3c2b26831a486533:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/node_modules/eslint/node_modules/ansi-styles/package.json;T:	nameI"9node_modules/eslint/node_modules/ansi-styles/package;T:logical_pathI">node_modules/eslint/node_modules/ansi-styles/package.json;T:content_typeI"application/json;T:sourceI"{
+	"name": "ansi-styles",
+	"version": "4.3.0",
+	"description": "ANSI escape codes for styling strings in the terminal",
+	"license": "MIT",
+	"repository": "chalk/ansi-styles",
+	"funding": "https://github.com/chalk/ansi-styles?sponsor=1",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd",
+		"screenshot": "svg-term --command='node screenshot' --out=screenshot.svg --padding=3 --width=55 --height=3 --at=1000 --no-cursor"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"ansi",
+		"styles",
+		"color",
+		"colour",
+		"colors",
+		"terminal",
+		"console",
+		"cli",
+		"string",
+		"tty",
+		"escape",
+		"formatting",
+		"rgb",
+		"256",
+		"shell",
+		"xterm",
+		"log",
+		"logging",
+		"command-line",
+		"text"
+	],
+	"dependencies": {
+		"color-convert": "^2.0.1"
+	},
+	"devDependencies": {
+		"@types/color-convert": "^1.9.0",
+		"ava": "^2.3.0",
+		"svg-term-cli": "^2.1.1",
+		"tsd": "^0.11.0",
+		"xo": "^0.25.3"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"cfile-digest://app/assets/javascripts/node_modules/eslint/node_modules/ansi-styles/package.json;TTF:charsetI"
+utf-8;F:digest"%ÔğhS÷v‘^˜F„„²¯æ©íıÒİ²{Šˆ=:lengthi:dependencies_digest"%B¹“{76G0Ï#6Eót¤­%LdßrS+YüJ:idI"E349c095dc3fa9ac9c524e2794896c7e15d4740ff0b745bdd3c2b26831a486533;F:
+mtimel+Q¢´e

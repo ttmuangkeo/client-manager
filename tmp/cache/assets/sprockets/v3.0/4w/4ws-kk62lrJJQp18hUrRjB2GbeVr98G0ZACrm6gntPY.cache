@@ -1,0 +1,43 @@
+{:uriI"›file://app/assets/javascripts/node_modules/dns-equal/package.json?type=application/json&id=b0e703e6c44270f574fdb33b52e3d0cfa971cc664204b0a48f8b302dbeb7fc14:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/dns-equal/package.json;T:	nameI"#node_modules/dns-equal/package;T:logical_pathI"(node_modules/dns-equal/package.json;T:content_typeI"application/json;T:sourceI"9{
+  "name": "dns-equal",
+  "version": "1.0.0",
+  "description": "Compare DNS record strings for equality",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^5.4.1"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/dns-equal.git"
+  },
+  "keywords": [
+    "dns",
+    "compare",
+    "comparing",
+    "equal",
+    "equality",
+    "match",
+    "downcase",
+    "lowercase",
+    "case-insensitive"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/dns-equal/issues"
+  },
+  "homepage": "https://github.com/watson/dns-equal#readme",
+  "coordinates": [
+    56.010004025953165,
+    11.961870541375674
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/dns-equal/package.json;TTF:charsetI"
+utf-8;F:digest"%¹ª$iËÅ&ê_­6|ï‡=r¢â•›ºz”2çY€þ·:lengthi9:dependencies_digest"%ðóÉîÇ)ñq<2b	8d°´4.çuXÂR,ù>tä:idI"Eb0e703e6c44270f574fdb33b52e3d0cfa971cc664204b0a48f8b302dbeb7fc14;F:
+mtimel+Q¢´e

@@ -1,0 +1,44 @@
+{:uriI"›file://app/assets/javascripts/node_modules/duplexify/package.json?type=application/json&id=12d163bb4ddc1ec20f243c93a1b7bd67720c72dbc68edbc59675c9e2633b6311:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/duplexify/package.json;T:	nameI"#node_modules/duplexify/package;T:logical_pathI"(node_modules/duplexify/package.json;T:content_typeI"application/json;T:sourceI"“{
+  "name": "duplexify",
+  "version": "3.7.1",
+  "description": "Turn a writable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input",
+  "main": "index.js",
+  "dependencies": {
+    "end-of-stream": "^1.0.0",
+    "inherits": "^2.0.1",
+    "readable-stream": "^2.0.0",
+    "stream-shift": "^1.0.0"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.5.2",
+    "tape": "^4.0.0",
+    "through2": "^2.0.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mafintosh/duplexify"
+  },
+  "keywords": [
+    "duplex",
+    "streams2",
+    "streams",
+    "stream",
+    "writable",
+    "readable",
+    "async"
+  ],
+  "author": "Mathias Buus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/duplexify/issues"
+  },
+  "homepage": "https://github.com/mafintosh/duplexify"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/duplexify/package.json;TTF:charsetI"
+utf-8;F:digest"%ŸWú‚(aj¹kÍnÙÂŸm„Àİ™y¿ô¸É’Y:lengthi“:dependencies_digest"%Ÿ7ÕÁKdä©Nu!nSœî6+b+•²v6¾ß‡ùÑú:idI"E12d163bb4ddc1ec20f243c93a1b7bd67720c72dbc68edbc59675c9e2633b6311;F:
+mtimel+Q¢´e

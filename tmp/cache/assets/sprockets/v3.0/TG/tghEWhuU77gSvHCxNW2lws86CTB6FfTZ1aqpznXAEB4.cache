@@ -1,0 +1,47 @@
+{:uriI"©file://app/assets/javascripts/node_modules/is-fullwidth-code-point/package.json?type=application/json&id=47f9ec8c47c06114d4789ae66c993c5d694ce8a43cda9c835212ccc4a0647649:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/is-fullwidth-code-point/package.json;T:	nameI"1node_modules/is-fullwidth-code-point/package;T:logical_pathI"6node_modules/is-fullwidth-code-point/package.json;T:content_typeI"application/json;T:sourceI"á{
+	"name": "is-fullwidth-code-point",
+	"version": "3.0.0",
+	"description": "Check if the character represented by a given Unicode code point is fullwidth",
+	"license": "MIT",
+	"repository": "sindresorhus/is-fullwidth-code-point",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd-check"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"fullwidth",
+		"full-width",
+		"full",
+		"width",
+		"unicode",
+		"character",
+		"string",
+		"codepoint",
+		"code",
+		"point",
+		"is",
+		"detect",
+		"check"
+	],
+	"devDependencies": {
+		"ava": "^1.3.1",
+		"tsd-check": "^0.5.0",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"[file-digest://app/assets/javascripts/node_modules/is-fullwidth-code-point/package.json;TTF:charsetI"
+utf-8;F:digest"%[HIl¡)>ÔJg{w~£¹fÈ¼"‹Ç_èXtšx¬2:lengthiá:dependencies_digest"%9çá´)šC>†À*ç·½xxJ?üÅU¿Â	ù@p¶ÕD:idI"E47f9ec8c47c06114d4789ae66c993c5d694ce8a43cda9c835212ccc4a0647649;F:
+mtimel+Q¢´e

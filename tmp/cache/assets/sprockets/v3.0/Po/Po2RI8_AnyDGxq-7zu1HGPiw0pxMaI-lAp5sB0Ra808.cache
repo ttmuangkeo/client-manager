@@ -1,0 +1,59 @@
+{:uriI"®file://app/assets/javascripts/node_modules/pkg-dir/node_modules/find-up/package.json?type=application/json&id=55dbc383b11e44c5dd1dfd650b52a9fdd5cad0515ca396ed802afe8b1bea9c78:ET:load_pathI"app/assets/javascripts;T:filenameI"Rapp/assets/javascripts/node_modules/pkg-dir/node_modules/find-up/package.json;T:	nameI"6node_modules/pkg-dir/node_modules/find-up/package;T:logical_pathI";node_modules/pkg-dir/node_modules/find-up/package.json;T:content_typeI"application/json;T:sourceI"S{
+	"name": "find-up",
+	"version": "4.1.0",
+	"description": "Find a file or directory by walking up parent directories",
+	"license": "MIT",
+	"repository": "sindresorhus/find-up",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"find",
+		"up",
+		"find-up",
+		"findup",
+		"look-up",
+		"look",
+		"file",
+		"search",
+		"match",
+		"package",
+		"resolve",
+		"parent",
+		"parents",
+		"folder",
+		"directory",
+		"walk",
+		"walking",
+		"path"
+	],
+	"dependencies": {
+		"locate-path": "^5.0.0",
+		"path-exists": "^4.0.0"
+	},
+	"devDependencies": {
+		"ava": "^2.1.0",
+		"is-path-inside": "^2.1.0",
+		"tempy": "^0.3.0",
+		"tsd": "^0.7.3",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"`file-digest://app/assets/javascripts/node_modules/pkg-dir/node_modules/find-up/package.json;TTF:charsetI"
+utf-8;F:digest"%¹bm
+é~ËÄxCÿWÄb¶¬ü£Z&RÜÍí}mÎS:lengthiS:dependencies_digest"%B¶öWÈ”¦Ç£=EBe5TÊ´FQfÎÙÀå[è•:idI"E55dbc383b11e44c5dd1dfd650b52a9fdd5cad0515ca396ed802afe8b1bea9c78;F:
+mtimel+Q¢´e

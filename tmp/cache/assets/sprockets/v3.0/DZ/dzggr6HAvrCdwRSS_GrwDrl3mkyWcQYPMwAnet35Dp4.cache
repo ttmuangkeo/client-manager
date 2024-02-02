@@ -1,0 +1,20 @@
+{:uriI"‡file://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/unevaluated.json?type=application/json&id=db5280ac0c85ea175d054db1c82b573f2a7c0817bb1429106dff6b423ca8ae40:ET:load_pathI"app/assets/javascripts;T:filenameI"app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/unevaluated.json;T:	nameI"hnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/unevaluated;T:logical_pathI"mnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/unevaluated.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://json-schema.org/draft/2020-12/meta/unevaluated",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/unevaluated": true
+  },
+  "$dynamicAnchor": "meta",
+
+  "title": "Unevaluated applicator vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "unevaluatedItems": {"$dynamicRef": "#meta"},
+    "unevaluatedProperties": {"$dynamicRef": "#meta"}
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"çfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/unevaluated.json;TTF:charsetI"
+utf-8;F:digest"%èuÙ'GE˙£.JΩ∫ﬁôÙõ!ﬂ"_R˜#µ∆ C∞Ì :lengthiÿ:dependencies_digest"%Uä ¬+x¥ÓL„ tF€fØ	$:πf≤Ï—#Á˘^:idI"Edb5280ac0c85ea175d054db1c82b573f2a7c0817bb1429106dff6b423ca8ae40;F:
+mtimel+S¢¥e

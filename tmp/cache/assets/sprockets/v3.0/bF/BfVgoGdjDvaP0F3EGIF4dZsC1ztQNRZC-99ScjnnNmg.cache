@@ -1,0 +1,45 @@
+{:uriI"¶file://app/assets/javascripts/node_modules/icss-replace-symbols/package.json?type=application/json&id=29493d8cdc76983a571f3721444dee3055a4f801ea84e6f9c66a58f815d48ea6:ET:load_pathI"app/assets/javascripts;T:filenameI"Japp/assets/javascripts/node_modules/icss-replace-symbols/package.json;T:	nameI".node_modules/icss-replace-symbols/package;T:logical_pathI"3node_modules/icss-replace-symbols/package.json;T:content_typeI"application/json;T:sourceI"C{
+  "name": "icss-replace-symbols",
+  "version": "1.1.0",
+  "description": "Replacing symbols during the linking phase of ICSS",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "standard src test",
+    "build": "babel --out-dir lib src",
+    "autotest": "chokidar src test -c 'npm test'",
+    "test": "mocha --compilers js:babel-register",
+    "posttest": "npm run lint && npm run build",
+    "travis": "npm run test",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-modules/icss-replace-symbols.git"
+  },
+  "keywords": [
+    "css",
+    "modules",
+    "icss",
+    "postcss"
+  ],
+  "author": "Glen Maddern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css-modules/icss-replace-symbols/issues"
+  },
+  "homepage": "https://github.com/css-modules/icss-replace-symbols#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-register": "^6.18.0",
+    "chokidar": "^1.3.0",
+    "mocha": "^3.1.2",
+    "postcss": "^6.0.1",
+    "standard": "^8.4.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Xfile-digest://app/assets/javascripts/node_modules/icss-replace-symbols/package.json;TTF:charsetI"
+utf-8;F:digest"%,ÿœ•6V	atÕª'I—|›ÉA”"Åqåiÿ/[◊:lengthiC:dependencies_digest"%cuªHw‰¶ˇ≥ê?ƒ1-‡yêı€Œm=¥_'‹c™Î¡:idI"E29493d8cdc76983a571f3721444dee3055a4f801ea84e6f9c66a58f815d48ea6;F:
+mtimel+Q¢¥e

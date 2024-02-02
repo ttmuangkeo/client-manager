@@ -1,0 +1,53 @@
+{:uriI" file://app/assets/javascripts/node_modules/postcss-loader/package.json?type=application/json&id=6fc1a773fb71ed887c96241f24a99ee87ad532c2d96b7306969c4677810b2520:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/postcss-loader/package.json;T:	nameI"(node_modules/postcss-loader/package;T:logical_pathI"-node_modules/postcss-loader/package.json;T:content_typeI"application/json;T:sourceI"ß{
+  "name": "postcss-loader",
+  "version": "3.0.0",
+  "description": "PostCSS loader for webpack",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">= 6"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "postcss": "^7.0.0",
+    "postcss-load-config": "^2.0.0",
+    "schema-utils": "^1.0.0"
+  },
+  "devDependencies": {
+    "@webpack-utilities/test": "^1.0.0-alpha.0",
+    "jest": "^23.0.0",
+    "jsdoc-to-markdown": "^4.0.0",
+    "postcss-import": "^11.0.0",
+    "postcss-js": "^2.0.0",
+    "standard": "^11.0.0",
+    "standard-version": "^4.0.0",
+    "sugarss": "^1.0.0",
+    "webpack": "^4.0.0"
+  },
+  "scripts": {
+    "lint": "standard --env jest",
+    "test": "jest --env node --verbose --coverage",
+    "docs": "jsdoc2md src/*.js > docs/LOADER.md",
+    "clean": "rm -rf coverage test/outputs",
+    "release": "standard-version"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-runner",
+    "webpack",
+    "webpack-loader"
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "repository": "https://github.com/postcss/postcss-loader.git",
+  "bugs": "https://github.com/postcss/postcss-loader/issues",
+  "homepage": "https://github.com/postcss/postcss-loader#readme",
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/postcss-loader/package.json;TTF:charsetI"
+utf-8;F:digest"%>Ä+¥ùo–:ÿ·«ÎßU"…’'æ³°¬¹Å2v@Î…:lengthiß:dependencies_digest"%á%¾!Ò½DÀ-ìÙ=	”yĞ„ñÀ¾Ûè³4.É:idI"E6fc1a773fb71ed887c96241f24a99ee87ad532c2d96b7306969c4677810b2520;F:
+mtimel+Q¢´e

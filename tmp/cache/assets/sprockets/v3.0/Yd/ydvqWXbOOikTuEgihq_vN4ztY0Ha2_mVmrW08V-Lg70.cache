@@ -1,0 +1,70 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/mixin-deep/package.json?type=application/json&id=958bf241bc8c63fc14e710df6b11fa9a2efecc28e3b208a8129cac3b2e9b7494:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/mixin-deep/package.json;T:	nameI"$node_modules/mixin-deep/package;T:logical_pathI")node_modules/mixin-deep/package.json;T:content_typeI"application/json;T:sourceI"è{
+  "name": "mixin-deep",
+  "description": "Deeply mix the properties of objects into the first object. Like merge-deep, but doesn't clone.",
+  "version": "1.3.2",
+  "homepage": "https://github.com/jonschlinkert/mixin-deep",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/mixin-deep",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/mixin-deep/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "for-in": "^1.0.2",
+    "is-extendable": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.5.3",
+    "should": "^13.1.3"
+  },
+  "keywords": [
+    "deep",
+    "extend",
+    "key",
+    "keys",
+    "merge",
+    "mixin",
+    "object",
+    "prop",
+    "properties",
+    "util",
+    "values"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "defaults-deep",
+        "extend-shallow",
+        "merge-deep",
+        "mixin-object"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/mixin-deep/package.json;TTF:charsetI"
+utf-8;F:digest"%°wÏõU/^©YKdÊjH·ìáÛ	Hşg¸›†ÀY,µU:lengthiè:dependencies_digest"%²"+îÚ\dq«“sf†BU5)&¨Š64ĞˆúA(:idI"E958bf241bc8c63fc14e710df6b11fa9a2efecc28e3b208a8129cac3b2e9b7494;F:
+mtimel+Q¢´e

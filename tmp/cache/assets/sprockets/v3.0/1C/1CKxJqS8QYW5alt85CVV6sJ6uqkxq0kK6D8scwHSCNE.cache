@@ -1,0 +1,34 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/wrappy/package.json?type=application/json&id=03a26394a8d7a1f97980a5dda5b9bf5891bcf31ad7b571c3cda3bc62cf741c82:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/wrappy/package.json;T:	nameI" node_modules/wrappy/package;T:logical_pathI"%node_modules/wrappy/package.json;T:content_typeI"application/json;T:sourceI"^{
+  "name": "wrappy",
+  "version": "1.0.2",
+  "description": "Callback wrapping utility",
+  "main": "wrappy.js",
+  "files": [
+    "wrappy.js"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^2.3.1"
+  },
+  "scripts": {
+    "test": "tap --coverage test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/wrappy"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/wrappy/issues"
+  },
+  "homepage": "https://github.com/npm/wrappy"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/wrappy/package.json;TTF:charsetI"
+utf-8;F:digest"%q*ÉÄÃÎø¼yô,ö_ñ…QôËv5‚ıd8S­z¼:lengthi^:dependencies_digest"%~{û ù;é°Ó›°2ç4wËğl_RwÍ‡àeZ·5:idI"E03a26394a8d7a1f97980a5dda5b9bf5891bcf31ad7b571c3cda3bc62cf741c82;F:
+mtimel+Q¢´e

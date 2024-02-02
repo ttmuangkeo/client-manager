@@ -1,0 +1,67 @@
+{:uriI"ªfile://app/assets/javascripts/node_modules/datamaps/src/examples/update-choropleth.html?type=text/html&id=334a69055dcdede7a734fca41ae3043f8dbf1dd9f55ff1ebe1e4df0e72bc99ba:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/node_modules/datamaps/src/examples/update-choropleth.html;T:	nameI"9node_modules/datamaps/src/examples/update-choropleth;T:logical_pathI">node_modules/datamaps/src/examples/update-choropleth.html;T:content_typeI"text/html;T:sourceI"7<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .active { fill: blue !important;}
+          /*.datamaps-key dt, .datamaps-key dd {float: none !important;}
+          .datamaps-key {right: -50px; top: 0;}*/
+        </style>
+      </head>
+      <body>
+
+        <div id="container1" style="border:1px dotted blue; width: 700px; height: 475px; position: relative;"></div>
+        <script src="/src/js/components/d3/d3.min.js"></script>
+        <script src="/src/js/components/topojson/topojson.js"></script>
+        <!-- <script src="/src/js/json2.js"></script> -->
+        <script src="/src/rel/datamaps.usa.js"></script>
+        <script>
+
+          var election = new Datamap({
+            scope: 'usa',
+            element: document.getElementById('container1'),
+            geographyConfig: {
+              popupOnHover: false,
+              highlightOnHover: false,
+              borderColor: '#444',
+              borderWidth: 0.5
+            },
+            bubblesConfig: {
+			  animate: false,
+              popupTemplate: function(geography, data) {
+                return '<div class="hoverinfo">Some From New: data about ' + data.centered + '</div>'
+              },
+              fillOpacity: 0.2
+            },
+            fills: {
+              'Visited': '#306596',
+              'neato': '#0fa0fa',
+              'Trouble': '#bada55',
+              defaultFill: '#dddddd'
+            },
+            data: {
+              NY: {
+                fillKey: 'neato'
+              }
+            }
+          });
+
+          window.setTimeout(function() {
+            election.updateChoropleth({
+              NY: 'blue',
+              NJ: 'blue',
+              TX: {
+                fillKey: 'Trouble'
+              },
+              FL: {
+                fillColor: 'blue'
+              }
+            })
+          }, 1500)
+
+</script>
+</body>
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"cfile-digest://app/assets/javascripts/node_modules/datamaps/src/examples/update-choropleth.html;TTF:charsetI"
+utf-8;F:digest"%a‡+ñ÷ŽÄ+…#fÔ…£.Ìîï…è±½ÙLI”Dw;:lengthi7:dependencies_digest"%kr1¹êÆÄ–*ƒ'­ÉÞ²!Mw¨ÚZ°(“ÔUèªäv:idI"E334a69055dcdede7a734fca41ae3043f8dbf1dd9f55ff1ebe1e4df0e72bc99ba;F:
+mtimel+U¢´e

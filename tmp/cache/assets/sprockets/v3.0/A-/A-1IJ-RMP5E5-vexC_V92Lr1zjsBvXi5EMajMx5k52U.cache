@@ -1,0 +1,87 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/clone-deep/package.json?type=application/json&id=f9ad648f2dfe81bdc1e459a55e285c2e5bc8e2d67b491aa2074fecfa19e3c8e4:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/clone-deep/package.json;T:	nameI"$node_modules/clone-deep/package;T:logical_pathI")node_modules/clone-deep/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "clone-deep",
+  "description": "Recursively (deep) clone JavaScript native types, like Object, Array, RegExp, Date as well as primitives.",
+  "version": "4.0.1",
+  "homepage": "https://github.com/jonschlinkert/clone-deep",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/clone-deep",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/clone-deep/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-plain-object": "^2.0.4",
+    "kind-of": "^6.0.2",
+    "shallow-clone": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^5.2.0"
+  },
+  "keywords": [
+    "array",
+    "assign",
+    "buffer",
+    "clamped",
+    "clone",
+    "clone-array",
+    "clone-array-deep",
+    "clone-buffer",
+    "clone-date",
+    "clone-deep",
+    "clone-map",
+    "clone-object",
+    "clone-object-deep",
+    "clone-reg-exp",
+    "clone-regex",
+    "clone-regexp",
+    "clone-set",
+    "date",
+    "deep",
+    "extend",
+    "mixin",
+    "mixin-object",
+    "object",
+    "regex",
+    "regexp",
+    "shallow",
+    "symbol"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "is-plain-object",
+        "isobject",
+        "kind-of",
+        "shallow-clone"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/clone-deep/package.json;TTF:charsetI"
+utf-8;F:digest"%õ,
+7JÂ_0î˘=¢dúM≈)TéBf¡©D'x≤	:lengthi:dependencies_digest"%CÌÕgC∞PµJ.˛ç<oà…M˚˛ò2s¶oÃ"ùdÁ;¯:idI"Ef9ad648f2dfe81bdc1e459a55e285c2e5bc8e2d67b491aa2074fecfa19e3c8e4;F:
+mtimel+Q¢¥e

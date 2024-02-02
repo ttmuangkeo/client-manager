@@ -1,0 +1,8 @@
+{:uriI"›file://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/css/CssAutoParserOptions.json?type=application/json&id=3a602d9c1a62d4e3065b6c9e946525a2d8166f2f8ff5e0a6cbf278ea3bc8cefb:ET:load_pathI"app/assets/javascripts;T:filenameI"|app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/css/CssAutoParserOptions.json;T:	nameI"enode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/css/CssAutoParserOptions;T:logical_pathI"jnode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/css/CssAutoParserOptions.json;T:content_typeI"application/json;T:sourceI"Q{
+  "$ref": "../../WebpackOptions.json#/definitions/CssAutoParserOptions"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"äfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/css/CssAutoParserOptions.json;TTF:charsetI"
+utf-8;F:digest"%=2Æ¥øÃøÙ∫ÕA≠í'K:·£'‡F&&Æ:lengthiQ:dependencies_digest"%®|?€DÑ√øai⁄°«ù‡œ(∂rL_ª©»Vâ˝Ñ:idI"E3a602d9c1a62d4e3065b6c9e946525a2d8166f2f8ff5e0a6cbf278ea3bc8cefb;F:
+mtimel+T¢¥e

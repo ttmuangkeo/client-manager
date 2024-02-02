@@ -1,0 +1,39 @@
+{:uriI"¼file://app/assets/javascripts/node_modules/@eslint/eslintrc/node_modules/resolve-from/package.json?type=application/json&id=79fd2f10cfcfee0931f9e6b0a3efb12db3016a2ea66d098e3739d524fae02055:ET:load_pathI"app/assets/javascripts;T:filenameI"`app/assets/javascripts/node_modules/@eslint/eslintrc/node_modules/resolve-from/package.json;T:	nameI"Dnode_modules/@eslint/eslintrc/node_modules/resolve-from/package;T:logical_pathI"Inode_modules/@eslint/eslintrc/node_modules/resolve-from/package.json;T:content_typeI"application/json;T:sourceI"9{
+	"name": "resolve-from",
+	"version": "4.0.0",
+	"description": "Resolve the path of a module like `require.resolve()` but from a given path",
+	"license": "MIT",
+	"repository": "sindresorhus/resolve-from",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"require",
+		"resolve",
+		"path",
+		"module",
+		"from",
+		"like",
+		"import"
+	],
+	"devDependencies": {
+		"ava": "*",
+		"xo": "*"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"nfile-digest://app/assets/javascripts/node_modules/@eslint/eslintrc/node_modules/resolve-from/package.json;TTF:charsetI"
+utf-8;F:digest"%İ[¦ÓD<Ï>“éëbw½pÁRcÊ*Âëõ/7óŸ:lengthi9:dependencies_digest"%k¦²Í2ˆƒt«İá»cšVWºÚ´¾õÜ“Şº9{X:idI"E79fd2f10cfcfee0931f9e6b0a3efb12db3016a2ea66d098e3739d524fae02055;F:
+mtimel+Q¢´e

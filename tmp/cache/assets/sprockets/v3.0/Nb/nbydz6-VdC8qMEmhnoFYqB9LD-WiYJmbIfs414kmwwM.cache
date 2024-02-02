@@ -1,0 +1,14 @@
+{:uriI"°file://app/assets/javascripts/node_modules/shapefile/test/polygons.json?type=application/json&id=de979054380e87572dac5a1e17cdbc2b5417ceb761df7142cae2ba18d9d902f1:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/shapefile/test/polygons.json;T:	nameI")node_modules/shapefile/test/polygons;T:logical_pathI".node_modules/shapefile/test/polygons.json;T:content_typeI"application/json;T:sourceI":{
+  "type": "FeatureCollection",
+  "bbox": [0, 0, 5, 5],
+  "features": [
+    {"type": "Feature","properties": {},"geometry": {"type": "Polygon", "coordinates": [[[0, 0], [0, 1], [1, 1], [1, 0], [0, 0]]]}},
+    {"type": "Feature","properties": {},"geometry": {"type": "Polygon", "coordinates": [[[0, 0], [0, 4], [4, 4], [4, 0], [0, 0]], [[1, 1], [3, 1], [3, 3], [1, 3], [1, 1]]]}},
+    {"type": "Feature","properties": {},"geometry": {"type": "MultiPolygon", "coordinates": [[[[2, 2], [2, 3], [3, 3], [3, 2], [2, 2]]], [[[4, 4], [4, 5], [5, 5], [5, 4], [4, 4]]]]}}
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/shapefile/test/polygons.json;TTF:charsetI"
+utf-8;F:digest"%5Í9¬ÂÉ«Máπ!qß°¢„‰èõH0ñÖ∑’i:lengthi::dependencies_digest"%¥™bŸº§¿5ˆ∞+VYû/ò)èRÆ´•π[ªlÖÕÖ∆c:idI"Ede979054380e87572dac5a1e17cdbc2b5417ceb761df7142cae2ba18d9d902f1;F:
+mtimel+S¢¥e

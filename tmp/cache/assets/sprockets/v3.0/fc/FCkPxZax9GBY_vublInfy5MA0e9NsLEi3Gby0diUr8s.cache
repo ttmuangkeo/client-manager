@@ -1,0 +1,73 @@
+{:uriI"∫file://app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/chalk/package.json?type=application/json&id=fcd9f0256ef17ba63d447cb1dd0931374458c26e580c2d68d08af6dea9540d0b:ET:load_pathI"app/assets/javascripts;T:filenameI"^app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/chalk/package.json;T:	nameI"Bnode_modules/@vue/cli-shared-utils/node_modules/chalk/package;T:logical_pathI"Gnode_modules/@vue/cli-shared-utils/node_modules/chalk/package.json;T:content_typeI"application/json;T:sourceI"≠{
+	"name": "chalk",
+	"version": "4.1.2",
+	"description": "Terminal string styling done right",
+	"license": "MIT",
+	"repository": "chalk/chalk",
+	"funding": "https://github.com/chalk/chalk?sponsor=1",
+	"main": "source",
+	"engines": {
+		"node": ">=10"
+	},
+	"scripts": {
+		"test": "xo && nyc ava && tsd",
+		"bench": "matcha benchmark.js"
+	},
+	"files": [
+		"source",
+		"index.d.ts"
+	],
+	"keywords": [
+		"color",
+		"colour",
+		"colors",
+		"terminal",
+		"console",
+		"cli",
+		"string",
+		"str",
+		"ansi",
+		"style",
+		"styles",
+		"tty",
+		"formatting",
+		"rgb",
+		"256",
+		"shell",
+		"xterm",
+		"log",
+		"logging",
+		"command-line",
+		"text"
+	],
+	"dependencies": {
+		"ansi-styles": "^4.1.0",
+		"supports-color": "^7.1.0"
+	},
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"coveralls": "^3.0.7",
+		"execa": "^4.0.0",
+		"import-fresh": "^3.1.0",
+		"matcha": "^0.7.0",
+		"nyc": "^15.0.0",
+		"resolve-from": "^5.0.0",
+		"tsd": "^0.7.4",
+		"xo": "^0.28.2"
+	},
+	"xo": {
+		"rules": {
+			"unicorn/prefer-string-slice": "off",
+			"unicorn/prefer-includes": "off",
+			"@typescript-eslint/member-ordering": "off",
+			"no-redeclare": "off",
+			"unicorn/string-content": "off",
+			"unicorn/better-regex": "off"
+		}
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"lfile-digest://app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/chalk/package.json;TTF:charsetI"
+utf-8;F:digest"%úŸ”JEÀsµ»§Y’`*6Ã‘VyFe≈)£•∞.o&:lengthi≠:dependencies_digest"%q≥íyù|1	x∞∂óFÅ+”›_$°´…˙TbØh,‡:idI"Efcd9f0256ef17ba63d447cb1dd0931374458c26e580c2d68d08af6dea9540d0b;F:
+mtimel+R¢¥e

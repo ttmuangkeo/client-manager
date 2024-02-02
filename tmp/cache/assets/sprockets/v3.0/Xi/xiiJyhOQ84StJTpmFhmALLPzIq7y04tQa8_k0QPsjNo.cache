@@ -1,0 +1,49 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/merge2/package.json?type=application/json&id=0549ac7883d1d93e291bebf1d6d453c8045a94ff0afafeb09cf8dde6a7ebc3ca:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/merge2/package.json;T:	nameI" node_modules/merge2/package;T:logical_pathI"%node_modules/merge2/package.json;T:content_typeI"application/json;T:sourceI">{
+  "name": "merge2",
+  "description": "Merge multiple streams into one stream in sequence or parallel.",
+  "authors": [
+    "Yan Qing <admin@zensh.com>"
+  ],
+  "license": "MIT",
+  "version": "1.4.1",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:teambition/merge2.git"
+  },
+  "homepage": "https://github.com/teambition/merge2",
+  "keywords": [
+    "merge2",
+    "multiple",
+    "sequence",
+    "parallel",
+    "merge",
+    "stream",
+    "merge stream",
+    "sync"
+  ],
+  "engines": {
+    "node": ">= 8"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4",
+    "through2": "^3.0.1",
+    "thunks": "^4.9.6",
+    "tman": "^1.10.0",
+    "to-through": "^2.0.0"
+  },
+  "scripts": {
+    "test": "standard && tman"
+  },
+  "files": [
+    "README.md",
+    "index.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/merge2/package.json;TTF:charsetI"
+utf-8;F:digest"%T$²¾3
+£vúg&+Î®­b']_öÿ‚>(<ÃX:lengthi>:dependencies_digest"%Ã:† –Nº`‡ ƒŠ9^©M¸pvqS,7_J7ú—a:idI"E0549ac7883d1d93e291bebf1d6d453c8045a94ff0afafeb09cf8dde6a7ebc3ca;F:
+mtimel+Q¢´e

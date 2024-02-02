@@ -1,0 +1,62 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/camel-case/package.json?type=application/json&id=29450b5b3bb758704ed1f699d620d6059739755544a953b3fb1a0cf71c69f04d:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/camel-case/package.json;T:	nameI"$node_modules/camel-case/package;T:logical_pathI")node_modules/camel-case/package.json;T:content_typeI"application/json;T:sourceI"´{
+  "name": "camel-case",
+  "version": "3.0.0",
+  "description": "Camel case a string",
+  "main": "camel-case.js",
+  "typings": "camel-case.d.ts",
+  "files": [
+    "camel-case.js",
+    "camel-case.d.ts",
+    "LICENSE"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "test-spec": "mocha -- -R spec --bail",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec --bail",
+    "test": "npm run lint && npm run test-cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/camel-case.git"
+  },
+  "keywords": [
+    "camel",
+    "case",
+    "camelcase",
+    "camel-case",
+    "dash",
+    "hyphen",
+    "dot",
+    "underscore",
+    "lodash",
+    "separator",
+    "string",
+    "text",
+    "convert"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/camel-case/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/camel-case",
+  "devDependencies": {
+    "istanbul": "^0.4.3",
+    "mocha": "^2.2.1",
+    "standard": "^7.1.2"
+  },
+  "dependencies": {
+    "no-case": "^2.2.0",
+    "upper-case": "^1.1.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/camel-case/package.json;TTF:charsetI"
+utf-8;F:digest"%Yq?ÿâ³¡ò7ù¸‡çR˜˜3:Ò›÷ÆQæ¸dè€:lengthi´:dependencies_digest"%¦H€g©?‘¦ÕW$ÔÉ<Icjx8³Únÿ¢ˆ6Õ
+‘ú¿:idI"E29450b5b3bb758704ed1f699d620d6059739755544a953b3fb1a0cf71c69f04d;F:
+mtimel+Q¢´e

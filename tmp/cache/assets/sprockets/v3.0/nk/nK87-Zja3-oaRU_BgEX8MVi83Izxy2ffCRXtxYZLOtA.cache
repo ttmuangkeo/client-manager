@@ -1,0 +1,66 @@
+{:uriI"¬file://app/assets/javascripts/node_modules/@vue/web-component-wrapper/package.json?type=application/json&id=8a221aeb2af77d75f924ec1ad61abc7403b0b5f463e367412b37600d27489c64:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/@vue/web-component-wrapper/package.json;T:	nameI"4node_modules/@vue/web-component-wrapper/package;T:logical_pathI"9node_modules/@vue/web-component-wrapper/package.json;T:content_typeI"application/json;T:sourceI"e{
+  "name": "@vue/web-component-wrapper",
+  "version": "1.3.0",
+  "description": "wrap a vue component as a web component.",
+  "main": "dist/vue-wc-wrapper.js",
+  "unpkg": "dist/vue-wc-wrapper.global.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "dist",
+    "types/*.d.ts"
+  ],
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src",
+    "build": "rollup -c",
+    "prepare": "rollup -c",
+    "test:types": "tsc -p ./types/tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/web-component-wrapper.git"
+  },
+  "keywords": [
+    "vue",
+    "web-component"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/web-component-wrapper/issues"
+  },
+  "homepage": "https://github.com/vuejs/web-component-wrapper#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-plugin-vue-libs": "^2.1.0",
+    "http-server": "^0.11.1",
+    "jest": "^22.1.4",
+    "lint-staged": "^6.1.0",
+    "puppeteer": "^1.0.0",
+    "rollup": "^0.55.3",
+    "typescript": "^3.2.2",
+    "vue": "^2.5.13",
+    "yorkie": "^1.0.3"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "browser": true
+    },
+    "extends": "plugin:vue-libs/recommended"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"^file-digest://app/assets/javascripts/node_modules/@vue/web-component-wrapper/package.json;TTF:charsetI"
+utf-8;F:digest"%$ð–ê°€LŒËÈOëƒC‚yšuHèŸ0“ËEÙ÷ªþ‰J:lengthie:dependencies_digest"%.ûµÿé”ÞÈœÀqSz§4ËÂEk‡8úã½„—%-‹:idI"E8a221aeb2af77d75f924ec1ad61abc7403b0b5f463e367412b37600d27489c64;F:
+mtimel+Q¢´e

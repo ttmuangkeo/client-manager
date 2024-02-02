@@ -1,0 +1,15 @@
+{:uriI"ªfile://app/assets/javascripts/node_modules/shapefile/test/ignore-properties.json?type=application/json&id=d63032614a3ebb589408dda266d1ac7327beb75cd53418285af153d24e8e7d1e:ET:load_pathI"app/assets/javascripts;T:filenameI"Napp/assets/javascripts/node_modules/shapefile/test/ignore-properties.json;T:	nameI"2node_modules/shapefile/test/ignore-properties;T:logical_pathI"7node_modules/shapefile/test/ignore-properties.json;T:content_typeI"application/json;T:sourceI"k{
+  "type": "FeatureCollection",
+  "bbox": [1, 2, 7, 8],
+  "features": [
+    {"type": "Feature","properties": {},"geometry": {"type": "Point", "coordinates": [1, 2]}},
+    {"type": "Feature","properties": {},"geometry": {"type": "Point", "coordinates": [3, 4]}},
+    {"type": "Feature","properties": {},"geometry": {"type": "Point", "coordinates": [7, 8]}}
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"\file-digest://app/assets/javascripts/node_modules/shapefile/test/ignore-properties.json;TTF:charsetI"
+utf-8;F:digest"%ef&©Ûßu«;[øÛ…jöøJíS×í¸ÊÄòºg:lengthik:dependencies_digest"%-Ûµ1–ßoRfôð8nlÔî¨¿÷ªç3È¦(…ew
+µ:idI"Ed63032614a3ebb589408dda266d1ac7327beb75cd53418285af153d24e8e7d1e;F:
+mtimel+R¢´e

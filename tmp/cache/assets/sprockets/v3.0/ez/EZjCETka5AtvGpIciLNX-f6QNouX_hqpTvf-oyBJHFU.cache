@@ -1,0 +1,15 @@
+{:uriI"¥file://app/assets/javascripts/node_modules/d3-time-format/locale/hr-HR.json?type=application/json&id=aca7a52ebc2b5993dfab92667edb54f1dcca78bd916876dee053f02124b15c09:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/d3-time-format/locale/hr-HR.json;T:	nameI"-node_modules/d3-time-format/locale/hr-HR;T:logical_pathI"2node_modules/d3-time-format/locale/hr-HR.json;T:content_typeI"application/json;T:sourceI"{
+  "dateTime": "%A, %e. %B %Y., %X",
+  "date": "%d.Â %m.Â %Y.",
+  "time": "%H:%M:%S",
+  "periods": ["AM", "PM"],
+  "days": ["Nedjelja", "Ponedjeljak", "Utorak", "Srijeda", "ÄŒetvtrak", "Petak", "Subota"],
+  "shortDays": ["Ne", "Po", "Ut", "Sr", "ÄŒe", "Pe", "Su"],
+  "months": ["SijeÄanj", "VeljaÄa", "OÅ¾ujak", "Travanj", "Svibanj", "Lipanj", "Srpanj", "Kolovoz", "Rujan", "Listopad", "Studeni", "Prosinac"],
+  "shortMonths": ["Sij", "Velj", "OÅ¾u", "Tra", "Svi", "Lip", "Srp", "Kol", "Ruj", "Lis", "Stu", "Pro"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/d3-time-format/locale/hr-HR.json;TTF:charsetI"
+utf-8;F:digest"%B¬61á«“ÄÄKÅ\[À‘\ĞõîåÆ1†ÙüÊş’æ:lengthi:dependencies_digest"%/Àöù2Ô7ô“üM€ÂbCnïåÆ øÉ´À½óƒ7:idI"Eaca7a52ebc2b5993dfab92667edb54f1dcca78bd916876dee053f02124b15c09;F:
+mtimel+R¢´e

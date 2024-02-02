@@ -1,0 +1,25 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/parallel-transform/package.json?type=application/json&id=5ac60668e641badafc91872b0364e8c1b75dc22fdc413a288dde91e4a95337eb:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/parallel-transform/package.json;T:	nameI",node_modules/parallel-transform/package;T:logical_pathI"1node_modules/parallel-transform/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "parallel-transform",
+  "version": "1.2.0",
+  "repository": "git://github.com/mafintosh/parallel-transform",
+  "license": "MIT",
+  "description": "Transform stream that allows you to run your transforms in parallel without changing the order",
+  "keywords": [
+    "transform",
+    "stream",
+    "parallel",
+    "preserve",
+    "order"
+  ],
+  "author": "Mathias Buus Madsen <mathiasbuus@gmail.com>",
+  "dependencies": {
+    "cyclist": "^1.0.1",
+    "inherits": "^2.0.3",
+    "readable-stream": "^2.1.5"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/parallel-transform/package.json;TTF:charsetI"
+utf-8;F:digest"%wý·ƒswþŸ„©[}Bû$þ1–(¯‡7c˜±bhEº†:lengthi:dependencies_digest"%Uæûaü„lß!ÇSTÉGí¸éx‹x¿ùë£¼š¯:idI"E5ac60668e641badafc91872b0364e8c1b75dc22fdc413a288dde91e4a95337eb;F:
+mtimel+Q¢´e

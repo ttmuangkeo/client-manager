@@ -1,0 +1,29 @@
+{:uriI"±file://app/assets/javascripts/node_modules/icss-utils/node_modules/postcss/package.json?type=application/json&id=b19a61e90d56d01c734a3db6d5038a14094bf63f925ae338d54a1446d786223a:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/node_modules/icss-utils/node_modules/postcss/package.json;T:	nameI"9node_modules/icss-utils/node_modules/postcss/package;T:logical_pathI">node_modules/icss-utils/node_modules/postcss/package.json;T:content_typeI"application/json;T:sourceI"ù{
+  "name": "postcss",
+  "version": "6.0.23",
+  "description": "Tool for transforming styles with JS plugins",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": ["css", "postcss", "rework", "preprocessor", "parser", "source map", "transform", "manipulation", "transpiler"],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "homepage": "https://postcss.org/",
+  "repository": "postcss/postcss",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "source-map": "^0.6.1",
+    "supports-color": "^5.4.0"
+  },
+  "main": "lib/postcss",
+  "types": "lib/postcss.d.ts",
+  "browser": {
+    "supports-color": false,
+    "chalk": false,
+    "fs": false
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"cfile-digest://app/assets/javascripts/node_modules/icss-utils/node_modules/postcss/package.json;TTF:charsetI"
+utf-8;F:digest"%:(w+9ü•/˛’íi ~ÚŒnVü.t]I˜ÁG√éµe*:lengthiù:dependencies_digest"%i…án`Ïp†%ç9)K˝t‡Âf}w«≈ñê’e¥V¸:idI"Eb19a61e90d56d01c734a3db6d5038a14094bf63f925ae338d54a1446d786223a;F:
+mtimel+Q¢¥e

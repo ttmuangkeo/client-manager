@@ -1,0 +1,53 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/case-sensitive-paths-webpack-plugin/package.json?type=application/json&id=169ce2c55c9221935d72a7eb300cd0c6633c6c92e45ad2f106f496b9bebec2a9:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/case-sensitive-paths-webpack-plugin/package.json;T:	nameI"=node_modules/case-sensitive-paths-webpack-plugin/package;T:logical_pathI"Bnode_modules/case-sensitive-paths-webpack-plugin/package.json;T:content_typeI"application/json;T:sourceI"•{
+  "name": "case-sensitive-paths-webpack-plugin",
+  "version": "2.4.0",
+  "description": "Enforces module path case sensitivity in Webpack",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/",
+    "lint": "eslint index.js",
+    "lintfix": "eslint --fix index.js test/index.js",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urthen/case-sensitive-paths-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "case sensitive",
+    "import",
+    "require"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Michael Pratt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Urthen/case-sensitive-paths-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Urthen/case-sensitive-paths-webpack-plugin#readme",
+  "devDependencies": {
+    "auto-changelog": "2.2.1",
+    "eslint": "7.20.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.22.1",
+    "fs-extra": "9.1.0",
+    "mocha": "8.3.0",
+    "webpack": "5.23.0"
+  },
+  "auto-changelog": {
+    "commitLimit": false
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/case-sensitive-paths-webpack-plugin/package.json;TTF:charsetI"
+utf-8;F:digest"%q,7»«H[ş£‘üÆúnàVjŸ½¢¸K9Âyê:lengthi•:dependencies_digest"%ş53e€²EHúóùˆ‘Ô,¾hQÛ!ÈHÄô
+'5ï4:idI"E169ce2c55c9221935d72a7eb300cd0c6633c6c92e45ad2f106f496b9bebec2a9;F:
+mtimel+Q¢´e

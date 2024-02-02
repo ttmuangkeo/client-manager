@@ -1,0 +1,48 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/default-gateway/node_modules/is-stream/package.json?type=application/json&id=37f2ad5e42af71ceb3f32f40577b9999c346ab0c0fc1b39cb942b19dc3899f89:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/default-gateway/node_modules/is-stream/package.json;T:	nameI"@node_modules/default-gateway/node_modules/is-stream/package;T:logical_pathI"Enode_modules/default-gateway/node_modules/is-stream/package.json;T:content_typeI"application/json;T:sourceI"Þ{
+	"name": "is-stream",
+	"version": "2.0.1",
+	"description": "Check if something is a Node.js stream",
+	"license": "MIT",
+	"repository": "sindresorhus/is-stream",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"stream",
+		"type",
+		"streams",
+		"writable",
+		"readable",
+		"duplex",
+		"transform",
+		"check",
+		"detect",
+		"is"
+	],
+	"devDependencies": {
+		"@types/node": "^11.13.6",
+		"ava": "^1.4.1",
+		"tempy": "^0.3.0",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/default-gateway/node_modules/is-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%Ï“ÙI
+-~×s´›1Lv‘»fÍûÀ'’XÎ¶^É:lengthiÞ:dependencies_digest"%”@ëqâÈÊv0»¢BaÔ£…‹ß 3b¿±kwþL¡Ào:idI"E37f2ad5e42af71ceb3f32f40577b9999c346ab0c0fc1b39cb942b19dc3899f89;F:
+mtimel+Q¢´e

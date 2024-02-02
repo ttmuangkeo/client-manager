@@ -1,0 +1,84 @@
+{:uriI"–file://app/assets/javascripts/node_modules/svgo/package.json?type=application/json&id=1a490d312f48199af0500f04a28fa57df532a5108f35c01307415c2f6d014707:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/svgo/package.json;T:	nameI"node_modules/svgo/package;T:logical_pathI"#node_modules/svgo/package.json;T:content_typeI"application/json;T:sourceI"Ã{
+  "name": "svgo",
+  "version": "1.3.2",
+  "description": "Nodejs-based tool for optimizing SVG vector graphics files",
+  "keywords": [
+    "svgo",
+    "svg",
+    "optimize",
+    "minify"
+  ],
+  "homepage": "https://github.com/svg/svgo",
+  "bugs": {
+    "url": "https://github.com/svg/svgo/issues"
+  },
+  "author": {
+    "name": "Kir Belevich",
+    "email": "kir@belevi.ch",
+    "url": "https://github.com/deepsweet"
+  },
+  "contributors": [
+    {
+      "name": "Sergey Belov",
+      "email": "peimei@ya.ru",
+      "url": "http://github.com/arikon"
+    },
+    {
+      "name": "Lev Solntsev",
+      "email": "lev.sun@ya.ru",
+      "url": "http://github.com/GreLI"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/svg/svgo.git"
+  },
+  "main": "./lib/svgo.js",
+  "bin": {
+    "svgo": "./bin/svgo"
+  },
+  "directories": {
+    "bin": "./bin",
+    "lib": "./lib",
+    "example": "./examples"
+  },
+  "scripts": {
+    "test": "set NODE_ENV=test && mocha",
+    "lint": "jshint --show-non-errors .",
+    "jshint": "npm run lint"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "coa": "^2.0.2",
+    "css-select": "^2.0.0",
+    "css-select-base-adapter": "^0.1.1",
+    "css-tree": "1.0.0-alpha.37",
+    "csso": "^4.0.2",
+    "js-yaml": "^3.13.1",
+    "mkdirp": "~0.5.1",
+    "object.values": "^1.1.0",
+    "sax": "~1.2.4",
+    "stable": "^0.1.8",
+    "unquote": "~1.1.1",
+    "util.promisify": "~1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.7",
+    "fs-extra": "~8.1.0",
+    "istanbul": "~0.4.5",
+    "jshint": "~2.10.2",
+    "mocha": "~6.2.2",
+    "mocha-istanbul": "~0.3.0",
+    "mock-stdin": "~0.3.1",
+    "should": "~13.2.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/svgo/package.json;TTF:charsetI"
+utf-8;F:digest"%$î›º#ú¨µÖGôÚWæ2[t¾zE8£sûr•î½¨I:lengthiÃ:dependencies_digest"%jUB‚8›µòD¬…J·éw%|Hä«Ø)>ä’:idI"E1a490d312f48199af0500f04a28fa57df532a5108f35c01307415c2f6d014707;F:
+mtimel+S¢´e

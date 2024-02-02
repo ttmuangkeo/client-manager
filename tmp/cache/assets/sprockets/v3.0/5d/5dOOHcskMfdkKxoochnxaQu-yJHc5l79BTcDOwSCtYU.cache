@@ -1,0 +1,20 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/babel-code-frame/package.json?type=application/json&id=62b64d79dc09ca2a5c66e560a357a95435efdcec101b9354ec5beef1ced041b5:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/babel-code-frame/package.json;T:	nameI"*node_modules/babel-code-frame/package;T:logical_pathI"/node_modules/babel-code-frame/package.json;T:content_typeI"application/json;T:sourceI"Ù{
+  "name": "babel-code-frame",
+  "version": "6.26.0",
+  "description": "Generate errors that contain a code frame that point to source locations.",
+  "author": "Sebastian McKenzie <sebmck@gmail.com>",
+  "homepage": "https://babeljs.io/",
+  "license": "MIT",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-code-frame",
+  "main": "lib/index.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "esutils": "^2.0.2",
+    "js-tokens": "^3.0.2"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/babel-code-frame/package.json;TTF:charsetI"
+utf-8;F:digest"%®xž‚`ÇÿÇže¡9™ñ]bøL,ÏÚœ³ñ+ÓK8à:lengthiÙ:dependencies_digest"%(ÄäM²Qí”iýh^Dè©œ¨7‹ê,–žF ëâÎC:idI"E62b64d79dc09ca2a5c66e560a357a95435efdcec101b9354ec5beef1ced041b5;F:
+mtimel+Q¢´e

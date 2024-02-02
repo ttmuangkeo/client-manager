@@ -1,0 +1,48 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/parse-json/package.json?type=application/json&id=8c330b783f56af47f62ed8cd580532808404fb469b263df496812e5f669f04e5:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/parse-json/package.json;T:	nameI"$node_modules/parse-json/package;T:logical_pathI")node_modules/parse-json/package.json;T:content_typeI"application/json;T:sourceI"ï{
+  "name": "parse-json",
+  "version": "4.0.0",
+  "description": "Parse JSON with more helpful errors",
+  "license": "MIT",
+  "repository": "sindresorhus/parse-json",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && nyc ava"
+  },
+  "files": [
+    "index.js",
+    "vendor"
+  ],
+  "keywords": [
+    "parse",
+    "json",
+    "graceful",
+    "error",
+    "message",
+    "humanize",
+    "friendly",
+    "helpful",
+    "string",
+    "str"
+  ],
+  "dependencies": {
+    "error-ex": "^1.3.1",
+    "json-parse-better-errors": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "nyc": "^11.2.1",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/parse-json/package.json;TTF:charsetI"
+utf-8;F:digest"%Î(‘‚>TCAÑ;§¡Ög1	Wþ“w:sùas`”:lengthiï:dependencies_digest"%BTžðÏ´j?ÎI–Sþsá= îŠ/’oO†Ç¤ä©:idI"E8c330b783f56af47f62ed8cd580532808404fb469b263df496812e5f669f04e5;F:
+mtimel+Q¢´e

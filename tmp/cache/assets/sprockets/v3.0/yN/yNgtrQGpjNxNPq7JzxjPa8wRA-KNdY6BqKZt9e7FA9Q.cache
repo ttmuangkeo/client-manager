@@ -1,0 +1,39 @@
+{:uriI"Áfile://app/assets/javascripts/node_modules/webpack-bundle-analyzer/node_modules/acorn-walk/package.json?type=application/json&id=1080eba780907fa2a06a499a693c1279685c67c45c4e2a07c042913fa73cf09f:ET:load_pathI"app/assets/javascripts;T:filenameI"eapp/assets/javascripts/node_modules/webpack-bundle-analyzer/node_modules/acorn-walk/package.json;T:	nameI"Inode_modules/webpack-bundle-analyzer/node_modules/acorn-walk/package;T:logical_pathI"Nnode_modules/webpack-bundle-analyzer/node_modules/acorn-walk/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "acorn-walk",
+  "description": "ECMAScript (ESTree) AST walker",
+  "homepage": "https://github.com/acornjs/acorn",
+  "main": "dist/walk.js",
+  "types": "dist/walk.d.ts",
+  "module": "dist/walk.mjs",
+  "version": "7.2.0",
+  "engines": {"node": ">=0.4.0"},
+  "maintainers": [
+    {
+      "name": "Marijn Haverbeke",
+      "email": "marijnh@gmail.com",
+      "web": "https://marijnhaverbeke.nl"
+    },
+    {
+      "name": "Ingvar Stepanyan",
+      "email": "me@rreverser.com",
+      "web": "https://rreverser.com/"
+    },
+    {
+      "name": "Adrian Heine",
+      "web": "http://adrianheine.de"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acornjs/acorn.git"
+  },
+  "scripts": {
+    "prepare": "cd ..; npm run build:walk"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"sfile-digest://app/assets/javascripts/node_modules/webpack-bundle-analyzer/node_modules/acorn-walk/package.json;TTF:charsetI"
+utf-8;F:digest"%“¥Z†¥ÿxÓtÚ¤ŸÛ” â½ú†íBu6$N é:lengthi:dependencies_digest"%ÑÆï'(š;SÜ§ºS‘îüp„êŒ¼pR:idI"E1080eba780907fa2a06a499a693c1279685c67c45c4e2a07c042913fa73cf09f;F:
+mtimel+Q¢´e

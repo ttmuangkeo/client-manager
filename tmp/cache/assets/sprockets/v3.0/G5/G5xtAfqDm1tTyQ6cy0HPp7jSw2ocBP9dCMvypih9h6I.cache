@@ -1,0 +1,15 @@
+{:uriI"�file://app/assets/javascripts/node_modules/d3-time-format/locale/uk-UA.json?type=application/json&id=0994c64ede77b38340ff3f588be1ff44eaf62290b374c004a65b640db3cfacad:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/d3-time-format/locale/uk-UA.json;T:	nameI"-node_modules/d3-time-format/locale/uk-UA;T:logical_pathI"2node_modules/d3-time-format/locale/uk-UA.json;T:content_typeI"application/json;T:sourceI"�{
+  "dateTime": "%A, %e %B %Y р. %X",
+  "date": "%d.%m.%Y",
+  "time": "%H:%M:%S",
+  "periods": ["дп", "пп"],
+  "days": ["неділя", "понеділок", "вівторок", "середа", "четвер", "п'ятниця", "субота"],
+  "shortDays": ["нд", "пн", "вт", "ср", "чт", "пт", "сб"],
+  "months": ["січня", "лютого", "березня", "квітня", "травня", "червня", "липня", "серпня", "вересня", "жовтня", "листопада", "грудня"],
+  "shortMonths": ["січ.", "лют.", "бер.", "квіт.", "трав.", "черв.", "лип.", "серп.", "вер.", "жовт.", "лист.", "груд."]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/d3-time-format/locale/uk-UA.json;TTF:charsetI"
+utf-8;F:digest"%�O�ts��k��G������(��i�I-�Dd�:lengthi�:dependencies_digest"%�h��^r��YԤ��ȥ�̬H���d���ݴ�H�:idI"E0994c64ede77b38340ff3f588be1ff44eaf62290b374c004a65b640db3cfacad;F:
+mtimel+S��e

@@ -1,0 +1,24 @@
+{:uriI" file://app/assets/javascripts/node_modules/buffer-indexof/package.json?type=application/json&id=334e4b5dd2c4c2f0871fe43e45fb95f7b4b68c8785bfe96dccb9584cbfcd0a2d:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/buffer-indexof/package.json;T:	nameI"(node_modules/buffer-indexof/package;T:logical_pathI"-node_modules/buffer-indexof/package.json;T:content_typeI"application/json;T:sourceI"–{
+  "name": "buffer-indexof",
+  "description": "find the index of a buffer in a buffer",
+  "version": "1.1.1",
+  "repository": {
+    "url": "git://github.com/soldair/node-buffer-indexof.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Ryan Day",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "tape": "~1.1.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/buffer-indexof/package.json;TTF:charsetI"
+utf-8;F:digest"%Wcð$³®6(íDK'½ÐµDóã­ÇópÚXuÌÊùw:lengthi–:dependencies_digest"%Bs’Ë°Em?ãÛƒ³›¸¾æ¥Â>7£Å7eS?3:idI"E334e4b5dd2c4c2f0871fe43e45fb95f7b4b68c8785bfe96dccb9584cbfcd0a2d;F:
+mtimel+Q¢´e

@@ -1,0 +1,57 @@
+{:uriI"Àfile://app/assets/javascripts/node_modules/@vue/cli-service/node_modules/path-type/node_modules/pify/package.json?type=application/json&id=b48891b7d322f8e5885768c433792ac7a7ec742bc8ce89eadf77b3f9501c1959:ET:load_pathI"app/assets/javascripts;T:filenameI"oapp/assets/javascripts/node_modules/@vue/cli-service/node_modules/path-type/node_modules/pify/package.json;T:	nameI"Snode_modules/@vue/cli-service/node_modules/path-type/node_modules/pify/package;T:logical_pathI"Xnode_modules/@vue/cli-service/node_modules/path-type/node_modules/pify/package.json;T:content_typeI"application/json;T:sourceI"û{
+  "name": "pify",
+  "version": "3.0.0",
+  "description": "Promisify a callback-style function",
+  "license": "MIT",
+  "repository": "sindresorhus/pify",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava && npm run optimization-test",
+    "optimization-test": "node --allow-natives-syntax optimization-test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "promise",
+    "promises",
+    "promisify",
+    "all",
+    "denodify",
+    "denodeify",
+    "callback",
+    "cb",
+    "node",
+    "then",
+    "thenify",
+    "convert",
+    "transform",
+    "wrap",
+    "wrapper",
+    "bind",
+    "to",
+    "async",
+    "await",
+    "es2015",
+    "bluebird"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "pinkie-promise": "^2.0.0",
+    "v8-natives": "^1.0.0",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"}file-digest://app/assets/javascripts/node_modules/@vue/cli-service/node_modules/path-type/node_modules/pify/package.json;TTF:charsetI"
+utf-8;F:digest"%}ê¢„ÂvGj“j∞#‹ÃÉ©¯M'fïæ∏ıkxP∑r:lengthiû:dependencies_digest"%º›5n
+¥?¿:|·Ao)˛∏œ/†«ÅjgéØ]:idI"Eb48891b7d322f8e5885768c433792ac7a7ec742bc8ce89eadf77b3f9501c1959;F:
+mtimel+Q¢¥e

@@ -1,0 +1,30 @@
+{:uriI"∑file://app/assets/javascripts/node_modules/color-convert/node_modules/color-name/package.json?type=application/json&id=f721ceb48a1f976f42ec32d875751fff6834e7902d91cf9ad0d5b14553f1fb08:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/color-convert/node_modules/color-name/package.json;T:	nameI"?node_modules/color-convert/node_modules/color-name/package;T:logical_pathI"Dnode_modules/color-convert/node_modules/color-name/package.json;T:content_typeI"application/json;T:sourceI"+{
+  "name": "color-name",
+  "version": "1.1.3",
+  "description": "A list of color names and its values",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dfcreative/color-name.git"
+  },
+  "keywords": [
+    "color-name",
+    "color",
+    "color-keyword",
+    "keyword"
+  ],
+  "author": "DY <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/color-name/issues"
+  },
+  "homepage": "https://github.com/dfcreative/color-name"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/color-convert/node_modules/color-name/package.json;TTF:charsetI"
+utf-8;F:digest"%R&iΩLx]\7#wı±9$?_∂œc5¸ùÁ¬“î∂∂x⁄:lengthi+:dependencies_digest"%üUuvù{√˝…nÇ8ËØœ˝æø»Ê{Î®âU›ÓÒ⁄°å:idI"Ef721ceb48a1f976f42ec32d875751fff6834e7902d91cf9ad0d5b14553f1fb08;F:
+mtimel+Q¢¥e

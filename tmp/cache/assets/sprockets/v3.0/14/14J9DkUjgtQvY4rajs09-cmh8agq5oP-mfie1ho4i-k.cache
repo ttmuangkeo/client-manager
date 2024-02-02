@@ -1,0 +1,49 @@
+{:uriI"³file://app/assets/javascripts/node_modules/escodegen/node_modules/optionator/package.json?type=application/json&id=ed6bb11d8719e56f950ee53249f17096c5d2d381663916c1f7fbc1838b986690:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/escodegen/node_modules/optionator/package.json;T:	nameI";node_modules/escodegen/node_modules/optionator/package;T:logical_pathI"@node_modules/escodegen/node_modules/optionator/package.json;T:content_typeI"application/json;T:sourceI"’{
+  "name": "optionator",
+  "version": "0.8.3",
+  "author": "George Zahariev <z@georgezahariev.com>",
+  "description": "option parsing and help generation",
+  "homepage": "https://github.com/gkz/optionator",
+  "keywords": [
+    "options",
+    "flags",
+    "option parsing",
+    "cli"
+  ],
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
+  "main": "./lib/",
+  "bugs": "https://github.com/gkz/optionator/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gkz/optionator.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "prelude-ls": "~1.1.2",
+    "deep-is": "~0.1.3",
+    "word-wrap": "~1.2.3",
+    "type-check": "~0.3.2",
+    "levn": "~0.3.0",
+    "fast-levenshtein": "~2.0.6"
+  },
+  "devDependencies": {
+    "livescript": "~1.6.0",
+    "mocha": "~6.2.2",
+    "istanbul": "~0.4.5"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/escodegen/node_modules/optionator/package.json;TTF:charsetI"
+utf-8;F:digest"%¥xðËàÇ¨÷Ù˜ÈÛ>:£«*ÞBfÍÀmÿ±¯HÕ:lengthi’:dependencies_digest"%Ø¬à~ò©¯¯’µ™ôœÑÈÕD-Š¶8âÌM`ªÖð@:idI"Eed6bb11d8719e56f950ee53249f17096c5d2d381663916c1f7fbc1838b986690;F:
+mtimel+Q¢´e

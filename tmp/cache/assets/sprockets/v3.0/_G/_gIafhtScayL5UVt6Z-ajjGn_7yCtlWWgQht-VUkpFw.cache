@@ -1,0 +1,48 @@
+{:uriI"ñfile://app/assets/javascripts/node_modules/vary/package.json?type=application/json&id=0542d17abd5cfcdcd41a3764d19f2cfbf467c303d4fdc0fa972a37c042c9eef8:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/vary/package.json;T:	nameI"node_modules/vary/package;T:logical_pathI"#node_modules/vary/package.json;T:content_typeI"application/json;T:sourceI"ø{
+  "name": "vary",
+  "description": "Manipulate the HTTP Vary header",
+  "version": "1.1.2",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+  "license": "MIT",
+  "keywords": [
+    "http",
+    "res",
+    "vary"
+  ],
+  "repository": "jshttp/vary",
+  "devDependencies": {
+    "beautify-benchmark": "0.2.4",
+    "benchmark": "2.1.4",
+    "eslint": "3.19.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-markdown": "1.0.0-beta.6",
+    "eslint-plugin-node": "5.1.1",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-standard": "3.0.1",
+    "istanbul": "0.4.5",
+    "mocha": "2.5.3",
+    "supertest": "1.1.0"
+  },
+  "files": [
+    "HISTORY.md",
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "bench": "node benchmark/index.js",
+    "lint": "eslint --plugin markdown --ext js,md .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/vary/package.json;TTF:charsetI"
+utf-8;F:digest"%sÌÆÈd’'züi÷6ælÏSJΩë'yK‡jıäù™:lengthiø:dependencies_digest"%çg´±B∫Ì?É4ö Ω¢I¥“ß˘¯5`R#2éq¸E:idI"E0542d17abd5cfcdcd41a3764d19f2cfbf467c303d4fdc0fa972a37c042c9eef8;F:
+mtimel+Q¢¥e

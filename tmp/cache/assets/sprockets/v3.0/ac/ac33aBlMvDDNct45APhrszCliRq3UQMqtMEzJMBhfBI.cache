@@ -1,0 +1,95 @@
+{:uriI"™file://app/assets/javascripts/node_modules/kind-of/package.json?type=application/json&id=b907c103939352490afdbc3d02ce8d25b6b5264897d6d5552f2055db9e781e9e:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/kind-of/package.json;T:	nameI"!node_modules/kind-of/package;T:logical_pathI"&node_modules/kind-of/package.json;T:content_typeI"application/json;T:sourceI"&{
+  "name": "kind-of",
+  "description": "Get the native type of a value.",
+  "version": "6.0.3",
+  "homepage": "https://github.com/jonschlinkert/kind-of",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "David Fox-Powell (https://dtothefp.github.io/me)",
+    "James (https://twitter.com/aretecode)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Ken Sheedlo (kensheedlo.com)",
+    "laggingreflex (https://github.com/laggingreflex)",
+    "Miguel Mota (https://miguelmota.com)",
+    "Peter deHaan (http://about.me/peterdehaan)",
+    "tunnckoCore (https://i.am.charlike.online)"
+  ],
+  "repository": "jonschlinkert/kind-of",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/kind-of/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "prepublish": "browserify -o browser.js -e index.js -s index --bare"
+  },
+  "devDependencies": {
+    "benchmarked": "^2.0.0",
+    "browserify": "^14.4.0",
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^4.0.1",
+    "write": "^1.0.3"
+  },
+  "keywords": [
+    "arguments",
+    "array",
+    "boolean",
+    "check",
+    "date",
+    "function",
+    "is",
+    "is-type",
+    "is-type-of",
+    "kind",
+    "kind-of",
+    "number",
+    "object",
+    "of",
+    "regexp",
+    "string",
+    "test",
+    "type",
+    "type-of",
+    "typeof",
+    "types"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "is-glob",
+        "is-number",
+        "is-primitive"
+      ]
+    },
+    "reflinks": [
+      "type-of",
+      "typeof",
+      "verb"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/kind-of/package.json;TTF:charsetI"
+utf-8;F:digest"%÷G!s®‡Œ
+s7uÒ­ZPSğR¿“G£šì:lengthi&:dependencies_digest"%èÒäúoI–%.$ÁÅ‘L;Ì’¯r×|ìé»â‘
+:idI"Eb907c103939352490afdbc3d02ce8d25b6b5264897d6d5552f2055db9e781e9e;F:
+mtimel+Q¢´e

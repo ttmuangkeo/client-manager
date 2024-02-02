@@ -1,0 +1,35 @@
+{:uriI"•file://app/assets/javascripts/node_modules/har-schema/lib/afterRequest.json?type=application/json&id=3630a1aafbc3be1340d83ebf9e3241814a2693a879b0096612fe7735dd3d453e:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/har-schema/lib/afterRequest.json;T:	nameI"-node_modules/har-schema/lib/afterRequest;T:logical_pathI"2node_modules/har-schema/lib/afterRequest.json;T:content_typeI"application/json;T:sourceI"Õ{
+  "$id": "afterRequest.json#",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "optional": true,
+  "required": [
+    "lastAccess",
+    "eTag",
+    "hitCount"
+  ],
+  "properties": {
+    "expires": {
+      "type": "string",
+      "pattern": "^(\\d{4})(-)?(\\d\\d)(-)?(\\d\\d)(T)?(\\d\\d)(:)?(\\d\\d)(:)?(\\d\\d)(\\.\\d+)?(Z|([+-])(\\d\\d)(:)?(\\d\\d))?"
+    },
+    "lastAccess": {
+      "type": "string",
+      "pattern": "^(\\d{4})(-)?(\\d\\d)(-)?(\\d\\d)(T)?(\\d\\d)(:)?(\\d\\d)(:)?(\\d\\d)(\\.\\d+)?(Z|([+-])(\\d\\d)(:)?(\\d\\d))?"
+    },
+    "eTag": {
+      "type": "string"
+    },
+    "hitCount": {
+      "type": "integer"
+    },
+    "comment": {
+      "type": "string"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/har-schema/lib/afterRequest.json;TTF:charsetI"
+utf-8;F:digest"%k¨Æ›∫÷Êˆ'[æˆ~êﬁ°Ù¨¿–~◊¨|™È:lengthiÕ:dependencies_digest"%wäPÆUÎìoì{t∞$˘À0˚ù&È‘ZΩk$ò7‡LM:idI"E3630a1aafbc3be1340d83ebf9e3241814a2693a879b0096612fe7735dd3d453e;F:
+mtimel+R¢¥e

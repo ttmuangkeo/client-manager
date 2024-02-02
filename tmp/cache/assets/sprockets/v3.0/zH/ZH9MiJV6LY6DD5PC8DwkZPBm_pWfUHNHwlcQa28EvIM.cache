@@ -1,0 +1,49 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/glob-parent/package.json?type=application/json&id=85e20ca29cca6d5812bab5fda75361881011a12215637999d3a487a5b5188b19:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/glob-parent/package.json;T:	nameI"Fnode_modules/watchpack-chokidar2/node_modules/glob-parent/package;T:logical_pathI"Knode_modules/watchpack-chokidar2/node_modules/glob-parent/package.json;T:content_typeI"application/json;T:sourceI"Á{
+  "name": "glob-parent",
+  "version": "3.1.0",
+  "description": "Strips glob magic from a string to provide the parent directory path",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test node_modules/mocha/bin/_mocha",
+    "ci-test": "istanbul cover _mocha && cat ./coverage/lcov.info | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/es128/glob-parent"
+  },
+  "keywords": [
+    "glob",
+    "parent",
+    "strip",
+    "path",
+    "dirname",
+    "directory",
+    "base",
+    "wildcard"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Elan Shanker (https://github.com/es128)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/es128/glob-parent/issues"
+  },
+  "homepage": "https://github.com/es128/glob-parent",
+  "dependencies": {
+    "is-glob": "^3.1.0",
+    "path-dirname": "^1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.5",
+    "mocha": "^2.1.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/glob-parent/package.json;TTF:charsetI"
+utf-8;F:digest"%Xxµ½>°v`ü´
+öÊ&ñ¢"3ÿ{ƒš:lengthiÁ:dependencies_digest"%6ÍÌŸ©à4 \SMèŞªÕƒ‚ä
+7´ÅárîŒÑùŞ:idI"E85e20ca29cca6d5812bab5fda75361881011a12215637999d3a487a5b5188b19;F:
+mtimel+Q¢´e

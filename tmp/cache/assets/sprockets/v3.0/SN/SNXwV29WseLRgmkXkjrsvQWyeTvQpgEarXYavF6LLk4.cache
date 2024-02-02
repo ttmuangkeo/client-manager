@@ -1,0 +1,31 @@
+{:uriI"•file://app/assets/javascripts/node_modules/vee-validate/dist/locale/fi.json?type=application/json&id=2b0958ab55256e2869a20792ac5a938a91a5352fbe1caa28dcc2f737738f0869:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/fi.json;T:	nameI"-node_modules/vee-validate/dist/locale/fi;T:logical_pathI"2node_modules/vee-validate/dist/locale/fi.json;T:content_typeI"application/json;T:sourceI"{{
+  "code": "fi",
+  "messages": {
+    "alpha": "{_field_} voi sis√§lt√§√§ vain kirjaimia",
+    "alpha_dash": "{_field_} voi sis√§lt√§√§ vain kirajimia, numeroita, ja tavu-, tai alaviivoja",
+    "alpha_num": "{_field_} voi sis√§lt√§√§ vain kirjaimia ja numeroita",
+    "between": "Kent√§n {_field_} tulee olla {min} ja {max} v√§lilt√§",
+    "confirmed": "{_field_} ei vastannut {target}",
+    "digits": "{_field_} tulee olla numeerinen ja tarkalleen {length} merkki√§",
+    "dimensions": "{_field_} tulee olla {width} pikseli√§ kertaa {height} pikseli√§",
+    "email": "{_field_} tulee olla kelvollinen s√§hk√∂postiosoite",
+    "excluded": "{_field_} tulee olla kelvollinen arvo",
+    "ext": "{_field_} tulee olla kelvollinen tiedosto",
+    "image": "{_field_} tulee olla kelvollinen kuva",
+    "max": "{_field_} ei saa olla pidempi kuin {length} merkki√§",
+    "mimes": "{_field_} tulee olla kelvollinen tiedostotyyppi",
+    "min": "{_field_} tulee olla v√§hint√§√§n {length} merkki√§",
+    "numeric": "{_field_} voi sis√§lt√§√§ vain numeroita",
+    "oneOf": "{_field_} tulee olla kelvollinen arvo",
+    "regex": "{_field_} tulee olla kelvollinen s√§√§nn√∂llinen lauseke",
+    "required": "{_field_} on pakollinen kentt√§",
+    "required_if": "{_field_} on pakollinen kentt√§",
+    "size": "{_field_} tulee olla v√§hemm√§n kuin {size}KB",
+    "double": "{_field_} on oltava kelvollinen desimaali"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/fi.json;TTF:charsetI"
+utf-8;F:digest"%ØQˇŒ"Æ©$]iœ€k¡yKû.ÍU¸)¢Ñ#œ79Ûû:lengthi{:dependencies_digest"%ç|Ûeà Q^gC7%WëMΩ©ÇZH2ÔvH™pÕÖç:idI"E2b0958ab55256e2869a20792ac5a938a91a5352fbe1caa28dcc2f737738f0869;F:
+mtimel+S¢¥e

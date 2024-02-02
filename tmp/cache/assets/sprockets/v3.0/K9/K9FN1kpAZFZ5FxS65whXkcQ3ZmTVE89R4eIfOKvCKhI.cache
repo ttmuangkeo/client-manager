@@ -1,0 +1,67 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/fsevents/package.json?type=application/json&id=8ae325638f83c10404636313d4dd5cf6eb3d6523913a38cb2b0dbc7fa6012c27:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/fsevents/package.json;T:	nameI""node_modules/fsevents/package;T:logical_pathI"'node_modules/fsevents/package.json;T:content_typeI"application/json;T:sourceI"D{
+  "name": "fsevents",
+  "version": "2.3.3",
+  "description": "Native Access to MacOS FSEvents",
+  "main": "fsevents.js",
+  "types": "fsevents.d.ts",
+  "os": [
+    "darwin"
+  ],
+  "files": [
+    "fsevents.d.ts",
+    "fsevents.js",
+    "fsevents.node"
+  ],
+  "engines": {
+    "node": "^8.16.0 || ^10.6.0 || >=11.0.0"
+  },
+  "scripts": {
+    "clean": "node-gyp clean && rm -f fsevents.node",
+    "build": "node-gyp clean && rm -f fsevents.node && node-gyp rebuild && node-gyp clean",
+    "test": "/bin/bash ./test.sh 2>/dev/null",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsevents/fsevents.git"
+  },
+  "keywords": [
+    "fsevents",
+    "mac"
+  ],
+  "contributors": [
+    {
+      "name": "Philipp Dunkel",
+      "email": "pip@pipobscure.com"
+    },
+    {
+      "name": "Ben Noordhuis",
+      "email": "info@bnoordhuis.nl"
+    },
+    {
+      "name": "Elan Shankar",
+      "email": "elan.shanker@gmail.com"
+    },
+    {
+      "name": "Miroslav BajtoÅ¡",
+      "email": "mbajtoss@gmail.com"
+    },
+    {
+      "name": "Paul Miller",
+      "url": "https://paulmillr.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsevents/fsevents/issues"
+  },
+  "homepage": "https://github.com/fsevents/fsevents",
+  "devDependencies": {
+    "node-gyp": "^9.4.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/fsevents/package.json;TTF:charsetI"
+utf-8;F:digest"%P9üÇol^ü´TæaK#Âguç^@aŸÿœ¦L)ì+:lengthiD:dependencies_digest"%?	KIÒ“:Û@¿9¹¿ìñD‰ü{´Ó©ÿõ!í1S:idI"E8ae325638f83c10404636313d4dd5cf6eb3d6523913a38cb2b0dbc7fa6012c27;F:
+mtimel+Q¢´e

@@ -1,0 +1,43 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/convert-source-map/package.json?type=application/json&id=0da436af594ed993095ebde07fe29d7b187848c8984e7541f813c71180b900a3:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/convert-source-map/package.json;T:	nameI",node_modules/convert-source-map/package;T:logical_pathI"1node_modules/convert-source-map/package.json;T:content_typeI"application/json;T:sourceI"${
+  "name": "convert-source-map",
+  "version": "2.0.0",
+  "description": "Converts a source-map from/to  different formats and allows adding/changing properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/convert-source-map.git"
+  },
+  "homepage": "https://github.com/thlorenz/convert-source-map",
+  "devDependencies": {
+    "inline-source-map": "~0.6.2",
+    "tap": "~9.0.0"
+  },
+  "keywords": [
+    "convert",
+    "sourcemap",
+    "source",
+    "map",
+    "browser",
+    "debug"
+  ],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/convert-source-map/package.json;TTF:charsetI"
+utf-8;F:digest"%æ¿€.nâ Öc!€ŒãÖû¸_ôÕr¤öI½eßéî‰V:lengthi$:dependencies_digest"%Ì£aŞ”l¦Z6¯©ë£ëPí#ÄRÕFáºQ–¶Ol:idI"E0da436af594ed993095ebde07fe29d7b187848c8984e7541f813c71180b900a3;F:
+mtimel+Q¢´e

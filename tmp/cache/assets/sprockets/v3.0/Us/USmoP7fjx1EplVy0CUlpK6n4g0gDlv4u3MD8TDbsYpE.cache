@@ -1,0 +1,30 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/detect-node/package.json?type=application/json&id=24ac5a93ab70624b34d9770bcecb278f608794285bf210e4c86ec5948ac0d564:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/detect-node/package.json;T:	nameI"%node_modules/detect-node/package;T:logical_pathI"*node_modules/detect-node/package.json;T:content_typeI"application/json;T:sourceI"_{
+  "name": "detect-node",
+  "version": "2.1.0",
+  "description": "Detect Node.JS (as opposite to browser environment) (reliable)",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iliakan/detect-node"
+  },
+  "keywords": [
+    "detect",
+    "node"
+  ],
+  "author": "Ilya Kantor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iliakan/detect-node/issues"
+  },
+  "homepage": "https://github.com/iliakan/detect-node"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/detect-node/package.json;TTF:charsetI"
+utf-8;F:digest"%^`BﬁB\„¡uCÍ]‘Iÿ;ásk£ö+&Svπ∏[$#ß:lengthi_:dependencies_digest"%Œ◊)äÔƒvRAXıœù∞Ì ‡õD¥{Aö‘êÍ~Ñ#w:idI"E24ac5a93ab70624b34d9770bcecb278f608794285bf210e4c86ec5948ac0d564;F:
+mtimel+Q¢¥e

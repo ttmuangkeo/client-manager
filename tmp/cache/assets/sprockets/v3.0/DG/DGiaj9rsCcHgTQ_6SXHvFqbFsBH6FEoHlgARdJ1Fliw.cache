@@ -1,0 +1,44 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/@babel/compat-data/package.json?type=application/json&id=ccfacd543a823df0283c069728ef5d0bb7132548c8e38fa7ff684476b9928464:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/@babel/compat-data/package.json;T:	nameI",node_modules/@babel/compat-data/package;T:logical_pathI"1node_modules/@babel/compat-data/package.json;T:content_typeI"application/json;T:sourceI"r{
+  "name": "@babel/compat-data",
+  "version": "7.23.5",
+  "author": "The Babel Team (https://babel.dev/team)",
+  "license": "MIT",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-compat-data"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    "./plugins": "./plugins.js",
+    "./native-modules": "./native-modules.js",
+    "./corejs2-built-ins": "./corejs2-built-ins.js",
+    "./corejs3-shipped-proposals": "./corejs3-shipped-proposals.js",
+    "./overlapping-plugins": "./overlapping-plugins.js",
+    "./plugin-bugfixes": "./plugin-bugfixes.js"
+  },
+  "scripts": {
+    "build-data": "./scripts/download-compat-table.sh && node ./scripts/build-data.js && node ./scripts/build-modules-support.js && node ./scripts/build-bugfixes-targets.js"
+  },
+  "keywords": [
+    "babel",
+    "compat-table",
+    "compat-data"
+  ],
+  "devDependencies": {
+    "@mdn/browser-compat-data": "^5.3.0",
+    "core-js-compat": "^3.31.0",
+    "electron-to-chromium": "^1.4.441"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/@babel/compat-data/package.json;TTF:charsetI"
+utf-8;F:digest"%o¡›Ñ*ññH5§…Qåú•&íy`ê>>‹Y°.%:lengthir:dependencies_digest"%T§q£ì¯j³J1GÔø}€¤NÌÂh‚%!q9ºÜiÛ:idI"Eccfacd543a823df0283c069728ef5d0bb7132548c8e38fa7ff684476b9928464;F:
+mtimel+R¢´e

@@ -1,0 +1,63 @@
+{:uriI"ñfile://app/assets/javascripts/node_modules/ssri/package.json?type=application/json&id=731d4479f4a8d9dde1b73d849c89b43460f9b5f2932a49d7ebad7c6d759c09a1:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/ssri/package.json;T:	nameI"node_modules/ssri/package;T:logical_pathI"#node_modules/ssri/package.json;T:content_typeI"application/json;T:sourceI"¿{
+  "name": "ssri",
+  "version": "6.0.2",
+  "description": "Standard Subresource Integrity library --  parses, serializes, generates, and verifies integrity metadata according to the SRI spec.",
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "prerelease": "npm t",
+    "postrelease": "npm publish && git push --follow-tags",
+    "pretest": "standard",
+    "release": "standard-version -s",
+    "test": "tap -J --coverage test/*.js",
+    "update-coc": "weallbehave -o . && git add CODE_OF_CONDUCT.md && git commit -m 'docs(coc): updated CODE_OF_CONDUCT.md'",
+    "update-contrib": "weallcontribute -o . && git add CONTRIBUTING.md && git commit -m 'docs(contributing): updated CONTRIBUTING.md'"
+  },
+  "repository": "https://github.com/zkat/ssri",
+  "keywords": [
+    "w3c",
+    "web",
+    "security",
+    "integrity",
+    "checksum",
+    "hashing",
+    "subresource integrity",
+    "sri",
+    "sri hash",
+    "sri string",
+    "sri generator",
+    "html"
+  ],
+  "author": {
+    "name": "Kat March√°n",
+    "email": "kzm@sykosomatic.org",
+    "twitter": "maybekatz"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "figgy-pudding": "^3.5.1"
+  },
+  "devDependencies": {
+    "nyc": "^11.4.1",
+    "standard": "^10.0.3",
+    "standard-version": "^4.3.0",
+    "tap": "^11.1.0",
+    "weallbehave": "^1.2.0",
+    "weallcontribute": "^1.0.8"
+  },
+  "config": {
+    "nyc": {
+      "exclude": [
+        "node_modules/**",
+        "test/**"
+      ]
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/ssri/package.json;TTF:charsetI"
+utf-8;F:digest"%A\å$≤™ˇÏgÄ4¶·Hoﬁˇ…-1bÁ”¬*≈“:lengthi¿:dependencies_digest"%¶ÚB≠8€Jöy+æIS¢ø¥÷YÅµèLiﬁÈÙ'±f◊k:idI"E731d4479f4a8d9dde1b73d849c89b43460f9b5f2932a49d7ebad7c6d759c09a1;F:
+mtimel+Q¢¥e

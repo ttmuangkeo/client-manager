@@ -1,0 +1,16 @@
+{:uriI"áfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/ids/OccurrenceChunkIdsPlugin.json?type=application/json&id=9049a63c68ecf4196d93daac7bc34453c0b0eab9770425daf09c5f7a553ff158:ET:load_pathI"app/assets/javascripts;T:filenameI"€app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/ids/OccurrenceChunkIdsPlugin.json;T:	nameI"inode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/ids/OccurrenceChunkIdsPlugin;T:logical_pathI"nnode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/ids/OccurrenceChunkIdsPlugin.json;T:content_typeI"application/json;T:sourceI"÷{
+  "title": "OccurrenceChunkIdsPluginOptions",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "prioritiseInitial": {
+      "description": "Prioritise initial size over total size.",
+      "type": "boolean"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Žfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/ids/OccurrenceChunkIdsPlugin.json;TTF:charsetI"
+utf-8;F:digest"%þ0»¸Ã)7¹´µyË1Þ¸“7R„Ïƒ×ï¸×ÆÇ1H:lengthi÷:dependencies_digest"%«´×-´²‰©iœ¥õ–(ì1:¤NQŽÀi!…Ìr¶:idI"E9049a63c68ecf4196d93daac7bc34453c0b0eab9770425daf09c5f7a553ff158;F:
+mtimel+T¢´e

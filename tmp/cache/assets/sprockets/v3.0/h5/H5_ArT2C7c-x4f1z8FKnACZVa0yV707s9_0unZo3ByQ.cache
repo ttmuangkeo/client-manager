@@ -1,0 +1,39 @@
+{:uriI"žfile://app/assets/javascripts/node_modules/spdx-correct/package.json?type=application/json&id=4451141e0265dd4568e7112aea54bc2d5c5d460d3e497c1040e42a09ec194810:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/spdx-correct/package.json;T:	nameI"&node_modules/spdx-correct/package;T:logical_pathI"+node_modules/spdx-correct/package.json;T:content_typeI"application/json;T:sourceI"Ô{
+  "name": "spdx-correct",
+  "description": "correct invalid SPDX expressions",
+  "version": "3.2.0",
+  "dependencies": {
+    "spdx-expression-parse": "^3.0.0",
+    "spdx-license-ids": "^3.0.0"
+  },
+  "devDependencies": {
+    "defence-cli": "^3.0.1",
+    "replace-require-self": "^1.0.0",
+    "standard": "^14.3.4",
+    "standard-markdown": "^6.0.0",
+    "tape": "^5.0.1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "SPDX",
+    "law",
+    "legal",
+    "license",
+    "metadata"
+  ],
+  "license": "Apache-2.0",
+  "repository": "jslicense/spdx-correct.js",
+  "scripts": {
+    "lint": "standard && standard-markdown README.md",
+    "test": "defence README.md | replace-require-self | node && node test.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/spdx-correct/package.json;TTF:charsetI"
+utf-8;F:digest"%M[&GH§Q
+Ùj]ëÚäƒ:bPkü•ßÇep–ßjª:lengthiÔ:dependencies_digest"%µ‰…îRSè¡
+'¸ƒ¬žÜÛNR˜¢Â½HÈ»ÁÆCçí›:idI"E4451141e0265dd4568e7112aea54bc2d5c5d460d3e497c1040e42a09ec194810;F:
+mtimel+Q¢´e

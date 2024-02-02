@@ -1,0 +1,86 @@
+{:uriI"›file://app/assets/javascripts/node_modules/is-string/package.json?type=application/json&id=148940bbff9d809677b1e089d4d6f3bc3971ca96d3b698457891f3a7335edb8b:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/is-string/package.json;T:	nameI"#node_modules/is-string/package;T:logical_pathI"(node_modules/is-string/package.json;T:content_typeI"application/json;T:sourceI"4{
+	"name": "is-string",
+	"version": "1.0.7",
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"funding": {
+		"url": "https://github.com/sponsors/ljharb"
+	},
+	"description": "Is this value a JS String object or primitive? This module works cross-realm/iframe, and despite ES6 @@toStringTag.",
+	"license": "MIT",
+	"main": "index.js",
+	"scripts": {
+		"prepublishOnly": "safe-publish-latest",
+		"prepublish": "not-in-publish || npm run prepublishOnly",
+		"pretest": "npm run lint",
+		"tests-only": "nyc tape 'test/**/*.js'",
+		"test:corejs": "nyc tape test-corejs.js",
+		"test": "npm run tests-only && npm run test:corejs",
+		"posttest": "npx aud --production",
+		"lint": "eslint .",
+		"eccheck": "eclint check *.js **/*.js > /dev/null",
+		"version": "auto-changelog && git add CHANGELOG.md",
+		"postversion": "auto-changelog && git add CHANGELOG.md && git commit --no-edit --amend && git tag -f \"v$(node -e \"console.log(require('./package.json').version)\")\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/ljharb/is-string.git"
+	},
+	"keywords": [
+		"String",
+		"string",
+		"ES6",
+		"toStringTag",
+		"@@toStringTag",
+		"String object"
+	],
+	"dependencies": {
+		"has-tostringtag": "^1.0.0"
+	},
+	"devDependencies": {
+		"@ljharb/eslint-config": "^17.6.0",
+		"aud": "^1.1.5",
+		"auto-changelog": "^2.3.0",
+		"core-js": "^3.16.0",
+		"eclint": "^2.8.1",
+		"eslint": "^7.32.0",
+		"foreach": "^2.0.5",
+		"indexof": "^0.0.1",
+		"is": "^3.3.0",
+		"nyc": "^10.3.2",
+		"safe-publish-latest": "^1.1.4",
+		"tape": "^5.3.0"
+	},
+	"testling": {
+		"files": "test/index.js",
+		"browsers": [
+			"iexplore/6.0..latest",
+			"firefox/3.0..6.0",
+			"firefox/15.0..latest",
+			"firefox/nightly",
+			"chrome/4.0..10.0",
+			"chrome/20.0..latest",
+			"chrome/canary",
+			"opera/10.0..latest",
+			"opera/next",
+			"safari/4.0..latest",
+			"ipad/6.0..latest",
+			"iphone/6.0..latest",
+			"android-browser/4.2"
+		]
+	},
+	"engines": {
+		"node": ">= 0.4"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": "keepachangelog",
+		"unreleased": false,
+		"commitLimit": false,
+		"backfillLimit": false
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/is-string/package.json;TTF:charsetI"
+utf-8;F:digest"%»þ,JoÒ7qþzŠ¼”EGÆ350²û	B#qpl:lengthi4:dependencies_digest"%µêÎ8-Š!-ÇÑ'ø$£®#K |ã+"Ü\Þƒˆ:idI"E148940bbff9d809677b1e089d4d6f3bc3971ca96d3b698457891f3a7335edb8b;F:
+mtimel+R¢´e

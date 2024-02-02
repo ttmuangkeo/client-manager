@@ -1,0 +1,81 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/snapdragon-node/package.json?type=application/json&id=13f5e9f243d43d85647dead60ed1fa2c23ba6baa4ff8b585b19a3dbf68c0b6fa:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/snapdragon-node/package.json;T:	nameI")node_modules/snapdragon-node/package;T:logical_pathI".node_modules/snapdragon-node/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "snapdragon-node",
+  "description": "Snapdragon utility for creating a new AST node in custom code, such as plugins.",
+  "version": "2.1.1",
+  "homepage": "https://github.com/jonschlinkert/snapdragon-node",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/snapdragon-node",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/snapdragon-node/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "define-property": "^1.0.0",
+    "isobject": "^3.0.0",
+    "snapdragon-util": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-format-md": "^0.1.12",
+    "gulp-istanbul": "^1.1.2",
+    "gulp-mocha": "^3.0.1",
+    "mocha": "^3.4.2",
+    "snapdragon": "^0.11.0"
+  },
+  "keywords": [
+    "ast",
+    "compile",
+    "compiler",
+    "convert",
+    "node",
+    "parse",
+    "parser",
+    "plugin",
+    "render",
+    "snapdragon",
+    "snapdragonplugin",
+    "token",
+    "transform"
+  ],
+  "verb": {
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "breakdance",
+        "snapdragon",
+        "snapdragon-capture",
+        "snapdragon-cheerio",
+        "snapdragon-util"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "verb-generate-readme"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/snapdragon-node/package.json;TTF:charsetI"
+utf-8;F:digest"%P3c]oùm¸@.\(§îãAÔï{¨—î`3˜ßÏ:lengthi:dependencies_digest"%æŠAÒýL‹æÎÔíMqA”ÃFÆHQ¨a N¸6"/½°:idI"E13f5e9f243d43d85647dead60ed1fa2c23ba6baa4ff8b585b19a3dbf68c0b6fa;F:
+mtimel+Q¢´e

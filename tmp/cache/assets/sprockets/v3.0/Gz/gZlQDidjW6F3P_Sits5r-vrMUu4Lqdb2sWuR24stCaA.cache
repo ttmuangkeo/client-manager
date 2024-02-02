@@ -1,0 +1,39 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/lru-cache/package.json?type=application/json&id=35335c52f95048c106c75f16e84af4930b62f399729eb1033d0cb8ef4ddc5538:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/lru-cache/package.json;T:	nameI"Fnode_modules/@vue/cli-shared-utils/node_modules/lru-cache/package;T:logical_pathI"Knode_modules/@vue/cli-shared-utils/node_modules/lru-cache/package.json;T:content_typeI"application/json;T:sourceI"Á{
+  "name": "lru-cache",
+  "description": "A cache object that deletes the least-recently-used items.",
+  "version": "6.0.0",
+  "author": "Isaac Z. Schlueter <i@izs.me>",
+  "keywords": [
+    "mru",
+    "lru",
+    "cache"
+  ],
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags"
+  },
+  "main": "index.js",
+  "repository": "git://github.com/isaacs/node-lru-cache.git",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "tap": "^14.10.7"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "yallist": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/lru-cache/package.json;TTF:charsetI"
+utf-8;F:digest"%°`q¹›ëæÌwö^ÔóoõJ¯x×N ¾Ç/)¨âÂ:lengthiÁ:dependencies_digest"%ğŠx*#‹²L.l`%·KZÕ\¹<"Xê?ó’Ü6:idI"E35335c52f95048c106c75f16e84af4930b62f399729eb1033d0cb8ef4ddc5538;F:
+mtimel+Q¢´e

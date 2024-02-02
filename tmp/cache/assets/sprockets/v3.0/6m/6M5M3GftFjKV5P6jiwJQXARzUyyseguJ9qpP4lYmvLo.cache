@@ -1,0 +1,33 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/units.schema.json?type=application/json&id=65f2d03b4b91dcfa201307bbbf14173044b88975beea8f2f390a05f6c7c36741:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/units.schema.json;T:	nameI"=node_modules/csso/node_modules/mdn-data/css/units.schema;T:logical_pathI"Bnode_modules/csso/node_modules/mdn-data/css/units.schema.json;T:content_typeI"application/json;T:sourceI"ö{
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "groups": {
+        "type": "array",
+        "minitems": 1,
+        "uniqueItems": true,
+        "items": {
+          "$ref": "definitions.json#/groupList"
+        }
+      },
+      "status": {
+        "enum": [
+          "standard",
+          "nonstandard",
+          "experimental"
+        ]
+      }
+    },
+    "required": [
+      "groups",
+      "status"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/units.schema.json;TTF:charsetI"
+utf-8;F:digest"%±l¯á'Ñz/‹à5È©óªáÛÍãÙyX1²]è—:lengthiö:dependencies_digest"%zªñ.Â8f°NrYM’£qhÑñœ3|¸gÿ*²­ƒ:idI"E65f2d03b4b91dcfa201307bbbf14173044b88975beea8f2f390a05f6c7c36741;F:
+mtimel+S¢´e

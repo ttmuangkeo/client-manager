@@ -1,0 +1,42 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/buffer-xor/package.json?type=application/json&id=436e96e6af85b8a7dc1c7bec879a5171f7c2de8888a94b18e2bd8a9ce7c02865:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/buffer-xor/package.json;T:	nameI"$node_modules/buffer-xor/package;T:logical_pathI")node_modules/buffer-xor/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "buffer-xor",
+  "version": "1.0.3",
+  "description": "A simple module for bitwise-xor on buffers",
+  "main": "index.js",
+  "scripts": {
+    "standard": "standard",
+    "test": "npm run-script unit",
+    "unit": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crypto-browserify/buffer-xor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crypto-browserify/buffer-xor/issues"
+  },
+  "homepage": "https://github.com/crypto-browserify/buffer-xor",
+  "keywords": [
+    "bits",
+    "bitwise",
+    "buffer",
+    "buffer-xor",
+    "crypto",
+    "inline",
+    "math",
+    "memory",
+    "performance",
+    "xor"
+  ],
+  "author": "Daniel Cousens",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "standard": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/buffer-xor/package.json;TTF:charsetI"
+utf-8;F:digest"%§° ´5÷l«ÅQòÛy[î¨µmó´8 %ß ³Àx”³:lengthi:dependencies_digest"%5ZÖô=›—B{ûjÒC.³ÏìEçîœbÉK5á¢ÄÝë:idI"E436e96e6af85b8a7dc1c7bec879a5171f7c2de8888a94b18e2bd8a9ce7c02865;F:
+mtimel+Q¢´e

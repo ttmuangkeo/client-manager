@@ -1,0 +1,45 @@
+{:uriI"∫file://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/nn.json?type=application/json&id=0bc3f49b77966ee92e29d86d1ac124025a234c6bba3f5a95a90c63c940888ebb:ET:load_pathI"app/assets/javascripts;T:filenameI"^app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/nn.json;T:	nameI"Bnode_modules/webpack-dev-server/node_modules/yargs/locales/nn;T:logical_pathI"Gnode_modules/webpack-dev-server/node_modules/yargs/locales/nn.json;T:content_typeI"application/json;T:sourceI"≥{
+  "Commands:": "Kommandoar:",
+  "Options:": "Alternativ:",
+  "Examples:": "D√∏me:",
+  "boolean": "boolsk",
+  "count": "mengd",
+  "string": "streng",
+  "number": "nummer",
+  "array": "matrise",
+  "required": "obligatorisk",
+  "default:": "standard:",
+  "choices:": "val:",
+  "generated-value": "generert-verdi",
+  "Not enough non-option arguments: got %s, need at least %s":
+    "Ikkje nok ikkje-alternativ argument: fekk %s, treng minst %s",
+  "Too many non-option arguments: got %s, maximum of %s":
+    "For mange ikkje-alternativ argument: fekk %s, maksimum %s",
+  "Missing argument value: %s": {
+    "one": "Manglar argumentverdi: %s",
+    "other": "Manglar argumentverdiar: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Manglar obligatorisk argument: %s",
+    "other": "Manglar obligatoriske argument: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Ukjent argument: %s",
+    "other": "Ukjende argument: %s"
+  },
+  "Invalid values:": "Ugyldige verdiar:",
+  "Argument: %s, Given: %s, Choices: %s": "Argument: %s, Gjeve: %s, Val: %s",
+  "Argument check failed: %s": "Argumentsjekk mislukkast: %s",
+  "Implications failed:": "Konsekvensane mislukkast:",
+  "Not enough arguments following: %s": "Ikkje nok fylgjande argument: %s",
+  "Invalid JSON config file: %s": "Ugyldig JSON konfigurasjonsfil: %s",
+  "Path to JSON config file": "Bane til JSON konfigurasjonsfil",
+  "Show help": "Vis hjelp",
+  "Show version number": "Vis versjonsnummer"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"lfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/nn.json;TTF:charsetI"
+utf-8;F:digest"%€˙ŒëÉCóß;√¢Ky&’£PF%5Æé¿\{◊3A˜:lengthi≥:dependencies_digest"%hÕóe„dK})’∆âØqˇ√ıêñÃ
+>-ŸF3ÅO4:idI"E0bc3f49b77966ee92e29d86d1ac124025a234c6bba3f5a95a90c63c940888ebb;F:
+mtimel+R¢¥e

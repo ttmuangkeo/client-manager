@@ -1,0 +1,36 @@
+{:uriI"¹file://app/assets/javascripts/node_modules/@babel/plugin-syntax-class-static-block/package.json?type=application/json&id=3d57ba0afc0f928c01f1553bd0732c088696a1122b48ae6e1532a976404eed3b:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/@babel/plugin-syntax-class-static-block/package.json;T:	nameI"Anode_modules/@babel/plugin-syntax-class-static-block/package;T:logical_pathI"Fnode_modules/@babel/plugin-syntax-class-static-block/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "@babel/plugin-syntax-class-static-block",
+  "version": "7.14.5",
+  "description": "Allow parsing of class static blocks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-syntax-class-static-block"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-syntax-class-static-block",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.14.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-class-static-block/package.json;TTF:charsetI"
+utf-8;F:digest"%ZœP÷]~®[¹´Y¼ùñnp{iUîösä*¬ZêÆ:lengthi:dependencies_digest"%q—%Y¢æÙ’-¦òd·âW!xùQ9ç•[=TÌĞô:idI"E3d57ba0afc0f928c01f1553bd0732c088696a1122b48ae6e1532a976404eed3b;F:
+mtimel+Q¢´e

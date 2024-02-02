@@ -1,0 +1,40 @@
+{:uriI"«file://app/assets/javascripts/node_modules/globby/node_modules/slash/package.json?type=application/json&id=0a07ebd0ea7c34e1eb6e8baef17af39a1e5b94932518b91b17f54c9478d9897e:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/globby/node_modules/slash/package.json;T:	nameI"3node_modules/globby/node_modules/slash/package;T:logical_pathI"8node_modules/globby/node_modules/slash/package.json;T:content_typeI"application/json;T:sourceI"@{
+	"name": "slash",
+	"version": "3.0.0",
+	"description": "Convert Windows backslash paths to slash paths",
+	"license": "MIT",
+	"repository": "sindresorhus/slash",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"path",
+		"seperator",
+		"slash",
+		"backslash",
+		"windows",
+		"convert"
+	],
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"]file-digest://app/assets/javascripts/node_modules/globby/node_modules/slash/package.json;TTF:charsetI"
+utf-8;F:digest"%'•¸»ç¡~n(©vc™;?£S´!%jÒô–´,\Sl:lengthi@:dependencies_digest"%í«Up9o«èÌAoù¶´“x²îÞ¢ü%¥[oQXé:idI"E0a07ebd0ea7c34e1eb6e8baef17af39a1e5b94932518b91b17f54c9478d9897e;F:
+mtimel+Q¢´e

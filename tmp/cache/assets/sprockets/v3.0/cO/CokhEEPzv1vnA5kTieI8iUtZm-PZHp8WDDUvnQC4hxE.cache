@@ -1,0 +1,48 @@
+{:uriI"√file://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/find-cache-dir/package.json?type=application/json&id=e0591d2a7fa5347f360975e4a86cd1f09f54df2e3533c0576de761bce4ffaedb:ET:load_pathI"app/assets/javascripts;T:filenameI"gapp/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/find-cache-dir/package.json;T:	nameI"Knode_modules/terser-webpack-plugin/node_modules/find-cache-dir/package;T:logical_pathI"Pnode_modules/terser-webpack-plugin/node_modules/find-cache-dir/package.json;T:content_typeI"application/json;T:sourceI"Å{
+	"name": "find-cache-dir",
+	"version": "2.1.0",
+	"description": "Finds the common standard cache directory",
+	"license": "MIT",
+	"repository": "avajs/find-cache-dir",
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && nyc ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cache",
+		"directory",
+		"dir",
+		"caching",
+		"find",
+		"search"
+	],
+	"dependencies": {
+		"commondir": "^1.0.1",
+		"make-dir": "^2.0.0",
+		"pkg-dir": "^3.0.0"
+	},
+	"devDependencies": {
+		"ava": "^1.3.1",
+		"coveralls": "^3.0.3",
+		"del": "^4.0.0",
+		"nyc": "^13.3.0",
+		"xo": "^0.24.0"
+	},
+	"nyc": {
+		"reporter": [
+			"lcov",
+			"text"
+		]
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ufile-digest://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/find-cache-dir/package.json;TTF:charsetI"
+utf-8;F:digest"%ÈZ<”#J$≥îÄªﬁÓ∫πú◊Ûofjé¸
+ÍŒÁE:lengthiÅ:dependencies_digest"%´És—£Z'ô@y^€∞A‰πÎqΩˇÿ’ Ñ¶8IéÃ:idI"Ee0591d2a7fa5347f360975e4a86cd1f09f54df2e3533c0576de761bce4ffaedb;F:
+mtimel+Q¢¥e

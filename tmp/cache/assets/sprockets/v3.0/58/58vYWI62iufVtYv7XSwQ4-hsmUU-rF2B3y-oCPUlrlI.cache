@@ -1,0 +1,35 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/sv.json?type=application/json&id=de9b88ef38ad846f72324d7b074fdde4557f8341ee2ad185fa33a7d20a918b3d:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/sv.json;T:	nameI"-node_modules/vee-validate/dist/locale/sv;T:logical_pathI"2node_modules/vee-validate/dist/locale/sv.json;T:content_typeI"application/json;T:sourceI"�{
+  "code": "sv",
+  "messages": {
+    "alpha": "Fältet {_field_} får bara innehålla alfabetiska tecken",
+    "alpha_dash": "Fältet {_field_} får bara innehålla alfanumeriska tecken såväl som snedstreck och understreck",
+    "alpha_num": "Fältet {_field_} får bara innehålla alfanumeriska tecken",
+    "alpha_spaces": "Fältet {_field_} får bara innehålla alfabetiska tecken och mellanslag",
+    "between": "Fältet {_field_} måste vara mellan {min} och {max}",
+    "confirmed": "Fältet {_field_} matchar inte {target}",
+    "digits": "Fältet {_field_} måste vara numeriskt och innehålla exakt {length} siffor",
+    "dimensions": "Fältet {_field_} måste vara {width} pixlar bred och {height} pixlar hög",
+    "email": "Fältet {_field_} måste vara en giltig e-postadress",
+    "excluded": "Fältet {_field_} måste vara ett godkänt alternativ",
+    "ext": "Fältet {_field_} måste vara en godkänd fil",
+    "image": "Fältet {_field_} måste vara en bildfil",
+    "integer": "Fältet {_field_} måste vara ett heltal",
+    "length": "Fältet {_field_} måste vara {length} långt",
+    "oneOf": "Fältet {_field_} måste vara ett godkänt alternativ",
+    "max": "Fältet {_field_} får inte vara längre än {length} tecken",
+    "mimes": "Fältet {_field_} måste ha en filändelse",
+    "min": "Fältet {_field_} måste minst vara {length} tecken",
+    "numeric": "Fältet {_field_} får bara innehålla numeriska tecken",
+    "regex": "Fältet {_field_} har en felaktig formatering",
+    "required": "Fältet {_field_} är obligatoriskt",
+    "required_if": "Fältet {_field_} är obligatoriskt",
+    "size": "Fältet {_field_} måste vara mindre än {size}KB",
+    "double": "Fältet {_field_} måste vara ett giltigt decimal"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/sv.json;TTF:charsetI"
+utf-8;F:digest"%���&S\�⤀��s�-�;��t��F�HqmD:lengthi�:dependencies_digest"%���ɠ
+яk�'����A�#\���g�(|(U:idI"Ede9b88ef38ad846f72324d7b074fdde4557f8341ee2ad185fa33a7d20a918b3d;F:
+mtimel+S��e

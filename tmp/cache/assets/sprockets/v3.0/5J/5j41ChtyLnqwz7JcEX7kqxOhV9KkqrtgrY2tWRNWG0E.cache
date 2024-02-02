@@ -1,0 +1,20 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/bcrypt-pbkdf/package.json?type=application/json&id=3066e4dcc9162f09cc30f5dff52feda5949ac2007e8d1c651cc97402f6e134e2:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/bcrypt-pbkdf/package.json;T:	nameI"&node_modules/bcrypt-pbkdf/package;T:logical_pathI"+node_modules/bcrypt-pbkdf/package.json;T:content_typeI"application/json;T:sourceI"a{
+  "name": "bcrypt-pbkdf",
+  "version": "1.0.2",
+  "description": "Port of the OpenBSD bcrypt_pbkdf function to pure JS",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joyent/node-bcrypt-pbkdf.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "tweetnacl": "^0.14.3"
+  },
+  "devDependencies": {},
+  "license": "BSD-3-Clause"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/bcrypt-pbkdf/package.json;TTF:charsetI"
+utf-8;F:digest"%¸P0TXó\8D6⁄9Ó\lΩö)EIG∆i˛àê:lengthia:dependencies_digest"%5-¡T∂û∞˛úE˛æ,«Y⁄dÿG¡Ì4%Ω! µ6:idI"E3066e4dcc9162f09cc30f5dff52feda5949ac2007e8d1c651cc97402f6e134e2;F:
+mtimel+Q¢¥e

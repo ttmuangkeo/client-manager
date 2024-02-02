@@ -1,0 +1,48 @@
+{:uriI"∑file://app/assets/javascripts/node_modules/json-stable-stringify-without-jsonify/package.json?type=application/json&id=817467703af492b04874241cc2f97bb2bc337f8538b534e801b205289f495b15:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/json-stable-stringify-without-jsonify/package.json;T:	nameI"?node_modules/json-stable-stringify-without-jsonify/package;T:logical_pathI"Dnode_modules/json-stable-stringify-without-jsonify/package.json;T:content_typeI"application/json;T:sourceI"ﬂ{
+  "name": "json-stable-stringify-without-jsonify",
+  "version": "1.0.1",
+  "description": "deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results, with no public domain dependencies",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "ff/5", "ff/latest",
+      "chrome/15", "chrome/latest",
+      "safari/latest",
+      "opera/latest"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samn/json-stable-stringify.git"
+  },
+  "homepage": "https://github.com/samn/json-stable-stringify",
+  "keywords": [
+    "json",
+    "stringify",
+    "deterministic",
+    "hash",
+    "sort",
+    "stable"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/json-stable-stringify-without-jsonify/package.json;TTF:charsetI"
+utf-8;F:digest"%Iø√£©MÃ∏ê˜9Ù*VÆå≈KE÷3N0‹YAäÁ:lengthiﬂ:dependencies_digest"%utÓç∆£çÄ<≠ˆ¶xÌEo¡¨∆Ô‡«∫•®Çç:idI"E817467703af492b04874241cc2f97bb2bc337f8538b534e801b205289f495b15;F:
+mtimel+Q¢¥e

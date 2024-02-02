@@ -1,0 +1,84 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/snapdragon/package.json?type=application/json&id=aaecf5a481f88e14377d0e7e60b188895077250cfaa25c7c9781203478b014b7:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/snapdragon/package.json;T:	nameI"$node_modules/snapdragon/package;T:logical_pathI")node_modules/snapdragon/package.json;T:content_typeI"application/json;T:sourceI"∞{
+  "name": "snapdragon",
+  "description": "Fast, pluggable and easy-to-use parser-renderer factory.",
+  "version": "0.8.2",
+  "homepage": "https://github.com/jonschlinkert/snapdragon",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Edward Betts (http://edwardbetts.com)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "jonschlinkert/snapdragon",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/snapdragon/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "base": "^0.11.1",
+    "debug": "^2.2.0",
+    "define-property": "^0.2.5",
+    "extend-shallow": "^2.0.1",
+    "map-cache": "^0.2.2",
+    "source-map": "^0.5.6",
+    "source-map-resolve": "^0.5.0",
+    "use": "^3.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1",
+    "gulp-format-md": "^0.1.10",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-mocha": "^3.0.1",
+    "gulp-unused": "^0.2.0",
+    "mocha": "^3.0.2"
+  },
+  "keywords": [
+    "lexer",
+    "snapdragon"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "description": "These libraries use snapdragon:",
+      "list": [
+        "braces",
+        "expand-brackets",
+        "extglob",
+        "micromatch"
+      ]
+    },
+    "reflinks": [
+      "css",
+      "pug",
+      "verb",
+      "verb-generate-readme"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/snapdragon/package.json;TTF:charsetI"
+utf-8;F:digest"%Ô=Lh/ÏÁπÆ÷¿ecﬂK?FÉ›qù—^≤øm÷ k	:lengthi∞:dependencies_digest"%·w~èov:ÿ˘sn'l9o.:üYØÚ«'Xò:idI"Eaaecf5a481f88e14377d0e7e60b188895077250cfaa25c7c9781203478b014b7;F:
+mtimel+Q¢¥e

@@ -1,0 +1,29 @@
+{:uriI"ñfile://app/assets/javascripts/node_modules/atob/package.json?type=application/json&id=9bd61793799eb9ea9e616818bf13005f5d0a613705fc957cfd86cc977df6b56e:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/atob/package.json;T:	nameI"node_modules/atob/package;T:logical_pathI"#node_modules/atob/package.json;T:content_typeI"application/json;T:sourceI"I{
+  "name": "atob",
+  "homepage": "https://git.coolaj86.com/coolaj86/atob.js.git",
+  "description": "atob for Node.JS and Linux / Mac / Windows CLI (it's a one-liner)",
+  "repository": {
+    "type": "git",
+    "url": "git://git.coolaj86.com/coolaj86/atob.js.git"
+  },
+  "keywords": [
+    "atob",
+    "browser"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com)",
+  "engines": {
+    "node": ">= 4.5.0"
+  },
+  "main": "node-atob.js",
+  "browser": "browser-atob.js",
+  "bin": {
+    "atob": "bin/atob.js"
+  },
+  "license": "(MIT OR Apache-2.0)",
+  "version": "2.1.2"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/atob/package.json;TTF:charsetI"
+utf-8;F:digest"%Ï_Å~Ç≥Xü˙tµŸU®{”5ô.qq…Úfï!˜Pò:lengthiI:dependencies_digest"%øÖíÄïÃ7çK∂#©¥Ì≥à„{œXêÀ”Jì˛ï:idI"E9bd61793799eb9ea9e616818bf13005f5d0a613705fc957cfd86cc977df6b56e;F:
+mtimel+Q¢¥e

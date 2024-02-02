@@ -1,0 +1,48 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/get-caller-file/package.json?type=application/json&id=8be715394f76d5dfc7c1b305fa309b08bca290da1452f5590b98a8780a195fc4:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/get-caller-file/package.json;T:	nameI")node_modules/get-caller-file/package;T:logical_pathI".node_modules/get-caller-file/package.json;T:content_typeI"application/json;T:sourceI"º{
+  "name": "get-caller-file",
+  "version": "2.0.5",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "files": [
+    "index.js",
+    "index.js.map",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "prepare": "tsc",
+    "test": "mocha test",
+    "test:debug": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanpenner/get-caller-file.git"
+  },
+  "author": "Stefan Penner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanpenner/get-caller-file/issues"
+  },
+  "homepage": "https://github.com/stefanpenner/get-caller-file#readme",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/ensure-posix-path": "^1.0.0",
+    "@types/mocha": "^5.2.6",
+    "@types/node": "^11.10.5",
+    "chai": "^4.1.2",
+    "ensure-posix-path": "^1.0.1",
+    "mocha": "^5.2.0",
+    "typescript": "^3.3.3333"
+  },
+  "engines": {
+    "node": "6.* || 8.* || >= 10.*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/get-caller-file/package.json;TTF:charsetI"
+utf-8;F:digest"%h
+(…À[ÅÞBœ€xKû$Œ£ï6…C€yÅW!â®:lengthiº:dependencies_digest"%X$F?¡äPÉþ½×Þî¢ß1.ù3,óV,µ‘"¡'Ç}:idI"E8be715394f76d5dfc7c1b305fa309b08bca290da1452f5590b98a8780a195fc4;F:
+mtimel+Q¢´e

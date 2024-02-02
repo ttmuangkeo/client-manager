@@ -1,0 +1,56 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/cssesc/package.json?type=application/json&id=4188938532a71d2af6f40436a43865ce0658e6ebea5dc8fac0671bda9fe385a6:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/cssesc/package.json;T:	nameI" node_modules/cssesc/package;T:logical_pathI"%node_modules/cssesc/package.json;T:content_typeI"application/json;T:sourceI"ä{
+  "name": "cssesc",
+  "version": "3.0.0",
+  "description": "A JavaScript library for escaping CSS strings and identifiers while generating the shortest possible ASCII-only output.",
+  "homepage": "https://mths.be/cssesc",
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "cssesc.js",
+  "bin": "bin/cssesc",
+  "man": "man/cssesc.1",
+  "keywords": [
+    "css",
+    "escape",
+    "identifier",
+    "string",
+    "tool"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/cssesc.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/cssesc/issues",
+  "files": [
+    "LICENSE-MIT.txt",
+    "cssesc.js",
+    "bin/",
+    "man/"
+  ],
+  "scripts": {
+    "build": "grunt template && babel cssesc.js -o cssesc.js",
+    "test": "mocha tests",
+    "cover": "istanbul cover --report html node_modules/.bin/_mocha tests -- -u exports -R spec"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "codecov": "^1.0.1",
+    "grunt": "^1.0.1",
+    "grunt-template": "^1.0.0",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3",
+    "regenerate": "^1.2.1",
+    "requirejs": "^2.1.16"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/cssesc/package.json;TTF:charsetI"
+utf-8;F:digest"%#ñ4¾Dò‡|)Œ¥lTdë¾ÛIÃÎ›‚¾<s¦EÐ:lengthiä:dependencies_digest"%EC—=DUœå_áT ªš_t/¦@¦DYðÇS_iŸ™:idI"E4188938532a71d2af6f40436a43865ce0658e6ebea5dc8fac0671bda9fe385a6;F:
+mtimel+Q¢´e

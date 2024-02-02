@@ -1,0 +1,27 @@
+{:uriI"ëfile://app/assets/javascripts/node_modules/yorkie/appveyor.yml?type=text/yaml&id=422df7efdcb1369bde287747ffd18f5148037c15dcacb49a9a1b31f1898a327c:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/yorkie/appveyor.yml;T:	nameI"!node_modules/yorkie/appveyor;T:logical_pathI"%node_modules/yorkie/appveyor.yml;T:content_typeI"text/yaml;T:sourceI"‘# Test against the latest version of this Node.js version
+environment:
+  nodejs_version: "8"
+
+# Install scripts. (runs after repo cloning)
+install:
+  # Get the latest stable version of Node.js or io.js
+  - ps: Install-Product node $env:nodejs_version
+  # install modules
+  - npm install
+
+# Post-install test scripts.
+test_script:
+  # Output useful info for debugging.
+  - node --version
+  - npm --version
+  # run tests
+  - npm test
+
+# Don't actually build.
+build: off
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"Jfile-digest://app/assets/javascripts/node_modules/yorkie/appveyor.yml;TTF:charsetI"
+utf-8;F:digest"%ıÂ(øúj4‘M ËáA•Q}¯ÉLºçÈ[î£$Á:lengthi‘:dependencies_digest"%∑$ã
+ÛX,âãÊKﬁ‰££§¿Œy1∂>ÅGi∆"DMA<:idI"E422df7efdcb1369bde287747ffd18f5148037c15dcacb49a9a1b31f1898a327c;F:
+mtimel+Q¢¥e

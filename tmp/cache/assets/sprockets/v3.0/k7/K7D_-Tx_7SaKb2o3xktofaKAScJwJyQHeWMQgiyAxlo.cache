@@ -1,0 +1,60 @@
+{:uriI"¹file://app/assets/javascripts/node_modules/static-module/node_modules/magic-string/package.json?type=application/json&id=94d68ac08518bdaead5a39b3b35dc964cad7c24c484d3bb8b4833603c378fc46:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/static-module/node_modules/magic-string/package.json;T:	nameI"Anode_modules/static-module/node_modules/magic-string/package;T:logical_pathI"Fnode_modules/static-module/node_modules/magic-string/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "magic-string",
+  "description": "Modify strings, generate sourcemaps",
+  "author": "Rich Harris",
+  "version": "0.22.5",
+  "repository": "https://github.com/rich-harris/magic-string",
+  "main": "dist/magic-string.cjs.js",
+  "module": "dist/magic-string.es.js",
+  "jsnext:main": "dist/magic-string.es.js",
+  "typings": "index.d.ts",
+  "license": "MIT",
+  "dependencies": {
+    "vlq": "^0.2.2"
+  },
+  "devDependencies": {
+    "buble": "^0.15.2",
+    "codecov.io": "^0.1.6",
+    "console-group": "^0.3.3",
+    "eslint": "^4.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.5.0",
+    "remap-istanbul": "^0.9.5",
+    "resolve": "^1.4.0",
+    "rollup": "^0.48.0",
+    "rollup-plugin-buble": "^0.15.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-replace": "^1.1.1",
+    "source-map": "^0.5.6",
+    "source-map-support": "^0.4.16"
+  },
+  "keywords": [
+    "string",
+    "string manipulation",
+    "sourcemap",
+    "templating",
+    "transpilation"
+  ],
+  "scripts": {
+    "test": "mocha",
+    "pretest": "npm run build",
+    "pretest-coverage": "npm run build",
+    "test-coverage": "rm -rf coverage/* && istanbul cover --report json node_modules/.bin/_mocha -- -u exports -R spec test/*.js",
+    "posttest-coverage": "remap-istanbul -i coverage/coverage-final.json -o coverage/coverage-remapped.json -b dist && remap-istanbul -i coverage/coverage-final.json -o coverage/coverage-remapped.lcov -t lcovonly -b dist && remap-istanbul -i coverage/coverage-final.json -o coverage/coverage-remapped -t html -b dist",
+    "ci": "npm run test-coverage && codecov < coverage/coverage-remapped.lcov",
+    "build": "rollup -c",
+    "prepublish": "rm -rf dist && npm test",
+    "lint": "eslint src test",
+    "watch": "rollup -cw"
+  },
+  "files": [
+    "dist/*",
+    "index.d.ts",
+    "README.md"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/static-module/node_modules/magic-string/package.json;TTF:charsetI"
+utf-8;F:digest"%zžM®K'ƒµƒ&;Ès-Cîo¬û§NKlIç¶%JG”–:lengthi:dependencies_digest"%UÄH%ÎünÍg´Ÿ"«/Ãi%Bßæ­Öµ‡ñª:idI"E94d68ac08518bdaead5a39b3b35dc964cad7c24c484d3bb8b4833603c378fc46;F:
+mtimel+Q¢´e

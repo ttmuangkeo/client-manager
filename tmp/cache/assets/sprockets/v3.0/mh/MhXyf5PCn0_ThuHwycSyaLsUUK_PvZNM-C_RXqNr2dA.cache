@@ -1,0 +1,47 @@
+{:uriI"Âfile://app/assets/javascripts/node_modules/postcss-normalize-url/node_modules/normalize-url/package.json?type=application/json&id=c6153e68f18c673d7c5487368c0ad9aa12ea76b90596ed2186613d7a934b3455:ET:load_pathI"app/assets/javascripts;T:filenameI"fapp/assets/javascripts/node_modules/postcss-normalize-url/node_modules/normalize-url/package.json;T:	nameI"Jnode_modules/postcss-normalize-url/node_modules/normalize-url/package;T:logical_pathI"Onode_modules/postcss-normalize-url/node_modules/normalize-url/package.json;T:content_typeI"application/json;T:sourceI"{
+	"name": "normalize-url",
+	"version": "3.3.0",
+	"description": "Normalize a URL",
+	"license": "MIT",
+	"repository": "sindresorhus/normalize-url",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && nyc ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"normalize",
+		"url",
+		"uri",
+		"address",
+		"string",
+		"normalization",
+		"normalisation",
+		"query",
+		"querystring",
+		"simplify",
+		"strip",
+		"trim",
+		"canonical"
+	],
+	"devDependencies": {
+		"ava": "*",
+		"coveralls": "^3.0.0",
+		"nyc": "^12.0.2",
+		"xo": "*"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"tfile-digest://app/assets/javascripts/node_modules/postcss-normalize-url/node_modules/normalize-url/package.json;TTF:charsetI"
+utf-8;F:digest"%PßU©¤3ç•Úšœ6\é –Ö¢]Ÿ4ùÜûQ¤:lengthi:dependencies_digest"%Ÿ\@)V}úŸØé¢°³©c¸c,Q©Ü¸›ªPCÉx:idI"Ec6153e68f18c673d7c5487368c0ad9aa12ea76b90596ed2186613d7a934b3455;F:
+mtimel+Q¢´e

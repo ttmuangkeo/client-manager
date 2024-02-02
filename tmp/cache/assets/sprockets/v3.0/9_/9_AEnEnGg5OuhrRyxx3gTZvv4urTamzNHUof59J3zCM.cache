@@ -1,0 +1,31 @@
+{:uriI"file://app/assets/javascripts/node_modules/media-typer/package.json?type=application/json&id=056fc0d1ac0595a21ec6f2c1e447c0dfc53885642b75f02bba001d4c8b4c783a:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/media-typer/package.json;T:	nameI"%node_modules/media-typer/package;T:logical_pathI"*node_modules/media-typer/package.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name": "media-typer",
+  "description": "Simple RFC 6838 media type parser and formatter",
+  "version": "0.3.0",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+  "license": "MIT",
+  "repository": "jshttp/media-typer",
+  "devDependencies": {
+    "istanbul": "0.3.2",
+    "mocha": "~1.21.4",
+    "should": "~4.0.4"
+  },
+  "files": [
+    "LICENSE",
+    "HISTORY.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec --check-leaks --bail test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot --check-leaks test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter spec --check-leaks test/"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/media-typer/package.json;TTF:charsetI"
+utf-8;F:digest"%ŒÏ‡^HpyìH8n/GÅ_&)~ÇN^N]’Ü]pï0:lengthi÷:dependencies_digest"%È8ñ|ØU~#¨3E¿Ôƒm%AÁÇÜ9Åßş³ûœHö:idI"E056fc0d1ac0595a21ec6f2c1e447c0dfc53885642b75f02bba001d4c8b4c783a;F:
+mtimel+Q¢´e

@@ -1,0 +1,56 @@
+{:uriI"½file://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/p-locate/package.json?type=application/json&id=cc3fefff46eb4fcd369fb01686e5a8412934a1d8b0d10f51d500bc592cb2dbbd:ET:load_pathI"app/assets/javascripts;T:filenameI"aapp/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/p-locate/package.json;T:	nameI"Enode_modules/terser-webpack-plugin/node_modules/p-locate/package;T:logical_pathI"Jnode_modules/terser-webpack-plugin/node_modules/p-locate/package.json;T:content_typeI"application/json;T:sourceI"7{
+	"name": "p-locate",
+	"version": "3.0.0",
+	"description": "Get the first fulfilled promise that satisfies the provided testing function",
+	"license": "MIT",
+	"repository": "sindresorhus/p-locate",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"promise",
+		"locate",
+		"find",
+		"finder",
+		"search",
+		"searcher",
+		"test",
+		"array",
+		"collection",
+		"iterable",
+		"iterator",
+		"race",
+		"fulfilled",
+		"fastest",
+		"async",
+		"await",
+		"promises",
+		"bluebird"
+	],
+	"dependencies": {
+		"p-limit": "^2.0.0"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"delay": "^3.0.0",
+		"in-range": "^1.0.0",
+		"time-span": "^2.0.0",
+		"xo": "*"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ofile-digest://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/p-locate/package.json;TTF:charsetI"
+utf-8;F:digest"%ã„.}®<ö¢yŸiÑ±Ë±¹Š’ .z+¬'ÙÖóp:lengthi7:dependencies_digest"%Zqü&ïíãÎ=ùH§· ?ùO‚ý3H*°$ö|Ôö:idI"Ecc3fefff46eb4fcd369fb01686e5a8412934a1d8b0d10f51d500bc592cb2dbbd;F:
+mtimel+Q¢´e

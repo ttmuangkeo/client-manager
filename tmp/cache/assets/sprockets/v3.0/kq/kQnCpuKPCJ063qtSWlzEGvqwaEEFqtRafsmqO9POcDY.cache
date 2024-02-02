@@ -1,0 +1,42 @@
+{:uriI"file://app/assets/javascripts/node_modules/safe-buffer/package.json?type=application/json&id=a6a61e885dd8aa71562942b07450bcf865c1d47b617f52820a367b74e40c8700:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/safe-buffer/package.json;T:	nameI"%node_modules/safe-buffer/package;T:logical_pathI"*node_modules/safe-buffer/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "safe-buffer",
+  "description": "Safer Node.js Buffer API",
+  "version": "5.1.2",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/safe-buffer/issues"
+  },
+  "devDependencies": {
+    "standard": "*",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/feross/safe-buffer",
+  "keywords": [
+    "buffer",
+    "buffer allocate",
+    "node security",
+    "safe",
+    "safe-buffer",
+    "security",
+    "uninitialized"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/safe-buffer.git"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/safe-buffer/package.json;TTF:charsetI"
+utf-8;F:digest"%=‹m”Kéé1¡x‘Jû³Ö·›úœ(r¶‡¾ÔÙ–ÇG:lengthi:dependencies_digest"%vÚÂ®İ÷»g#J+4!ş5´†ÆÜ§.ìùîq:idI"Ea6a61e885dd8aa71562942b07450bcf865c1d47b617f52820a367b74e40c8700;F:
+mtimel+Q¢´e

@@ -1,0 +1,14 @@
+{:uriI"®file://app/assets/javascripts/node_modules/@vue/cli-service/lib/commands/build/demo-wc.html?type=text/html&id=8e2af575c8a325d239ecf93ad34cfb3eb0bb6b6117b9d20463e3272cdbcbd033:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/@vue/cli-service/lib/commands/build/demo-wc.html;T:	nameI"=node_modules/@vue/cli-service/lib/commands/build/demo-wc;T:logical_pathI"Bnode_modules/@vue/cli-service/lib/commands/build/demo-wc.html;T:content_typeI"text/html;T:sourceI".<meta charset="utf-8">
+<title><%- htmlWebpackPlugin.options.libName %> demo</title>
+<script src="https://unpkg.com/vue"></script>
+<script src="./<%- htmlWebpackPlugin.options.libName %>.js"></script>
+
+<% for (const comp of htmlWebpackPlugin.options.components) { %>
+<<%= comp %>></<%= comp %>>
+<% } %>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"gfile-digest://app/assets/javascripts/node_modules/@vue/cli-service/lib/commands/build/demo-wc.html;TTF:charsetI"
+utf-8;F:digest"%0Zïß¡§äCÁÅ:A”%Ð†{¶÷û£]õ)-ö½K™x:lengthi.:dependencies_digest"%
+‹ážð}óhÊZA­ôî÷0`-Zúc¢‘Iís,Hâð:idI"E8e2af575c8a325d239ecf93ad34cfb3eb0bb6b6117b9d20463e3272cdbcbd033;F:
+mtimel+R¢´e

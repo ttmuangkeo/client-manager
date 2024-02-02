@@ -1,0 +1,47 @@
+{:uriI"Áfile://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/schema-utils/package.json?type=application/json&id=d67f4f633cdeaa18781940c59ea98f42f9c5e2ad732361ef120e37474ce13e97:ET:load_pathI"app/assets/javascripts;T:filenameI"eapp/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/schema-utils/package.json;T:	nameI"Inode_modules/terser-webpack-plugin/node_modules/schema-utils/package;T:logical_pathI"Nnode_modules/terser-webpack-plugin/node_modules/schema-utils/package.json;T:content_typeI"application/json;T:sourceI"É{
+  "name": "schema-utils",
+  "version": "1.0.0",
+  "description": "webpack Validation Utils",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "lint": "eslint --cache src test",
+    "test": "jest --env node --verbose --coverage",
+    "clean": "del-cli coverage",
+    "commits": "commitlint --from $(git rev-list --tags --max-count=1)",
+    "release": "npm run commits && standard-version"
+  },
+  "dependencies": {
+    "ajv": "^6.1.0",
+    "ajv-errors": "^1.0.0",
+    "ajv-keywords": "^3.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.0.0",
+    "@commitlint/config-conventional": "^7.0.0",
+    "@webpack-contrib/eslint-config-webpack": "^2.0.0",
+    "del-cli": "^1.0.0",
+    "eslint": "^5.0.0",
+    "eslint-plugin-import": "^2.0.0",
+    "eslint-plugin-prettier": "^2.0.0",
+    "jest": "^21.0.0",
+    "prettier": "^1.0.0",
+    "standard-version": "^4.0.0"
+  },
+  "author": "webpack Contrib (https://github.com/webpack-contrib)",
+  "bugs": "https://github.com/webpack-contrib/schema-utils/issues",
+  "homepage": "https://github.com/webpack-contrib/schema-utils",
+  "repository": "https://github.com/webpack-contrib/schema-utils",
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"sfile-digest://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/schema-utils/package.json;TTF:charsetI"
+utf-8;F:digest"%L™SBŒR3z+ØqåÌàÐV67þ0Ý]µõÔÁë‰:lengthiÉ:dependencies_digest"%¬«
+={I˜xvKõb.·‘çæf€QâO©ÉÔ:0¾8:idI"Ed67f4f633cdeaa18781940c59ea98f42f9c5e2ad732361ef120e37474ce13e97;F:
+mtimel+Q¢´e

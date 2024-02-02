@@ -1,0 +1,89 @@
+{:uriI"†file://app/assets/javascripts/node_modules/extend-shallow/package.json?type=application/json&id=5465369e1f8af5a6f8b16fb7887384d200ca824292760d3ad96c4c4631acb65e:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/extend-shallow/package.json;T:	nameI"(node_modules/extend-shallow/package;T:logical_pathI"-node_modules/extend-shallow/package.json;T:content_typeI"application/json;T:sourceI"¨{
+  "name": "extend-shallow",
+  "description": "Extend an object with the properties of additional objects. node.js/javascript util.",
+  "version": "3.0.2",
+  "homepage": "https://github.com/jonschlinkert/extend-shallow",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Peter deHaan (http://about.me/peterdehaan)"
+  ],
+  "repository": "jonschlinkert/extend-shallow",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/extend-shallow/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "assign-symbols": "^1.0.0",
+    "is-extendable": "^1.0.1"
+  },
+  "devDependencies": {
+    "array-slice": "^1.0.0",
+    "benchmarked": "^2.0.0",
+    "for-own": "^1.0.0",
+    "gulp-format-md": "^1.0.0",
+    "is-plain-object": "^2.0.4",
+    "kind-of": "^6.0.1",
+    "minimist": "^1.2.0",
+    "mocha": "^3.5.3",
+    "object-assign": "^4.1.1"
+  },
+  "keywords": [
+    "assign",
+    "clone",
+    "extend",
+    "merge",
+    "obj",
+    "object",
+    "object-assign",
+    "object.assign",
+    "prop",
+    "properties",
+    "property",
+    "props",
+    "shallow",
+    "util",
+    "utility",
+    "utils",
+    "value"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "related": {
+      "list": [
+        "extend-shallow",
+        "for-in",
+        "for-own",
+        "is-plain-object",
+        "isobject",
+        "kind-of"
+      ]
+    },
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/extend-shallow/package.json;TTF:charsetI"
+utf-8;F:digest"%èq™Y€∆≈Ÿ‹Ôí˝qΩÇ¸≠Gƒï{°6‡∑ÁÄï:lengthi¨:dependencies_digest"%¿ﬁn√ª!◊”M#ıº'≤≥∏0Á∂qVıÏ≤
+∫l:idI"E5465369e1f8af5a6f8b16fb7887384d200ca824292760d3ad96c4c4631acb65e;F:
+mtimel+Q¢¥e

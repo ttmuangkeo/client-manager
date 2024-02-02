@@ -1,0 +1,54 @@
+{:uriI"¯file://app/assets/javascripts/node_modules/babel-plugin-polyfill-corejs3/package.json?type=application/json&id=4cfa87a2fa032bb8da6826c5a73bca108a18c0c088ab341ae39cbc3c40884e29:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/babel-plugin-polyfill-corejs3/package.json;T:	nameI"7node_modules/babel-plugin-polyfill-corejs3/package;T:logical_pathI"<node_modules/babel-plugin-polyfill-corejs3/package.json;T:content_typeI"application/json;T:sourceI"€{
+  "name": "babel-plugin-polyfill-corejs3",
+  "version": "0.9.0",
+  "description": "A Babel plugin to inject imports to core-js@3 polyfills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel-polyfills.git",
+    "directory": "packages/babel-plugin-polyfill-corejs3"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "lib/index.js",
+  "exports": {
+    ".": [
+      {
+        "import": "./esm/index.mjs",
+        "default": "./lib/index.js"
+      },
+      "./lib/index.js"
+    ],
+    "./package.json": "./package.json"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-define-polyfill-provider": "^0.5.0",
+    "core-js-compat": "^3.34.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.6",
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "@babel/plugin-proposal-decorators": "^7.22.15",
+    "@babel/plugin-transform-class-properties": "^7.22.5",
+    "@babel/plugin-transform-classes": "^7.22.6",
+    "@babel/plugin-transform-for-of": "^7.22.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.22.5",
+    "@babel/plugin-transform-runtime": "^7.22.15",
+    "@babel/plugin-transform-spread": "^7.22.5",
+    "core-js": "^3.34.0",
+    "core-js-pure": "^3.34.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.4.0 || ^8.0.0-0 <8.0.0"
+  },
+  "gitHead": "9738ea2a12643376a52c9be30c20ac19426a88cb"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"afile-digest://app/assets/javascripts/node_modules/babel-plugin-polyfill-corejs3/package.json;TTF:charsetI"
+utf-8;F:digest"%..
+úœ––ÜÆ]py¶öÜrà§ù+zà,C:lengthi€:dependencies_digest"%s`"H›r{/l/ÙŽÇ·qžª]4æ|Ë5êÍj»};:idI"E4cfa87a2fa032bb8da6826c5a73bca108a18c0c088ab341ae39cbc3c40884e29;F:
+mtimel+R¢´e

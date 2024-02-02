@@ -1,0 +1,58 @@
+{:uriI"ºfile://app/assets/javascripts/node_modules/copy-webpack-plugin/node_modules/pkg-dir/package.json?type=application/json&id=aa0e0c32be256e88371030e7c1298b75d7654079b23870ab986db786fb2f470e:ET:load_pathI"app/assets/javascripts;T:filenameI"^app/assets/javascripts/node_modules/copy-webpack-plugin/node_modules/pkg-dir/package.json;T:	nameI"Bnode_modules/copy-webpack-plugin/node_modules/pkg-dir/package;T:logical_pathI"Gnode_modules/copy-webpack-plugin/node_modules/pkg-dir/package.json;T:content_typeI"application/json;T:sourceI"R{
+  "name": "pkg-dir",
+  "version": "2.0.0",
+  "description": "Find the root directory of a Node.js project or npm package",
+  "license": "MIT",
+  "repository": "sindresorhus/pkg-dir",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "package",
+    "json",
+    "root",
+    "npm",
+    "entry",
+    "find",
+    "up",
+    "find-up",
+    "findup",
+    "look-up",
+    "look",
+    "file",
+    "search",
+    "match",
+    "resolve",
+    "parent",
+    "parents",
+    "folder",
+    "directory",
+    "dir",
+    "walk",
+    "walking",
+    "path"
+  ],
+  "dependencies": {
+    "find-up": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"lfile-digest://app/assets/javascripts/node_modules/copy-webpack-plugin/node_modules/pkg-dir/package.json;TTF:charsetI"
+utf-8;F:digest"%Ù¥O=‘Pc•ïˆ†µ'»¡K®/:™@bhOR:lengthiR:dependencies_digest"%SÆÀöñ)ô¡5[[´Ï/ŸcuS]¹?C|Úbk:idI"Eaa0e0c32be256e88371030e7c1298b75d7654079b23870ab986db786fb2f470e;F:
+mtimel+Q¢´e

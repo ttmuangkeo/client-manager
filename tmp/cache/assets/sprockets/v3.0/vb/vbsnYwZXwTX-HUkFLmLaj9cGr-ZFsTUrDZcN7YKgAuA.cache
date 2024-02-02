@@ -1,0 +1,58 @@
+{:uriI"³file://app/assets/javascripts/node_modules/wrap-ansi/node_modules/ansi-regex/package.json?type=application/json&id=580111c77fd8a8572adffd862bc286c101873fd94f40e9920ff9767cfc3980f2:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/wrap-ansi/node_modules/ansi-regex/package.json;T:	nameI";node_modules/wrap-ansi/node_modules/ansi-regex/package;T:logical_pathI"@node_modules/wrap-ansi/node_modules/ansi-regex/package.json;T:content_typeI"application/json;T:sourceI" {
+	"name": "ansi-regex",
+	"version": "4.1.1",
+	"description": "Regular expression for matching ANSI escape codes",
+	"license": "MIT",
+	"repository": "chalk/ansi-regex",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava",
+		"view-supported": "node fixtures/view-codes.js"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"ansi",
+		"styles",
+		"color",
+		"colour",
+		"colors",
+		"terminal",
+		"console",
+		"cli",
+		"string",
+		"tty",
+		"escape",
+		"formatting",
+		"rgb",
+		"256",
+		"shell",
+		"xterm",
+		"command-line",
+		"text",
+		"regex",
+		"regexp",
+		"re",
+		"match",
+		"test",
+		"find",
+		"pattern"
+	],
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.23.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/wrap-ansi/node_modules/ansi-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%÷fND¢ù‚^åA4yOŸ%(;ÏT!½/ª€F.ww:lengthi :dependencies_digest"%›Yój`‘|P²®8‚ùZÓm´Æç]êßKTEŸ(þX€:idI"E580111c77fd8a8572adffd862bc286c101873fd94f40e9920ff9767cfc3980f2;F:
+mtimel+Q¢´e

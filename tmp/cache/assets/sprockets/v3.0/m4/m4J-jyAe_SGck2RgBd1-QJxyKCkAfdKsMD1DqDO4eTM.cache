@@ -1,0 +1,58 @@
+{:uriI"öfile://app/assets/javascripts/node_modules/yargs/locales/fr.json?type=application/json&id=2f93e440918fb0b58ba18e8ef169a3bc1bffcdd669cb3ac0ea71d4a260ef656d:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/yargs/locales/fr.json;T:	nameI""node_modules/yargs/locales/fr;T:logical_pathI"'node_modules/yargs/locales/fr.json;T:content_typeI"application/json;T:sourceI"E{
+  "Commands:": "Commandes :",
+  "Options:": "Options :",
+  "Examples:": "Exemples :",
+  "boolean": "bool√©en",
+  "count": "compteur",
+  "string": "cha√Æne de caract√®res",
+  "number": "nombre",
+  "array": "tableau",
+  "required": "requis",
+  "default": "d√©faut",
+  "default:": "d√©faut :",
+  "choices:": "choix :",
+  "aliases:": "alias :",
+  "generated-value": "valeur g√©n√©r√©e",
+  "Not enough non-option arguments: got %s, need at least %s": {
+    "one": "Pas assez d'arguments (hors options) : re√ßu %s, besoin d'au moins %s",
+    "other": "Pas assez d'arguments (hors options) : re√ßus %s, besoin d'au moins %s"
+  },
+  "Too many non-option arguments: got %s, maximum of %s": {
+    "one": "Trop d'arguments (hors options) : re√ßu %s, maximum de %s",
+    "other": "Trop d'arguments (hors options) : re√ßus %s, maximum de %s"
+  },
+  "Missing argument value: %s": {
+    "one": "Argument manquant : %s",
+    "other": "Arguments manquants : %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Argument requis manquant : %s",
+    "other": "Arguments requis manquants : %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Argument inconnu : %s",
+    "other": "Arguments inconnus : %s"
+  },
+  "Unknown command: %s": {
+    "one": "Commande inconnue : %s",
+    "other": "Commandes inconnues : %s"
+  },
+  "Invalid values:": "Valeurs invalides :",
+  "Argument: %s, Given: %s, Choices: %s": "Argument : %s, donn√© : %s, choix : %s",
+  "Argument check failed: %s": "Echec de la v√©rification de l'argument : %s",
+  "Implications failed:": "Arguments d√©pendants manquants :",
+  "Not enough arguments following: %s": "Pas assez d'arguments apr√®s : %s",
+  "Invalid JSON config file: %s": "Fichier de configuration JSON invalide : %s",
+  "Path to JSON config file": "Chemin du fichier de configuration JSON",
+  "Show help": "Affiche l'aide",
+  "Show version number": "Affiche le num√©ro de version",
+  "Did you mean %s?": "Vouliez-vous dire %s ?",
+  "Arguments %s and %s are mutually exclusive" : "Les arguments %s et %s sont mutuellement exclusifs",
+  "Positionals:": "Arguments positionnels :",
+  "command": "commande"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/yargs/locales/fr.json;TTF:charsetI"
+utf-8;F:digest"%¸˚|mY√x€tkøä√∂bπ§¸« ¶†7‡ı√u:lengthiE:dependencies_digest"%G§P»À«–ŸêÛÍl){R`ìâJøw|cë∫oŸ:idI"E2f93e440918fb0b58ba18e8ef169a3bc1bffcdd669cb3ac0ea71d4a260ef656d;F:
+mtimel+S¢¥e

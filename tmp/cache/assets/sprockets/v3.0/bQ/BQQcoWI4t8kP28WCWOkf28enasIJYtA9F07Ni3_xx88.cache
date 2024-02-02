@@ -1,0 +1,34 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/vi.json?type=application/json&id=39dc5503d1fbdf2ec7026b9345b882d57a62480719489f5741771688d442e0dc:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/vi.json;T:	nameI"-node_modules/vee-validate/dist/locale/vi;T:logical_pathI"2node_modules/vee-validate/dist/locale/vi.json;T:content_typeI"application/json;T:sourceI"!{
+  "code": "vi",
+  "messages": {
+    "alpha": "{_field_} chỉ có thể chứa các kí tự chữ",
+    "alpha_dash": "{_field_} có thể chứa các kí tự chữ (A-Z a-z), số (0-9), gạch ngang (-) và gạch dưới (_)",
+    "alpha_num": "{_field_} chỉ có thể chứa các kí tự chữ và số",
+    "alpha_spaces": "{_field_} chỉ có thế chứa các kí tự và khoảng trắng",
+    "between": "{_field_} phải có giá trị nằm trong khoảng giữa {min} và {max}",
+    "confirmed": "{_field_} khác với {target}",
+    "digits": "Trường {_field_} chỉ có thể chứa các kí tự số và bắt buộc phải có độ dài là {length}",
+    "dimensions": "{_field_} phải có chiều rộng {width} pixels và chiều cao {height} pixels",
+    "email": "{_field_} phải là một địa chỉ email hợp lệ",
+    "excluded": "{_field_} không phải là một giá trị hợp lệ",
+    "ext": "{_field_} phải là một tệp",
+    "image": "Trường {_field_} phải là một ảnh",
+    "oneOf": "{_field_} không phải là một giá trị hợp lệ",
+    "max": "{_field_} không thể có nhiều hơn {length} kí tự",
+    "max_value": "{_field_} phải nhỏ hơn hoặc bằng {max}",
+    "mimes": "{_field_} phải chứa kiểu tệp phù hợp",
+    "min": "{_field_} phải chứa ít nhất {length} kí tự",
+    "min_value": "{_field_} phải lớn hơn hoặc bằng {min}",
+    "numeric": "{_field_} chỉ có thể có các kí tự số",
+    "regex": "{_field_} có định dạng không đúng",
+    "required": "{_field_} là bắt buộc",
+    "required_if": "{_field_} là bắt buộc",
+    "size": "{_field_} chỉ có thể chứa tệp nhỏ hơn {size}KB",
+    "double": "{_field_} phải là một số thập phân hợp lệ"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/vi.json;TTF:charsetI"
+utf-8;F:digest"%1�.`�9�)G��G��(F�����Q�kZ7��:lengthi!:dependencies_digest"%����罈�P��@GԱ;,o=�����h��:idI"E39dc5503d1fbdf2ec7026b9345b882d57a62480719489f5741771688d442e0dc;F:
+mtimel+S��e

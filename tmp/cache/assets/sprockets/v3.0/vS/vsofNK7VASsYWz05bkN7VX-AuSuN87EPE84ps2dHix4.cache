@@ -1,0 +1,93 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/@vue/compiler-sfc/node_modules/postcss/package.json?type=application/json&id=299456b4c7075d1dd7a2ae9862e8b0b7c36265d0547e7944eea2c16ff89edffb:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/@vue/compiler-sfc/node_modules/postcss/package.json;T:	nameI"@node_modules/@vue/compiler-sfc/node_modules/postcss/package;T:logical_pathI"Enode_modules/@vue/compiler-sfc/node_modules/postcss/package.json;T:content_typeI"application/json;T:sourceI"À	{
+  "name": "postcss",
+  "version": "8.4.33",
+  "description": "Tool for transforming styles with JS plugins",
+  "engines": {
+    "node": "^10 || ^12 || >=14"
+  },
+  "exports": {
+    ".": {
+      "require": "./lib/postcss.js",
+      "import": "./lib/postcss.mjs"
+    },
+    "./lib/at-rule": "./lib/at-rule.js",
+    "./lib/comment": "./lib/comment.js",
+    "./lib/container": "./lib/container.js",
+    "./lib/css-syntax-error": "./lib/css-syntax-error.js",
+    "./lib/declaration": "./lib/declaration.js",
+    "./lib/fromJSON": "./lib/fromJSON.js",
+    "./lib/input": "./lib/input.js",
+    "./lib/lazy-result": "./lib/lazy-result.js",
+    "./lib/no-work-result": "./lib/no-work-result.js",
+    "./lib/list": "./lib/list.js",
+    "./lib/map-generator": "./lib/map-generator.js",
+    "./lib/node": "./lib/node.js",
+    "./lib/parse": "./lib/parse.js",
+    "./lib/parser": "./lib/parser.js",
+    "./lib/postcss": "./lib/postcss.js",
+    "./lib/previous-map": "./lib/previous-map.js",
+    "./lib/processor": "./lib/processor.js",
+    "./lib/result": "./lib/result.js",
+    "./lib/root": "./lib/root.js",
+    "./lib/rule": "./lib/rule.js",
+    "./lib/stringifier": "./lib/stringifier.js",
+    "./lib/stringify": "./lib/stringify.js",
+    "./lib/symbols": "./lib/symbols.js",
+    "./lib/terminal-highlight": "./lib/terminal-highlight.js",
+    "./lib/tokenize": "./lib/tokenize.js",
+    "./lib/warn-once": "./lib/warn-once.js",
+    "./lib/warning": "./lib/warning.js",
+    "./package.json": "./package.json"
+  },
+  "main": "./lib/postcss.js",
+  "types": "./lib/postcss.d.ts",
+  "keywords": [
+    "css",
+    "postcss",
+    "rework",
+    "preprocessor",
+    "parser",
+    "source map",
+    "transform",
+    "manipulation",
+    "transpiler"
+  ],
+  "funding": [
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/postcss/"
+    },
+    {
+      "type": "tidelift",
+      "url": "https://tidelift.com/funding/github/npm/postcss"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/ai"
+    }
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "homepage": "https://postcss.org/",
+  "repository": "postcss/postcss",
+  "bugs": {
+    "url": "https://github.com/postcss/postcss/issues"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "source-map-js": "^1.0.2"
+  },
+  "browser": {
+    "./lib/terminal-highlight": false,
+    "source-map-js": false,
+    "path": false,
+    "url": false,
+    "fs": false
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/@vue/compiler-sfc/node_modules/postcss/package.json;TTF:charsetI"
+utf-8;F:digest"%T$ÿÃZª,]tFà/ðg‰›8¢•¼½û”Qî=|ü#ÿ:lengthiÀ	:dependencies_digest"%‰Z`—ª.P¿éij™*¹5’l½{o†Dfºéð®‚:idI"E299456b4c7075d1dd7a2ae9862e8b0b7c36265d0547e7944eea2c16ff89edffb;F:
+mtimel+R¢´e

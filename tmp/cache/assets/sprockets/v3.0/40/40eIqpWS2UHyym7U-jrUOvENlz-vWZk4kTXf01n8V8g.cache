@@ -1,0 +1,39 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/safer-buffer/package.json?type=application/json&id=20ad115601eff3ae2e017897332503ad1ec585721d0f6c01f99eae4dd6b04589:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/safer-buffer/package.json;T:	nameI"&node_modules/safer-buffer/package;T:logical_pathI"+node_modules/safer-buffer/package.json;T:content_typeI"application/json;T:sourceI"6{
+  "name": "safer-buffer",
+  "version": "2.1.2",
+  "description": "Modern Buffer API polyfill without footguns",
+  "main": "safer.js",
+  "scripts": {
+    "browserify-test": "browserify --external tape tests.js > browserify-tests.js && tape browserify-tests.js",
+    "test": "standard && tape tests.js"
+  },
+  "author": {
+    "name": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChALkeR/safer-buffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChALkeR/safer-buffer/issues"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "tape": "^4.9.0"
+  },
+  "files": [
+    "Porting-Buffer.md",
+    "Readme.md",
+    "tests.js",
+    "dangerous.js",
+    "safer.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/safer-buffer/package.json;TTF:charsetI"
+utf-8;F:digest"%BG£¶<E¶ßŒ—U‰›ù*:Ùë]YKïÂÜ{i•>€R:lengthi6:dependencies_digest"%Ø57ŸZ˜—èπSÈ†ˆ<( ‡ª˙¨¥åR”˝†:idI"E20ad115601eff3ae2e017897332503ad1ec585721d0f6c01f99eae4dd6b04589;F:
+mtimel+Q¢¥e

@@ -1,0 +1,34 @@
+{:uriI"«file://app/assets/javascripts/node_modules/vee-validate/dist/locale/sr_Latin.json?type=application/json&id=13e07609adba9f85d9f6f6b4a82154e43379a003481a95dd8777994305620b5c:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/vee-validate/dist/locale/sr_Latin.json;T:	nameI"3node_modules/vee-validate/dist/locale/sr_Latin;T:logical_pathI"8node_modules/vee-validate/dist/locale/sr_Latin.json;T:content_typeI"application/json;T:sourceI"'{
+  "code": "sr_Latin",
+  "messages": {
+    "alpha": "Polje {_field_} moÅ¾e sadrÅ¾ati samo slova",
+    "alpha_dash": "Polje {_field_} moÅ¾e sadrÅ¾ati alfanumeriÄke karaktere i povlake",
+    "alpha_num": "Polje {_field_} moÅ¾e sadrÅ¾ati samo alfanumeriÄke karaktere",
+    "alpha_spaces": "Polje {_field_} moÅ¾e sadrÅ¾ati samo alfanumeriÄke karaktere i razmake",
+    "between": "Polje {_field_} mora biti izmeÄ‘u {min} i {max}",
+    "confirmed": "Potvrda polja {_field_} se ne poklapa",
+    "digits": "Polje {_field_} mora biti broj i sadrÅ¾ati taÄno {length} cifara",
+    "dimensions": "Polje {_field_} mora biti {width} x {height} piksela",
+    "email": "Polje {_field_} mora biti validan imejl",
+    "excluded": "Polje {_field_} mora imati validnu vrednost",
+    "ext": "Polje {_field_} mora biti validan fajl",
+    "image": "Polje {_field_} mora biti slika",
+    "oneOf": "Polje {_field_} mora biti validna vrednost",
+    "max": "Polje {_field_} ne sme biti duÅ¾e od {length} karaktera",
+    "max_value": "Polje {_field_} ne sme biti veÄ‡e od {max}",
+    "mimes": "Polje {_field_} mora biti validan tip fajla",
+    "min": "Polje {_field_} mora sadrÅ¾ati najmanje {length} karaktera",
+    "min_value": "Polje {_field_} ne sme biti manje od {min}",
+    "numeric": "Polje {_field_} mora biti broj",
+    "regex": "Format polja {_field_} nije validan",
+    "required": "Polje {_field_} je obavezno",
+    "required_if": "Polje {_field_} je obavezno",
+    "size": "Polje {_field_} mora biti manje od {size}KB",
+    "double": "Polje {_field_} mora biti valjana decimala"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"]file-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/sr_Latin.json;TTF:charsetI"
+utf-8;F:digest"%#`’fÍk†=u±zï&	J¶E‚)œ9ªJâÙÚÅ¯³j:lengthi':dependencies_digest"%?G§Úëz±&äTFK)É$ÃmAŒ¬BòÕ(§•:idI"E13e07609adba9f85d9f6f6b4a82154e43379a003481a95dd8777994305620b5c;F:
+mtimel+S¢´e

@@ -1,0 +1,46 @@
+{:uriI"™file://app/assets/javascripts/node_modules/globals/package.json?type=application/json&id=2020f5ec509fed7be06ed2da87c2590a5aefc42e0d56b410371c8379abd95b95:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/globals/package.json;T:	nameI"!node_modules/globals/package;T:logical_pathI"&node_modules/globals/package.json;T:content_typeI"application/json;T:sourceI"”{
+	"name": "globals",
+	"version": "11.12.0",
+	"description": "Global identifiers from different JavaScript environments",
+	"license": "MIT",
+	"repository": "sindresorhus/globals",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js",
+		"globals.json"
+	],
+	"keywords": [
+		"globals",
+		"global",
+		"identifiers",
+		"variables",
+		"vars",
+		"jshint",
+		"eslint",
+		"environments"
+	],
+	"devDependencies": {
+		"ava": "0.21.0",
+		"xo": "0.18.0"
+	},
+	"xo": {
+		"ignores": [
+			"get-browser-globals.js"
+		]
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/globals/package.json;TTF:charsetI"
+utf-8;F:digest"%™ñ¨óJ¤g§n¾£¯ò;É¯	caÅŠ2¨K;€ßz3:lengthi”:dependencies_digest"%1ëøî¥¡8×7602ÁœXòåë^úÁMÌ¤&p:idI"E2020f5ec509fed7be06ed2da87c2590a5aefc42e0d56b410371c8379abd95b95;F:
+mtimel+Q¢´e

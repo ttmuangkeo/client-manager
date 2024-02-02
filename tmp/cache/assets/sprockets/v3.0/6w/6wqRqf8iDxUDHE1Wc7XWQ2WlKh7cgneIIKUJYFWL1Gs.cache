@@ -1,0 +1,71 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/d3-contour/package.json?type=application/json&id=c4af438261e2d175cdba8105945f41ae814b378f967f99d32d72914bbbc8c4e4:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/d3-contour/package.json;T:	nameI"$node_modules/d3-contour/package;T:logical_pathI")node_modules/d3-contour/package.json;T:content_typeI"application/json;T:sourceI"³{
+  "name": "d3-contour",
+  "version": "4.0.2",
+  "description": "Compute contour polygons using marching squares.",
+  "homepage": "https://d3js.org/d3-contour/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-contour.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "contour",
+    "isoline"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-contour.min.js",
+  "unpkg": "dist/d3-contour.min.js",
+  "exports": {
+    "umd": "./dist/d3-contour.min.js",
+    "default": "./src/index.js"
+  },
+  "_moduleAliases": {
+    "d3-contour": "./src/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "d3-array": "^3.2.0"
+  },
+  "devDependencies": {
+    "d3-axis": "3",
+    "d3-dsv": "3",
+    "d3-fetch": "3",
+    "d3-geo": "3",
+    "d3-polygon": "3",
+    "d3-scale": "4",
+    "d3-selection": "3",
+    "eslint": "8",
+    "htl": "^0.3.1",
+    "js-beautify": "1",
+    "jsdom": "20",
+    "mocha": "10",
+    "module-alias": "2",
+    "rollup": "3",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mkdir -p test/output && mocha -r module-alias/register 'test/**/*-test.js' test/snapshot.js && eslint src test",
+    "prepublishOnly": "rm -rf dist && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/d3-contour/package.json;TTF:charsetI"
+utf-8;F:digest"%:b…:Pşğ²›kU“aZ@v#‡”ìEç«C{:lengthi³:dependencies_digest"%áãDSšEPryGHæ¢«NQä	ÆP¶ÿ3 :idI"Ec4af438261e2d175cdba8105945f41ae814b378f967f99d32d72914bbbc8c4e4;F:
+mtimel+R¢´e

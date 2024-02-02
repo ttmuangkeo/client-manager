@@ -1,0 +1,96 @@
+{:uriI"ßfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/validation.json?type=application/json&id=26ae24a702b287f90ef448014264b7c9ec22dadb9cc9b21eec7aac4fad0da626:ET:load_pathI"app/assets/javascripts;T:filenameI"~app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/validation.json;T:	nameI"gnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/validation;T:logical_pathI"lnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/validation.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://json-schema.org/draft/2020-12/meta/validation",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/validation": true
+  },
+  "$dynamicAnchor": "meta",
+
+  "title": "Validation vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "type": {
+      "anyOf": [
+        {"$ref": "#/$defs/simpleTypes"},
+        {
+          "type": "array",
+          "items": {"$ref": "#/$defs/simpleTypes"},
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      ]
+    },
+    "const": true,
+    "enum": {
+      "type": "array",
+      "items": true
+    },
+    "multipleOf": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "maximum": {
+      "type": "number"
+    },
+    "exclusiveMaximum": {
+      "type": "number"
+    },
+    "minimum": {
+      "type": "number"
+    },
+    "exclusiveMinimum": {
+      "type": "number"
+    },
+    "maxLength": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minLength": {"$ref": "#/$defs/nonNegativeIntegerDefault0"},
+    "pattern": {
+      "type": "string",
+      "format": "regex"
+    },
+    "maxItems": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minItems": {"$ref": "#/$defs/nonNegativeIntegerDefault0"},
+    "uniqueItems": {
+      "type": "boolean",
+      "default": false
+    },
+    "maxContains": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minContains": {
+      "$ref": "#/$defs/nonNegativeInteger",
+      "default": 1
+    },
+    "maxProperties": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minProperties": {"$ref": "#/$defs/nonNegativeIntegerDefault0"},
+    "required": {"$ref": "#/$defs/stringArray"},
+    "dependentRequired": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/stringArray"
+      }
+    }
+  },
+  "$defs": {
+    "nonNegativeInteger": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "nonNegativeIntegerDefault0": {
+      "$ref": "#/$defs/nonNegativeInteger",
+      "default": 0
+    },
+    "simpleTypes": {
+      "enum": ["array", "boolean", "integer", "null", "number", "object", "string"]
+    },
+    "stringArray": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true,
+      "default": []
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Œfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/dist/refs/json-schema-2020-12/meta/validation.json;TTF:charsetI"
+utf-8;F:digest"%<®pi„6yBžJÚ}òa»‰aú4ÊÁ[è’–ni¯1 ’:lengthiØ:dependencies_digest"%™¨\t½ŸRÃ–#E·Ñ¡
+ÏWÿ½ÏZ´v×ñìñ@m:idI"E26ae24a702b287f90ef448014264b7c9ec22dadb9cc9b21eec7aac4fad0da626;F:
+mtimel+S¢´e

@@ -1,0 +1,81 @@
+{:uriI"›file://app/assets/javascripts/node_modules/arr-union/package.json?type=application/json&id=ca817b4b86b2d82873458b7a3fa58a53641a5f893dd7fe138503e5fc9dc3a6ad:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/arr-union/package.json;T:	nameI"#node_modules/arr-union/package;T:logical_pathI"(node_modules/arr-union/package.json;T:content_typeI"application/json;T:sourceI"Å{
+  "name": "arr-union",
+  "description": "Combines a list of arrays, returning a single array with unique values, using strict equality for comparisons.",
+  "version": "3.1.0",
+  "homepage": "https://github.com/jonschlinkert/arr-union",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/arr-union",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/arr-union/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "ansi-bold": "^0.1.1",
+    "array-union": "^1.0.1",
+    "array-unique": "^0.2.1",
+    "benchmarked": "^0.1.4",
+    "gulp-format-md": "^0.1.7",
+    "minimist": "^1.1.1",
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "add",
+    "append",
+    "array",
+    "arrays",
+    "combine",
+    "concat",
+    "extend",
+    "union",
+    "uniq",
+    "unique",
+    "util",
+    "utility",
+    "utils"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "arr-diff",
+        "arr-flatten",
+        "arr-filter",
+        "arr-map",
+        "arr-pluck",
+        "arr-reduce",
+        "array-unique"
+      ]
+    },
+    "reflinks": [
+      "verb",
+      "array-union"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/arr-union/package.json;TTF:charsetI"
+utf-8;F:digest"%×WgK‹xés<>(C¸´‡	Í‘ ;›~1CbˆÅ.¶m:lengthiÅ:dependencies_digest"%˜q‚Öhã%ÿ6cMd˜¡‘WB‡-"%gBV›yjH!:idI"Eca817b4b86b2d82873458b7a3fa58a53641a5f893dd7fe138503e5fc9dc3a6ad;F:
+mtimel+Q¢´e

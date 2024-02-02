@@ -1,0 +1,56 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/upper-case/package.json?type=application/json&id=28d2b3ea0dfac4c6d7dbda8e19ae1d080901a9d877dc94dd517afe0fe807c22f:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/upper-case/package.json;T:	nameI"$node_modules/upper-case/package;T:logical_pathI")node_modules/upper-case/package.json;T:content_typeI"application/json;T:sourceI"s{
+  "name": "upper-case",
+  "version": "1.1.3",
+  "description": "Upper case a string",
+  "main": "upper-case.js",
+  "typings": "upper-case.d.ts",
+  "files": [
+    "upper-case.js",
+    "upper-case.d.ts",
+    "LICENSE"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "test-std": "mocha -- -R spec --bail",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec --bail",
+    "test": "npm run lint && npm run test-cov"
+  },
+  "standard": {
+    "ignore": [
+      "coverage/**",
+      "node_modules/**",
+      "bower_components/**"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/upper-case.git"
+  },
+  "keywords": [
+    "cases",
+    "upper",
+    "uppercase",
+    "case"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/upper-case/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/upper-case",
+  "devDependencies": {
+    "istanbul": "^0.3.5",
+    "mocha": "^2.1.0",
+    "pre-commit": "^1.0.2",
+    "standard": "^2.4.5"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/upper-case/package.json;TTF:charsetI"
+utf-8;F:digest"%yùcˆ¸z’w:û¢∞õ§c∫ZæœnÖrF»3æ∂⁄:lengthis:dependencies_digest"%ÄOÃã%!2∞æÁ?o*ÑäÑYu/•+qP"NW:idI"E28d2b3ea0dfac4c6d7dbda8e19ae1d080901a9d877dc94dd517afe0fe807c22f;F:
+mtimel+Q¢¥e

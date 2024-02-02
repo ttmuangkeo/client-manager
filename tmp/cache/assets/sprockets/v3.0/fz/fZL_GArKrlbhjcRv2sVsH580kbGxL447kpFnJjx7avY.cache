@@ -1,0 +1,32 @@
+{:uriI"›file://app/assets/javascripts/node_modules/acorn-jsx/package.json?type=application/json&id=9cde768cb7b3b6a480f303e7a89040d4fec94e3eb38bc2962e979b8abada957b:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/acorn-jsx/package.json;T:	nameI"#node_modules/acorn-jsx/package;T:logical_pathI"(node_modules/acorn-jsx/package.json;T:content_typeI"application/json;T:sourceI"E{
+  "name": "acorn-jsx",
+  "description": "Modern, fast React.js JSX parser",
+  "homepage": "https://github.com/acornjs/acorn-jsx",
+  "version": "5.3.2",
+  "maintainers": [
+    {
+      "name": "Ingvar Stepanyan",
+      "email": "me@rreverser.com",
+      "web": "http://rreverser.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acornjs/acorn-jsx"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "peerDependencies": {
+    "acorn": "^6.0.0 || ^7.0.0 || ^8.0.0"
+  },
+  "devDependencies": {
+    "acorn": "^8.0.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/acorn-jsx/package.json;TTF:charsetI"
+utf-8;F:digest"%^:^ã±oÑä´N÷÷ˆ_¹®u÷*‚‘B=:lengthiE:dependencies_digest"%Ûä¶–ğZI,1Í´„7v†ıd»ì™REÀ}áÎ:idI"E9cde768cb7b3b6a480f303e7a89040d4fec94e3eb38bc2962e979b8abada957b;F:
+mtimel+Q¢´e

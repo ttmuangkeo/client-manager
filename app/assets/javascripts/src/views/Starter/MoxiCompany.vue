@@ -1,10 +1,10 @@
 <template>
   <card class="container">
-    <div v-if="isLoggedIn">
+    <!-- <div v-if="!isLoggedIn">
       <h1>{{ username }}</h1>
       <button @click="logout" class="btn">logout</button>
-    </div>
-    <div class="container" v-if="companies.length">
+    </div> -->
+    <div class="container" v-if="companies && companies.length">
       <div class="row">
         <ul class="col-4" v-for="company in companies" :key="company.id">
           <b-card class="mb-3">
@@ -46,9 +46,9 @@
         </ul>
       </div>
     </div>
-    <div v-else>
+    <!-- <div v-else>
       <router-link :to="{name: 'moxiLogin'}">login</router-link>
-    </div>
+    </div> -->
   </card>
 </template>
 
@@ -73,6 +73,9 @@ export default {
   computed: {
     ...mapGetters("company", ["getCompanies"]),
   },
+  created() {
+    this.$store.dispatch('setCompanies', JSON.parse(localStorage.getItem('companies')) || [])
+  },
   methods: {
     async logout() {
       try {
@@ -92,7 +95,7 @@ export default {
       } catch (error) {
         console.log(error);
       }
-    },
+    },    
     redirectTo(route, moxi_works_company_id) {
       this.selectedCompanyId = moxi_works_company_id;
       this.$router.push({

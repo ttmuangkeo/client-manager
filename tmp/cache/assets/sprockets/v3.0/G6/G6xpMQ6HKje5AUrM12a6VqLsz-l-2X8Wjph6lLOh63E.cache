@@ -1,0 +1,43 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/regenerate/package.json?type=application/json&id=32d991bd694544e571d43c196ae116456c565130f133f68d9750accea50e1ea7:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/regenerate/package.json;T:	nameI"$node_modules/regenerate/package;T:logical_pathI")node_modules/regenerate/package.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "name": "regenerate",
+  "version": "1.4.2",
+  "description": "Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.",
+  "homepage": "https://mths.be/regenerate",
+  "main": "regenerate.js",
+  "keywords": [
+    "regex",
+    "regexp",
+    "javascript",
+    "unicode",
+    "generator",
+    "tool"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/regenerate.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/regenerate/issues",
+  "scripts": {
+    "cover": "istanbul cover --report html --verbose --dir coverage tests/tests.js",
+    "test": "node tests/tests.js"
+  },
+  "devDependencies": {
+    "codecov": "^1.0.1",
+    "grunt": "^0.4.5",
+    "grunt-shell": "^1.1.1",
+    "istanbul": "^0.4.3",
+    "qunit-extras": "^1.1.0",
+    "qunitjs": "~1.11.0",
+    "requirejs": "^2.1.15"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/regenerate/package.json;TTF:charsetI"
+utf-8;F:digest"%²„‘E7â°PÓ[Aøç¦,(Ä©òßÁÜø²ÎBL:lengthiØ:dependencies_digest"%ÈÛbg› £‡3°·äú\ŸôcÊ™g“()^›Ï‚:idI"E32d991bd694544e571d43c196ae116456c565130f133f68d9750accea50e1ea7;F:
+mtimel+Q¢´e

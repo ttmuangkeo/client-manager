@@ -1,0 +1,28 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/@babel/helper-split-export-declaration/package.json?type=application/json&id=66814088d585280c8a785d7ea91b6bfef3fac7ba9f95d81942b486a44e0c9a80:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/@babel/helper-split-export-declaration/package.json;T:	nameI"@node_modules/@babel/helper-split-export-declaration/package;T:logical_pathI"Enode_modules/@babel/helper-split-export-declaration/package.json;T:content_typeI"application/json;T:sourceI"d{
+  "name": "@babel/helper-split-export-declaration",
+  "version": "7.22.6",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-split-export-declaration"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-helper-split-export-declaration",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/types": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/@babel/helper-split-export-declaration/package.json;TTF:charsetI"
+utf-8;F:digest"%# Aà?˜K‹^ôú‘ãµB9Lâxf.ŞÖâNZòîÁ•:lengthid:dependencies_digest"%! .¦'ƒdƒÌˆ\s^ZnrMj"(üÓò¨ÖÏU¼:idI"E66814088d585280c8a785d7ea91b6bfef3fac7ba9f95d81942b486a44e0c9a80;F:
+mtimel+Q¢´e

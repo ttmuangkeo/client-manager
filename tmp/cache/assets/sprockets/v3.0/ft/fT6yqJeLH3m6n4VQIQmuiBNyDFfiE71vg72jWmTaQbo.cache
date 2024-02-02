@@ -1,0 +1,57 @@
+{:uriI"›file://app/assets/javascripts/node_modules/type-fest/package.json?type=application/json&id=50571c3e44a51bd3a9b90dde9a7db17b38d7e938b99de711abe1c2d28065f7f7:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/type-fest/package.json;T:	nameI"#node_modules/type-fest/package;T:logical_pathI"(node_modules/type-fest/package.json;T:content_typeI"application/json;T:sourceI"Ÿ{
+	"name": "type-fest",
+	"version": "0.6.0",
+	"description": "A collection of essential TypeScript types",
+	"license": "(MIT OR CC0-1.0)",
+	"repository": "sindresorhus/type-fest",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && tsd"
+	},
+	"files": [
+		"index.d.ts",
+		"source"
+	],
+	"keywords": [
+		"typescript",
+		"ts",
+		"types",
+		"utility",
+		"util",
+		"utilities",
+		"omit",
+		"merge",
+		"json"
+	],
+	"devDependencies": {
+		"@sindresorhus/tsconfig": "^0.4.0",
+		"@typescript-eslint/eslint-plugin": "^1.9.0",
+		"@typescript-eslint/parser": "^1.10.2",
+		"eslint-config-xo-typescript": "^0.14.0",
+		"tsd": "^0.7.3",
+		"xo": "^0.24.0"
+	},
+	"xo": {
+		"extends": "xo-typescript",
+		"extensions": [
+			"ts"
+		],
+		"rules": {
+			"import/no-unresolved": "off",
+			"@typescript-eslint/indent": "off"
+		}
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/type-fest/package.json;TTF:charsetI"
+utf-8;F:digest"%½Fïñ¡(³ğ*¶¦
+ÏÔ(¸Ï›²š#çñ-|‡E‡:lengthiŸ:dependencies_digest"%çævæÂñ…X@oB"]F96ñòQét'NsşäGó:idI"E50571c3e44a51bd3a9b90dde9a7db17b38d7e938b99de711abe1c2d28065f7f7;F:
+mtimel+Q¢´e

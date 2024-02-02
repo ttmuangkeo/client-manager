@@ -1,0 +1,43 @@
+{:uriI"üfile://app/assets/javascripts/node_modules/is-resolvable/package.json?type=application/json&id=69f46607100da9d39ab132c2e1d82c20205cb5158dd2e073a397a40da37daae6:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/is-resolvable/package.json;T:	nameI"'node_modules/is-resolvable/package;T:logical_pathI",node_modules/is-resolvable/package.json;T:content_typeI"application/json;T:sourceI"+{
+	"name": "is-resolvable",
+	"version": "1.1.0",
+	"description": "Check if a module ID is resolvable with require()",
+	"repository": "shinnn/is-resolvable",
+	"author": "Shinnosuke Watanabe (https://github.com/shinnn)",
+	"scripts": {
+		"pretest": "eslint --fix --format=codeframe index.js test.js",
+		"test": "node --throw-deprecation --track-heap-objects test.js",
+		"coverage": "istanbul cover --print=both test.js"
+	},
+	"license": "ISC",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"file",
+		"path",
+		"resolve",
+		"resolvable",
+		"check",
+		"module"
+	],
+	"devDependencies": {
+		"@shinnn/eslint-config-node": "^5.0.0",
+		"eslint": "^4.16.0",
+		"istanbul": "^0.4.5",
+		"tape": "^4.8.0"
+	},
+	"eslintConfig": {
+		"extends": "@shinnn/node",
+		"rules": {
+			"no-var": "off",
+			"prefer-template": "off"
+		}
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/is-resolvable/package.json;TTF:charsetI"
+utf-8;F:digest"%ª,ûB¿?,çk¡∂L”¨Ñ¯˛Á7ê\$îﬂVÃS•Ô0f2:lengthi+:dependencies_digest"%
+–∏∫ÑÏDZæ·|˜Ù‹∂?FÌMÖx:àS:idI"E69f46607100da9d39ab132c2e1d82c20205cb5158dd2e073a397a40da37daae6;F:
+mtimel+Q¢¥e

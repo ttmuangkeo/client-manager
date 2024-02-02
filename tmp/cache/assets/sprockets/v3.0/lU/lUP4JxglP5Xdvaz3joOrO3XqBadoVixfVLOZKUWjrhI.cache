@@ -1,0 +1,33 @@
+{:uriI"³file://app/assets/javascripts/node_modules/@babel/helper-environment-visitor/package.json?type=application/json&id=0d0a7a3d095b9d0293bfde9ba936f5322113fc57e5bb8d28fd8024e4e2cf2236:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/@babel/helper-environment-visitor/package.json;T:	nameI";node_modules/@babel/helper-environment-visitor/package;T:logical_pathI"@node_modules/@babel/helper-environment-visitor/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "@babel/helper-environment-visitor",
+  "version": "7.22.20",
+  "description": "Helper visitor to only visit nodes in the current 'this' context",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-environment-visitor"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-helper-environment-visitor",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "devDependencies": {
+    "@babel/traverse": "^7.22.20",
+    "@babel/types": "^7.22.19"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/@babel/helper-environment-visitor/package.json;TTF:charsetI"
+utf-8;F:digest"%Ú—½3ÀÄ¨@Â‚°ò2”­VÿªË#cÃªã2šx¸Ò‹:lengthi:dependencies_digest"%?ÌM3ÒÝ†ô"Dw÷%ªNtacîùO@T4«»­åë›:idI"E0d0a7a3d095b9d0293bfde9ba936f5322113fc57e5bb8d28fd8024e4e2cf2236;F:
+mtimel+Q¢´e

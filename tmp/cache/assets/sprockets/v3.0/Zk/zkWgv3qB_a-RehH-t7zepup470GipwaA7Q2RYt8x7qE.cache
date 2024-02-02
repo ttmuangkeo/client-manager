@@ -1,0 +1,49 @@
+{:uriI"îfile://app/assets/javascripts/node_modules/mz/package.json?type=application/json&id=9424f4715612c9601e52946322988b2314e1012e1be2cfb9f6ee01088890c975:ET:load_pathI"app/assets/javascripts;T:filenameI"8app/assets/javascripts/node_modules/mz/package.json;T:	nameI"node_modules/mz/package;T:logical_pathI"!node_modules/mz/package.json;T:content_typeI"application/json;T:sourceI"Ù{
+  "name": "mz",
+  "description": "modernize node.js to current ECMAScript standards",
+  "version": "2.7.0",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "license": "MIT",
+  "repository": "normalize/mz",
+  "dependencies": {
+    "any-promise": "^1.0.0",
+    "object-assign": "^4.0.1",
+    "thenify-all": "^1.0.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.0",
+    "bluebird": "^3.0.0",
+    "mocha": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --reporter dot",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --reporter dot"
+  },
+  "keywords": [
+    "promisify",
+    "promise",
+    "thenify",
+    "then",
+    "es6"
+  ],
+  "files": [
+    "index.js",
+    "child_process.js",
+    "crypto.js",
+    "dns.js",
+    "fs.js",
+    "readline.js",
+    "zlib.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ffile-digest://app/assets/javascripts/node_modules/mz/package.json;TTF:charsetI"
+utf-8;F:digest"%≈cBΩÒ©ú4à4SÃKqc#∂A¿ßbñÔóïMè:lengthiÙ:dependencies_digest"%Æ¿œB?L∏«ﬁù–X–%9ˆ˙â~ëÚ´¨¨Uê@ü:idI"E9424f4715612c9601e52946322988b2314e1012e1be2cfb9f6ee01088890c975;F:
+mtimel+Q¢¥e

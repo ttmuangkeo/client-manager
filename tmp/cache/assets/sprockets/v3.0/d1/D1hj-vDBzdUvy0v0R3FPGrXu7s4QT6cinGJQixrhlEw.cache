@@ -1,0 +1,45 @@
+{:uriI"™file://app/assets/javascripts/node_modules/onetime/package.json?type=application/json&id=497cab2d6de9010092583d2f9f557af3f1ef2d070c1fc418d857f0a300c1e4c0:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/onetime/package.json;T:	nameI"!node_modules/onetime/package;T:logical_pathI"&node_modules/onetime/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "onetime",
+  "version": "2.0.1",
+  "description": "Ensure a function is only called once",
+  "license": "MIT",
+  "repository": "sindresorhus/onetime",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "once",
+    "function",
+    "one",
+    "onetime",
+    "func",
+    "fn",
+    "single",
+    "call",
+    "called",
+    "prevent"
+  ],
+  "dependencies": {
+    "mimic-fn": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/onetime/package.json;TTF:charsetI"
+utf-8;F:digest"%Qù­ëS‡[İn¤ó©Ú’ Ê%ÉÚ"U§q@æ‡ÈK,á:lengthi:dependencies_digest"%à—îõı’ás­ò½÷;p ·3È%§’Üyéè®­uÊK:idI"E497cab2d6de9010092583d2f9f557af3f1ef2d070c1fc418d857f0a300c1e4c0;F:
+mtimel+Q¢´e

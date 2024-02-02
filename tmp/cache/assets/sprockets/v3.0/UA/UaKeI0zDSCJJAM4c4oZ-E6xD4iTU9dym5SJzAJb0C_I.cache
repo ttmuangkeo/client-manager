@@ -1,0 +1,62 @@
+{:uriI"§file://app/assets/javascripts/node_modules/@vue/babel-plugin-jsx/package.json?type=application/json&id=9cf9dc8ade21bf4a610bb5f871a8b6b1efce4e8cb8bbae356669367e4e8deef1:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/@vue/babel-plugin-jsx/package.json;T:	nameI"/node_modules/@vue/babel-plugin-jsx/package;T:logical_pathI"4node_modules/@vue/babel-plugin-jsx/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "@vue/babel-plugin-jsx",
+  "version": "1.2.1",
+  "description": "Babel plugin for Vue 3 JSX",
+  "author": "Amour1688 <lcz_1996@foxmail.com>",
+  "homepage": "https://github.com/vuejs/babel-plugin-jsx/tree/dev/packages/babel-plugin-jsx#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/babel-plugin-jsx"
+  },
+  "bugs": {
+    "url": "https://github.com/vuejs/babel-plugin-jsx/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@babel/helper-module-imports": "^7.22.15",
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/plugin-syntax-jsx": "^7.23.3",
+    "@babel/template": "^7.22.15",
+    "@babel/traverse": "^7.23.7",
+    "@babel/types": "^7.23.6",
+    "camelcase": "^6.3.0",
+    "html-tags": "^3.3.1",
+    "svg-tags": "^1.0.0",
+    "@vue/babel-helper-vue-transform-on": "1.2.1",
+    "@vue/babel-plugin-resolve-type": "1.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.8",
+    "@types/babel__template": "^7.4.4",
+    "@types/babel__traverse": "^7.20.5",
+    "@types/svg-tags": "^1.0.2",
+    "@vue/runtime-dom": "^3.4.15",
+    "@vue/test-utils": "^2.4.3",
+    "regenerator-runtime": "^0.14.1",
+    "vue": "^3.4.15"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "peerDependenciesMeta": {
+    "@babel/core": {
+      "optional": true
+    }
+  },
+  "scripts": {
+    "build": "tsup",
+    "watch": "tsup --watch"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/@vue/babel-plugin-jsx/package.json;TTF:charsetI"
+utf-8;F:digest"%÷ò
+Þã±éäJ›Ç<-P'ŒÇâgä,½:lengthi:dependencies_digest"%c¨íÄŒ.˜„¦]ëõ*ißY¸]U­Áç>|È8rp:idI"E9cf9dc8ade21bf4a610bb5f871a8b6b1efce4e8cb8bbae356669367e4e8deef1;F:
+mtimel+R¢´e

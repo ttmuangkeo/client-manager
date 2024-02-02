@@ -1,0 +1,59 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/ajv-keywords/package.json?type=application/json&id=0a65806715c64baf387dc09e06772c073b17bb3f838643723e4c2f3e6680bce9:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/ajv-keywords/package.json;T:	nameI"&node_modules/ajv-keywords/package;T:logical_pathI"+node_modules/ajv-keywords/package.json;T:content_typeI"application/json;T:sourceI"†{
+  "name": "ajv-keywords",
+  "version": "3.5.2",
+  "description": "Custom JSON-Schema keywords for Ajv validator",
+  "main": "index.js",
+  "typings": "ajv-keywords.d.ts",
+  "scripts": {
+    "build": "node node_modules/ajv/scripts/compile-dots.js node_modules/ajv/lib keywords",
+    "prepublish": "npm run build",
+    "test": "npm run build && npm run eslint && npm run test-cov",
+    "eslint": "eslint index.js keywords/*.js spec",
+    "test-spec": "mocha spec/*.spec.js -R spec",
+    "test-cov": "istanbul cover -x 'spec/**' node_modules/mocha/bin/_mocha -- spec/*.spec.js -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoberezkin/ajv-keywords.git"
+  },
+  "keywords": [
+    "JSON-Schema",
+    "ajv",
+    "keywords"
+  ],
+  "files": [
+    "index.js",
+    "ajv-keywords.d.ts",
+    "keywords"
+  ],
+  "author": "Evgeny Poberezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epoberezkin/ajv-keywords/issues"
+  },
+  "homepage": "https://github.com/epoberezkin/ajv-keywords#readme",
+  "peerDependencies": {
+    "ajv": "^6.9.1"
+  },
+  "devDependencies": {
+    "ajv": "^6.9.1",
+    "ajv-pack": "^0.3.0",
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.2",
+    "dot": "^1.1.1",
+    "eslint": "^7.2.0",
+    "glob": "^7.1.3",
+    "istanbul": "^0.4.3",
+    "js-beautify": "^1.8.9",
+    "json-schema-test": "^2.0.0",
+    "mocha": "^8.0.1",
+    "pre-commit": "^1.1.3",
+    "uuid": "^8.1.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/ajv-keywords/package.json;TTF:charsetI"
+utf-8;F:digest"%kFl‰7q≠I
+¥◊s˝ˇpÆŸ5[\fì≥Åfñ:Fò":lengthi†:dependencies_digest"%Íi|ÏÏ“Ç–Ø UãåÄ˙˚’vz*\+~Xƒ=ﬁ∏:idI"E0a65806715c64baf387dc09e06772c073b17bb3f838643723e4c2f3e6680bce9;F:
+mtimel+Q¢¥e

@@ -1,0 +1,53 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json?type=application/json&id=e76d1185fbc2b4a546472983fe5e6521a0ce34498e194f78ecd58f17498c9b5c:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json;T:	nameI"Fnode_modules/webpack-dev-server/node_modules/yargs-parser/package;T:logical_pathI"Knode_modules/webpack-dev-server/node_modules/yargs-parser/package.json;T:content_typeI"application/json;T:sourceI"¦{
+  "name": "yargs-parser",
+  "version": "13.1.2",
+  "description": "the mighty option parser used by yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha test/*.js",
+    "posttest": "standard",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "release": "standard-version"
+  },
+  "repository": {
+    "url": "git@github.com:yargs/yargs-parser.git"
+  },
+  "keywords": [
+    "argument",
+    "parser",
+    "yargs",
+    "command",
+    "cli",
+    "parsing",
+    "option",
+    "args",
+    "argument"
+  ],
+  "author": "Ben Coe <ben@npmjs.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "coveralls": "^3.0.2",
+    "mocha": "^5.2.0",
+    "nyc": "^14.1.0",
+    "standard": "^12.0.1",
+    "standard-version": "^6.0.0"
+  },
+  "dependencies": {
+    "camelcase": "^5.0.0",
+    "decamelize": "^1.2.0"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "engine": {
+    "node": ">=6"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json;TTF:charsetI"
+utf-8;F:digest"%æô6E×…Ú¹;(6×“Úíë›œŒ¥õ„ûL”
+!³:lengthi¦:dependencies_digest"%´d~ ;Dz£oJÑ·ØY¹ŒpW-52ÎàÕÆ(ãª:idI"Ee76d1185fbc2b4a546472983fe5e6521a0ce34498e194f78ecd58f17498c9b5c;F:
+mtimel+Q¢´e

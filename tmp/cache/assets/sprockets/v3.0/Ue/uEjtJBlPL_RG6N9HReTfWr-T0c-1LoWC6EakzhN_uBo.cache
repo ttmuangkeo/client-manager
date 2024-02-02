@@ -1,0 +1,57 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/topojson/package.json?type=application/json&id=1369427399425e2520c05d3e31a7db8c23becdff7c22971baac5e92e4f0e5bb2:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/topojson/package.json;T:	nameI""node_modules/topojson/package;T:logical_pathI"'node_modules/topojson/package.json;T:content_typeI"application/json;T:sourceI"	{
+  "name": "topojson",
+  "version": "1.6.27",
+  "description": "An extension to GeoJSON that encodes topology.",
+  "keywords": [
+    "topojson",
+    "geojson",
+    "shapefile"
+  ],
+  "homepage": "https://github.com/mbostock/topojson",
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "main": "server.js",
+  "jsnext:main": "client",
+  "browser": "build/topojson.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbostock/topojson.git"
+  },
+  "bin": {
+    "topojson": "./bin/topojson",
+    "topojson-geojson": "./bin/topojson-geojson",
+    "topojson-group": "./bin/topojson-group",
+    "topojson-merge": "./bin/topojson-merge",
+    "topojson-svg": "./bin/topojson-svg"
+  },
+  "scripts": {
+    "pretest": "rm -rf build && mkdir build && node -e 'process.stdout.write(\"var version = \\\"\" + require(\"./package.json\").version + \"\\\"; export * from \\\"../client\\\"; export {version};\");' > build/bundle.js && rollup -f umd -n topojson -o build/topojson.js -- build/bundle.js",
+    "test": "tape 'test/**/*-test.js' && eslint client.js src",
+    "prepublish": "npm run test && uglifyjs build/topojson.js -c -m -o build/topojson.min.js",
+    "postpublish": "VERSION=`node -e 'console.log(require(\"./package.json\").version)'`; git push && git push --tags && cp -v README.md LICENSE build/topojson.js build/topojson.min.js ../topojson-bower && cd ../topojson-bower && git add README.md LICENSE topojson.js topojson.min.js && git commit -m \"Release $VERSION.\" && git tag -am \"Release $VERSION.\" v${VERSION} && git push && git push --tags && cd ../topojson && cp build/topojson.js ../d3.github.com/topojson.v1.js && cp build/topojson.min.js ../d3.github.com/topojson.v1.min.js && cd ../d3.github.com && git add topojson.v1.js topojson.v1.min.js && git commit -m \"topojson ${VERSION}\" && git push && cd - && zip -j build/topojson.zip -- LICENSE README.md build/topojson.js build/topojson.min.js"
+  },
+  "dependencies": {
+    "d3": "3",
+    "d3-geo-projection": "0.2",
+    "d3-queue": "2",
+    "optimist": "0.3",
+    "rw": "1",
+    "shapefile": "0.3"
+  },
+  "devDependencies": {
+    "eslint": "3",
+    "rollup": "0.34",
+    "tape": "4",
+    "uglify-js": "2",
+    "us-atlas": "0.0",
+    "world-atlas": "0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/topojson/package.json;TTF:charsetI"
+utf-8;F:digest"%!9³äÏð0WÏ º0—:6Ô?œ—v	Jý¥ñV(Í":lengthi	:dependencies_digest"%&…UP²¾7žY—‚	4m…BS|9äÂÁO5â8d‚ªÙ:idI"E1369427399425e2520c05d3e31a7db8c23becdff7c22971baac5e92e4f0e5bb2;F:
+mtimel+Q¢´e

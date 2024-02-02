@@ -1,0 +1,57 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/http-errors/package.json?type=application/json&id=756cf6b5e0ddc964af43bd4b94d2d362d179340850264f6c6b111d8eda2158b2:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/http-errors/package.json;T:	nameI"%node_modules/http-errors/package;T:logical_pathI"*node_modules/http-errors/package.json;T:content_typeI"application/json;T:sourceI""{
+  "name": "http-errors",
+  "description": "Create HTTP error objects",
+  "version": "2.0.0",
+  "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+  "contributors": [
+    "Alan Plum <me@pluma.io>",
+    "Douglas Christopher Wilson <doug@somethingdoug.com>"
+  ],
+  "license": "MIT",
+  "repository": "jshttp/http-errors",
+  "dependencies": {
+    "depd": "2.0.0",
+    "inherits": "2.0.4",
+    "setprototypeof": "1.2.0",
+    "statuses": "2.0.1",
+    "toidentifier": "1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.25.3",
+    "eslint-plugin-markdown": "2.2.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.2.0",
+    "eslint-plugin-standard": "4.1.0",
+    "mocha": "9.1.3",
+    "nyc": "15.1.0"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "lint": "eslint . && node ./scripts/lint-readme-list.js",
+    "test": "mocha --reporter spec --bail",
+    "test-ci": "nyc --reporter=lcov --reporter=text npm test",
+    "test-cov": "nyc --reporter=html --reporter=text npm test",
+    "version": "node scripts/version-history.js && git add HISTORY.md"
+  },
+  "keywords": [
+    "http",
+    "error"
+  ],
+  "files": [
+    "index.js",
+    "HISTORY.md",
+    "LICENSE",
+    "README.md"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/http-errors/package.json;TTF:charsetI"
+utf-8;F:digest"%›®ÇsÅ…Ê$ø‘Å\∂™@[˘å·“·≤Ú¶i
+:lengthi":dependencies_digest"%ïÖË‚’hê˚·Y¡DÖ˙
+≠6o≈¡q¨YYÑÉ.úù©òF:idI"E756cf6b5e0ddc964af43bd4b94d2d362d179340850264f6c6b111d8eda2158b2;F:
+mtimel+Q¢¥e

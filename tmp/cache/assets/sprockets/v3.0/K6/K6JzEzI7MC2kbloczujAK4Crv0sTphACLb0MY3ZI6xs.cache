@@ -1,0 +1,40 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/@babel/plugin-transform-modules-amd/package.json?type=application/json&id=26251e5a500947f21e9c2c693e155cd2929a125730fcd313c658c3e85e15ba6e:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/@babel/plugin-transform-modules-amd/package.json;T:	nameI"=node_modules/@babel/plugin-transform-modules-amd/package;T:logical_pathI"Bnode_modules/@babel/plugin-transform-modules-amd/package.json;T:content_typeI"application/json;T:sourceI"Ç{
+  "name": "@babel/plugin-transform-modules-amd",
+  "version": "7.23.3",
+  "description": "This plugin transforms ES2015 modules to AMD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-modules-amd"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-modules-amd",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/helper-module-transforms": "^7.23.3",
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "@babel/plugin-external-helpers": "^7.23.3"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-modules-amd/package.json;TTF:charsetI"
+utf-8;F:digest"%ÅØÅÉn¾ÿœ{«=‘Vïh°›ÀKQá²kw%¼:lengthiÇ:dependencies_digest"%9d}w_~.J¯p î„YÕÿ ÎåŸkÕàE-g:idI"E26251e5a500947f21e9c2c693e155cd2929a125730fcd313c658c3e85e15ba6e;F:
+mtimel+R¢´e

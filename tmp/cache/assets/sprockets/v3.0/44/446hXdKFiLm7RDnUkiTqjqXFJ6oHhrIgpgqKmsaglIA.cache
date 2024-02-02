@@ -1,0 +1,101 @@
+{:uriI"‚file://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/node_modules/ajv/lib/refs/json-schema-secure.json?type=application/json&id=9abb3a74f598ab936547d68dc3f0a3f41c2d66f2d49c71348b54fbca8e3787df:ET:load_pathI"app/assets/javascripts;T:filenameI"Åapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/node_modules/ajv/lib/refs/json-schema-secure.json;T:	nameI"jnode_modules/@vue/cli-plugin-eslint/node_modules/webpack/node_modules/ajv/lib/refs/json-schema-secure;T:logical_pathI"onode_modules/@vue/cli-plugin-eslint/node_modules/webpack/node_modules/ajv/lib/refs/json-schema-secure.json;T:content_typeI"application/json;T:sourceI"
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/ajv-validator/ajv/master/lib/refs/json-schema-secure.json#",
+  "title": "Meta-schema for the security assessment of JSON Schemas",
+  "description": "If a JSON Schema fails validation against this meta-schema, it may be unsafe to validate untrusted data",
+  "definitions": {
+    "schemaArray": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#"}
+    }
+  },
+  "dependencies": {
+    "patternProperties": {
+      "description": "prevent slow validation of large property names",
+      "required": ["propertyNames"],
+      "properties": {
+        "propertyNames": {
+          "required": ["maxLength"]
+        }
+      }
+    },
+    "uniqueItems": {
+      "description": "prevent slow validation of large non-scalar arrays",
+      "if": {
+        "properties": {
+          "uniqueItems": {"const": true},
+          "items": {
+            "properties": {
+              "type": {
+                "anyOf": [
+                  {
+                    "enum": ["object", "array"]
+                  },
+                  {
+                    "type": "array",
+                    "contains": {"enum": ["object", "array"]}
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "required": ["maxItems"]
+      }
+    },
+    "pattern": {
+      "description": "prevent slow pattern matching of large strings",
+      "required": ["maxLength"]
+    },
+    "format": {
+      "description": "prevent slow format validation of large strings",
+      "required": ["maxLength"]
+    }
+  },
+  "properties": {
+    "additionalItems": {"$ref": "#"},
+    "additionalProperties": {"$ref": "#"},
+    "dependencies": {
+      "additionalProperties": {
+        "anyOf": [
+          {"type": "array"},
+          {"$ref": "#"}
+        ]
+      }
+    },
+    "items": {
+      "anyOf": [
+        {"$ref": "#"},
+        {"$ref": "#/definitions/schemaArray"}
+      ]
+    },
+    "definitions": {
+      "additionalProperties": {"$ref": "#"}
+    },
+    "patternProperties": {
+      "additionalProperties": {"$ref": "#"}
+    },
+    "properties": {
+      "additionalProperties": {"$ref": "#"}
+    },
+    "if": {"$ref": "#"},
+    "then": {"$ref": "#"},
+    "else": {"$ref": "#"},
+    "allOf": {"$ref": "#/definitions/schemaArray"},
+    "anyOf": {"$ref": "#/definitions/schemaArray"},
+    "oneOf": {"$ref": "#/definitions/schemaArray"},
+    "not": {"$ref": "#"},
+    "contains": {"$ref": "#"},
+    "propertyNames": {"$ref": "#"}
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"èfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/node_modules/ajv/lib/refs/json-schema-secure.json;TTF:charsetI"
+utf-8;F:digest"%'¶àŸU∫´∏N›«mn2VÉd<b´Ñ?cìD’‚·:lengthi
+:dependencies_digest"%·lﬂÉO©VÃD‡Ü;˚Ô`¨(Qíπ∆äTÌHyZa:idI"E9abb3a74f598ab936547d68dc3f0a3f41c2d66f2d49c71348b54fbca8e3787df;F:
+mtimel+S¢¥e

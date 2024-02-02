@@ -1,0 +1,58 @@
+{:uriI"file://app/assets/javascripts/node_modules/tiny-emitter/package.json?type=application/json&id=7ce095a7c40f6862fc6524d34b8fda67281474aee2402037b1f90321e684fd11:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/tiny-emitter/package.json;T:	nameI"&node_modules/tiny-emitter/package;T:logical_pathI"+node_modules/tiny-emitter/package.json;T:content_typeI"application/json;T:sourceI"š{
+  "name": "tiny-emitter",
+  "version": "2.1.0",
+  "description": "A tiny (less than 1k) event emitter library",
+  "main": "index.js",
+  "scripts": {
+    "test-node": "tape test/index.js | tap-format-spec",
+    "test": "testling | tap-format-spec",
+    "bundle": "node_modules/.bin/browserify index.js > dist/tinyemitter.js -s TinyEmitter && echo 'Bundled'",
+    "minify": "node_modules/.bin/uglifyjs dist/tinyemitter.js -o dist/tinyemitter.min.js -m && echo 'Minified'",
+    "build": "npm test && npm run bundle && npm run minify",
+    "size": "node_modules/.bin/uglifyjs index.js -o minified.js -m && ls -l && rm minified.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorgan/tiny-emitter.git"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "pubsub",
+    "tiny",
+    "events",
+    "bind"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottcorgan/tiny-emitter/issues"
+  },
+  "devDependencies": {
+    "@tap-format/spec": "0.2.0",
+    "browserify": "11.2.0",
+    "tape": "4.2.1",
+    "testling": "1.7.1",
+    "uglify-js": "2.5.0"
+  },
+  "testling": {
+    "files": [
+      "test/index.js"
+    ],
+    "browsers": [
+      "iexplore/10.0",
+      "iexplore/9.0",
+      "firefox/16..latest",
+      "chrome/22..latest",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/tiny-emitter/package.json;TTF:charsetI"
+utf-8;F:digest"%õ2Šıt+©±ãåüLtì ¯­¸æÜEnöÖ(Ş:lengthiš:dependencies_digest"%L(eòN&…üT¾²ÚD¶é¿3?ítø:L:idI"E7ce095a7c40f6862fc6524d34b8fda67281474aee2402037b1f90321e684fd11;F:
+mtimel+Q¢´e

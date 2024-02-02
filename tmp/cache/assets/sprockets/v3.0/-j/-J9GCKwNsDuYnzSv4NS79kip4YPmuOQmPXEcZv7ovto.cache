@@ -1,0 +1,67 @@
+{:uriI" file://app/assets/javascripts/node_modules/d3-time-format/package.json?type=application/json&id=1a0f5e201fabded8443540ab5c13f1eed44a5b88e2923e80cae5cbbc29fc8e4f:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/d3-time-format/package.json;T:	nameI"(node_modules/d3-time-format/package;T:logical_pathI"-node_modules/d3-time-format/package.json;T:content_typeI"application/json;T:sourceI" {
+  "name": "d3-time-format",
+  "version": "4.1.0",
+  "description": "A JavaScript time formatter and parser inspired by strftime and strptime.",
+  "homepage": "https://d3js.org/d3-time-format/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-time-format.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "time",
+    "format",
+    "strftime",
+    "strptime"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js",
+    "locale/*.json"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-time-format.min.js",
+  "unpkg": "dist/d3-time-format.min.js",
+  "exports": {
+    ".": {
+      "umd": "./dist/d3-time-format.min.js",
+      "default": "./src/index.js"
+    },
+    "./locale/*": "./locale/*.json"
+  },
+  "sideEffects": [
+    "./src/defaultLocale.js"
+  ],
+  "dependencies": {
+    "d3-time": "1 - 3"
+  },
+  "devDependencies": {
+    "eslint": "8",
+    "mocha": "9",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "TZ=America/Los_Angeles mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/d3-time-format/package.json;TTF:charsetI"
+utf-8;F:digest"%˜ÿíŒ,ô
+M'›CF·<	ãŒ¼ä
+–úÊ¦šMê|¿U:lengthi :dependencies_digest"%–ßF^©9Ch¢TH/fj¶%4K¾VÖ®Vs³zÒ:idI"E1a0f5e201fabded8443540ab5c13f1eed44a5b88e2923e80cae5cbbc29fc8e4f;F:
+mtimel+R¢´e

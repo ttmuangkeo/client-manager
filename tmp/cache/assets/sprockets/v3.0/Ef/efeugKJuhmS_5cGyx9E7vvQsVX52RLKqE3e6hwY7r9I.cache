@@ -1,0 +1,54 @@
+{:uriI"file://app/assets/javascripts/node_modules/d3-quadtree/package.json?type=application/json&id=53538ac7dfa86ba79542d04c3b9bdf4e8751880bf28a560744388ca388230c79:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/d3-quadtree/package.json;T:	nameI"%node_modules/d3-quadtree/package;T:logical_pathI"*node_modules/d3-quadtree/package.json;T:content_typeI"application/json;T:sourceI"/{
+  "name": "d3-quadtree",
+  "version": "3.0.1",
+  "description": "Two-dimensional recursive spatial subdivision.",
+  "homepage": "https://d3js.org/d3-quadtree/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-quadtree.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "quadtree"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-quadtree.min.js",
+  "unpkg": "dist/d3-quadtree.min.js",
+  "exports": {
+    "umd": "./dist/d3-quadtree.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "devDependencies": {
+    "d3-array": "1 - 2",
+    "eslint": "7",
+    "mocha": "8",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/d3-quadtree/package.json;TTF:charsetI"
+utf-8;F:digest"%3¦5›¡kD¥©ŸYyd™[MÇ YëJ"ylI†‘:lengthi/:dependencies_digest"%<jGD’ˆ[Íø4á9½yH_®<_˜÷šĞ;ˆ:˜‡:idI"E53538ac7dfa86ba79542d04c3b9bdf4e8751880bf28a560744388ca388230c79;F:
+mtimel+R¢´e

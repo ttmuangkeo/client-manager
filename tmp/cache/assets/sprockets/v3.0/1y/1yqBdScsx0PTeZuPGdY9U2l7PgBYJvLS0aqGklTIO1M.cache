@@ -1,0 +1,37 @@
+{:uriI"Èfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/ast/package.json?type=application/json&id=1ee2d2b8412f9b87dc90ebfe5624b3246b4278f89a46003fbcb927b3f1c501a8:ET:load_pathI"app/assets/javascripts;T:filenameI"lapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/ast/package.json;T:	nameI"Pnode_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/ast/package;T:logical_pathI"Unode_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/ast/package.json;T:content_typeI"application/json;T:sourceI"Ó{
+  "name": "@webassemblyjs/ast",
+  "version": "1.11.6",
+  "description": "AST utils for webassemblyjs",
+  "keywords": [
+    "webassembly",
+    "javascript",
+    "ast"
+  ],
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/helper-numbers": "1.11.6",
+    "@webassemblyjs/helper-wasm-bytecode": "1.11.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@webassemblyjs/helper-test-framework": "1.11.6",
+    "array.prototype.flatmap": "^1.2.1",
+    "dump-exports": "^0.1.0",
+    "mamacro": "^0.0.7"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"zfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/ast/package.json;TTF:charsetI"
+utf-8;F:digest"%À¶}1Ÿàï©°½ÑÇ#=Qa&bt@ÓüU\xw:lengthiÓ:dependencies_digest"%’÷ºMó©&›!n/Œ4Ç+Õ
+T¹Êðx¡y/E­[/:idI"E1ee2d2b8412f9b87dc90ebfe5624b3246b4278f89a46003fbcb927b3f1c501a8;F:
+mtimel+R¢´e

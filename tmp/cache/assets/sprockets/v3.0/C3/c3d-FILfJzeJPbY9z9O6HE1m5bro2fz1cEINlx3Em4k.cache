@@ -1,0 +1,54 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/stealthy-require/package.json?type=application/json&id=13469a8b96bec738d4fbc8efdb07151262bc815b6c7f7f30aabba6c0aceeace6:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/stealthy-require/package.json;T:	nameI"*node_modules/stealthy-require/package;T:logical_pathI"/node_modules/stealthy-require/package.json;T:content_typeI"application/json;T:sourceI"	{
+  "name": "stealthy-require",
+  "version": "1.1.1",
+  "description": "The closest you can get to require something with bypassing the require cache",
+  "keywords": [
+    "require",
+    "bypass",
+    "no",
+    "cache",
+    "fresh"
+  ],
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/gulp ci",
+    "test-publish": "./node_modules/.bin/gulp ci-no-cov",
+    "publish-please": "publish-please",
+    "prepublish": "publish-please guard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/analog-nico/stealthy-require.git"
+  },
+  "author": "Nicolai Kamenzky (https://github.com/analog-nico)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/analog-nico/stealthy-require/issues"
+  },
+  "homepage": "https://github.com/analog-nico/stealthy-require#readme",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bcrypt": "~1.0.2",
+    "browserify": "~14.3.0",
+    "chai": "~3.5.0",
+    "chalk": "~1.1.3",
+    "gulp": "~3.9.1",
+    "gulp-coveralls": "~0.1.4",
+    "gulp-eslint": "~2.1.0",
+    "gulp-istanbul": "~1.1.1",
+    "gulp-mocha": "~3.0.1",
+    "mkdirp": "~0.5.1",
+    "publish-please": "~2.3.1",
+    "rimraf": "~2.6.1",
+    "run-sequence": "~1.2.2",
+    "webpack": "~1.15.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/stealthy-require/package.json;TTF:charsetI"
+utf-8;F:digest"%&[@.Oxe> 2*Ù˜ÏÆ‚–ş×æH„Û »^I²:lengthi	:dependencies_digest"%‡ ·	–‘XDBeß9Æ°-%ÆÔ™¡Ph±Áh·)Ä:idI"E13469a8b96bec738d4fbc8efdb07151262bc815b6c7f7f30aabba6c0aceeace6;F:
+mtimel+Q¢´e

@@ -1,0 +1,52 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/vue-uuid/package.json?type=application/json&id=89b89a611a4df6e980dfcadcf13019d5cda021daaf5ffffbe57e0c6a5f52f693:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/vue-uuid/package.json;T:	nameI""node_modules/vue-uuid/package;T:logical_pathI"'node_modules/vue-uuid/package.json;T:content_typeI"application/json;T:sourceI"E{
+  "name": "vue-uuid",
+  "version": "2.1.0",
+  "description": "Add UUID to Vue instance.",
+  "cdn": "dist/index.umd.min.js",
+  "main": "dist/index.js",
+  "unpkg": "dist/index.umd.min.js",
+  "types": "index.d.ts",
+  "module": "dist/index.esm.js",
+  "jsdelivr": "dist/index.umd.min.js",
+  "umd:main": "dist/index.umd.js",
+  "scripts": {
+    "test": "ava",
+    "build": "bili index.mjs --format esm,cjs,umd,umd-min --moduleName VueUUID",
+    "prepublishOnly": "npm run build && npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLuizC/vue-uuid.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-uuid",
+    "uuid"
+  ],
+  "author": "Vitor Luiz Cavalcanti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorLuizC/vue-uuid/issues"
+  },
+  "homepage": "https://github.com/VitorLuizC/vue-uuid#README",
+  "ava": {
+    "require": [
+      "esm"
+    ]
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "bili": "^5.0.5",
+    "esm": "^3.2.25",
+    "vue": "^2.6.14"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/vue-uuid/package.json;TTF:charsetI"
+utf-8;F:digest"%âjko~ƒ‰ºªÙ*Àgœ÷vNMM'"µÂ_/¬:lengthiE:dependencies_digest"%’§¶•y?ÑºMœëÊY|6õ“ŞÒÒééd‡úØ´Àñû:idI"E89b89a611a4df6e980dfcadcf13019d5cda021daaf5ffffbe57e0c6a5f52f693;F:
+mtimel+R¢´e

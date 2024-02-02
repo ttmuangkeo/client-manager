@@ -8,8 +8,14 @@ class MoxiAuthController < ApplicationController
 
       result = login(provided_username, provided_password)
 
-      if result
-        render json: { data: result[:data] }
+      if result[:success]
+        company_data_result = fetch_company_data
+        
+        if company_data_result[:success]
+          render json: { data: company_data_result[:data] }
+        else
+          render json: { error: "Failed to fetch company data: #{company_data_result[:error]}" }, status: :internal_server_error
+        end
       else
         render json: { error: 'Authentication failed' }, status: :unauthorized
       end
@@ -22,12 +28,21 @@ class MoxiAuthController < ApplicationController
     end
   
     def show
-      result = fetch_moxi_data('companies')
+      session_data = session[:moxi_session]
   
-      if result[:success]
-        render json: { companies: result[:data] }
+      if session_data.present?
+        cookie = session_data[:cookie]
+        creds = session_data[:creds]
+  
+        result = fetch_moxi_data(cookie, creds, 'companies')
+  
+        if result[:success]
+          render json: { companies: result[:data] }
+        else
+          render json: { error: 'Failed to get company data' }, status: :internal_server_error
+        end
       else
-        render json: { error: 'failed to get company data' }, status: :internal_server_error
+        render json: { error: 'User is not authenticated' }, status: :unauthorized
       end
     end
   end

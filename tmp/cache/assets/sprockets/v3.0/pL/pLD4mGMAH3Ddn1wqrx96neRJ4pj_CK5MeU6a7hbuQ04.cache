@@ -1,0 +1,37 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/har-schema/lib/page.json?type=application/json&id=6717e7f7fdf8feb0501bdaca65ca784a7282a93d564ef286a976810995fa1dcf:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/har-schema/lib/page.json;T:	nameI"%node_modules/har-schema/lib/page;T:logical_pathI"*node_modules/har-schema/lib/page.json;T:content_typeI"application/json;T:sourceI"ï{
+  "$id": "page.json#",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "optional": true,
+  "required": [
+    "startedDateTime",
+    "id",
+    "title",
+    "pageTimings"
+  ],
+  "properties": {
+    "startedDateTime": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^(\\d{4})(-)?(\\d\\d)(-)?(\\d\\d)(T)?(\\d\\d)(:)?(\\d\\d)(:)?(\\d\\d)(\\.\\d+)?(Z|([+-])(\\d\\d)(:)?(\\d\\d))"
+    },
+    "id": {
+      "type": "string",
+      "unique": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "pageTimings": {
+      "$ref": "pageTimings.json#"
+    },
+    "comment": {
+      "type": "string"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/har-schema/lib/page.json;TTF:charsetI"
+utf-8;F:digest"%Œ›Í*´o7ÆGîyôﬂ‚•86»ŸÛ<ƒ¨ê4íl´Ä:lengthiï:dependencies_digest"% ¯	¸ΩiD3ìı|¯cÑBŒ%ØãŒ*jåñËŒŒùMH:idI"E6717e7f7fdf8feb0501bdaca65ca784a7282a93d564ef286a976810995fa1dcf;F:
+mtimel+R¢¥e

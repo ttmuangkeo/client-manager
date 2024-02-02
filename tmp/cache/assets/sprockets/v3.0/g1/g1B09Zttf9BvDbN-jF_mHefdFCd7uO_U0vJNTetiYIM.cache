@@ -1,0 +1,65 @@
+{:uriI"™file://app/assets/javascripts/node_modules/mime-db/package.json?type=application/json&id=ad222b78fc8e8ee063ec08d047ea3ba7e4fb701526669f253b06669c46906005:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/mime-db/package.json;T:	nameI"!node_modules/mime-db/package;T:logical_pathI"&node_modules/mime-db/package.json;T:content_typeI"application/json;T:sourceI"X{
+  "name": "mime-db",
+  "description": "Media Type Database",
+  "version": "1.52.0",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+    "Robert Kieffer <robert@broofa.com> (http://github.com/broofa)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mime",
+    "db",
+    "type",
+    "types",
+    "database",
+    "charset",
+    "charsets"
+  ],
+  "repository": "jshttp/mime-db",
+  "devDependencies": {
+    "bluebird": "3.7.2",
+    "co": "4.6.0",
+    "cogent": "1.0.1",
+    "csv-parse": "4.16.3",
+    "eslint": "7.32.0",
+    "eslint-config-standard": "15.0.1",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-markdown": "2.2.1",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-promise": "5.1.1",
+    "eslint-plugin-standard": "4.1.0",
+    "gnode": "0.1.2",
+    "media-typer": "1.1.0",
+    "mocha": "9.2.1",
+    "nyc": "15.1.0",
+    "raw-body": "2.5.0",
+    "stream-to-array": "2.3.0"
+  },
+  "files": [
+    "HISTORY.md",
+    "LICENSE",
+    "README.md",
+    "db.json",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "build": "node scripts/build",
+    "fetch": "node scripts/fetch-apache && gnode scripts/fetch-iana && node scripts/fetch-nginx",
+    "lint": "eslint .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "nyc --reporter=lcov --reporter=text npm test",
+    "test-cov": "nyc --reporter=html --reporter=text npm test",
+    "update": "npm run fetch && npm run build",
+    "version": "node scripts/version-history.js && git add HISTORY.md"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/mime-db/package.json;TTF:charsetI"
+utf-8;F:digest"%Ğ>7¹ P¯TT?NEÿ]ànÇgÁt_Ä1ÙÜ&µ¿:lengthiX:dependencies_digest"%/¹!NÅ+²3Õ¿¸V¤««ß1„’²¥/‰Xv½I‚:idI"Ead222b78fc8e8ee063ec08d047ea3ba7e4fb701526669f253b06669c46906005;F:
+mtimel+R¢´e

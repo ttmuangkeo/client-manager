@@ -1,0 +1,47 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/unicode-property-aliases-ecmascript/package.json?type=application/json&id=49f28774da1651be6d2395f8fcf29a522e77cb6c36872b40cf5df1a22bd5826b:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/unicode-property-aliases-ecmascript/package.json;T:	nameI"=node_modules/unicode-property-aliases-ecmascript/package;T:logical_pathI"Bnode_modules/unicode-property-aliases-ecmascript/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "unicode-property-aliases-ecmascript",
+  "version": "2.1.0",
+  "description": "Unicode property alias mappings in JavaScript format for property names that are supported in ECMAScript RegExp property escapes.",
+  "homepage": "https://github.com/mathiasbynens/unicode-property-aliases-ecmascript",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "LICENSE-MIT.txt",
+    "index.js"
+  ],
+  "keywords": [
+    "unicode",
+    "unicode-data",
+    "alias",
+    "aliases",
+    "property alias"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/unicode-property-aliases-ecmascript.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/unicode-property-aliases-ecmascript/issues",
+  "devDependencies": {
+    "ava": "*",
+    "jsesc": "^3.0.2",
+    "unicode-canonical-property-names-ecmascript": "^2.0.0"
+  },
+  "scripts": {
+    "download": "curl http://unicode.org/Public/15.0.0/ucd/PropertyAliases.txt > data/PropertyAliases.txt",
+    "build": "node scripts/build.js",
+    "test": "ava tests/tests.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/unicode-property-aliases-ecmascript/package.json;TTF:charsetI"
+utf-8;F:digest"%¢â¹.ÄZŠø_$?`è«ê°!€®µûU#¶şo¼:
+X:lengthi:dependencies_digest"%BÕÎY¿5åşŒG…Ü×T*Óx6³0Ì`VÌş.I:idI"E49f28774da1651be6d2395f8fcf29a522e77cb6c36872b40cf5df1a22bd5826b;F:
+mtimel+Q¢´e

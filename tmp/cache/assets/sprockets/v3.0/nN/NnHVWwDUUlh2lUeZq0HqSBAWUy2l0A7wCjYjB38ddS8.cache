@@ -1,0 +1,69 @@
+{:uriI"ôfile://app/assets/javascripts/node_modules/flatted/package.json?type=application/json&id=4dff11f26f41f8701cf30e1cf54e4380fc48461af03e131eba57e498569d77b1:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/flatted/package.json;T:	nameI"!node_modules/flatted/package;T:logical_pathI"&node_modules/flatted/package.json;T:content_typeI"application/json;T:sourceI"u{
+  "name": "flatted",
+  "version": "3.2.9",
+  "description": "A super light and fast circular JSON parser.",
+  "unpkg": "min.js",
+  "types": "types.d.ts",
+  "main": "./cjs/index.js",
+  "scripts": {
+    "build": "npm run cjs && npm run rollup:esm && npm run rollup:es && npm run rollup:babel && npm run min && npm run test && npm run size",
+    "cjs": "ascjs esm cjs",
+    "rollup:es": "rollup --config rollup/es.config.js && sed -i.bck 's/^var /self./' es.js && rm -rf es.js.bck",
+    "rollup:esm": "rollup --config rollup/esm.config.js",
+    "rollup:babel": "rollup --config rollup/babel.config.js && sed -i.bck 's/^var /self./' index.js && rm -rf index.js.bck",
+    "min": "terser index.js -c -m -o min.js",
+    "size": "cat index.js | wc -c;cat min.js | wc -c;gzip -c9 min.js | wc -c;cat min.js | brotli | wc -c; cat es.js | brotli | wc -c; cat esm.js | brotli | wc -c",
+    "test": "c8 node test/index.js",
+    "test:php": "php php/test.php",
+    "test:py": "python python/test.py",
+    "coverage": "mkdir -p ./coverage; c8 report --reporter=text-lcov > ./coverage/lcov.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/flatted.git"
+  },
+  "keywords": [
+    "circular",
+    "JSON",
+    "fast",
+    "parser",
+    "minimal"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebReflection/flatted/issues"
+  },
+  "homepage": "https://github.com/WebReflection/flatted#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@ungap/structured-clone": "^1.0.1",
+    "ascjs": "^5.0.1",
+    "c8": "^7.12.0",
+    "circular-json": "^0.5.9",
+    "circular-json-es6": "^2.0.2",
+    "jsan": "^3.1.14",
+    "rollup": "^2.78.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "terser": "^5.14.2"
+  },
+  "module": "./esm/index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./types.d.ts",
+      "import": "./esm/index.js",
+      "default": "./cjs/index.js"
+    },
+    "./esm": "./esm.js",
+    "./package.json": "./package.json"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/flatted/package.json;TTF:charsetI"
+utf-8;F:digest"%˚–h Î“ÎÍÇ\d«?∑/§òÛ(20-Ó;ù:lengthiu:dependencies_digest"%ìBúﬂb°ëY¢ë•¡(j%MW≥©ìÅ◊ΩZ≠E∫ ı:idI"E4dff11f26f41f8701cf30e1cf54e4380fc48461af03e131eba57e498569d77b1;F:
+mtimel+R¢¥e

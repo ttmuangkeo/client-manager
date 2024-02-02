@@ -1,0 +1,8 @@
+{:uriI"·file://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/asset/AssetGeneratorOptions.json?type=application/json&id=25af349f6b4dfca543d1ea2ad18c95e2f3632f04288173da80d7fdec477ab543:ET:load_pathI"app/assets/javascripts;T:filenameI"Äapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/asset/AssetGeneratorOptions.json;T:	nameI"inode_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/asset/AssetGeneratorOptions;T:logical_pathI"nnode_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/asset/AssetGeneratorOptions.json;T:content_typeI"application/json;T:sourceI"R{
+  "$ref": "../../WebpackOptions.json#/definitions/AssetGeneratorOptions"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"éfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/asset/AssetGeneratorOptions.json;TTF:charsetI"
+utf-8;F:digest"%öWÀo·¢æÏ!¡—N˙˙ø*˝î®∫p±fè¢è‘ÊT:lengthiR:dependencies_digest"%^•¡pa_—`y°U´H«ÈEÎW·É‚€ö[·Åg:idI"E25af349f6b4dfca543d1ea2ad18c95e2f3632f04288173da80d7fdec477ab543;F:
+mtimel+T¢¥e

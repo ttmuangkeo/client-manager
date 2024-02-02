@@ -1,0 +1,29 @@
+{:uriI"¯file://app/assets/javascripts/node_modules/@types/normalize-package-data/package.json?type=application/json&id=79244edb9c9d2cd717f459ed50014b559373a0b01406e088fd7ab70046255e80:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/@types/normalize-package-data/package.json;T:	nameI"7node_modules/@types/normalize-package-data/package;T:logical_pathI"<node_modules/@types/normalize-package-data/package.json;T:content_typeI"application/json;T:sourceI"K{
+    "name": "@types/normalize-package-data",
+    "version": "2.4.4",
+    "description": "TypeScript definitions for normalize-package-data",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/normalize-package-data",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Jeff Dickey",
+            "githubUsername": "jdxcode",
+            "url": "https://github.com/jdxcode"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/normalize-package-data"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "f0a1ad6fab1a44929aa98a3e4ac36a2c42c2ca36a7e49671db2109fb2acd57c9",
+    "typeScriptVersion": "4.5"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"afile-digest://app/assets/javascripts/node_modules/@types/normalize-package-data/package.json;TTF:charsetI"
+utf-8;F:digest"%êöqC³ËÃùhj¬¸©gm· ê°žIg„¦[­dY7:lengthiK:dependencies_digest"%ÐQÙUL=«R4Ï@ÜUU	…¦w€Ûö¥>)$:idI"E79244edb9c9d2cd717f459ed50014b559373a0b01406e088fd7ab70046255e80;F:
+mtimel+Q¢´e

@@ -1,0 +1,36 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/vee-validate/dist/locale/ms_MY.json?type=application/json&id=4adc32df504d248b3fad5beda936ff97c6781ce763288c4401650e85052e82ed:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/vee-validate/dist/locale/ms_MY.json;T:	nameI"0node_modules/vee-validate/dist/locale/ms_MY;T:logical_pathI"5node_modules/vee-validate/dist/locale/ms_MY.json;T:content_typeI"application/json;T:sourceI"Á{
+  "code": "ms_MY",
+  "messages": {
+    "alpha": "{_field_} hanya boleh mempunyai karakter abjad sahaja",
+    "alpha_dash": "{_field_} boleh mempunyai karakter angka-abjad, sengkang dan garis bawah",
+    "alpha_num": "{_field_} hanya boleh mempunyai karakter angka-abjad",
+    "alpha_spaces": "{_field_} hanya boleh mempunyai karakter abjad termasuklah aksara ruang",
+    "between": "{_field_} perlulah di antara {min} dan {max}",
+    "confirmed": "{_field_} pengesahan tidak sepadan",
+    "digits": "{_field_} perlulah dalam bentuk angka dan mempunyai {length} digit",
+    "dimensions": "{_field_} perlulah berdimensi {width} pixel darab {height} pixels",
+    "email": "{_field_} perlulah dalam format emel yang sah",
+    "excluded": "{_field_} perlulah sah",
+    "ext": "{_field_} perlulah dalam format fail yang sah",
+    "image": "{_field_} perlulah dalam bentuk imej",
+    "oneOf": "{_field_} perlulah dalam nilai yang sah",
+    "integer": "{_field_} perlulah dalam bentuk integer",
+    "length": "Panjang {_field_} perlulah bernilai {length}",
+    "max": "{_field_} perlulah tidak melebihi {length} karakter",
+    "max_value": "{_field_} perlulah bernilai {max} atau kurang",
+    "mimes": "{_field_} perlulah mempunyai jenis fail yang sah",
+    "min": "{_field_} perlulah sekurang-kurangnya mempunyai {length} karakter",
+    "min_value": "{_field_} perlulah bernilai {min} atau lebih",
+    "numeric": "{_field_} perlulah mempunyai hanya karakter angka sahaja",
+    "regex": "Format {_field_} tidak sah",
+    "required": "{_field_} adalah wajib",
+    "required_if": "{_field_} adalah wajib",
+    "size": "Saiz {_field_} perlulah kurang daripada {size}KB",
+    "double": "Medan {_field_} mestilah perpuluhan yang sah"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/ms_MY.json;TTF:charsetI"
+utf-8;F:digest"%‰GMŠ„)ù+VZ+{æºÑË¹3ôPC¤ýŒw:lengthiÁ:dependencies_digest"%b,'¼¡â²>V}ûß‡§-§—eñ¸ÐØ)ˆYM–2‘:idI"E4adc32df504d248b3fad5beda936ff97c6781ce763288c4401650e85052e82ed;F:
+mtimel+S¢´e

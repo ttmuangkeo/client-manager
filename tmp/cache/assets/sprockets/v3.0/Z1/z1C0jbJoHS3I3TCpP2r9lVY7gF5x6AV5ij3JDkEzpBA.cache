@@ -1,0 +1,103 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/bl/node_modules/buffer/package.json?type=application/json&id=b16d037fa5d7644c9a41e5e0c9b601f5f1f6a58985407ea61ed068b3bc1c1e10:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/bl/node_modules/buffer/package.json;T:	nameI"0node_modules/bl/node_modules/buffer/package;T:logical_pathI"5node_modules/bl/node_modules/buffer/package.json;T:content_typeI"application/json;T:sourceI"%
+{
+  "name": "buffer",
+  "description": "Node.js Buffer API, for the browser",
+  "version": "5.7.1",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/buffer/issues"
+  },
+  "contributors": [
+    "Romain Beauxis <toots@rastageeks.org>",
+    "James Halliday <mail@substack.net>"
+  ],
+  "dependencies": {
+    "base64-js": "^1.3.1",
+    "ieee754": "^1.1.13"
+  },
+  "devDependencies": {
+    "airtap": "^3.0.0",
+    "benchmark": "^2.1.4",
+    "browserify": "^17.0.0",
+    "concat-stream": "^2.0.0",
+    "hyperquest": "^2.1.3",
+    "is-buffer": "^2.0.4",
+    "is-nan": "^1.3.0",
+    "split": "^1.0.1",
+    "standard": "*",
+    "tape": "^5.0.1",
+    "through2": "^4.0.2",
+    "uglify-js": "^3.11.3"
+  },
+  "homepage": "https://github.com/feross/buffer",
+  "jspm": {
+    "map": {
+      "./index.js": {
+        "node": "@node/buffer"
+      }
+    }
+  },
+  "keywords": [
+    "arraybuffer",
+    "browser",
+    "browserify",
+    "buffer",
+    "compatible",
+    "dataview",
+    "uint8array"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/buffer.git"
+  },
+  "scripts": {
+    "perf": "browserify --debug perf/bracket-notation.js > perf/bundle.js && open perf/index.html",
+    "perf-node": "node perf/bracket-notation.js && node perf/concat.js && node perf/copy-big.js && node perf/copy.js && node perf/new-big.js && node perf/new.js && node perf/readDoubleBE.js && node perf/readFloatBE.js && node perf/readUInt32LE.js && node perf/slice.js && node perf/writeFloatBE.js",
+    "size": "browserify -r ./ | uglifyjs -c -m | gzip | wc -c",
+    "test": "standard && node ./bin/test.js",
+    "test-browser-es5": "airtap -- test/*.js",
+    "test-browser-es5-local": "airtap --local -- test/*.js",
+    "test-browser-es6": "airtap -- test/*.js test/node/*.js",
+    "test-browser-es6-local": "airtap --local -- test/*.js test/node/*.js",
+    "test-node": "tape test/*.js test/node/*.js",
+    "update-authors": "./bin/update-authors.sh"
+  },
+  "standard": {
+    "ignore": [
+      "test/node/**/*.js",
+      "test/common.js",
+      "test/_polyfill.js",
+      "perf/**/*.js"
+    ],
+    "globals": [
+      "SharedArrayBuffer"
+    ]
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/feross"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/feross"
+    },
+    {
+      "type": "consulting",
+      "url": "https://feross.org/support"
+    }
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/bl/node_modules/buffer/package.json;TTF:charsetI"
+utf-8;F:digest"%Z÷¶-¿Uu£Íèao}œÿ<ùú·¼=jO¿î”ë:lengthi%
+:dependencies_digest"%¥LO”¯ñ&V+VF4¬}ÇH¦DIÂð2:idI"Eb16d037fa5d7644c9a41e5e0c9b601f5f1f6a58985407ea61ed068b3bc1c1e10;F:
+mtimel+R¢´e

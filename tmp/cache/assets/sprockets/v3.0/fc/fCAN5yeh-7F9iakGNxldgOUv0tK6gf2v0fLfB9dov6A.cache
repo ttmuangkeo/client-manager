@@ -1,0 +1,42 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/pinkie/package.json?type=application/json&id=8dff3c798d26e42340e4f11dcd4577a1417687606fcde589aeda3eb3ecc85e47:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/pinkie/package.json;T:	nameI" node_modules/pinkie/package;T:logical_pathI"%node_modules/pinkie/package.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name": "pinkie",
+  "version": "2.0.4",
+  "description": "Itty bitty little widdle twinkie pinkie ES2015 Promise implementation",
+  "license": "MIT",
+  "repository": "floatdrop/pinkie",
+  "author": {
+    "name": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com",
+    "url": "github.com/floatdrop"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && nyc mocha",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "promise",
+    "promises",
+    "es2015",
+    "es6"
+  ],
+  "devDependencies": {
+    "core-assert": "^0.1.1",
+    "coveralls": "^2.11.4",
+    "mocha": "*",
+    "nyc": "^3.2.2",
+    "promises-aplus-tests": "*",
+    "xo": "^0.10.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/pinkie/package.json;TTF:charsetI"
+utf-8;F:digest"%¯ÍfðÊD°ÿàX½µ'™3F&Ëôê¡x
+™Qß·:lengthi÷:dependencies_digest"%mjð×\X[Ø}<ÄS-Ã´-`æŸÄ1Ê é/y:Às:idI"E8dff3c798d26e42340e4f11dcd4577a1417687606fcde589aeda3eb3ecc85e47;F:
+mtimel+Q¢´e

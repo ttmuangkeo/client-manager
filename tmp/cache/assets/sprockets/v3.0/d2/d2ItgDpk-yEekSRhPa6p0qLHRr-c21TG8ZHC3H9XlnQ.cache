@@ -1,0 +1,36 @@
+{:uriI"ñfile://app/assets/javascripts/node_modules/asn1/package.json?type=application/json&id=92406dcd0c49eeb9307a8d30b3c3cbfe738e0868468535d9bd84de2c616031c5:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/asn1/package.json;T:	nameI"node_modules/asn1/package;T:logical_pathI"#node_modules/asn1/package.json;T:content_typeI"application/json;T:sourceI"{
+  "author": "Joyent (joyent.com)",
+  "contributors": [
+    "Mark Cavage <mcavage@gmail.com>",
+    "David Gwynne <loki@animata.net>",
+    "Yunong Xiao <yunong@joyent.com>",
+    "Alex Wilson <alex.wilson@joyent.com>"
+  ],
+  "name": "asn1",
+  "description": "Contains parsers and serializers for ASN.1 (currently BER only)",
+  "version": "0.2.6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joyent/node-asn1.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "safer-buffer": "~2.1.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.6",
+    "faucet": "0.0.1",
+    "tape": "^3.5.0",
+    "eslint": "2.13.1",
+    "eslint-plugin-joyent": "~1.3.0"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/tape ./test/ber/*.test.js"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/asn1/package.json;TTF:charsetI"
+utf-8;F:digest"%ô1Ôç.àW∑æ<¡˚ØLî1eoÊc7®◊˛≈ÓäWd:lengthi:dependencies_digest"%	î8>#˙€Ω"∂4ÉíM¸≤˙Øê†6 !n»Ö|:idI"E92406dcd0c49eeb9307a8d30b3c3cbfe738e0868468535d9bd84de2c616031c5;F:
+mtimel+R¢¥e

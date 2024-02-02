@@ -1,0 +1,62 @@
+{:uriI"°file://app/assets/javascripts/node_modules/copy-descriptor/package.json?type=application/json&id=0c3b7fc1a6a4d2093078983a04a7b38618382cb18436d2d73ab0ff56ba4a3976:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/copy-descriptor/package.json;T:	nameI")node_modules/copy-descriptor/package;T:logical_pathI".node_modules/copy-descriptor/package.json;T:content_typeI"application/json;T:sourceI"Y{
+  "name": "copy-descriptor",
+  "description": "Copy a descriptor from object A to object B",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/copy-descriptor",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/copy-descriptor",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/copy-descriptor/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "mocha": "^2.5.3"
+  },
+  "keywords": [
+    "copy",
+    "descriptor"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "is-accessor-descriptor",
+        "is-data-descriptor",
+        "is-descriptor",
+        "is-plain-object",
+        "isobject"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb-readme-generator",
+      "verb"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/copy-descriptor/package.json;TTF:charsetI"
+utf-8;F:digest"%E´
+:ÍT´óPè»ñ^ ≥_VùtKA¥ò∏:lengthiY:dependencies_digest"%^Óºnwbu¶πÁf”›™¥f¯Íü•hTNlA"XÙ©2:idI"E0c3b7fc1a6a4d2093078983a04a7b38618382cb18436d2d73ab0ff56ba4a3976;F:
+mtimel+Q¢¥e

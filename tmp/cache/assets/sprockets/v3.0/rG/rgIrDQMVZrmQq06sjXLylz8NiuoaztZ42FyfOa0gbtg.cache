@@ -1,0 +1,20 @@
+{:uriI"‘file://app/assets/javascripts/node_modules/brfs/bin/usage.txt?type=text/plain&id=725eb07d914c7b6addfbe666cd4e898824675a957d3d5613e19cbc2239b6e9cf:ET:load_pathI"app/assets/javascripts;T:filenameI";app/assets/javascripts/node_modules/brfs/bin/usage.txt;T:	nameI" node_modules/brfs/bin/usage;T:logical_pathI"$node_modules/brfs/bin/usage.txt;T:content_typeI"text/plain;T:sourceI"ùusage:
+
+  brfs file
+ 
+    Inline `fs.readFileSync()` calls from `file`, printing the transformed file
+    contents to stdout.
+
+  brfs
+  brfs -
+ 
+    Inline `fs.readFileSync()` calls from stdin, printing the transformed file
+    contents to stdout.
+
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"Ifile-digest://app/assets/javascripts/node_modules/brfs/bin/usage.txt;TTF:charsetI"
+utf-8;F:digest"%0^ßèª¦WğÙZ?[×T
+ÙÙnmô
+—Û£ƒ¯ø:lengthiù:dependencies_digest"%3@uf¥£#NtÖSæıAB¥GöÜ&p¥´»ãsóß.À:idI"E725eb07d914c7b6addfbe666cd4e898824675a957d3d5613e19cbc2239b6e9cf;F:
+mtimel+R¢´e

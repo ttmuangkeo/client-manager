@@ -1,0 +1,58 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/lower-case/package.json?type=application/json&id=cd32d3799dbac8d5c065decdc4ae3900f2f0317c715d4f02851462f5b691fb1c:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/lower-case/package.json;T:	nameI"$node_modules/lower-case/package;T:logical_pathI")node_modules/lower-case/package.json;T:content_typeI"application/json;T:sourceI"ˆ{
+  "name": "lower-case",
+  "version": "1.1.4",
+  "description": "Lowercase a string",
+  "main": "lower-case.js",
+  "typings": "lower-case.d.ts",
+  "files": [
+    "lower-case.js",
+    "lower-case.d.ts",
+    "LICENSE"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "test-std": "mocha -- -R spec --bail",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec --bail",
+    "test": "npm run lint && npm run test-cov"
+  },
+  "standard": {
+    "ignore": [
+      "coverage/**",
+      "node_modules/**",
+      "bower_components/**"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/lower-case.git"
+  },
+  "keywords": [
+    "cases",
+    "lower",
+    "lowercase",
+    "case"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/lower-case/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/lower-case",
+  "devDependencies": {
+    "istanbul": "^0.3.5",
+    "mocha": "^2.1.0",
+    "pre-commit": "^1.0.2",
+    "standard": "^2.4.5"
+  },
+  "dependencies": {}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/lower-case/package.json;TTF:charsetI"
+utf-8;F:digest"%'H‹ŽË!›ü¼™ÿÕŸµºý;à'l[‹ö\v‰:lengthiˆ:dependencies_digest"%S-?3â¬ºjLÉ¸«HaE3
+ºZÌV¾·ÝÈ9ì":idI"Ecd32d3799dbac8d5c065decdc4ae3900f2f0317c715d4f02851462f5b691fb1c;F:
+mtimel+Q¢´e

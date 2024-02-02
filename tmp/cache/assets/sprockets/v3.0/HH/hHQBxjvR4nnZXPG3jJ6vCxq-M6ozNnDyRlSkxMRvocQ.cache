@@ -1,0 +1,53 @@
+{:uriI"Þfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator.json?type=application/json&id=6d60396d7068ef71de46d7306f3ef4c7d70b15def387557633f5bb963cc9308f:ET:load_pathI"app/assets/javascripts;T:filenameI"}app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator.json;T:	nameI"fnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator;T:logical_pathI"knode_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator.json;T:content_typeI"application/json;T:sourceI"¡{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://json-schema.org/draft/2020-12/meta/applicator",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/applicator": true
+  },
+  "$dynamicAnchor": "meta",
+
+  "title": "Applicator vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "prefixItems": {"$ref": "#/$defs/schemaArray"},
+    "items": {"$dynamicRef": "#meta"},
+    "contains": {"$dynamicRef": "#meta"},
+    "additionalProperties": {"$dynamicRef": "#meta"},
+    "properties": {
+      "type": "object",
+      "additionalProperties": {"$dynamicRef": "#meta"},
+      "default": {}
+    },
+    "patternProperties": {
+      "type": "object",
+      "additionalProperties": {"$dynamicRef": "#meta"},
+      "propertyNames": {"format": "regex"},
+      "default": {}
+    },
+    "dependentSchemas": {
+      "type": "object",
+      "additionalProperties": {"$dynamicRef": "#meta"},
+      "default": {}
+    },
+    "propertyNames": {"$dynamicRef": "#meta"},
+    "if": {"$dynamicRef": "#meta"},
+    "then": {"$dynamicRef": "#meta"},
+    "else": {"$dynamicRef": "#meta"},
+    "allOf": {"$ref": "#/$defs/schemaArray"},
+    "anyOf": {"$ref": "#/$defs/schemaArray"},
+    "oneOf": {"$ref": "#/$defs/schemaArray"},
+    "not": {"$dynamicRef": "#meta"}
+  },
+  "$defs": {
+    "schemaArray": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$dynamicRef": "#meta"}
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‹file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2020-12/meta/applicator.json;TTF:charsetI"
+utf-8;F:digest"%ñäeÿÈkî\Äµ'4Å2æêÇ[`¢¬	:Ew²Ô:lengthi¡:dependencies_digest"%qiììÃÿG:p¹wëŒäéÙœú$•Ô¡ºpÆë?ŽçdÁ:idI"E6d60396d7068ef71de46d7306f3ef4c7d70b15def387557633f5bb963cc9308f;F:
+mtimel+S¢´e

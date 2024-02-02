@@ -1,0 +1,84 @@
+{:uriI"°file://app/assets/javascripts/node_modules/is-plain-object/package.json?type=application/json&id=ffe1d9ca8f43c3f21ac7ffafff096a2dca5c40eaac028df4048e33c997d0d7ff:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/is-plain-object/package.json;T:	nameI")node_modules/is-plain-object/package;T:logical_pathI".node_modules/is-plain-object/package.json;T:content_typeI"application/json;T:sourceI":{
+  "name": "is-plain-object",
+  "description": "Returns true if an object was created by the `Object` constructor.",
+  "version": "2.0.4",
+  "homepage": "https://github.com/jonschlinkert/is-plain-object",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Osman Nuri Okumu≈ü (http://onokumus.com)",
+    "Steven Vachon (https://svachon.com)",
+    "(https://github.com/wtgtybhertgeghgtwtg)"
+  ],
+  "repository": "jonschlinkert/is-plain-object",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-plain-object/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "browserify": "browserify index.js --standalone isPlainObject | uglifyjs --compress --mangle -o browser/is-plain-object.js",
+    "test_browser": "mocha-phantomjs test/browser.html",
+    "test_node": "mocha",
+    "test": "npm run test_node && npm run browserify && npm run test_browser"
+  },
+  "dependencies": {
+    "isobject": "^3.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "chai": "^4.0.2",
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.4.2",
+    "mocha-phantomjs": "^4.1.0",
+    "phantomjs": "^2.1.7",
+    "uglify-js": "^3.0.24"
+  },
+  "keywords": [
+    "check",
+    "is",
+    "is-object",
+    "isobject",
+    "javascript",
+    "kind",
+    "kind-of",
+    "object",
+    "plain",
+    "type",
+    "typeof",
+    "value"
+  ],
+  "types": "index.d.ts",
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "is-number",
+        "isobject",
+        "kind-of"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/is-plain-object/package.json;TTF:charsetI"
+utf-8;F:digest"%ù#rÒE?@·$Î@H+†L=cóúH’ú ˙Ωªñ:lengthi::dependencies_digest"%Óëp¯Á√gQP.ÿ@±ŸŸ6—R(&‡3GgQ:idI"Effe1d9ca8f43c3f21ac7ffafff096a2dca5c40eaac028df4048e33c997d0d7ff;F:
+mtimel+Q¢¥e

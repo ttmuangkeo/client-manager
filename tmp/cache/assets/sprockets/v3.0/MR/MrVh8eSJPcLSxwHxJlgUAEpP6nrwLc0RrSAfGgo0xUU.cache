@@ -1,0 +1,31 @@
+{:uriI"©file://app/assets/javascripts/node_modules/@webassemblyjs/wasm-opt/package.json?type=application/json&id=fa12453258bff7f1867dd2f66d2e8093b9ceb07a678887dd5b867c5a61ec4337:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/@webassemblyjs/wasm-opt/package.json;T:	nameI"1node_modules/@webassemblyjs/wasm-opt/package;T:logical_pathI"6node_modules/@webassemblyjs/wasm-opt/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "@webassemblyjs/wasm-opt",
+  "version": "1.9.0",
+  "description": "",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/ast": "1.9.0",
+    "@webassemblyjs/helper-buffer": "1.9.0",
+    "@webassemblyjs/wasm-gen": "1.9.0",
+    "@webassemblyjs/wasm-parser": "1.9.0"
+  },
+  "gitHead": "0440b420888c1f7701eb9762ec657775506b87d8"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"[file-digest://app/assets/javascripts/node_modules/@webassemblyjs/wasm-opt/package.json;TTF:charsetI"
+utf-8;F:digest"%QA¥Ñ¡cüZ	J€	Ö3z¡Â‘ŒˆşÒ;†H¯`:lengthi:dependencies_digest"%z“ÿ¸ã&r1V\ZûE^µ(0C8G¶Õ6èÏŞ:idI"Efa12453258bff7f1867dd2f66d2e8093b9ceb07a678887dd5b867c5a61ec4337;F:
+mtimel+Q¢´e

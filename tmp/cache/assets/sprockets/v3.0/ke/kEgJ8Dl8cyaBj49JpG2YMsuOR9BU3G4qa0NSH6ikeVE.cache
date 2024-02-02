@@ -1,0 +1,57 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/fast-json-stable-stringify/package.json?type=application/json&id=ee813124dc231b7833dfceea680f57e8f2f258328bbea9cb6a9e119c4018fee9:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/fast-json-stable-stringify/package.json;T:	nameI"4node_modules/fast-json-stable-stringify/package;T:logical_pathI"9node_modules/fast-json-stable-stringify/package.json;T:content_typeI"application/json;T:sourceI"È{
+  "name": "fast-json-stable-stringify",
+  "version": "2.1.0",
+  "description": "deterministic `JSON.stringify()` - a faster version of substack's json-stable-strigify without jsonify",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "coveralls": "^3.0.0",
+    "eslint": "^6.7.0",
+    "fast-stable-stringify": "latest",
+    "faster-stable-stringify": "latest",
+    "json-stable-stringify": "latest",
+    "nyc": "^14.1.0",
+    "pre-commit": "^1.2.2",
+    "tape": "^4.11.0"
+  },
+  "scripts": {
+    "eslint": "eslint index.js test",
+    "test-spec": "tape test/*.js",
+    "test": "npm run eslint && nyc npm run test-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epoberezkin/fast-json-stable-stringify.git"
+  },
+  "homepage": "https://github.com/epoberezkin/fast-json-stable-stringify",
+  "keywords": [
+    "json",
+    "stringify",
+    "deterministic",
+    "hash",
+    "stable"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT",
+  "nyc": {
+    "exclude": [
+      "test",
+      "node_modules"
+    ],
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"^file-digest://app/assets/javascripts/node_modules/fast-json-stable-stringify/package.json;TTF:charsetI"
+utf-8;F:digest"%ƒêzlÒ¢BˆUâπªv+ì0ä§©@”Ç¥p”ƒ{S	ÔD:lengthiÈ:dependencies_digest"%wT^ﬁ`‘∞qï\£¬˘âY¶≤|d@ë!íµ≥xﬂW:idI"Eee813124dc231b7833dfceea680f57e8f2f258328bbea9cb6a9e119c4018fee9;F:
+mtimel+R¢¥e

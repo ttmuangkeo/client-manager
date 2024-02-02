@@ -1,0 +1,39 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/thenify-all/package.json?type=application/json&id=d0131c6bf5b55504dd417a350410addb73d458ffd4afa423e962b8e7e85a664c:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/thenify-all/package.json;T:	nameI"%node_modules/thenify-all/package;T:logical_pathI"*node_modules/thenify-all/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "thenify-all",
+  "description": "Promisifies all the selected functions in an object",
+  "version": "1.6.0",
+  "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+  "license": "MIT",
+  "repository": "thenables/thenify-all",
+  "dependencies": {
+    "thenify": ">= 3.1.0 < 4"
+  },
+  "devDependencies": {
+    "bluebird": "2",
+    "istanbul": "0",
+    "mocha": "2"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "test-cov": "istanbul cover node_modules/.bin/_mocha -- --reporter dot",
+    "test-travis": "istanbul cover node_modules/.bin/_mocha --report lcovonly -- --reporter dot"
+  },
+  "keywords": [
+    "promisify",
+    "promise",
+    "thenify",
+    "then",
+    "es6"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/thenify-all/package.json;TTF:charsetI"
+utf-8;F:digest"%B¯‰ièMa°{û›Y+0eJSíZ?FÓºÌ'ÙÂé) …:lengthi:dependencies_digest"%ÿt¡‰Û^åÖz?Æ∆>$5Mïª']!°’Ù‰¿V˜"C:idI"Ed0131c6bf5b55504dd417a350410addb73d458ffd4afa423e962b8e7e85a664c;F:
+mtimel+Q¢¥e

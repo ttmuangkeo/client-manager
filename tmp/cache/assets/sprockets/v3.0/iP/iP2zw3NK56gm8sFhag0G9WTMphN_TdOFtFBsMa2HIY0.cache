@@ -1,0 +1,55 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/datamaps/src/examples/great-arc.html?type=text/html&id=444e4fb7c0bd075e19646a0c3c09c74beeca89f8dd1b37004ac91e7917a9fd1c:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/datamaps/src/examples/great-arc.html;T:	nameI"1node_modules/datamaps/src/examples/great-arc;T:logical_pathI"6node_modules/datamaps/src/examples/great-arc.html;T:content_typeI"text/html;T:sourceI"˜<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <!-- I recommend you host this file on your own, since this will change without warning -->
+  <script src="/src/rel/datamaps.world.js?v=1"></script>
+  <h2>Datamaps</h2>
+  <div id="container1" style="position: relative; width: 500px; height: 600px;"></div>
+ 
+     <script>
+       //basic map config with custom fills, mercator projection
+      var map = new Datamap({
+        scope: 'world',
+        element: document.getElementById('container1'),
+        projection: 'orthographic',
+        fills: {
+          defaultFill: 'rgba(0,0,0,0.7)',
+          lt50: 'rgba(0,244,244,0.9)',
+          gt50: 'red'
+        },
+        projectionConfig: {
+          rotation: [97,-30]
+        },
+        data: {
+          '071': {fillKey: 'lt50' },
+          '001': {fillKey: 'gt50' }       
+        }
+      });
+
+      map.graticule();
+
+      map.arc([{
+        origin: {
+          latitude: 61,
+          longitude: -149
+        },
+        destination: {
+          latitude: -22,
+          longitude: -43
+        }
+      }], {
+        greatArc: true,
+        animationSpeed: 2000
+      });
+
+      
+     </script>
+</body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"[file-digest://app/assets/javascripts/node_modules/datamaps/src/examples/great-arc.html;TTF:charsetI"
+utf-8;F:digest"%Sïét-ôπoÏ=ƒ$Îïú˙Ïòt`ù8FÏéëÇ⁄ä±:lengthi˜:dependencies_digest"%…
+Ò‚–5vâ<∂∑3~täFzôÁ
+Ç7@ˇÃ¬ëA›Ê:idI"E444e4fb7c0bd075e19646a0c3c09c74beeca89f8dd1b37004ac91e7917a9fd1c;F:
+mtimel+U¢¥e

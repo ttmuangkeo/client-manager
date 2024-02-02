@@ -1,0 +1,18 @@
+{:uriI"ìfile://app/assets/javascripts/node_modules/mkdirp/bin/usage.txt?type=text/plain&id=a6eeab52cfa2e5f129058745440d769d93a3d44278078de802ca8836ca109e00:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/mkdirp/bin/usage.txt;T:	nameI""node_modules/mkdirp/bin/usage;T:logical_pathI"&node_modules/mkdirp/bin/usage.txt;T:content_typeI"text/plain;T:sourceI";usage: mkdirp [DIR1,DIR2..] {OPTIONS}
+
+  Create each supplied directory including any necessary parent directories that
+  don't yet exist.
+  
+  If the directory already exists, do nothing.
+
+OPTIONS are:
+
+  -m, --mode   If a directory needs to be created, set the mode as an octal
+               permission string.
+
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"Kfile-digest://app/assets/javascripts/node_modules/mkdirp/bin/usage.txt;TTF:charsetI"
+utf-8;F:digest"%UuÓÍ{Éóÿ)é$∏ı•kê*≤·ΩCÌP.∏GY:lengthi;:dependencies_digest"%
+…Íj»8Ω±M‚Âüåá≠nˇ÷Ié≈W\:ûÅ÷]óªE:idI"Ea6eeab52cfa2e5f129058745440d769d93a3d44278078de802ca8836ca109e00;F:
+mtimel+R¢¥e

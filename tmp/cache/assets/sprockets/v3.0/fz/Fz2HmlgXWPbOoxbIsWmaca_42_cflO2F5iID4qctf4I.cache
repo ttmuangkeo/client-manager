@@ -1,0 +1,33 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/color-name/package.json?type=application/json&id=a75428471bd5e63a81441786fc2ab1328a042cc30576402b0b584dceb0b53c19:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/color-name/package.json;T:	nameI"$node_modules/color-name/package;T:logical_pathI")node_modules/color-name/package.json;T:content_typeI"application/json;T:sourceI"C{
+  "name": "color-name",
+  "version": "1.1.4",
+  "description": "A list of color names and its values",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:colorjs/color-name.git"
+  },
+  "keywords": [
+    "color-name",
+    "color",
+    "color-keyword",
+    "keyword"
+  ],
+  "author": "DY <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colorjs/color-name/issues"
+  },
+  "homepage": "https://github.com/colorjs/color-name"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/color-name/package.json;TTF:charsetI"
+utf-8;F:digest"%õ1Wòõü0!OEsâê@N:”‡ÇS`6+®~R<LF3:lengthiC:dependencies_digest"%µvÉÇ¨ÊÕäà÷’J™j;Ö£.Øi;[:ùı:idI"Ea75428471bd5e63a81441786fc2ab1328a042cc30576402b0b584dceb0b53c19;F:
+mtimel+Q¢¥e

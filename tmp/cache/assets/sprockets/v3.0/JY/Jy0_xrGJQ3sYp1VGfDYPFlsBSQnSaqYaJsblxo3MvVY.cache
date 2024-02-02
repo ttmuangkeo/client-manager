@@ -1,0 +1,31 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/dashdash/package.json?type=application/json&id=2966b726c0d0f7fbb05f2919a57402dcae1ae574a451bf8281d9bb988a72a1d7:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/dashdash/package.json;T:	nameI""node_modules/dashdash/package;T:logical_pathI"'node_modules/dashdash/package.json;T:content_typeI"application/json;T:sourceI"¿{
+    "name": "dashdash",
+    "description": "A light, featureful and explicit option parsing library.",
+    "version": "1.14.1",
+    "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
+    "keywords": ["option", "parser", "parsing", "cli", "command", "args",
+        "bash", "completion"],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/trentm/node-dashdash.git"
+    },
+    "main": "./lib/dashdash.js",
+    "dependencies": {
+        "assert-plus": "^1.0.0"
+    },
+    "devDependencies": {
+        "nodeunit": "0.9.x"
+    },
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+        "test": "nodeunit test/*.test.js"
+    },
+    "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/dashdash/package.json;TTF:charsetI"
+utf-8;F:digest"%*—ùGuĞÂe$Š]d®í+U8Ä/? ‚XÁÙ*%uªf:lengthi¿:dependencies_digest"%2^PÂ*wjé Ò»y­ìœ­t`èº¥aÈPE:idI"E2966b726c0d0f7fbb05f2919a57402dcae1ae574a451bf8281d9bb988a72a1d7;F:
+mtimel+Q¢´e

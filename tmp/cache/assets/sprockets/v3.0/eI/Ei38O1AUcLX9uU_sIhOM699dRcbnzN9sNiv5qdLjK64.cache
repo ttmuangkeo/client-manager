@@ -1,0 +1,46 @@
+{:uriI"Áfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/jest-worker/package.json?type=application/json&id=d5020055d306ede9079736f60bce4146867223a4ed285501e1699e35bb7a9f64:ET:load_pathI"app/assets/javascripts;T:filenameI"eapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/jest-worker/package.json;T:	nameI"Inode_modules/@vue/cli-plugin-eslint/node_modules/jest-worker/package;T:logical_pathI"Nnode_modules/@vue/cli-plugin-eslint/node_modules/jest-worker/package.json;T:content_typeI"application/json;T:sourceI"È{
+  "name": "jest-worker",
+  "version": "28.1.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/jest.git",
+    "directory": "packages/jest-worker"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@types/node": "*",
+    "merge-stream": "^2.0.0",
+    "supports-color": "^8.0.0"
+  },
+  "devDependencies": {
+    "@tsd/typescript": "~4.7.4",
+    "@types/merge-stream": "^1.1.2",
+    "@types/supports-color": "^8.1.0",
+    "get-stream": "^6.0.0",
+    "jest-leak-detector": "^28.1.3",
+    "tsd-lite": "^0.5.6",
+    "worker-farm": "^1.6.0"
+  },
+  "engines": {
+    "node": "^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "2cce069800dab3fc8ca7c469b32d2e2b2f7e2bb1"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"sfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/jest-worker/package.json;TTF:charsetI"
+utf-8;F:digest"%õQVpïK^Ú›D%dOOßÞRO¬+5èé^½ý^lQÒ:lengthiÈ:dependencies_digest"%>ô
+ÚËˆT.RIož÷âƒ“(çšþévG Š4©Ý:idI"Ed5020055d306ede9079736f60bce4146867223a4ed285501e1699e35bb7a9f64;F:
+mtimel+R¢´e

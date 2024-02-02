@@ -1,0 +1,24 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json?type=application/json&id=edb57fb65bd0b41a9aeba887e93216d73016c1c3b497cf3a705c718d0f5a2155:ET:load_pathI"app/assets/javascripts;T:filenameI"}app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json;T:	nameI"anode_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-wasm-bytecode/package;T:logical_pathI"fnode_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json;T:content_typeI"application/json;T:sourceI"ø{
+  "name": "@webassemblyjs/helper-wasm-bytecode",
+  "version": "1.11.6",
+  "description": "WASM's Bytecode constants",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Üfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-wasm-bytecode/package.json;TTF:charsetI"
+utf-8;F:digest"%G„søÎ[ù°bU¿ù˘ºvﬁœΩ¡ä ïr≥–Óì:lengthiø:dependencies_digest"%dí¢6 ÂŸ.⁄QPÀ—!¢Ê«™¿˝Æè(‡:idI"Eedb57fb65bd0b41a9aeba887e93216d73016c1c3b497cf3a705c718d0f5a2155;F:
+mtimel+Q¢¥e

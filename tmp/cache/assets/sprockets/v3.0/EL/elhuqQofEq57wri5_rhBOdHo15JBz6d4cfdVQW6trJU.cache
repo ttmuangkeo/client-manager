@@ -1,0 +1,16 @@
+{:uriI"”file://app/assets/javascripts/node_modules/http-proxy/codecov.yml?type=text/yaml&id=30efbdbfc69399c846a3375558a0fbbbba1b6549de8e399f88c642bd1d4461f9:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/http-proxy/codecov.yml;T:	nameI"$node_modules/http-proxy/codecov;T:logical_pathI"(node_modules/http-proxy/codecov.yml;T:content_typeI"text/yaml;T:sourceI"œcoverage:
+  parsers:
+    javascript:
+      enable_partials: yes
+  status:
+    project:
+      default:
+        target: "70%"
+    patch:
+      enabled: false
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"Mfile-digest://app/assets/javascripts/node_modules/http-proxy/codecov.yml;TTF:charsetI"
+utf-8;F:digest"%/Í¾B,"IğğÃ™§72œ¦{Ügm¡­ÿÎ:lengthiœ:dependencies_digest"%+?¶9å RN:ˆ¯ËÄªSsá’¿á?hë
+Y)Ñ:idI"E30efbdbfc69399c846a3375558a0fbbbba1b6549de8e399f88c642bd1d4461f9;F:
+mtimel+R¢´e

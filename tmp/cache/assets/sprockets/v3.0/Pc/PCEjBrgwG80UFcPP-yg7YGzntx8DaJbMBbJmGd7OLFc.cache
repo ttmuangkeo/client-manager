@@ -1,0 +1,41 @@
+{:uriI"´file://app/assets/javascripts/node_modules/postcss-normalize-timing-functions/package.json?type=application/json&id=272283ba037a97e6a9b49f83e59a564cc43f388e28a78f57476595c5c1c0e209:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/postcss-normalize-timing-functions/package.json;T:	nameI"<node_modules/postcss-normalize-timing-functions/package;T:logical_pathI"Anode_modules/postcss-normalize-timing-functions/package.json;T:content_typeI"application/json;T:sourceI"m{
+  "name": "postcss-normalize-timing-functions",
+  "version": "4.0.2",
+  "description": "Normalize CSS animation/transition timing functions.",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "files": [
+    "LICENSE-MIT",
+    "dist"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cssnano-util-get-match": "^4.0.0",
+    "postcss": "^7.0.0",
+    "postcss-value-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ffile-digest://app/assets/javascripts/node_modules/postcss-normalize-timing-functions/package.json;TTF:charsetI"
+utf-8;F:digest"%—=h}³ÀÒN¡Úqg—_Vüº’hØ9›•«2:lengthim:dependencies_digest"%€ZÑ@„»@=¼×ò©/²ÓÔ™«ÓNŠã	Í¦°©:idI"E272283ba037a97e6a9b49f83e59a564cc43f388e28a78f57476595c5c1c0e209;F:
+mtimel+Q¢´e

@@ -1,0 +1,45 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/parseurl/package.json?type=application/json&id=25b9546d074d2551ca898b8472fa596bb39741da7fc55fa4180180616ef4afb7:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/parseurl/package.json;T:	nameI""node_modules/parseurl/package;T:logical_pathI"'node_modules/parseurl/package.json;T:content_typeI"application/json;T:sourceI"œ{
+  "name": "parseurl",
+  "description": "parse a url with memoization",
+  "version": "1.3.3",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
+  ],
+  "repository": "pillarjs/parseurl",
+  "license": "MIT",
+  "devDependencies": {
+    "beautify-benchmark": "0.2.4",
+    "benchmark": "2.1.4",
+    "eslint": "5.16.0",
+    "eslint-config-standard": "12.0.0",
+    "eslint-plugin-import": "2.17.1",
+    "eslint-plugin-node": "7.0.1",
+    "eslint-plugin-promise": "4.1.1",
+    "eslint-plugin-standard": "4.0.0",
+    "fast-url-parser": "1.1.3",
+    "istanbul": "0.4.5",
+    "mocha": "6.1.3"
+  },
+  "files": [
+    "LICENSE",
+    "HISTORY.md",
+    "README.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "scripts": {
+    "bench": "node benchmark/index.js",
+    "lint": "eslint .",
+    "test": "mocha --check-leaks --bail --reporter spec test/",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --check-leaks --reporter dot test/",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --check-leaks --reporter spec test/"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/parseurl/package.json;TTF:charsetI"
+utf-8;F:digest"%˜Ç¹SÈDÊÇÀ¾-Z¼eYÆý:`uý›Àñ¿F[þÒ:lengthiœ:dependencies_digest"%a	¼`“;f#”ÙV-¨þéøR—“é0Ïßaÿ‹:idI"E25b9546d074d2551ca898b8472fa596bb39741da7fc55fa4180180616ef4afb7;F:
+mtimel+Q¢´e

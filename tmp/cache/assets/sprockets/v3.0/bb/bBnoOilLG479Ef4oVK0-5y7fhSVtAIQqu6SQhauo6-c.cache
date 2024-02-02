@@ -1,0 +1,48 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/concat-map/package.json?type=application/json&id=9e1a9aad11e9e9a4392fb29807b73c290520fcefdb319fe6ca29d42ddb7ba321:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/concat-map/package.json;T:	nameI"$node_modules/concat-map/package;T:logical_pathI")node_modules/concat-map/package.json;T:content_typeI"application/json;T:sourceI"Ý{
+    "name" : "concat-map",
+    "description" : "concatenative mapdashery",
+    "version" : "0.0.1",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/substack/node-concat-map.git"
+    },
+    "main" : "index.js",
+    "keywords" : [
+        "concat",
+        "concatMap",
+        "map",
+        "functional",
+        "higher-order"
+    ],
+    "directories" : {
+        "example" : "example",
+        "test" : "test"
+    },
+    "scripts" : {
+        "test" : "tape test/*.js"
+    },
+    "devDependencies" : {
+        "tape" : "~2.4.0"
+    },
+    "license" : "MIT",
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "testling" : {
+        "files" : "test/*.js",
+        "browsers" : {
+            "ie" : [ 6, 7, 8, 9 ],
+            "ff" : [ 3.5, 10, 15.0 ],
+            "chrome" : [ 10, 22 ],
+            "safari" : [ 5.1 ],
+            "opera" : [ 12 ]
+        }
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/concat-map/package.json;TTF:charsetI"
+utf-8;F:digest"%Oåè›eëýU»†ôeº‰k¦¨âK{aÞBY±:lengthiÝ:dependencies_digest"%rôÆëEL¼ƒZõQ^ãJŸ¢xg{ý°Â§$×Üžó•:idI"E9e1a9aad11e9e9a4392fb29807b73c290520fcefdb319fe6ca29d42ddb7ba321;F:
+mtimel+Q¢´e

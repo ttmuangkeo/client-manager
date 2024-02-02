@@ -1,0 +1,48 @@
+{:uriI"§file://app/assets/javascripts/node_modules/datamaps/src/examples/remote-data.html?type=text/html&id=5c487f227e9af2aea940c88689a6ed223d2df2a888e0447cf145771d9b7bbb99:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/datamaps/src/examples/remote-data.html;T:	nameI"3node_modules/datamaps/src/examples/remote-data;T:logical_pathI"8node_modules/datamaps/src/examples/remote-data.html;T:content_typeI"text/html;T:sourceI"m<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .active { fill: blue !important;}
+          /*.datamaps-key dt, .datamaps-key dd {float: none !important;}
+          .datamaps-key {right: -50px; top: 0;}*/
+        </style>
+      </head>
+      <body>
+
+        <div id="container1" style="border:1px dotted blue; width: 700px; height: 475px; position: relative;"></div>
+        <script src="/src/js/components/d3/d3.min.js"></script>
+        <script src="/src/js/components/topojson/topojson.js"></script>
+        <!-- <script src="/src/js/json2.js"></script> -->
+        <script src="/src/rel/datamaps.usa.js"></script>
+        <script>
+
+          var election = new Datamap({
+            scope: 'usa',
+            element: document.getElementById('container1'),
+            geographyConfig: {
+              popupTemplate: function(geo, data) {
+                return data && data.info && "<div class='hoverinfo'><strong>" + data.info + "</strong></div>";
+              },
+              highlightOnHover: false,
+              borderColor: '#444',
+              borderWidth: 0.5
+            },
+            dataUrl: 'data.csv',
+            dataType: 'csv',
+            data: {},
+            fills: {
+              'Visited': '#306596',
+              'neato': '#0fa0fa',
+              'Trouble': '#bada55',
+              defaultFill: '#dddddd'
+            }
+          });
+
+</script>
+</body>
+</html>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"]file-digest://app/assets/javascripts/node_modules/datamaps/src/examples/remote-data.html;TTF:charsetI"
+utf-8;F:digest"%†|nŒ¬≈ç«œ/Ìåë´%ﬁ`˜à#Ú¶ΩmÔ“:lengthim:dependencies_digest"%Tﬂœg√¨~Ô·çVó•J
+~B¡æ»wÜÕˇs\ƒ:idI"E5c487f227e9af2aea940c88689a6ed223d2df2a888e0447cf145771d9b7bbb99;F:
+mtimel+U¢¥e

@@ -1,0 +1,38 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/thunky/package.json?type=application/json&id=ebd7c6dd32ecc87176b1b804be04800287567d98ba5160a7af701a3a8020f542:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/thunky/package.json;T:	nameI" node_modules/thunky/package;T:logical_pathI"%node_modules/thunky/package.json;T:content_typeI"application/json;T:sourceI"Å{
+  "name": "thunky",
+  "version": "1.1.0",
+  "description": "delay the evaluation of a paramless async function and cache the result",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mafintosh/thunky.git"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "memo",
+    "thunk",
+    "async",
+    "lazy",
+    "control",
+    "flow",
+    "cache"
+  ],
+  "author": "Mathias Buus Madsen <mathiasbuus@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mafintosh/thunky/issues"
+  },
+  "homepage": "https://github.com/mafintosh/thunky#readme",
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/thunky/package.json;TTF:charsetI"
+utf-8;F:digest"%.—ĞÊˆT˜cÜå²r%Ìâ&×€
+×$&¸ ³šº:lengthiÅ:dependencies_digest"%§`íÖ#	¶¶ìšæ+§mW„‡KŒc¦¡f–Wpå½7fV[:idI"Eebd7c6dd32ecc87176b1b804be04800287567d98ba5160a7af701a3a8020f542;F:
+mtimel+Q¢´e

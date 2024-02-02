@@ -1,0 +1,16 @@
+{:uriI"�file://app/assets/javascripts/node_modules/d3-time-format/locale/fa-IR.json?type=application/json&id=0dc03aa419366a03635151d9172dfb15401e837b92aaaef0578cf8c0698e5032:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/d3-time-format/locale/fa-IR.json;T:	nameI"-node_modules/d3-time-format/locale/fa-IR;T:logical_pathI"2node_modules/d3-time-format/locale/fa-IR.json;T:content_typeI"application/json;T:sourceI"�{
+  "dateTime": "%x, %X",
+  "date": "%-d/%-m/%Y",
+  "time": "%-I:%M:%S %p",
+  "periods": ["صبح", "عصر"],
+  "days": ["یکشنبه", "دوشنبه", "سه شنبه", "چهارشنبه", "پنجشنبه", "جمعه", "شنبه"],
+  "shortDays": ["یکشنبه", "دوشنبه", "سه شنبه", "چهارشنبه", "پنجشنبه", "جمعه", "شنبه"],
+  "months": ["ژانویه", "فوریه", "مارس", "آوریل", "مه", "ژوئن", "ژوئیه", "اوت", "سپتامبر", "اکتبر", "نوامبر", "دسامبر"],
+  "shortMonths": ["ژانویه", "فوریه", "مارس", "آوریل", "مه", "ژوئن", "ژوئیه", "اوت", "سپتامبر", "اکتبر", "نوامبر", "دسامبر"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/d3-time-format/locale/fa-IR.json;TTF:charsetI"
+utf-8;F:digest"%�����������4���.34P���]rW|�s:lengthi�:dependencies_digest"%�|}�+X�
+��O�W|�N�(��CF�V����@�x:idI"E0dc03aa419366a03635151d9172dfb15401e837b92aaaef0578cf8c0698e5032;F:
+mtimel+R��e

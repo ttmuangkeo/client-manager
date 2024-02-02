@@ -1,0 +1,33 @@
+{:uriI"¿file://app/assets/javascripts/node_modules/@vue/cli-service/node_modules/@nodelib/fs.stat/package.json?type=application/json&id=6b94b5bcb1b041f3dd75cb8e0b4f6f18600580ee9cdca459cf7bfc29a8c31adb:ET:load_pathI"app/assets/javascripts;T:filenameI"dapp/assets/javascripts/node_modules/@vue/cli-service/node_modules/@nodelib/fs.stat/package.json;T:	nameI"Hnode_modules/@vue/cli-service/node_modules/@nodelib/fs.stat/package;T:logical_pathI"Mnode_modules/@vue/cli-service/node_modules/@nodelib/fs.stat/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "@nodelib/fs.stat",
+  "version": "1.1.3",
+  "description": "Get the status of a file with some features",
+  "license": "MIT",
+  "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat",
+  "keywords": [
+    "NodeLib",
+    "fs",
+    "FileSystem",
+    "file system",
+    "stat"
+  ],
+  "engines": {
+    "node": ">= 6"
+  },
+  "main": "out/index.js",
+  "typings": "out/index.d.ts",
+  "scripts": {
+    "clean": "rimraf out",
+    "lint": "tslint \"src/**/*.ts\" -p . -t stylish",
+    "compile": "tsc -b .",
+    "compile:watch": "tsc -p . --watch --sourceMap",
+    "test": "mocha \"out/**/*.spec.js\" -s 0",
+    "build": "npm run clean && npm run lint && npm run compile && npm test",
+    "watch": "npm run clean && npm run compile:watch"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/javascripts/node_modules/@vue/cli-service/node_modules/@nodelib/fs.stat/package.json;TTF:charsetI"
+utf-8;F:digest"%iy√wyı-{xõå^Êò5gK"P—$:˛"/	#:lengthi:dependencies_digest"%l!ú•∏zUTtygy}ú¥≥ ür‰i≈9ØvÅÂ0:idI"E6b94b5bcb1b041f3dd75cb8e0b4f6f18600580ee9cdca459cf7bfc29a8c31adb;F:
+mtimel+Q¢¥e

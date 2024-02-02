@@ -1,0 +1,54 @@
+{:uriI"­file://app/assets/javascripts/node_modules/datamaps/src/tests/SpecRunner_jQueryPlugin.html?type=text/html&id=3dcb2dee3a887fd80d9d3978920395c23860b4c66e8878356a802acf7f5bc09c:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/datamaps/src/tests/SpecRunner_jQueryPlugin.html;T:	nameI"<node_modules/datamaps/src/tests/SpecRunner_jQueryPlugin;T:logical_pathI"Anode_modules/datamaps/src/tests/SpecRunner_jQueryPlugin.html;T:content_typeI"text/html;T:sourceI"g<!DOCTYPE html>
+<html>
+    <head>
+      <style>
+        path {
+          /*fill: #BADA55;*/
+          stroke: #FFFFFF;
+          stroke-width: 1px;
+        }
+
+        .hoverover { 
+          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+        .hoverinfo {
+          padding: 4px;
+          border-radius: 1px;
+          background-color: #FFF;
+          box-shadow: 1px 1px 5px #CCC;
+          font-size: 12px;
+          border: 1px solid #CCC;
+        }
+
+        .hoverinfo hr {
+          border:1px dotted #CCC;
+        }
+      </style>
+    </head>
+    <body>
+        <!-- Existing Jquery! -->
+        <script src="components/jquery/jquery.min.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="lib/jasmine-1.2.0/jasmine.css">
+        <script type="text/javascript" src="lib/jasmine-1.2.0/jasmine.js"></script>
+        <script type="text/javascript" src="lib/jasmine-1.2.0/jasmine-html.js"></script>
+        <h1>Test build all dependencies</h1>
+        <div id="container1" style="border:3px dotted blue; height: 350px; width: 660px"></div>
+
+
+        <!-- Datamaps Source -->
+        <script src="../../dist/datamaps-us-only.js"></script>
+
+        <!-- Specs -->
+        <script type="text/javascript" src="spec/PluginSpec.js"></script>
+
+        <!-- Jasmine Runner -->
+        <script src="lib/runner.js"></script>
+
+    </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"ffile-digest://app/assets/javascripts/node_modules/datamaps/src/tests/SpecRunner_jQueryPlugin.html;TTF:charsetI"
+utf-8;F:digest"%‘keá†G×QNåb°¹½ÇÀ #êçc†^ßó!Æ¯‡Zd:lengthig:dependencies_digest"%Î’C KŠ	pð“AÏý§è¤ÂŸ¦hvQ³ñÁ¿Q+:idI"E3dcb2dee3a887fd80d9d3978920395c23860b4c66e8878356a802acf7f5bc09c;F:
+mtimel+U¢´e

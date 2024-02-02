@@ -1,0 +1,34 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/hu.json?type=application/json&id=21820dc0eb923de2f41c423eaaeecf25de129958e8d1cf37e853f2c4951e0c37:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/hu.json;T:	nameI"-node_modules/vee-validate/dist/locale/hu;T:logical_pathI"2node_modules/vee-validate/dist/locale/hu.json;T:content_typeI"application/json;T:sourceI"�{
+  "code": "hu",
+  "messages": {
+    "alpha": "A(z) {_field_} kizárólag betűket tartalmazhat",
+    "alpha_dash": "A(z) {_field_} kizárólag betűket, számokat, kötőjeleket és alulvonásokat tartalmazhat",
+    "alpha_num": "A(z) {_field_} kizárólag betűket és számokat tartalmazhat",
+    "alpha_spaces": "A(z) {_field_} kizárólag betűket és szóközöket tartalmazhat",
+    "between": "A(z) {_field_} {min} és {max} között kell, hogy legyen",
+    "confirmed": "A(z) {_field_} nem egyezik a megerősítéssel",
+    "digits": "A(z) {_field_} {length} számjegyű kell, hogy legyen",
+    "dimensions": "A(z) {_field_} felbontása {width} és {height} pixel között kell, hogy legyen",
+    "email": "A(z) {_field_} nem érvényes email formátum",
+    "excluded": "A(z) {_field_} értéke érvénytelen",
+    "ext": "A(z) {_field_} nem érvényes fájl",
+    "image": "A(z) {_field_} képfálj kell, hogy legyen",
+    "oneOf": "A kiválaszott {_field_} érvénytelen",
+    "max": "A(z) {_field_} értéke nem lehet hosszabb mint {length}",
+    "max_value": "A(z) {_field_} értéke {max} vagy kevesebb lehet",
+    "mimes": "A(z) {_field_} kizárólag érvényes fájlformátumok egyike lehet",
+    "min": "A(z) {_field_} értéke nem lehet rövidebb mint {length}",
+    "min_value": "A(z) {_field_} értéke {min} vagy több lehet",
+    "numeric": "A(z) {_field_} értéke szám kell, hogy legyen",
+    "regex": "A(z) {_field_} formátuma érvénytelen",
+    "required": "A(z) {_field_} megadása kötelező",
+    "required_if": "A(z) {_field_} megadása kötelező",
+    "size": "A(z) {_field_} méretének {size} kilobájtnál kisebbnek kell lennie",
+    "double": "A(z) {_field_} mezőnek érvényes decimálisnak kell lennie"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/hu.json;TTF:charsetI"
+utf-8;F:digest"%_i/k?�M�y�Oc:>���;M�p���3���:lengthi�:dependencies_digest"%��R���@�:5�".�]�z9ɝM"���W:idI"E21820dc0eb923de2f41c423eaaeecf25de129958e8d1cf37e853f2c4951e0c37;F:
+mtimel+S��e

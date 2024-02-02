@@ -1,0 +1,46 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/import-cwd/package.json?type=application/json&id=ac71c7e268ab243fc5201aa9e17c60971419b03b45e3dec60737efb689580aea:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/import-cwd/package.json;T:	nameI"$node_modules/import-cwd/package;T:logical_pathI")node_modules/import-cwd/package.json;T:content_typeI"application/json;T:sourceI"Ô{
+  "name": "import-cwd",
+  "version": "2.1.0",
+  "description": "Import a module like with `require()` but from the current working directory",
+  "license": "MIT",
+  "repository": "sindresorhus/import-cwd",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "require",
+    "resolve",
+    "path",
+    "module",
+    "from",
+    "like",
+    "cwd",
+    "current",
+    "working",
+    "directory",
+    "import"
+  ],
+  "dependencies": {
+    "import-from": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/import-cwd/package.json;TTF:charsetI"
+utf-8;F:digest"%¤ÂÉáù·ñ¯]®*FøÙÖ€IÎÂñ×g¤şñˆj:lengthiÔ:dependencies_digest"%_±ÊUÄbqºB·#´fÎéÁj-Q:QÌëÂi¿Ä:idI"Eac71c7e268ab243fc5201aa9e17c60971419b03b45e3dec60737efb689580aea;F:
+mtimel+Q¢´e

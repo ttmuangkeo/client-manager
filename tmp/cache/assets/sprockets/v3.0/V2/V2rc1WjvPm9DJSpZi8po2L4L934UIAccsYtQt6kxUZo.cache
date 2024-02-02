@@ -1,0 +1,63 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/@intervolga/optimize-cssnano-plugin/package.json?type=application/json&id=c5a01e1ff60a5ecfbc25b56328df854861656a7cbc84b5b85f9a13cee70ecf3a:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/@intervolga/optimize-cssnano-plugin/package.json;T:	nameI"=node_modules/@intervolga/optimize-cssnano-plugin/package;T:logical_pathI"Bnode_modules/@intervolga/optimize-cssnano-plugin/package.json;T:content_typeI"application/json;T:sourceI"“{
+  "name": "@intervolga/optimize-cssnano-plugin",
+  "version": "1.0.6",
+  "description": "WebPack 2+ plugin for CSS minification after ExtractTextPluging",
+  "main": "index.js",
+  "scripts": {
+    "mocha": "mocha --ui tdd test/",
+    "lint": "eslint index.js lib test/index.js test/helpers",
+    "test": "npm run lint && npm run mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intervolga/optimize-cssnano-plugin"
+  },
+  "keywords": [
+    "html",
+    "index",
+    "webpack",
+    "loader"
+  ],
+  "author": "Shkarupa Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intervolga/optimize-cssnano-plugin/issues"
+  },
+  "homepage": "https://github.com/intervolga/optimize-cssnano-plugin#readme",
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  },
+  "dependencies": {
+    "cssnano": "^4.0.0",
+    "cssnano-preset-default": "^4.0.0",
+    "postcss": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "css-loader": "^0.28.11",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.8.0",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "expect.js": "^0.3.1",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "fs-extra": "^5.0.0",
+    "mocha": "^5.2.0",
+    "node-sass": "^4.9.2",
+    "postcss-loader": "^2.1.6",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.16.1"
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "README",
+    "LICENSE"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/@intervolga/optimize-cssnano-plugin/package.json;TTF:charsetI"
+utf-8;F:digest"%†ÎÊnı]àˆ√y$%W7¯Nµ"#Ó—àw&CË^a¸S:lengthi“:dependencies_digest"%WÙ+ç˝∆ˆ7ﬂ‚Ÿ°„ÿ “)¢—0ÍNJ‡∑≥/:idI"Ec5a01e1ff60a5ecfbc25b56328df854861656a7cbc84b5b85f9a13cee70ecf3a;F:
+mtimel+Q¢¥e

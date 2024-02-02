@@ -1,0 +1,26 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/d3-geo-projection/bower.json?type=application/json&id=f675bda2af9696427a02f8ec8f172c06b6bc1720cbfc4a26610f1d5e760d3189:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/d3-geo-projection/bower.json;T:	nameI")node_modules/d3-geo-projection/bower;T:logical_pathI".node_modules/d3-geo-projection/bower.json;T:content_typeI"application/json;T:sourceI"G{
+  "name": "d3-geo-projection",
+  "version": "0.2.16",
+  "main": "d3.geo.projection.js",
+  "scripts": [
+    "d3.geo.projection.js"
+  ],
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    ".npmignore",
+    "Makefile",
+    "bin",
+    "index.js",
+    "node_modules",
+    "package.json",
+    "src",
+    "test"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/d3-geo-projection/bower.json;TTF:charsetI"
+utf-8;F:digest"%,,Ñzî{ü˜$±dÿ~Ox4êòhıqMeÊ:lengthiG:dependencies_digest"%é³ŒDFĞªæ)ØŠCå†‰é½İWÜ2x®p%öë0X˜ù:idI"Ef675bda2af9696427a02f8ec8f172c06b6bc1720cbfc4a26610f1d5e760d3189;F:
+mtimel+S¢´e

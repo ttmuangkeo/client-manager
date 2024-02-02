@@ -1,0 +1,49 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/iconv-lite/package.json?type=application/json&id=adb4e385ac39a1b50ce0bee48bf7c5860c17c2cd80b9c4637e37999280b3d6c4:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/iconv-lite/package.json;T:	nameI"$node_modules/iconv-lite/package;T:logical_pathI")node_modules/iconv-lite/package.json;T:content_typeI"application/json;T:sourceI"k{
+    "name": "iconv-lite",
+    "description": "Convert character encodings in pure javascript.",
+    "version": "0.6.3",
+    "license": "MIT",
+    "keywords": [
+        "iconv",
+        "convert",
+        "charset",
+        "icu"
+    ],
+    "author": "Alexander Shtuchkin <ashtuchkin@gmail.com>",
+    "main": "./lib/index.js",
+    "typings": "./lib/index.d.ts",
+    "homepage": "https://github.com/ashtuchkin/iconv-lite",
+    "bugs": "https://github.com/ashtuchkin/iconv-lite/issues",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ashtuchkin/iconv-lite.git"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "coverage": "c8 _mocha --grep .",
+        "test": "mocha --reporter spec --grep ."
+    },
+    "browser": {
+        "stream": false
+    },
+    "devDependencies": {
+        "async": "^3.2.0",
+        "c8": "^7.2.0",
+        "errto": "^0.2.1",
+        "iconv": "^2.3.5",
+        "mocha": "^3.5.3",
+        "request": "^2.88.2",
+        "semver": "^6.3.0",
+        "unorm": "^1.6.0"
+    },
+    "dependencies": {
+        "safer-buffer": ">= 2.1.2 < 3.0.0"
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/iconv-lite/package.json;TTF:charsetI"
+utf-8;F:digest"%:•‚ý„$]Ï„ïžAÉKx[~¶?ŸZì›­˜:lengthik:dependencies_digest"%Þ°°¸€)3m¤¦U·s'|Áø²§gPt8’Ù–:idI"Eadb4e385ac39a1b50ce0bee48bf7c5860c17c2cd80b9c4637e37999280b3d6c4;F:
+mtimel+S¢´e

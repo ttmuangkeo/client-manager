@@ -1,0 +1,42 @@
+{:uriI"†file://app/assets/javascripts/node_modules/public-encrypt/package.json?type=application/json&id=52fcfeb8c85bc390275162682a0e4778ee364628412d4e4131913d7e989b2bc7:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/public-encrypt/package.json;T:	nameI"(node_modules/public-encrypt/package;T:logical_pathI"-node_modules/public-encrypt/package.json;T:content_typeI"application/json;T:sourceI"ì{
+  "name": "public-encrypt",
+  "version": "4.0.3",
+  "description": "browserify version of publicEncrypt & privateDecrypt",
+  "main": "index.js",
+  "browser": "browser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js | tspec",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crypto-browserify/publicEncrypt.git"
+  },
+  "author": "Calvin Metcalf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crypto-browserify/publicEncrypt/issues"
+  },
+  "homepage": "https://github.com/crypto-browserify/publicEncrypt",
+  "dependencies": {
+    "bn.js": "^4.1.0",
+    "browserify-rsa": "^4.0.0",
+    "create-hash": "^1.1.0",
+    "parse-asn1": "^5.0.0",
+    "randombytes": "^2.0.1",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {
+    "standard": "^12.0.0",
+    "tap-spec": "^2.1.2",
+    "tape": "^3.0.3"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/public-encrypt/package.json;TTF:charsetI"
+utf-8;F:digest"%µ8’t^(ı;Œ"ßÛ¡ªHK5∂˙ƒΩ“Uì!∂:lengthiì:dependencies_digest"%Pµœp„o#çTÈ<ÑÜÄ¯ÊÜx†â˝’I†r3˜7Ù:idI"E52fcfeb8c85bc390275162682a0e4778ee364628412d4e4131913d7e989b2bc7;F:
+mtimel+Q¢¥e

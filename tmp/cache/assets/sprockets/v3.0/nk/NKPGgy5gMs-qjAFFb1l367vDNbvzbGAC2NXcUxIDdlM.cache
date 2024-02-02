@@ -1,0 +1,69 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/shallow-clone/package.json?type=application/json&id=45a16a67c7570ed1dd009d6166ab546b18ab8ca07df539e8fbc016425f5de37b:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/shallow-clone/package.json;T:	nameI"'node_modules/shallow-clone/package;T:logical_pathI",node_modules/shallow-clone/package.json;T:content_typeI"application/json;T:sourceI"ä{
+  "name": "shallow-clone",
+  "description": "Creates a shallow clone of any JavaScript value.",
+  "version": "3.0.1",
+  "homepage": "https://github.com/jonschlinkert/shallow-clone",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "jonschlinkert/shallow-clone",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/shallow-clone/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "kind-of": "^6.0.2"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^6.1.3"
+  },
+  "keywords": [
+    "array",
+    "clone",
+    "copy",
+    "extend",
+    "mixin",
+    "object",
+    "primitive",
+    "shallow"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "assign-deep",
+        "clone-deep",
+        "is-plain-object",
+        "kind-of"
+      ]
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/shallow-clone/package.json;TTF:charsetI"
+utf-8;F:digest"%Ë+^Õü»÷ „Tœ€SïÕ ëF!„”ÛÓR:lengthiä:dependencies_digest"%úñsSr[ÏN¸2¥¯FB|—	#u°rÂŸú(¼:idI"E45a16a67c7570ed1dd009d6166ab546b18ab8ca07df539e8fbc016425f5de37b;F:
+mtimel+Q¢´e

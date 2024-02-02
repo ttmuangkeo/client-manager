@@ -1,0 +1,54 @@
+{:uriI"Ìfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/acorn-import-assertions/package.json?type=application/json&id=e8cc5a474a84b1afa8daad2eeae3b5293f146c528fcb354eca0b72a488d7338b:ET:load_pathI"app/assets/javascripts;T:filenameI"papp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/acorn-import-assertions/package.json;T:	nameI"Tnode_modules/@vue/cli-plugin-babel/node_modules/acorn-import-assertions/package;T:logical_pathI"Ynode_modules/@vue/cli-plugin-babel/node_modules/acorn-import-assertions/package.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "name": "acorn-import-assertions",
+  "version": "1.9.0",
+  "description": "Support for import assertions in acorn",
+  "main": "lib/index.js",
+  "module": "src/index.js",
+  "exports": {
+    ".": {
+      "import": "./lib/index.mjs",
+      "require": "./lib/index.js"
+    },
+    "./package.json": "./package.json",
+    "./": "./"
+  },
+  "scripts": {
+    "build": "babel ./src --out-dir ./lib && node post-build.js",
+    "prepublishOnly": "npm run build",
+    "test": "mocha ./test/index.js",
+    "test:test262": "node run_test262.js",
+    "watch": "babel ./src --out-dir ./lib --watch"
+  },
+  "author": "Sven Sauleau <sven@sauleau.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/register": "^7.15.3",
+    "acorn": "^8.4.1",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.0",
+    "test262": "tc39/test262#47ab262658cd97ae35c9a537808cac18fa4ab567",
+    "test262-parser-runner": "^0.5.0"
+  },
+  "peerDependencies": {
+    "acorn": "^8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/acorn-import-assertions"
+  },
+  "browserslist": [
+    "maintained node versions"
+  ],
+  "files": [
+    "lib",
+    "src"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"~file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/acorn-import-assertions/package.json;TTF:charsetI"
+utf-8;F:digest"%Hí­›Eÿgkô’4–Ã7T.qÊóW¡2Ðæ%:lengthiØ:dependencies_digest"%?^ä.£¦JmÁ{Yõ¨qÂ:ñ¦Ÿ†LY<Ç¼`ºxÑ€ê:idI"Ee8cc5a474a84b1afa8daad2eeae3b5293f146c528fcb354eca0b72a488d7338b;F:
+mtimel+R¢´e

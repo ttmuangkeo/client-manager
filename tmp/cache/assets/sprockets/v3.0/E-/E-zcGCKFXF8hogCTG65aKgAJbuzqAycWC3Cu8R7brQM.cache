@@ -1,0 +1,35 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/setimmediate/package.json?type=application/json&id=fb9fdc619f581d9acf4473adfd602ebe4ca2d992e35c65c037ac3a4586208165:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/setimmediate/package.json;T:	nameI"&node_modules/setimmediate/package;T:logical_pathI"+node_modules/setimmediate/package.json;T:content_typeI"application/json;T:sourceI"‘{
+    "name": "setimmediate",
+    "description": "A shim for the setImmediate efficient script yielding API",
+    "version": "1.0.5",
+    "author": "YuzuJS",
+    "contributors": [
+        "Domenic Denicola <d@domenic.me> (https://domenic.me)",
+        "Donavon West <github@donavon.com> (http://donavon.com)",
+        "Yaffle"
+    ],
+    "license": "MIT",
+    "repository": "YuzuJS/setImmediate",
+    "main": "setImmediate.js",
+    "files": [
+        "setImmediate.js"
+    ],
+    "scripts": {
+        "lint": "jshint setImmediate.js",
+        "test": "mocha test/tests.js",
+        "test-browser": "opener http://localhost:9008/__zuul && zuul test/tests.js --ui mocha-bdd --local 9008",
+        "test-browser-only": "opener http://localhost:9007/test/browserOnly/index.html && http-server . -p 9007"
+    },
+    "devDependencies": {
+        "jshint": "^2.5.0",
+        "mocha": "~1.18.2",
+        "http-server": "~0.6.1",
+        "opener": "^1.3",
+        "zuul": "^1.6.4"
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/setimmediate/package.json;TTF:charsetI"
+utf-8;F:digest"%V«ñåÄb≠VÈKç€G~Q@ò‡˙4∞`™Ü∂r2˝±.M:lengthi‘:dependencies_digest"%ÑtÖ¢M˚p='Õ™Îaÿze‰dOGí7û:P¢¸:idI"Efb9fdc619f581d9acf4473adfd602ebe4ca2d992e35c65c037ac3a4586208165;F:
+mtimel+Q¢¥e

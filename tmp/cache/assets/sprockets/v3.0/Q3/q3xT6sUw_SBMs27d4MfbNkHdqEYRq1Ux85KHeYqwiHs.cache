@@ -1,0 +1,43 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/signal-exit/package.json?type=application/json&id=9ad29778d79b95b81d4c804992323e2b230a75d891e82212681fd46e361f3922:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/signal-exit/package.json;T:	nameI"%node_modules/signal-exit/package;T:logical_pathI"*node_modules/signal-exit/package.json;T:content_typeI"application/json;T:sourceI"`{
+  "name": "signal-exit",
+  "version": "3.0.7",
+  "description": "when you want to fire an event no matter how a process exits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "prepublishOnly": "git push origin --follow-tags"
+  },
+  "files": [
+    "index.js",
+    "signals.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapjs/signal-exit.git"
+  },
+  "keywords": [
+    "signal",
+    "exit"
+  ],
+  "author": "Ben Coe <ben@npmjs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapjs/signal-exit/issues"
+  },
+  "homepage": "https://github.com/tapjs/signal-exit",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^3.1.1",
+    "nyc": "^15.1.0",
+    "standard-version": "^9.3.1",
+    "tap": "^15.1.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/signal-exit/package.json;TTF:charsetI"
+utf-8;F:digest"%Œ¡ª§…~ˆS¡<åy˜E™¬#!1Óqåìƒ#lïw¢:lengthi`:dependencies_digest"%‰v=®¯A<«Ú#ypGÍO≠O‰o≤Ë¿0ŒÜìC©9:idI"E9ad29778d79b95b81d4c804992323e2b230a75d891e82212681fd46e361f3922;F:
+mtimel+Q¢¥e

@@ -1,0 +1,53 @@
+{:uriI"†file://app/assets/javascripts/node_modules/balanced-match/package.json?type=application/json&id=10e94c4a2a3d55389cf8ec23a34575a53113db3bc7fb082e8c69dded8209c82e:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/balanced-match/package.json;T:	nameI"(node_modules/balanced-match/package;T:logical_pathI"-node_modules/balanced-match/package.json;T:content_typeI"application/json;T:sourceI"-{
+  "name": "balanced-match",
+  "description": "Match balanced character pairs, like \"{\" and \"}\"",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/balanced-match.git"
+  },
+  "homepage": "https://github.com/juliangruber/balanced-match",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js",
+    "bench": "matcha test/bench.js"
+  },
+  "devDependencies": {
+    "matcha": "^0.7.0",
+    "tape": "^4.6.0"
+  },
+  "keywords": [
+    "match",
+    "regexp",
+    "test",
+    "balanced",
+    "parse"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/20..latest",
+      "firefox/nightly",
+      "chrome/25..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/balanced-match/package.json;TTF:charsetI"
+utf-8;F:digest"%≥2Öﬁ≠p∏î≠`D≤(KWfL‹aŸ*.3ó¬:lengthi-:dependencies_digest"%ÄœËËå~ædÏp≠˘ÍƒÚP®ÕÅπ©ãb`Û2ä≥:idI"E10e94c4a2a3d55389cf8ec23a34575a53113db3bc7fb082e8c69dded8209c82e;F:
+mtimel+Q¢¥e

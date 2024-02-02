@@ -1,0 +1,38 @@
+{:uriI"Àfile://app/assets/javascripts/node_modules/@babel/plugin-transform-block-scoped-functions/package.json?type=application/json&id=e9db361675515ddd98108a10b6246f4f1ce4aca22923a2c86c90e1d01c1e991f:ET:load_pathI"app/assets/javascripts;T:filenameI"dapp/assets/javascripts/node_modules/@babel/plugin-transform-block-scoped-functions/package.json;T:	nameI"Hnode_modules/@babel/plugin-transform-block-scoped-functions/package;T:logical_pathI"Mnode_modules/@babel/plugin-transform-block-scoped-functions/package.json;T:content_typeI"application/json;T:sourceI"©{
+  "name": "@babel/plugin-transform-block-scoped-functions",
+  "version": "7.23.3",
+  "description": "Babel plugin to ensure function declarations at the block level are block scoped",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-block-scoped-functions"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-block-scoped-functions",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-block-scoped-functions/package.json;TTF:charsetI"
+utf-8;F:digest"%Ë®UoÖÜLFWÆt„‚S—ÎÖß}iÖ,{,õ´ö×á:lengthi©:dependencies_digest"%™ÛŸ…äüõ'E‡XÒFÑq8B.ûÈüÙîhè*oª:idI"Ee9db361675515ddd98108a10b6246f4f1ce4aca22923a2c86c90e1d01c1e991f;F:
+mtimel+Q¢´e

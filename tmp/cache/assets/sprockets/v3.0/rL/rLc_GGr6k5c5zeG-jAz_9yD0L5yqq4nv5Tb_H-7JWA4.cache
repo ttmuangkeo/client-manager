@@ -1,0 +1,60 @@
+{:uriI"›file://app/assets/javascripts/node_modules/d3-format/package.json?type=application/json&id=8480419b9d14f84a72d7b03ff127af4af89a57609fa36a4bc70e1de875767bb8:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/d3-format/package.json;T:	nameI"#node_modules/d3-format/package;T:logical_pathI"(node_modules/d3-format/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "d3-format",
+  "version": "3.1.0",
+  "description": "Format numbers for human consumption.",
+  "homepage": "https://d3js.org/d3-format/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-format.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "format",
+    "localization"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js",
+    "locale/*.json"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-format.min.js",
+  "unpkg": "dist/d3-format.min.js",
+  "exports": {
+    ".": {
+      "umd": "./dist/d3-format.min.js",
+      "default": "./src/index.js"
+    },
+    "./locale/*": "./locale/*.json"
+  },
+  "sideEffects": [
+    "./src/defaultLocale.js"
+  ],
+  "devDependencies": {
+    "eslint": "8",
+    "mocha": "9",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/d3-format/package.json;TTF:charsetI"
+utf-8;F:digest"%/œHúÓüÈhC‚^õi‹âóäu~j!»:Nõ~:lengthi:dependencies_digest"%îÉ,vû)°!ÓŽSœª>ø¤Ïã~èã3IŸ™—“Ž:idI"E8480419b9d14f84a72d7b03ff127af4af89a57609fa36a4bc70e1de875767bb8;F:
+mtimel+S¢´e

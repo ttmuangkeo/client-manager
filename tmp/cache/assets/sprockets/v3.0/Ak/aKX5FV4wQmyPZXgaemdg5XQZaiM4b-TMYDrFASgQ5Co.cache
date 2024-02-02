@@ -1,0 +1,39 @@
+{:uriI"†file://app/assets/javascripts/node_modules/to-arraybuffer/package.json?type=application/json&id=c2d098c8b26d023f2a55887fe8896c3c11c385946d569b067e7b1e8cb748d03a:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/to-arraybuffer/package.json;T:	nameI"(node_modules/to-arraybuffer/package;T:logical_pathI"-node_modules/to-arraybuffer/package.json;T:content_typeI"application/json;T:sourceI"õ{
+  "name": "to-arraybuffer",
+  "version": "1.0.1",
+  "description": "Get an ArrayBuffer from a Buffer as fast as possible",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test-node && ([ -n \"${TRAVIS_PULL_REQUEST}\" -a \"${TRAVIS_PULL_REQUEST}\" != 'false' ] || npm run test-browser)",
+    "test-node": "tape test.js",
+    "test-browser": "zuul --no-coverage -- test.js",
+    "test-browser-local": "zuul --local 8080 --no-coverage -- test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhiesey/to-arraybuffer.git"
+  },
+  "keywords": [
+    "buffer",
+    "to",
+    "arraybuffer",
+    "fast",
+    "read",
+    "only"
+  ],
+  "author": "John Hiesey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhiesey/to-arraybuffer/issues"
+  },
+  "homepage": "https://github.com/jhiesey/to-arraybuffer#readme",
+  "devDependencies": {
+    "tape": "^4.4.0",
+    "zuul": "^3.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/to-arraybuffer/package.json;TTF:charsetI"
+utf-8;F:digest"%‚¶ä{¨n†o–Whèú∑/≥Õ®#ÕzNÈúΩØ∏Ít:lengthiõ:dependencies_digest"%b∫.æΩ´ª˜pYÃí6vó”Ë≥2ãß˝∂K◊∑T˚3Æ:idI"Ec2d098c8b26d023f2a55887fe8896c3c11c385946d569b067e7b1e8cb748d03a;F:
+mtimel+Q¢¥e

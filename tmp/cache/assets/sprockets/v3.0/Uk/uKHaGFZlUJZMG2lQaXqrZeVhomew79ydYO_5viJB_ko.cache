@@ -1,0 +1,43 @@
+{:uriI"«file://app/assets/javascripts/node_modules/execa/node_modules/semver/package.json?type=application/json&id=6d5cdf43625e4e05c6f3ecfc6a16950f5b87367b0ef63f351662fddff48e7cde:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/execa/node_modules/semver/package.json;T:	nameI"3node_modules/execa/node_modules/semver/package;T:logical_pathI"8node_modules/execa/node_modules/semver/package.json;T:content_typeI"application/json;T:sourceI"Ò{
+  "name": "semver",
+  "version": "5.7.2",
+  "description": "The semantic version parser used by npm.",
+  "main": "semver.js",
+  "scripts": {
+    "test": "tap test/ --100 --timeout=30",
+    "lint": "echo linting disabled",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "snap": "tap test/ --100 --timeout=30",
+    "posttest": "npm run lint"
+  },
+  "devDependencies": {
+    "@npmcli/template-oss": "4.17.0",
+    "tap": "^12.7.0"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/node-semver.git"
+  },
+  "bin": {
+    "semver": "./bin/semver"
+  },
+  "files": [
+    "bin",
+    "range.bnf",
+    "semver.js"
+  ],
+  "author": "GitHub Inc.",
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "content": "./scripts/template-oss",
+    "version": "4.17.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"]file-digest://app/assets/javascripts/node_modules/execa/node_modules/semver/package.json;TTF:charsetI"
+utf-8;F:digest"%P@ÞÚ`r©<@ãlQˆòAYIo„þXkÄ}êJ-ç¨üÛ:lengthiÒ:dependencies_digest"%&#Žàe<õ¬õÐ‘ðg>ÖP½:åææþiÿÇÁ6š:idI"E6d5cdf43625e4e05c6f3ecfc6a16950f5b87367b0ef63f351662fddff48e7cde;F:
+mtimel+R¢´e

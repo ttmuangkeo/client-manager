@@ -1,0 +1,91 @@
+{:uriI"Ãfile://app/assets/javascripts/node_modules/http-proxy-middleware/node_modules/to-regex-range/package.json?type=application/json&id=2feb91657a3dfbd67e536389d558438ffb971e5d7b6aa5406f975a1d92be9f22:ET:load_pathI"app/assets/javascripts;T:filenameI"gapp/assets/javascripts/node_modules/http-proxy-middleware/node_modules/to-regex-range/package.json;T:	nameI"Knode_modules/http-proxy-middleware/node_modules/to-regex-range/package;T:logical_pathI"Pnode_modules/http-proxy-middleware/node_modules/to-regex-range/package.json;T:content_typeI"application/json;T:sourceI"f{
+  "name": "to-regex-range",
+  "description": "Pass two numbers, get a regex-compatible source string for matching ranges. Validated against more than 2.78 million test assertions.",
+  "version": "2.1.1",
+  "homepage": "https://github.com/micromatch/to-regex-range",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "micromatch/to-regex-range",
+  "bugs": {
+    "url": "https://github.com/micromatch/to-regex-range/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^3.0.0",
+    "repeat-string": "^1.6.1"
+  },
+  "devDependencies": {
+    "fill-range": "^3.1.1",
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.2.0",
+    "text-table": "^0.2.0",
+    "time-diff": "^0.3.1"
+  },
+  "keywords": [
+    "alpha",
+    "alphabetical",
+    "bash",
+    "brace",
+    "date",
+    "expand",
+    "expansion",
+    "glob",
+    "match",
+    "matches",
+    "matching",
+    "number",
+    "numerical",
+    "range",
+    "ranges",
+    "regex",
+    "sequence",
+    "sh",
+    "to",
+    "year"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "expand-range",
+        "fill-range",
+        "micromatch",
+        "repeat-element",
+        "repeat-string"
+      ]
+    },
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "helpers": [
+      "./examples.js"
+    ],
+    "reflinks": [
+      "0-5",
+      "0-9",
+      "1-5",
+      "1-9"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ufile-digest://app/assets/javascripts/node_modules/http-proxy-middleware/node_modules/to-regex-range/package.json;TTF:charsetI"
+utf-8;F:digest"%2B¸™ðaDÜØ,Yˆ²•˜G6'4<KWbµÞ³óž`R;:lengthif:dependencies_digest"%CvÖ*ÿÅ‰Süqû)Ì%¹Înbüv¾›—ï:idI"E2feb91657a3dfbd67e536389d558438ffb971e5d7b6aa5406f975a1d92be9f22;F:
+mtimel+Q¢´e

@@ -1,0 +1,30 @@
+{:uriI"Öfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json?type=application/json&id=1c22c09c5123bfcb46f9c1bbc1d67e8ffba9d9c0bb139e90aa7b65ef43f1e702:ET:load_pathI"app/assets/javascripts;T:filenameI"zapp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json;T:	nameI"^node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/WatchIgnorePlugin;T:logical_pathI"cnode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json;T:content_typeI"application/json;T:sourceI"e{
+  "title": "WatchIgnorePluginOptions",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "paths": {
+      "description": "A list of RegExps or absolute paths to directories or files that should be ignored.",
+      "type": "array",
+      "items": {
+        "description": "RegExp or absolute path to directories or files that should be ignored.",
+        "anyOf": [
+          {
+            "instanceof": "RegExp",
+            "tsType": "RegExp"
+          },
+          {
+            "type": "string"
+          }
+        ]
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["paths"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ƒfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json;TTF:charsetI"
+utf-8;F:digest"%*ñ¯êc¯òğËÖÃS$Ê–§â}ç¡	G›:lengthie:dependencies_digest"%WB(ìk:f>ª¨—r—U ú}™bÁÿÏ¾·:idI"E1c22c09c5123bfcb46f9c1bbc1d67e8ffba9d9c0bb139e90aa7b65ef43f1e702;F:
+mtimel+T¢´e

@@ -1,0 +1,62 @@
+{:uriI"≥file://app/assets/javascripts/node_modules/bootstrap-vue/src/components/link/package.json?type=application/json&id=95c4bf8e6294507bcc9310e498778d4a07512b2e7a5f26e024c8fc61d39e8e5f:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/bootstrap-vue/src/components/link/package.json;T:	nameI";node_modules/bootstrap-vue/src/components/link/package;T:logical_pathI"@node_modules/bootstrap-vue/src/components/link/package.json;T:content_typeI"application/json;T:sourceI"4{
+  "name": "@bootstrap-vue/link",
+  "version": "1.0.0",
+  "meta": {
+    "title": "Link",
+    "description": "Use BootstrapVue's custom <b-link> component for generating a standard <a> link or <router-link>. <b-link> supports the disabled state and click event propagation.",
+    "components": [
+      {
+        "component": "BLink",
+        "props": [
+          {
+            "prop": "href",
+            "description": "Denotes the target URL of the link for standard a links"
+          },
+          {
+            "prop": "rel",
+            "description": "Sets the 'rel' attribute on the rendered link"
+          },
+          {
+            "prop": "target",
+            "description": "Sets the 'target' attribute on the rendered link"
+          }
+        ],
+        "events": [
+          {
+            "event": "bv::link::clicked",
+            "description": "Emitted on `$root` when link was clicked",
+            "args": [
+              {
+                "name": "event",
+                "type": "MouseEvent",
+                "description": "Native click event"
+              }
+            ]
+          },
+          {
+            "event": "click",
+            "description": "Emitted when link was clicked",
+            "args": [
+              {
+                "name": "event",
+                "type": "MouseEvent",
+                "description": "Native click event"
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "name": "default",
+            "description": "Content to place in the link"
+          }
+        ]
+      }
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/bootstrap-vue/src/components/link/package.json;TTF:charsetI"
+utf-8;F:digest"%*5‡vZ-»¨^˜ÀbÙ«Kaã€ôsÒ‡µXPE1À:lengthi4:dependencies_digest"%$†T"√~k7&ŒÖ1ƒl≈'ﬁÔÍ!tù78VÎe:idI"E95c4bf8e6294507bcc9310e498778d4a07512b2e7a5f26e024c8fc61d39e8e5f;F:
+mtimel+U¢¥e

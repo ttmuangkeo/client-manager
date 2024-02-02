@@ -1,0 +1,61 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/typedarray/package.json?type=application/json&id=405309c91056e3e2bd577fa635a0d82258616d6b09ad00b3f5a51ee38476d800:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/typedarray/package.json;T:	nameI"$node_modules/typedarray/package;T:logical_pathI")node_modules/typedarray/package.json;T:content_typeI"application/json;T:sourceI"Š{
+  "name": "typedarray",
+  "version": "0.0.6",
+  "description": "TypedArray polyfill for old browsers",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js test/server/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/typedarray.git"
+  },
+  "homepage": "https://github.com/substack/typedarray",
+  "keywords": [
+    "ArrayBuffer",
+    "DataView",
+    "Float32Array",
+    "Float64Array",
+    "Int8Array",
+    "Int16Array",
+    "Int32Array",
+    "Uint8Array",
+    "Uint8ClampedArray",
+    "Uint16Array",
+    "Uint32Array",
+    "typed",
+    "array",
+    "polyfill"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/6..latest",
+      "firefox/16..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/typedarray/package.json;TTF:charsetI"
+utf-8;F:digest"%b.º¶NöäÝ( ™è…EÄwÌ÷Õª(ÒëDbÈWçoÚ:lengthiŠ:dependencies_digest"%ÀØ0Q€2ñ9õƒÿM
+ÈcÍãeç«9:m^E™ÝÕª:idI"E405309c91056e3e2bd577fa635a0d82258616d6b09ad00b3f5a51ee38476d800;F:
+mtimel+Q¢´e

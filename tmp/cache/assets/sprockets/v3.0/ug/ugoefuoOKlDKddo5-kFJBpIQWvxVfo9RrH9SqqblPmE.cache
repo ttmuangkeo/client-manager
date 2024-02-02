@@ -1,0 +1,49 @@
+{:uriI"›file://app/assets/javascripts/node_modules/parchment/package.json?type=application/json&id=3aa0c8e73b3defce6add8b0d8aecaaf0784299b626851a4171f0b04381fe7f06:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/parchment/package.json;T:	nameI"#node_modules/parchment/package;T:logical_pathI"(node_modules/parchment/package.json;T:content_typeI"application/json;T:sourceI"Ë{
+  "name": "parchment",
+  "version": "1.1.4",
+  "description": "A document model for rich text editors",
+  "author": "Jason Chen <jhchen7@gmail.com>",
+  "homepage": "http://quilljs.com/docs/parchment",
+  "main": "dist/parchment.js",
+  "files": [
+    "tsconfig.json",
+    "dist",
+    "src"
+  ],
+  "types": "dist/src/parchment.d.ts",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "istanbul": "~0.4.5",
+    "jasmine-core": "^2.9.1",
+    "karma": "^2.0.0",
+    "karma-babel-preprocessor": "^7.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.1",
+    "karma-jasmine": "^1.1.1",
+    "karma-sauce-launcher": "^1.2.0",
+    "karma-webpack": "^2.0.9",
+    "ts-loader": "^3.4.0",
+    "typescript": "^2.7.1",
+    "webpack": "^3.10.0"
+  },
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quilljs/parchment"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.conf.js",
+    "prepublish": "npm run build",
+    "test": "karma start",
+    "test:server": "karma start --no-single-run",
+    "test:travis": "karma start --browsers saucelabs-chrome --reporters dots,saucelabs"
+  },
+  "bugs": {
+    "url": "https://github.com/quilljs/parchment/issues"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/parchment/package.json;TTF:charsetI"
+utf-8;F:digest"%Éâ;KÇsÚE‹ÜìëŸìA.ÂÒa£A{dDà8:lengthiË:dependencies_digest"%ÓsÑ¥3«œ+÷}L}'×Í<a{qZñPîCº§›):idI"E3aa0c8e73b3defce6add8b0d8aecaaf0784299b626851a4171f0b04381fe7f06;F:
+mtimel+Q¢´e

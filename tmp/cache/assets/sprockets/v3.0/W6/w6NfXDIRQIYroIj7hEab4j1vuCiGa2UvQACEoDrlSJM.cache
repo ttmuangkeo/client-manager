@@ -1,0 +1,59 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/har-schema/package.json?type=application/json&id=a8487ceb50d72bd8deb00e1f579738841fa56d48d287579dfcb6baae8530fa2c:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/har-schema/package.json;T:	nameI"$node_modules/har-schema/package;T:logical_pathI")node_modules/har-schema/package.json;T:content_typeI"application/json;T:sourceI"[{
+  "version": "2.0.0",
+  "name": "har-schema",
+  "description": "JSON Schema for HTTP Archive (HAR)",
+  "author": "Ahmad Nassri <ahmad@ahmadnassri.com> (https://www.ahmadnassri.com/)",
+  "contributors": [
+    "Evgeny Poberezkin <e.poberezkin@me.com>"
+  ],
+  "homepage": "https://github.com/ahmadnassri/har-schema",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadnassri/har-schema.git"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "keywords": [
+    "har",
+    "http",
+    "archive",
+    "JSON",
+    "schema",
+    "JSON-schema"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "lib"
+  ],
+  "bugs": {
+    "url": "https://github.com/ahmadnassri/har-schema/issues"
+  },
+  "scripts": {
+    "test": "tap test --reporter spec",
+    "pretest": "snazzy && echint",
+    "coverage": "tap test --reporter silent --coverage",
+    "codeclimate": "tap --coverage-report=text-lcov | codeclimate-test-reporter",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "ajv": "^5.0.0",
+    "codeclimate-test-reporter": "^0.4.0",
+    "cz-conventional-changelog": "^1.2.0",
+    "echint": "^2.1.0",
+    "semantic-release": "^6.3.2",
+    "snazzy": "^5.0.0",
+    "tap": "^8.0.1"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/har-schema/package.json;TTF:charsetI"
+utf-8;F:digest"%NŽ[G‚W²¬]‘…©­?ˆŠh}
+õåÑ´Jé¸–¬:lengthi[:dependencies_digest"% Ž‰:·2~€,´/gm%ÇšSÕòJ<;¡7¼\î´Ü:idI"Ea8487ceb50d72bd8deb00e1f579738841fa56d48d287579dfcb6baae8530fa2c;F:
+mtimel+Q¢´e

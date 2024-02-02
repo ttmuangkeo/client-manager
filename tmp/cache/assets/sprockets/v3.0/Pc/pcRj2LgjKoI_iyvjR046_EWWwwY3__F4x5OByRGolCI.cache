@@ -1,0 +1,73 @@
+{:uriI"±file://app/assets/javascripts/node_modules/bl/node_modules/readable-stream/package.json?type=application/json&id=8d15e4f4b97630e7bfd48263b38d7300e3235196a9b26a3f82a2301cc05f6002:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/node_modules/bl/node_modules/readable-stream/package.json;T:	nameI"9node_modules/bl/node_modules/readable-stream/package;T:logical_pathI">node_modules/bl/node_modules/readable-stream/package.json;T:content_typeI"application/json;T:sourceI"^{
+  "name": "readable-stream",
+  "version": "3.6.2",
+  "description": "Streams3, a user-land copy of the stream library from Node.js",
+  "main": "readable.js",
+  "engines": {
+    "node": ">= 6"
+  },
+  "dependencies": {
+    "inherits": "^2.0.3",
+    "string_decoder": "^1.1.1",
+    "util-deprecate": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.2.0",
+    "airtap": "0.0.9",
+    "assert": "^1.4.0",
+    "bl": "^2.0.0",
+    "deep-strict-equal": "^0.2.0",
+    "events.once": "^2.0.2",
+    "glob": "^7.1.2",
+    "gunzip-maybe": "^1.4.1",
+    "hyperquest": "^2.1.3",
+    "lolex": "^2.6.0",
+    "nyc": "^11.0.0",
+    "pump": "^3.0.0",
+    "rimraf": "^2.6.2",
+    "tap": "^12.0.0",
+    "tape": "^4.9.0",
+    "tar-fs": "^1.16.2",
+    "util-promisify": "^2.1.0"
+  },
+  "scripts": {
+    "test": "tap -J --no-esm test/parallel/*.js test/ours/*.js",
+    "ci": "TAP=1 tap --no-esm test/parallel/*.js test/ours/*.js | tee test.tap",
+    "test-browsers": "airtap --sauce-connect --loopback airtap.local -- test/browser.js",
+    "test-browser-local": "airtap --open --local -- test/browser.js",
+    "cover": "nyc npm test",
+    "report": "nyc report --reporter=lcov",
+    "update-browser-errors": "babel -o errors-browser.js errors.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodejs/readable-stream"
+  },
+  "keywords": [
+    "readable",
+    "stream",
+    "pipe"
+  ],
+  "browser": {
+    "util": false,
+    "worker_threads": false,
+    "./errors": "./errors-browser.js",
+    "./readable.js": "./readable-browser.js",
+    "./lib/internal/streams/from.js": "./lib/internal/streams/from-browser.js",
+    "./lib/internal/streams/stream.js": "./lib/internal/streams/stream-browser.js"
+  },
+  "nyc": {
+    "include": [
+      "lib/**.js"
+    ]
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"cfile-digest://app/assets/javascripts/node_modules/bl/node_modules/readable-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%Fž¨d}›ÍFA":)$Ý.}}›r†Y¶ñ,>i:lengthi^:dependencies_digest"%5Àæ6eóan×Âîs±÷ñ‰=Š³˜XÕ+ˆªÿRú&e:idI"E8d15e4f4b97630e7bfd48263b38d7300e3235196a9b26a3f82a2301cc05f6002;F:
+mtimel+R¢´e

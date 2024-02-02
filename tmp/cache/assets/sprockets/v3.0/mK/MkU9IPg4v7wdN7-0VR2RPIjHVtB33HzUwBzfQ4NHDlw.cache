@@ -1,0 +1,102 @@
+{:uriI"ºfile://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/cacache/package.json?type=application/json&id=32c55d2e7acb4389ad99a7a67fe95aba93afdd86163a68781234eb250a2b9a5d:ET:load_pathI"app/assets/javascripts;T:filenameI"`app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/cacache/package.json;T:	nameI"Dnode_modules/terser-webpack-plugin/node_modules/cacache/package;T:logical_pathI"Inode_modules/terser-webpack-plugin/node_modules/cacache/package.json;T:content_typeI"application/json;T:sourceI"Ω{
+  "name": "cacache",
+  "publishConfig": {
+    "tag": "legacy"
+  },
+  "version": "12.0.4",
+  "cache-version": {
+    "content": "2",
+    "index": "5"
+  },
+  "description": "Fast, fault-tolerant, cross-platform, disk-based, data-agnostic, content-addressable cache.",
+  "main": "index.js",
+  "files": [
+    "*.js",
+    "lib",
+    "locales"
+  ],
+  "scripts": {
+    "benchmarks": "node test/benchmarks",
+    "prerelease": "npm t",
+    "postrelease": "npm publish && git push --follow-tags",
+    "pretest": "standard",
+    "release": "standard-version -s",
+    "test": "cross-env CACACHE_UPDATE_LOCALE_FILES=true tap --coverage --nyc-arg=--all -J test/*.js",
+    "test-docker": "docker run -it --rm --name pacotest -v \"$PWD\":/tmp -w /tmp node:latest npm test"
+  },
+  "repository": "https://github.com/npm/cacache",
+  "keywords": [
+    "cache",
+    "caching",
+    "content-addressable",
+    "sri",
+    "sri hash",
+    "subresource integrity",
+    "cache",
+    "storage",
+    "store",
+    "file store",
+    "filesystem",
+    "disk cache",
+    "disk storage"
+  ],
+  "author": {
+    "name": "Kat March√°n",
+    "email": "kzm@sykosomatic.org",
+    "twitter": "maybekatz"
+  },
+  "contributors": [
+    {
+      "name": "Charlotte Spencer",
+      "email": "charlottelaspencer@gmail.com",
+      "twitter": "charlotteis"
+    },
+    {
+      "name": "Rebecca Turner",
+      "email": "me@re-becca.org",
+      "twitter": "ReBeccaOrg"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "chownr": "^1.1.1",
+    "figgy-pudding": "^3.5.1",
+    "glob": "^7.1.4",
+    "graceful-fs": "^4.1.15",
+    "infer-owner": "^1.0.3",
+    "lru-cache": "^5.1.1",
+    "mississippi": "^3.0.0",
+    "mkdirp": "^0.5.1",
+    "move-concurrently": "^1.0.1",
+    "promise-inflight": "^1.0.1",
+    "rimraf": "^2.6.3",
+    "ssri": "^6.0.1",
+    "unique-filename": "^1.1.1",
+    "y18n": "^4.0.0"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "chalk": "^2.4.2",
+    "cross-env": "^5.1.4",
+    "require-inject": "^1.4.4",
+    "standard": "^12.0.1",
+    "standard-version": "^6.0.1",
+    "tacks": "^1.3.0",
+    "tap": "^12.7.0"
+  },
+  "config": {
+    "nyc": {
+      "exclude": [
+        "node_modules/**",
+        "test/**"
+      ]
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"nfile-digest://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/cacache/package.json;TTF:charsetI"
+utf-8;F:digest"%ﬂ…ˆãìÎk)\/rœ‰
+Íäíù‘ïHòñÖëºC<:lengthiΩ:dependencies_digest"%˛˛St¡!äÄÆÜ{/√ﬂ`t6¯ÖlkËpJ.Ω<™=¨:idI"E32c55d2e7acb4389ad99a7a67fe95aba93afdd86163a68781234eb250a2b9a5d;F:
+mtimel+R¢¥e

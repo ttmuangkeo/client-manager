@@ -1,0 +1,46 @@
+{:uriI"®file://app/assets/javascripts/node_modules/postcss-normalize-whitespace/package.json?type=application/json&id=1284f25dd1e474bf048915ecbd2fe0199209fe594cef6429c9eebd826a93e1c7:ET:load_pathI"app/assets/javascripts;T:filenameI"Rapp/assets/javascripts/node_modules/postcss-normalize-whitespace/package.json;T:	nameI"6node_modules/postcss-normalize-whitespace/package;T:logical_pathI";node_modules/postcss-normalize-whitespace/package.json;T:content_typeI"application/json;T:sourceI"Š{
+  "name": "postcss-normalize-whitespace",
+  "version": "4.0.2",
+  "description": "Trim whitespace inside and around CSS rules & declarations.",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "dependencies": {
+    "postcss": "^7.0.0",
+    "postcss-value-parser": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"`file-digest://app/assets/javascripts/node_modules/postcss-normalize-whitespace/package.json;TTF:charsetI"
+utf-8;F:digest"%aÄ@=›­›Õæƒ:Àª¬|ÌäeÓvÍì!¹UĞ=:lengthiŠ:dependencies_digest"%ëyñ{÷G™5š"—õP
++0/Ú6l+æ°;:idI"E1284f25dd1e474bf048915ecbd2fe0199209fe594cef6429c9eebd826a93e1c7;F:
+mtimel+Q¢´e

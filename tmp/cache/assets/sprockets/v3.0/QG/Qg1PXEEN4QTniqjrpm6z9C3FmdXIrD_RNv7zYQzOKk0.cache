@@ -1,0 +1,82 @@
+{:uriI"†file://app/assets/javascripts/node_modules/normalize-path/package.json?type=application/json&id=08323ead525e08b554fbeb7e7be16ed18d989d0b7c9008d8e63142ff95750826:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/normalize-path/package.json;T:	nameI"(node_modules/normalize-path/package;T:logical_pathI"-node_modules/normalize-path/package.json;T:content_typeI"application/json;T:sourceI"Ç{
+  "name": "normalize-path",
+  "description": "Normalize slashes in a file path to be posix/unix-like forward slashes. Also condenses repeat slashes to a single slash and removes and trailing slashes, unless disabled.",
+  "version": "3.0.0",
+  "homepage": "https://github.com/jonschlinkert/normalize-path",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Blaine Bublitz (https://twitter.com/BlaineBublitz)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "jonschlinkert/normalize-path",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/normalize-path/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "minimist": "^1.2.0",
+    "mocha": "^3.5.3"
+  },
+  "keywords": [
+    "absolute",
+    "backslash",
+    "delimiter",
+    "file",
+    "file-path",
+    "filepath",
+    "fix",
+    "forward",
+    "fp",
+    "fs",
+    "normalize",
+    "path",
+    "relative",
+    "separator",
+    "slash",
+    "slashes",
+    "trailing",
+    "unix",
+    "urix"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "description": "Other useful path-related libraries:",
+      "list": [
+        "contains-path",
+        "is-absolute",
+        "is-relative",
+        "parse-filepath",
+        "path-ends-with",
+        "path-ends-with",
+        "unixify"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/normalize-path/package.json;TTF:charsetI"
+utf-8;F:digest"%(N§E†EJ±#ZE˛Y#pêÅ_JuµMo∫:lengthiÇ:dependencies_digest"%¢Í◊w¯iõp°Ùlôêkp"*(ÈTÜ=ZOû¨z:idI"E08323ead525e08b554fbeb7e7be16ed18d989d0b7c9008d8e63142ff95750826;F:
+mtimel+Q¢¥e

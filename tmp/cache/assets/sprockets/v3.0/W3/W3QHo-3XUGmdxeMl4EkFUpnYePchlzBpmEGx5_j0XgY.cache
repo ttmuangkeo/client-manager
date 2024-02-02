@@ -1,0 +1,51 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/param-case/package.json?type=application/json&id=e69736ad10dbf62adf490430e0f490b9e7d369417def6480a6afbc2d2746a169:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/param-case/package.json;T:	nameI"$node_modules/param-case/package;T:logical_pathI")node_modules/param-case/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "param-case",
+  "version": "2.1.1",
+  "description": "Param case a string",
+  "main": "param-case.js",
+  "typings": "param-case.d.ts",
+  "files": [
+    "param-case.js",
+    "param-case.d.ts",
+    "LICENSE"
+  ],
+  "scripts": {
+    "lint": "standard",
+    "test-std": "mocha -- -R spec --bail",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec --bail",
+    "test": "npm run lint && npm run test-cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/param-case.git"
+  },
+  "keywords": [
+    "param",
+    "case",
+    "dash",
+    "hyphen"
+  ],
+  "author": {
+    "name": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/param-case/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/param-case",
+  "devDependencies": {
+    "istanbul": "^0.4.3",
+    "mocha": "^3.2.0",
+    "standard": "^9.0.1"
+  },
+  "dependencies": {
+    "no-case": "^2.2.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/param-case/package.json;TTF:charsetI"
+utf-8;F:digest"%¸ao÷∞∆˙:%ÊªÈO}ü∑∆ne≤8i÷˙ÆxáÑ:lengthi:dependencies_digest"%b/ÓaŒ{¿åù^ä´ÜòÄŒ ,ú8Íﬁ:C'–•::idI"Ee69736ad10dbf62adf490430e0f490b9e7d369417def6480a6afbc2d2746a169;F:
+mtimel+Q¢¥e

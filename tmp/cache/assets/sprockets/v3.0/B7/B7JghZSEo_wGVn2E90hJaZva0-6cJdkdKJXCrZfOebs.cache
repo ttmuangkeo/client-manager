@@ -1,0 +1,40 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/@types/minimatch/package.json?type=application/json&id=7e56f23fb7a77a2557f044bbfd85f6d0fb6223bc4c89414e4c2ec9c97db90c85:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/@types/minimatch/package.json;T:	nameI"*node_modules/@types/minimatch/package;T:logical_pathI"/node_modules/@types/minimatch/package.json;T:content_typeI"application/json;T:sourceI"O{
+    "name": "@types/minimatch",
+    "version": "5.1.2",
+    "description": "TypeScript definitions for minimatch",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/minimatch",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "vvakame",
+            "url": "https://github.com/vvakame",
+            "githubUsername": "vvakame"
+        },
+        {
+            "name": "Shant Marouti",
+            "url": "https://github.com/shantmarouti",
+            "githubUsername": "shantmarouti"
+        },
+        {
+            "name": "BendingBender",
+            "url": "https://github.com/BendingBender",
+            "githubUsername": "BendingBender"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/minimatch"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "266f2226f04264f59fb2aeb3afc253d311ddd99b4ae8534d2e27f8a1379203e4",
+    "typeScriptVersion": "4.1"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/@types/minimatch/package.json;TTF:charsetI"
+utf-8;F:digest"%⁄√OÅ˚´⁄‰~#î¯£7wßAÌD”§P‡Àò:lengthiO:dependencies_digest"%4n%k„tƒ/u≠ÂT$’∫∂|ÿ/T—Üûª
+|dN4:idI"E7e56f23fb7a77a2557f044bbfd85f6d0fb6223bc4c89414e4c2ec9c97db90c85;F:
+mtimel+Q¢¥e

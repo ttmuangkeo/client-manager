@@ -1,0 +1,41 @@
+{:uriI"–file://app/assets/javascripts/node_modules/uniq/package.json?type=application/json&id=19d0aa3fad72d8823081922ceb0d81ca345730e595ace8cb2dab6a6c3740db24:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/uniq/package.json;T:	nameI"node_modules/uniq/package;T:logical_pathI"#node_modules/uniq/package.json;T:content_typeI"application/json;T:sourceI"¦{
+  "name": "uniq",
+  "version": "1.0.1",
+  "description": "Removes duplicates from a sorted array in place",
+  "main": "uniq.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^2.12.3"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/uniq.git"
+  },
+  "keywords": [
+    "array",
+    "duplicate",
+    "unique",
+    "uniq",
+    "remove",
+    "sort",
+    "in",
+    "place",
+    "no",
+    "copy"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "e9828cfcb97e25a351f95b39fdf3c31876ff3985"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/uniq/package.json;TTF:charsetI"
+utf-8;F:digest"%¢7m•á¦ªkcQü)k#Â<‹ÊB5ý±cÎø‚:lengthi¦:dependencies_digest"%»›SvŒ\ÈÉ‹M†¢bDÇ–VifØbÞ¦´]yÎ‡Æ':idI"E19d0aa3fad72d8823081922ceb0d81ca345730e595ace8cb2dab6a6c3740db24;F:
+mtimel+Q¢´e

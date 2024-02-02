@@ -1,0 +1,45 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/spdx-license-ids/package.json?type=application/json&id=f3ddc7cea42e189300a175b7fbff3d0153958816dc61d26bd416b740e181a607:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/spdx-license-ids/package.json;T:	nameI"*node_modules/spdx-license-ids/package;T:logical_pathI"/node_modules/spdx-license-ids/package.json;T:content_typeI"application/json;T:sourceI"Ù{
+	"name": "spdx-license-ids",
+	"version": "3.0.16",
+	"description": "A list of SPDX license identifiers",
+	"repository": "jslicense/spdx-license-ids",
+	"author": "Shinnosuke Watanabe (https://github.com/shinnn)",
+	"license": "CC0-1.0",
+	"scripts": {
+		"build": "node build.js",
+		"pretest": "eslint .",
+		"latest": "node latest.js",
+		"test": "node test.js"
+	},
+	"files": [
+		"deprecated.json",
+		"index.json"
+	],
+	"keywords": [
+		"spdx",
+		"license",
+		"licenses",
+		"id",
+		"identifier",
+		"identifiers",
+		"json",
+		"array",
+		"oss"
+	],
+	"devDependencies": {
+		"@shinnn/eslint-config": "^7.0.0",
+		"eslint": "^8.49.0",
+		"eslint-formatter-codeframe": "^7.32.1",
+		"rmfr": "^2.0.0",
+		"tape": "^5.6.6"
+	},
+	"eslintConfig": {
+		"extends": "@shinnn"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/spdx-license-ids/package.json;TTF:charsetI"
+utf-8;F:digest"%m“ˆÒAÕÏ∞‰·∏i
+^¢õk„ê,pX5ÿ®Jã:lengthiÙ:dependencies_digest"%HºUô[/i¥Ò“õ˝ÖnˆH›0S/©*Ç∆M˚ßå¸¸:idI"Ef3ddc7cea42e189300a175b7fbff3d0153958816dc61d26bd416b740e181a607;F:
+mtimel+Q¢¥e

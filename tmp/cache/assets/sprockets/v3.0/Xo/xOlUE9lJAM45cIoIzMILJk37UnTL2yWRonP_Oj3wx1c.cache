@@ -1,0 +1,49 @@
+{:uriI"¬file://app/assets/javascripts/node_modules/@webassemblyjs/wasm-parser/package.json?type=application/json&id=fe400a8bccc6f0b6cd044e29cdeb273f2c4168be17655198b074a2321f3e2e4d:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/@webassemblyjs/wasm-parser/package.json;T:	nameI"4node_modules/@webassemblyjs/wasm-parser/package;T:logical_pathI"9node_modules/@webassemblyjs/wasm-parser/package.json;T:content_typeI"application/json;T:sourceI"p{
+  "name": "@webassemblyjs/wasm-parser",
+  "version": "1.9.0",
+  "keywords": [
+    "webassembly",
+    "javascript",
+    "ast",
+    "parser",
+    "wasm"
+  ],
+  "description": "WebAssembly binary format parser",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/ast": "1.9.0",
+    "@webassemblyjs/helper-api-error": "1.9.0",
+    "@webassemblyjs/helper-wasm-bytecode": "1.9.0",
+    "@webassemblyjs/ieee754": "1.9.0",
+    "@webassemblyjs/leb128": "1.9.0",
+    "@webassemblyjs/utf8": "1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@webassemblyjs/helper-buffer": "1.9.0",
+    "@webassemblyjs/helper-test-framework": "1.9.0",
+    "@webassemblyjs/helper-wasm-bytecode": "1.7.7",
+    "@webassemblyjs/wasm-gen": "1.9.0",
+    "@webassemblyjs/wast-parser": "1.9.0",
+    "mamacro": "^0.0.7",
+    "wabt": "1.0.12"
+  },
+  "gitHead": "0440b420888c1f7701eb9762ec657775506b87d8"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"^file-digest://app/assets/javascripts/node_modules/@webassemblyjs/wasm-parser/package.json;TTF:charsetI"
+utf-8;F:digest"%Ú'Šš0âÑûñAa+½§	Ûåÿ:-]…:lengthip:dependencies_digest"%³l'»‘WÂÁCW_:ÿ!ù{¯Ú(ÉØ¯º½]ù¨¼âŸ:idI"Efe400a8bccc6f0b6cd044e29cdeb273f2c4168be17655198b074a2321f3e2e4d;F:
+mtimel+Q¢´e

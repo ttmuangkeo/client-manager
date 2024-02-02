@@ -1,0 +1,47 @@
+{:uriI"Ωfile://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pt_BR.json?type=application/json&id=3f57ab132318fd79fe97bdcca3ecae0d7bda0b4079a5aae282df5b286a11cde7:ET:load_pathI"app/assets/javascripts;T:filenameI"aapp/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pt_BR.json;T:	nameI"Enode_modules/webpack-dev-server/node_modules/yargs/locales/pt_BR;T:logical_pathI"Jnode_modules/webpack-dev-server/node_modules/yargs/locales/pt_BR.json;T:content_typeI"application/json;T:sourceI"÷{
+  "Commands:": "Comandos:",
+  "Options:": "Op√ß√µes:",
+  "Examples:": "Exemplos:",
+  "boolean": "booleano",
+  "count": "contagem",
+  "string": "string",
+  "number": "n√∫mero",
+  "array": "array",
+  "required": "obrigat√≥rio",
+  "default:": "padr√£o:",
+  "choices:": "op√ß√µes:",
+  "aliases:": "sin√¥nimos:",
+  "generated-value": "valor-gerado",
+  "Not enough non-option arguments: got %s, need at least %s": "Argumentos insuficientes: Argumento %s, necess√°rio pelo menos %s",
+  "Too many non-option arguments: got %s, maximum of %s": "Excesso de argumentos: recebido %s, m√°ximo de %s",
+  "Missing argument value: %s": {
+    "one": "Falta valor de argumento: %s",
+    "other": "Falta valores de argumento: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Falta argumento obrigat√≥rio: %s",
+    "other": "Faltando argumentos obrigat√≥rios: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Argumento desconhecido: %s",
+    "other": "Argumentos desconhecidos: %s"
+  },
+  "Invalid values:": "Valores inv√°lidos:",
+  "Argument: %s, Given: %s, Choices: %s": "Argumento: %s, Dado: %s, Op√ß√µes: %s",
+  "Argument check failed: %s": "Verifica√ß√£o de argumento falhou: %s",
+  "Implications failed:": "Implica√ß√µes falharam:",
+  "Not enough arguments following: %s": "Argumentos insuficientes a seguir: %s",
+  "Invalid JSON config file: %s": "Arquivo JSON de configura√ß√£o inv√°lido: %s",
+  "Path to JSON config file": "Caminho para o arquivo JSON de configura√ß√£o",
+  "Show help": "Exibe ajuda",
+  "Show version number": "Exibe a vers√£o",
+  "Did you mean %s?": "Voc√™ quis dizer %s?",
+  "Arguments %s and %s are mutually exclusive" : "Argumentos %s e %s s√£o mutualmente exclusivos",
+  "Positionals:": "Posicionais:",
+  "command": "comando"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ofile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pt_BR.json;TTF:charsetI"
+utf-8;F:digest"%¿∂»ÔK@/»8,F°˙”‚ÉÍxáES4"œ@3!:lengthi÷:dependencies_digest"%§knB€˛€ú6kÒ@ª==§ÆPﬂq|ıK^—ÈùÕ:idI"E3f57ab132318fd79fe97bdcca3ecae0d7bda0b4079a5aae282df5b286a11cde7;F:
+mtimel+S¢¥e

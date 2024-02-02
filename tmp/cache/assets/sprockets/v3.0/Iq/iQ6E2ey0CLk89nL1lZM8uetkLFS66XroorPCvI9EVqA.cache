@@ -1,0 +1,46 @@
+{:uriI"¶file://app/assets/javascripts/node_modules/escape-string-regexp/package.json?type=application/json&id=668baf164be60b170704ebd234271e858c849c061759e93cd557d056df8e64e8:ET:load_pathI"app/assets/javascripts;T:filenameI"Japp/assets/javascripts/node_modules/escape-string-regexp/package.json;T:	nameI".node_modules/escape-string-regexp/package;T:logical_pathI"3node_modules/escape-string-regexp/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "escape-string-regexp",
+  "version": "1.0.5",
+  "description": "Escape RegExp special characters",
+  "license": "MIT",
+  "repository": "sindresorhus/escape-string-regexp",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    "Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
+    "Joshua Boy Nicolai Appelman <joshua@jbna.nl> (jbna.nl)"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "escape",
+    "regex",
+    "regexp",
+    "re",
+    "regular",
+    "expression",
+    "string",
+    "str",
+    "special",
+    "characters"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Xfile-digest://app/assets/javascripts/node_modules/escape-string-regexp/package.json;TTF:charsetI"
+utf-8;F:digest"%»Ú(›M;ê¨69Úªd÷-hS™ß¬Ö_Ω`˝:lengthi:dependencies_digest"%®òÛÕ$∂ŒíFÆ4¶¥HVÍ›é·›;H¢8ré˜‘:idI"E668baf164be60b170704ebd234271e858c849c061759e93cd557d056df8e64e8;F:
+mtimel+Q¢¥e

@@ -1,0 +1,53 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/svgo/node_modules/domutils/package.json?type=application/json&id=913b19544fd1cd4e66d787fcdbe097616462b7e161db50a7c3205627267b2d3e:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/svgo/node_modules/domutils/package.json;T:	nameI"4node_modules/svgo/node_modules/domutils/package;T:logical_pathI"9node_modules/svgo/node_modules/domutils/package.json;T:content_typeI"application/json;T:sourceI"À{
+  "name": "domutils",
+  "version": "1.7.0",
+  "description": "utilities for working with htmlparser2's dom",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha test/tests/**.js && jshint index.js test/**/*.js lib/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FB55/domutils.git"
+  },
+  "keywords": [
+    "dom",
+    "htmlparser2"
+  ],
+  "dependencies": {
+    "dom-serializer": "0",
+    "domelementtype": "1"
+  },
+  "devDependencies": {
+    "htmlparser2": "~3.9.2",
+    "domhandler": "2",
+    "jshint": "~2.9.4",
+    "mocha": "~3.2.0"
+  },
+  "author": "Felix Boehm <me@feedic.com>",
+  "license": "BSD-2-Clause",
+  "jshintConfig": {
+    "proto": true,
+    "unused": true,
+    "eqnull": true,
+    "undef": true,
+    "quotmark": "double",
+    "eqeqeq": true,
+    "trailing": true,
+    "node": true,
+    "globals": {
+      "describe": true,
+      "it": true,
+      "beforeEach": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"^file-digest://app/assets/javascripts/node_modules/svgo/node_modules/domutils/package.json;TTF:charsetI"
+utf-8;F:digest"%vGu◊À€°uÖ˝ÄΩ©‹òf8º Ä¡!µ>K§Ï_éÈ
+:lengthiÀ:dependencies_digest"%sÁ¿Ñ^~I¸∏êóÎ•Óé8]ëód˝åz÷	4Û2l:idI"E913b19544fd1cd4e66d787fcdbe097616462b7e161db50a7c3205627267b2d3e;F:
+mtimel+Q¢¥e

@@ -1,0 +1,56 @@
+{:uriI"file://app/assets/javascripts/node_modules/log-symbols/package.json?type=application/json&id=c88d27692b5e109e84025f3b3e4b22d22a103ead79e8aa5ea7329661ce254eb8:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/log-symbols/package.json;T:	nameI"%node_modules/log-symbols/package;T:logical_pathI"*node_modules/log-symbols/package.json;T:content_typeI"application/json;T:sourceI"{
+	"name": "log-symbols",
+	"version": "2.2.0",
+	"description": "Colored symbols for various log levels. Example: âœ”ï¸ Success",
+	"license": "MIT",
+	"repository": "sindresorhus/log-symbols",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js",
+		"browser.js"
+	],
+	"keywords": [
+		"unicode",
+		"cli",
+		"cmd",
+		"command-line",
+		"characters",
+		"char",
+		"symbol",
+		"symbols",
+		"figure",
+		"figures",
+		"fallback",
+		"win",
+		"windows",
+		"log",
+		"logging",
+		"terminal",
+		"stdout"
+	],
+	"dependencies": {
+		"chalk": "^2.0.1"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"strip-ansi": "^4.0.0",
+		"xo": "*"
+	},
+	"browser": "browser.js"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/log-symbols/package.json;TTF:charsetI"
+utf-8;F:digest"%(kİ	fñğ4Š:óŞH¨3VA¸M?öû|µ:lengthi:dependencies_digest"%—‚¼˜;xƒ¢’Ñ^ÜlQYR‹šR6Ú¹öªµİ
+ô:idI"Ec88d27692b5e109e84025f3b3e4b22d22a103ead79e8aa5ea7329661ce254eb8;F:
+mtimel+Q¢´e

@@ -1,0 +1,45 @@
+{:uriI"£file://app/assets/javascripts/node_modules/require-directory/package.json?type=application/json&id=696a06a652ffdd4939318eadf07f19ea01ea4f8711dc5f49bd3b3fed22ca33b5:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/require-directory/package.json;T:	nameI"+node_modules/require-directory/package;T:logical_pathI"0node_modules/require-directory/package.json;T:content_typeI"application/json;T:sourceI"	{
+  "author": "Troy Goode <troygoode@gmail.com> (http://github.com/troygoode/)",
+  "name": "require-directory",
+  "version": "2.1.1",
+  "description": "Recursively iterates over specified directory, require()'ing each file, and returning a nested hash structure containing those modules.",
+  "keywords": [
+    "require",
+    "directory",
+    "library",
+    "recursive"
+  ],
+  "homepage": "https://github.com/troygoode/node-require-directory/",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/troygoode/node-require-directory.git"
+  },
+  "contributors": [
+    {
+      "name": "Troy Goode",
+      "email": "troygoode@gmail.com",
+      "web": "http://github.com/troygoode/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/troygoode/node-require-directory/issues/"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "jshint index.js test/test.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ufile-digest://app/assets/javascripts/node_modules/require-directory/package.json;TTF:charsetI"
+utf-8;F:digest"%VêΩ›÷ÎJΩy_•1ù˜U"yPç˘’b’q„-ﬂÛZq:lengthi	:dependencies_digest"%kaöÄ°»ÖLÆD⁄ílñ∑ûG≥h`98õ”–ã«Aä‰:idI"E696a06a652ffdd4939318eadf07f19ea01ea4f8711dc5f49bd3b3fed22ca33b5;F:
+mtimel+Q¢¥e

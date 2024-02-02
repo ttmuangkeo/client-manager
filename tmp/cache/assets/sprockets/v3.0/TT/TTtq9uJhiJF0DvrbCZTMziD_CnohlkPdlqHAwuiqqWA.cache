@@ -1,0 +1,36 @@
+{:uriI"¥file://app/assets/javascripts/node_modules/vee-validate/dist/locale/de.json?type=application/json&id=70b01eb434aa3a7002ad632d2e26a1e38c3d351c6627f18893668d5d640a70fd:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/de.json;T:	nameI"-node_modules/vee-validate/dist/locale/de;T:logical_pathI"2node_modules/vee-validate/dist/locale/de.json;T:content_typeI"application/json;T:sourceI"½{
+  "code": "de",
+  "messages": {
+    "alpha": "{_field_} darf nur alphabetische Zeichen enthalten",
+    "alpha_dash": "{_field_} darf alphanumerische Zeichen sowie Striche und Unterstriche enthalten",
+    "alpha_num": "{_field_} darf nur alphanumerische Zeichen enthalten",
+    "alpha_spaces": "{_field_} darf nur alphanumerische Zeichen und Leerzeichen enthalten",
+    "between": "{_field_} muss zwischen {min} und {max} liegen",
+    "confirmed": "Die BestÃ¤tigung von {_field_} stimmt nicht Ã¼berein",
+    "digits": "{_field_} muss numerisch sein und exakt {length} Ziffern enthalten",
+    "dimensions": "{_field_} muss {width} x {height} Bildpunkte groÃŸ sein",
+    "email": "{_field_} muss eine gÃ¼ltige E-Mail-Adresse sein",
+    "excluded": "{_field_} muss ein gÃ¼ltiger Wert sein",
+    "ext": "{_field_} muss eine gÃ¼ltige Datei sein",
+    "image": "{_field_} muss eine Grafik sein",
+    "oneOf": "{_field_} muss ein gÃ¼ltiger Wert sein",
+    "integer": "{_field_} muss eine ganze Zahl sein",
+    "length": "Die LÃ¤nge von {_field_} muss {length} sein",
+    "max": "{_field_} darf nicht lÃ¤nger als {length} Zeichen sein",
+    "max_value": "{_field_} darf maximal {max} sein",
+    "mimes": "{_field_} muss einen gÃ¼ltigen Dateityp haben",
+    "min": "{_field_} muss mindestens {length} Zeichen lang sein",
+    "min_value": "{_field_} muss mindestens {min} sein",
+    "numeric": "{_field_} darf nur numerische Zeichen enthalten",
+    "regex": "Das Format von {_field_} ist ungÃ¼ltig",
+    "required": "{_field_} ist ein Pflichtfeld",
+    "required_if": "{_field_} ist ein Pflichtfeld",
+    "size": "{_field_} muss kleiner als {size}KB sein",
+    "double": "Das Feld {_field_} muss eine gÃ¼ltige Dezimalzahl sein"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/de.json;TTF:charsetI"
+utf-8;F:digest"%’Âÿšú8y]¤AüÌê ùİyéZxÓ¯¹E¼äB¢’ :lengthi½:dependencies_digest"%3C#û”M	ÂÑxÿè»ğà°ÈjÀâ˜àîÕÓÒè‚®—:idI"E70b01eb434aa3a7002ad632d2e26a1e38c3d351c6627f18893668d5d640a70fd;F:
+mtimel+S¢´e

@@ -1,0 +1,60 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/d3-chord/package.json?type=application/json&id=cf38a05230cb5ee46d9aeaebb7e53f6ca29a024f1aff9d0829d8dc4731e46cbc:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/d3-chord/package.json;T:	nameI""node_modules/d3-chord/package;T:logical_pathI"'node_modules/d3-chord/package.json;T:content_typeI"application/json;T:sourceI"ƒ{
+  "name": "d3-chord",
+  "version": "3.0.1",
+  "description": "Visualize relationships or network flow with an aesthetically-pleasing circular layout.",
+  "homepage": "https://d3js.org/d3-chord/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-chord.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "chord",
+    "radial",
+    "network",
+    "flow"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-chord.min.js",
+  "unpkg": "dist/d3-chord.min.js",
+  "exports": {
+    "umd": "./dist/d3-chord.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "d3-path": "1 - 3"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "mocha": "8",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/d3-chord/package.json;TTF:charsetI"
+utf-8;F:digest"%9dÒÝ¹x÷<n÷
+k|®Çj>ð‹®Vº	Z+ô:lengthiƒ:dependencies_digest"%™í~­"¨_Ó¹·E¥Q}iéd,KCÈQ’e˜©a:idI"Ecf38a05230cb5ee46d9aeaebb7e53f6ca29a024f1aff9d0829d8dc4731e46cbc;F:
+mtimel+R¢´e

@@ -1,0 +1,45 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/copy-webpack-plugin/node_modules/array-union/package.json?type=application/json&id=c62a51d0bb9220cefe5d8f27dcbe15033b616292072fa6b96ed516a09fbfc5f0:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/copy-webpack-plugin/node_modules/array-union/package.json;T:	nameI"Fnode_modules/copy-webpack-plugin/node_modules/array-union/package;T:logical_pathI"Knode_modules/copy-webpack-plugin/node_modules/array-union/package.json;T:content_typeI"application/json;T:sourceI"¼{
+  "name": "array-union",
+  "version": "1.0.2",
+  "description": "Create an array of unique values, in order, from the input arrays",
+  "license": "MIT",
+  "repository": "sindresorhus/array-union",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array",
+    "arr",
+    "set",
+    "uniq",
+    "unique",
+    "duplicate",
+    "remove",
+    "union",
+    "combine",
+    "merge"
+  ],
+  "dependencies": {
+    "array-uniq": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/copy-webpack-plugin/node_modules/array-union/package.json;TTF:charsetI"
+utf-8;F:digest"%Àš~ÀEc¼·rA­š7¹8$pe©RtıM‰Ø)ór:lengthi¼:dependencies_digest"%†Ã„eï5l	1$§Û…‚#yö+7[ÈIúb\ü!:idI"Ec62a51d0bb9220cefe5d8f27dcbe15033b616292072fa6b96ed516a09fbfc5f0;F:
+mtimel+Q¢´e

@@ -1,0 +1,33 @@
+{:uriI"°file://app/assets/javascripts/node_modules/css-color-names/package.json?type=application/json&id=38a41d09ebc822fe38dcf1e5f588581a257990e87b5b1d55b0f49db33a6712c8:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/css-color-names/package.json;T:	nameI")node_modules/css-color-names/package;T:logical_pathI".node_modules/css-color-names/package.json;T:content_typeI"application/json;T:sourceI"√{
+  "name": "css-color-names",
+  "description": "A JSON Object of css color names mapped to their hex value",
+  "version": "0.0.4",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "contributors": [],
+  "main": "./css-color-names.json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/css-color-names.git"
+  },
+  "scripts": {
+    "test": "for f in tests/*.js; do echo \"$f\"; node \"$f\" || exit 1; done; echo 'Passed!'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css", "colors", "names"
+  ],
+  "files": [
+    "css-color-names.json"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/css-color-names/package.json;TTF:charsetI"
+utf-8;F:digest"%_Ù∆Î´hë?âÇﬁ*∂Ù6T#y	3|‚ ∏qßà‘\:lengthi√:dependencies_digest"%hÙ≥vºùCX¡FíJ*dœ¢É6uòZcœ†FØGÀ|Å:idI"E38a41d09ebc822fe38dcf1e5f588581a257990e87b5b1d55b0f49db33a6712c8;F:
+mtimel+Q¢¥e

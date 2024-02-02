@@ -1,0 +1,61 @@
+{:uriI"•file://app/assets/javascripts/node_modules/opn/package.json?type=application/json&id=05e5755285f640f7d8c66fb2ca9ef70048f3b1b18a0382aada94b7c406baab5d:ET:load_pathI"app/assets/javascripts;T:filenameI"9app/assets/javascripts/node_modules/opn/package.json;T:	nameI"node_modules/opn/package;T:logical_pathI""node_modules/opn/package.json;T:content_typeI"application/json;T:sourceI"6{
+	"name": "opn",
+	"version": "5.5.0",
+	"description": "A better node-open. Opens stuff like websites, files, executables. Cross-platform.",
+	"license": "MIT",
+	"repository": "sindresorhus/opn",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo"
+	},
+	"files": [
+		"index.js",
+		"xdg-open"
+	],
+	"keywords": [
+		"app",
+		"open",
+		"opn",
+		"opener",
+		"opens",
+		"launch",
+		"start",
+		"xdg-open",
+		"xdg",
+		"default",
+		"cmd",
+		"browser",
+		"editor",
+		"executable",
+		"exe",
+		"url",
+		"urls",
+		"arguments",
+		"args",
+		"spawn",
+		"exec",
+		"child",
+		"process",
+		"website",
+		"file"
+	],
+	"dependencies": {
+		"is-wsl": "^1.1.0"
+	},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.20.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Gfile-digest://app/assets/javascripts/node_modules/opn/package.json;TTF:charsetI"
+utf-8;F:digest"%âğ´ @B‚AùBÇÚ©]LíZÜŠ0k"»±Ô:lengthi6:dependencies_digest"%W!!B©s|¤ÒTG§ÊÃ5ıèµ"áz„Éæ5:idI"E05e5755285f640f7d8c66fb2ca9ef70048f3b1b18a0382aada94b7c406baab5d;F:
+mtimel+Q¢´e

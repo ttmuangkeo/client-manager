@@ -1,0 +1,21 @@
+{:uriI"±file://app/assets/javascripts/node_modules/datamaps/src/js/components/d3/component.json?type=application/json&id=7c06e4076d865d975a2008ef134cdd5e240ba1fad9f5d2ec4291b7ec2c203e5d:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/node_modules/datamaps/src/js/components/d3/component.json;T:	nameI"9node_modules/datamaps/src/js/components/d3/component;T:logical_pathI">node_modules/datamaps/src/js/components/d3/component.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "name": "d3",
+  "version": "3.2.2",
+  "main": "index-browserify.js",
+  "scripts": [
+    "index-browserify.js",
+    "d3.js"
+  ],
+  "readme": "# Data-Driven Documents\n\n**D3.js** is a JavaScript library for manipulating documents based on data. **D3** helps you bring data to life using HTML, SVG and CSS. D3â€™s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.\n\nWant to learn more? [See the wiki.](https://github.com/mbostock/d3/wiki)\n\nFor examples, [see the gallery](https://github.com/mbostock/d3/wiki/Gallery) and [mbostockâ€™s bl.ocks](http://bl.ocks.org/mbostock).\n",
+  "readmeFilename": "README.md",
+  "_id": "d3@3.2.2",
+  "description": "**D3.js** is a JavaScript library for manipulating documents based on data. **D3** helps you bring data to life using HTML, SVG and CSS. D3â€™s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mbostock/d3.git"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"cfile-digest://app/assets/javascripts/node_modules/datamaps/src/js/components/d3/component.json;TTF:charsetI"
+utf-8;F:digest"%BåŒ‘Åİ0;’sJ¿t-—Y«ª#qHxéÎ¬ùı—ò?:lengthiÿ:dependencies_digest"%_@lŞOMeåóÉä¿º9Æä¶ÁlÖóŠÁÿª{D(İ:idI"E7c06e4076d865d975a2008ef134cdd5e240ba1fad9f5d2ec4291b7ec2c203e5d;F:
+mtimel+U¢´e

@@ -1,0 +1,67 @@
+{:uriI"πfile://app/assets/javascripts/node_modules/bootstrap-vue/src/components/breadcrumb/package.json?type=application/json&id=3863679bb3399990cabf1808eaa7280b4f50844eaa3ed28a2e25b49fb04152ca:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/bootstrap-vue/src/components/breadcrumb/package.json;T:	nameI"Anode_modules/bootstrap-vue/src/components/breadcrumb/package;T:logical_pathI"Fnode_modules/bootstrap-vue/src/components/breadcrumb/package.json;T:content_typeI"application/json;T:sourceI"À{
+  "name": "@bootstrap-vue/breadcrumb",
+  "version": "1.0.0",
+  "meta": {
+    "title": "Breadcrumb",
+    "description": "Indicate the current page's location within a navigational hierarchy. Separators are automatically added in CSS through ::before and content.",
+    "components": [
+      {
+        "component": "BBreadcrumb",
+        "props": [
+          {
+            "prop": "items",
+            "description": "Array of breadcrumb items to render"
+          }
+        ],
+        "slots": [
+          {
+            "name": "default",
+            "description": "Content (breadcrumb items) to place in the breadcrumb"
+          }
+        ]
+      },
+      {
+        "component": "BBreadcrumbItem",
+        "props": [
+          {
+            "prop": "ariaCurrent",
+            "description": "Sets the value of the 'aria-current' attribute (when the item is the active item). Supported string values are 'location', 'page', or 'true'"
+          },
+          {
+            "prop": "html",
+            "description": "HTML string to render in the breadcrumb item",
+            "xss": true
+          },
+          {
+            "prop": "text",
+            "description": "Text to render in the breadcrumb item"
+          }
+        ],
+        "events": [
+          {
+            "event": "click",
+            "description": "Emitted when clicked",
+            "args": [
+              {
+                "arg": "event",
+                "type": "MouseEvent",
+                "description": "Native click event object"
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "name": "default",
+            "description": "Content to place in the breadcrumb item"
+          }
+        ]
+      }
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/bootstrap-vue/src/components/breadcrumb/package.json;TTF:charsetI"
+utf-8;F:digest"%ºBL@}	TBDù≥Xz◊œ=¢L	ﬁø˚,cRâÿ:lengthiÀ:dependencies_digest"%B¯÷âø§œ‚°!'Û•û≤hdk’∆uıôıcø¡n:idI"E3863679bb3399990cabf1808eaa7280b4f50844eaa3ed28a2e25b49fb04152ca;F:
+mtimel+U¢¥e

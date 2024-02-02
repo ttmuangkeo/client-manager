@@ -1,0 +1,53 @@
+{:uriI"—file://app/assets/javascripts/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/package.json?type=application/json&id=7f7bfa65b3bb18382c2452901c48ea706b03797908f5d2b87a1bd6fe0618ef7f:ET:load_pathI"app/assets/javascripts;T:filenameI"uapp/assets/javascripts/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/package.json;T:	nameI"Ynode_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/package;T:logical_pathI"^node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/package.json;T:content_typeI"application/json;T:sourceI";{
+  "name": "color-convert",
+  "description": "Plain color conversion functions",
+  "version": "2.0.1",
+  "author": "Heather Arthur <fayearthur@gmail.com>",
+  "license": "MIT",
+  "repository": "Qix-/color-convert",
+  "scripts": {
+    "pretest": "xo",
+    "test": "node test/basic.js"
+  },
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "convert",
+    "converter",
+    "conversion",
+    "rgb",
+    "hsl",
+    "hsv",
+    "hwb",
+    "cmyk",
+    "ansi",
+    "ansi16"
+  ],
+  "files": [
+    "index.js",
+    "conversions.js",
+    "route.js"
+  ],
+  "xo": {
+    "rules": {
+      "default-case": 0,
+      "no-inline-comments": 0,
+      "operator-linebreak": 0
+    }
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "xo": "^0.24.0"
+  },
+  "dependencies": {
+    "color-name": "~1.1.4"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"~file-digest://app/assets/javascripts/node_modules/@soda/friendly-errors-webpack-plugin/node_modules/color-convert/package.json;TTF:charsetI"
+utf-8;F:digest"%îq“D 17AH⁄k;◊≥ÈBÌŒ;ÇÎÀ¯OÆ˜O¥:lengthi;:dependencies_digest"%:∂∑‡|ó‰cƒ^CÃßDyˆÃ:»—Y¥2:BÅQ:idI"E7f7bfa65b3bb18382c2452901c48ea706b03797908f5d2b87a1bd6fe0618ef7f;F:
+mtimel+Q¢¥e

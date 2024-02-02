@@ -1,0 +1,41 @@
+{:uriI"†file://app/assets/javascripts/node_modules/simple-swizzle/package.json?type=application/json&id=a1980ecf5b8354264e3fd8552ee3e202c83d0372419d37bc173ee70d2c41c582:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/simple-swizzle/package.json;T:	nameI"(node_modules/simple-swizzle/package;T:logical_pathI"-node_modules/simple-swizzle/package.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name": "simple-swizzle",
+  "description": "Simply swizzle your arguments",
+  "version": "0.2.2",
+  "author": "Qix (http://github.com/qix-)",
+  "keywords": [
+    "argument",
+    "arguments",
+    "swizzle",
+    "swizzling",
+    "parameter",
+    "parameters",
+    "mixed",
+    "array"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "pretest": "xo",
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": "qix-/node-simple-swizzle",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "should": "^7.0.1",
+    "xo": "^0.7.1"
+  },
+  "dependencies": {
+    "is-arrayish": "^0.3.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/simple-swizzle/package.json;TTF:charsetI"
+utf-8;F:digest"%+&L∆™ıèåÑ»¶qûLSOôuﬂÀo≥Êk∏S:lengthi÷:dependencies_digest"%.dé*π¬≠¯A∆ùµöÆÄKr!Àíå‰x¬Õ.îß!:idI"Ea1980ecf5b8354264e3fd8552ee3e202c83d0372419d37bc173ee70d2c41c582;F:
+mtimel+Q¢¥e

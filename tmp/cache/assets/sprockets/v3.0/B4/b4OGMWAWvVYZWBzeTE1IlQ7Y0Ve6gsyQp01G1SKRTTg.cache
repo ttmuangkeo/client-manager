@@ -1,0 +1,37 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/@babel/helper-remap-async-to-generator/package.json?type=application/json&id=d516693066291a53d6592241375b2f9a7b44e2260acffb1655a80663fbe27e03:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/@babel/helper-remap-async-to-generator/package.json;T:	nameI"@node_modules/@babel/helper-remap-async-to-generator/package;T:logical_pathI"Enode_modules/@babel/helper-remap-async-to-generator/package.json;T:content_typeI"application/json;T:sourceI"§{
+  "name": "@babel/helper-remap-async-to-generator",
+  "version": "7.22.20",
+  "description": "Helper function to remap async functions to generators",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-remap-async-to-generator"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-helper-remap-async-to-generator",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/helper-annotate-as-pure": "^7.22.5",
+    "@babel/helper-environment-visitor": "^7.22.20",
+    "@babel/helper-wrap-function": "^7.22.20"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.20",
+    "@babel/traverse": "^7.22.20"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/@babel/helper-remap-async-to-generator/package.json;TTF:charsetI"
+utf-8;F:digest"%¦Góğêƒ¥é;C›ÑL_e@²5Í¤RN3dÆ;:lengthi§:dependencies_digest"%Ãß~½U4z‰L˜ámŸKõ3”H\¼$*0¬ë_=6½ÙP:idI"Ed516693066291a53d6592241375b2f9a7b44e2260acffb1655a80663fbe27e03;F:
+mtimel+Q¢´e

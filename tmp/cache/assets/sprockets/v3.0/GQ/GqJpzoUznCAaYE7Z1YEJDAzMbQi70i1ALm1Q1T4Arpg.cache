@@ -1,0 +1,43 @@
+{:uriI"•file://app/assets/javascripts/node_modules/clipboard/demo/target-input-number.html?type=text/html&id=f5dd18c198a52c7e86631a6d615aa304c5495a7923b5d18fd634a0d572c14cc7:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/clipboard/demo/target-input-number.html;T:	nameI"4node_modules/clipboard/demo/target-input-number;T:logical_pathI"9node_modules/clipboard/demo/target-input-number.html;T:content_typeI"text/html;T:sourceI"<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>target-input-number</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <!-- 1. Define some markup -->
+    <input id="foo" type="number" value="0" />
+    <button
+      class="btn"
+      data-clipboard-action="copy"
+      data-clipboard-target="#foo"
+    >
+      Copy
+    </button>
+
+    <!-- 2. Include library -->
+    <script src="../dist/clipboard.min.js"></script>
+
+    <!-- 3. Instantiate clipboard -->
+    <script>
+      var clipboard = new ClipboardJS('.btn');
+
+      clipboard.on('success', function (e) {
+        console.info('Action:', e.action);
+        console.info('Text:', e.text);
+        console.info('Trigger:', e.trigger);
+      });
+
+      clipboard.on('error', function (e) {
+        console.log(e);
+      });
+    </script>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"^file-digest://app/assets/javascripts/node_modules/clipboard/demo/target-input-number.html;TTF:charsetI"
+utf-8;F:digest"%Ì¥hä˜∂Íñ´•Ä–>ÑÃÖ)qêx¡ó}.§»zd:lengthi:dependencies_digest"%¶¶¨X˝W2%é"˛Åívx
+_.v}{@w7DVJYG:idI"Ef5dd18c198a52c7e86631a6d615aa304c5495a7923b5d18fd634a0d572c14cc7;F:
+mtimel+R¢¥e

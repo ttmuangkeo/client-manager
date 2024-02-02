@@ -1,0 +1,53 @@
+{:uriI"¹file://app/assets/javascripts/node_modules/@babel/plugin-syntax-unicode-sets-regex/package.json?type=application/json&id=f31005df25f5ce911ebe91b2fe763bb825c93cd9532562d9971e9e4d7e107890:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/@babel/plugin-syntax-unicode-sets-regex/package.json;T:	nameI"Anode_modules/@babel/plugin-syntax-unicode-sets-regex/package;T:logical_pathI"Fnode_modules/@babel/plugin-syntax-unicode-sets-regex/package.json;T:content_typeI"application/json;T:sourceI"É{
+  "name": "@babel/plugin-syntax-unicode-sets-regex",
+  "version": "7.18.6",
+  "description": "Parse regular expressions' unicodeSets (v) flag.",
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-syntax-unicode-sets-regex",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin",
+    "regex",
+    "regexp",
+    "unicode",
+    "sets",
+    "properties",
+    "property",
+    "string",
+    "strings",
+    "regular expressions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-syntax-unicode-sets-regex"
+  },
+  "bugs": "https://github.com/babel/babel/issues",
+  "dependencies": {
+    "@babel/helper-create-regexp-features-plugin": "^7.18.6",
+    "@babel/helper-plugin-utils": "^7.18.6"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/helper-plugin-test-runner": "^7.18.6"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-unicode-sets-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%Ò#ıjø3Iğ~J>š§çíÃH´òJôy¬v²úŸ=:lengthiÉ:dependencies_digest"%Ú†ºmEµ Ïf¾"«4°IA~RÖG!ŠúÍúh:idI"Ef31005df25f5ce911ebe91b2fe763bb825c93cd9532562d9971e9e4d7e107890;F:
+mtimel+Q¢´e

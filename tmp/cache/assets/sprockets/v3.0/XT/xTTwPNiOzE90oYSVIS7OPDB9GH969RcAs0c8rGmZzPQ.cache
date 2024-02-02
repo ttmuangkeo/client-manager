@@ -1,0 +1,36 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/lv.json?type=application/json&id=e6762f13958a3d91b67e2ae417f1337a8ec962f480dd78c80702ba1330888bda:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/lv.json;T:	nameI"-node_modules/vee-validate/dist/locale/lv;T:logical_pathI"2node_modules/vee-validate/dist/locale/lv.json;T:content_typeI"application/json;T:sourceI"Z{
+  "code": "lv",
+  "messages": {
+    "alpha": " Laukā {_field_} var ievadīt tikai burtus",
+    "alpha_num": "Laukā {_field_} var ievadīt tikai burtus un ciparus",
+    "alpha_dash": "Laukā {_field_} var ievadīt tikai burtus, ciparus, domuzīmes un pasvītras",
+    "alpha_spaces": "Laukā {_field_} var ievadīt tikai burtus un atstarpes",
+    "between": "Lauka {_field_} vērtībai jābūt intervālā starp {min} un {max}",
+    "confirmed": "Apstiprinājuma lauka {_field_} vērtība nav korekta",
+    "digits": "Lauka {_field_} vērtību veido precīzs {length} ciparu skaits",
+    "dimensions": "Lauka  {_field_} izmērs ir {width} pikseļu platumā un {height} pikseļu augstumā",
+    "email": "Lauka {_field_} vērtībai jābūt derīgai e-pasta adresei",
+    "excluded": "Laukā {_field_} jāievada derīga vērtība",
+    "ext": "Lauka {_field_} vērtībai jābūt failam",
+    "image": "Lauka {_field_} vērtībai jābūt attēlam",
+    "integer": "Lauka {_field_} vērtībai jābūt veselam skaitlim",
+    "length": "Lauka {_field_} garumam jābūt {length}",
+    "max_value": "Lauka {_field_} vērtībai jābūt {max} vai mazākai",
+    "max": "Laukā {_field_} nevar ievadīt vairāk nekā {length} rakstzīmes",
+    "mimes": "Lauka {_field_} vērtībai jābūt failam",
+    "min_value": "Laukā {_field_} izmanto minimālo vērtību {min} vai lielāku",
+    "min": "Laukā {_field_} jāievada vismaz {length} rakstzīmes",
+    "numeric": "Laukā {_field_} var ievadīt tikai ciparus",
+    "oneOf": "Lauka {_field_} vērtībai jābūt derīgai",
+    "regex": "Lauka {_field_} formāts nav korekts",
+    "required": "Lauks {_field_} ir obligāti aizpildāms",
+    "required_if": "Lauks {_field_} ir obligāti aizpildāms",
+    "size": "Lauka {_field_} lielumam jābut mazākam nekā {size}KB",
+    "double": "Laukam {_field_} ir jābūt derīgam aiz komata"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/lv.json;TTF:charsetI"
+utf-8;F:digest"%T��w儝���Ω�����ڕE���y��D�:lengthiZ:dependencies_digest"%��N�'�.���oj��34>�Y��h���4�]�_:idI"Ee6762f13958a3d91b67e2ae417f1337a8ec962f480dd78c80702ba1330888bda;F:
+mtimel+S��e

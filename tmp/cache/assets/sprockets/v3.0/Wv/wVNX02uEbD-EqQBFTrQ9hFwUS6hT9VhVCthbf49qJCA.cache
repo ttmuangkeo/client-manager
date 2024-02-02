@@ -1,0 +1,37 @@
+{:uriI"°file://app/assets/javascripts/node_modules/flat-cache/node_modules/rimraf/package.json?type=application/json&id=5bcaa2788ba02cc01f59a5b06d68116b50558f8c738a62c86ab45ccd691b4e60:ET:load_pathI"app/assets/javascripts;T:filenameI"Tapp/assets/javascripts/node_modules/flat-cache/node_modules/rimraf/package.json;T:	nameI"8node_modules/flat-cache/node_modules/rimraf/package;T:logical_pathI"=node_modules/flat-cache/node_modules/rimraf/package.json;T:content_typeI"application/json;T:sourceI"Ù{
+  "name": "rimraf",
+  "version": "3.0.2",
+  "main": "rimraf.js",
+  "description": "A deep deletion module for node (like `rm -rf`)",
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC",
+  "repository": "git://github.com/isaacs/rimraf.git",
+  "scripts": {
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --follow-tags",
+    "test": "tap test/*.js"
+  },
+  "bin": "./bin.js",
+  "dependencies": {
+    "glob": "^7.1.3"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "bin.js",
+    "rimraf.js"
+  ],
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "tap": "^12.1.1"
+  },
+  "funding": {
+    "url": "https://github.com/sponsors/isaacs"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"bfile-digest://app/assets/javascripts/node_modules/flat-cache/node_modules/rimraf/package.json;TTF:charsetI"
+utf-8;F:digest"%þ¦ù\£_= ”b¾9û7X²ZôOu‘™W;Ñ#L:lengthiÙ:dependencies_digest"%ÊÐ´`®"Xè~Ð<Y­+©S´?œøë s«¶}BðÜ½:idI"E5bcaa2788ba02cc01f59a5b06d68116b50558f8c738a62c86ab45ccd691b4e60;F:
+mtimel+Q¢´e

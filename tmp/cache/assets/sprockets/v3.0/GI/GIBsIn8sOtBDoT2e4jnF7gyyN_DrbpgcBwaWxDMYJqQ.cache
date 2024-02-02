@@ -1,0 +1,36 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/@eslint/eslintrc/node_modules/argparse/package.json?type=application/json&id=9a806db1de71168f8ee565af15d308718356837dd33a7d920251e92b0610a9be:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/@eslint/eslintrc/node_modules/argparse/package.json;T:	nameI"@node_modules/@eslint/eslintrc/node_modules/argparse/package;T:logical_pathI"Enode_modules/@eslint/eslintrc/node_modules/argparse/package.json;T:content_typeI"application/json;T:sourceI"ª{
+  "name": "argparse",
+  "description": "CLI arguments parser. Native port of python's argparse.",
+  "version": "2.0.1",
+  "keywords": [
+    "cli",
+    "parser",
+    "argparse",
+    "option",
+    "args"
+  ],
+  "main": "argparse.js",
+  "files": [
+    "argparse.js",
+    "lib/"
+  ],
+  "license": "Python-2.0",
+  "repository": "nodeca/argparse",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && nyc mocha",
+    "coverage": "npm run test && nyc report --reporter html"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.11.0",
+    "@babel/plugin-syntax-class-properties": "^7.10.4",
+    "eslint": "^7.5.0",
+    "mocha": "^8.0.1",
+    "nyc": "^15.1.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/@eslint/eslintrc/node_modules/argparse/package.json;TTF:charsetI"
+utf-8;F:digest"%h‹¬â9+:A7ëV¼H¶„ÛõËV'×lÒìày:lengthiª:dependencies_digest"%`Æ6¨Ñ­æ44šÀÆãûh&	·¬ƒ¶…N_şá‰œïÓ:idI"E9a806db1de71168f8ee565af15d308718356837dd33a7d920251e92b0610a9be;F:
+mtimel+R¢´e

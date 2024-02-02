@@ -1,0 +1,61 @@
+{:uriI"†file://app/assets/javascripts/node_modules/dom-serializer/package.json?type=application/json&id=8507cefd8b70737b9af2339ed13c69171466454a9eabe96f12d1da1f04ebb361:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/dom-serializer/package.json;T:	nameI"(node_modules/dom-serializer/package;T:logical_pathI"-node_modules/dom-serializer/package.json;T:content_typeI"application/json;T:sourceI"i{
+  "name": "dom-serializer",
+  "version": "1.4.1",
+  "description": "render domhandler DOM nodes to a string",
+  "author": "Felix Boehm <me@feedic.com>",
+  "sideEffects": false,
+  "keywords": [
+    "html",
+    "xml",
+    "render"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cheeriojs/dom-renderer.git"
+  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "domelementtype": "^2.0.1",
+    "domhandler": "^4.2.0",
+    "entities": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.23.0",
+    "@typescript-eslint/parser": "^4.23.0",
+    "cheerio": "^1.0.0-rc.9",
+    "coveralls": "^3.0.5",
+    "eslint": "^7.26.0",
+    "eslint-config-prettier": "^8.3.0",
+    "htmlparser2": "^6.1.0",
+    "jest": "^26.0.1",
+    "prettier": "^2.3.0",
+    "ts-jest": "^26.5.6",
+    "typescript": "^4.0.2"
+  },
+  "scripts": {
+    "test": "jest --coverage && npm run lint",
+    "coverage": "cat coverage/lcov.info | coveralls",
+    "lint": "eslint src",
+    "format": "prettier --write '**/*.{ts,md,json}'",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
+  },
+  "funding": "https://github.com/cheeriojs/dom-serializer?sponsor=1",
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/dom-serializer/package.json;TTF:charsetI"
+utf-8;F:digest"%âÎó,ÆA.
+“ŒàìÕñ+‘MIæ8æÔÌ√ôÈªo:lengthii:dependencies_digest"%˙üpOÓG‹á|Åf∂bï≠˜X¨„‹±◊.*ÃhE£Mä:idI"E8507cefd8b70737b9af2339ed13c69171466454a9eabe96f12d1da1f04ebb361;F:
+mtimel+R¢¥e

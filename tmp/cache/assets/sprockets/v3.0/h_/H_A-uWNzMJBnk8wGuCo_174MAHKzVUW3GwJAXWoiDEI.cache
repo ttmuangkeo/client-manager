@@ -1,0 +1,27 @@
+{:uriI"≤file://app/assets/javascripts/node_modules/babel-helper-vue-jsx-merge-props/package.json?type=application/json&id=03c191ba8c2f8448aa06e6591591cbb216a2c4f7a55a6fc81b4c7f20757c7f14:ET:load_pathI"app/assets/javascripts;T:filenameI"Vapp/assets/javascripts/node_modules/babel-helper-vue-jsx-merge-props/package.json;T:	nameI":node_modules/babel-helper-vue-jsx-merge-props/package;T:logical_pathI"?node_modules/babel-helper-vue-jsx-merge-props/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "babel-helper-vue-jsx-merge-props",
+  "version": "2.0.3",
+  "description": "babel helper for vue jsx spread.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/babel-helper-vue-jsx-merge-props.git"
+  },
+  "keywords": [
+    "babel",
+    "vue",
+    "jsx"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/babel-helper-vue-jsx-merge-props/issues"
+  },
+  "homepage": "https://github.com/vuejs/babel-helper-vue-jsx-merge-props#readme"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"dfile-digest://app/assets/javascripts/node_modules/babel-helper-vue-jsx-merge-props/package.json;TTF:charsetI"
+utf-8;F:digest"%°Ë¥
+áN¶Ùp£z”My`=âbt™û!SÊ∑qöô:lengthi:dependencies_digest"%µfæBÏòyB3Å∫®˜©ûˆ‰–>A[©K÷Û∏O.E:idI"E03c191ba8c2f8448aa06e6591591cbb216a2c4f7a55a6fc81b4c7f20757c7f14;F:
+mtimel+Q¢¥e

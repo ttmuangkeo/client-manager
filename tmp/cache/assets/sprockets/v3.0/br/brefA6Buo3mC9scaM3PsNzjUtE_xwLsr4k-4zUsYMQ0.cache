@@ -1,0 +1,49 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/is-color-stop/package.json?type=application/json&id=fa3da1681a4fd1628b1a2e5ac01a960d9eb24a2916b281b0bd0bc09e4978f508:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/is-color-stop/package.json;T:	nameI"'node_modules/is-color-stop/package;T:logical_pathI",node_modules/is-color-stop/package.json;T:content_typeI"application/json;T:sourceI"c{
+  "name": "is-color-stop",
+  "description": "Check if a string is CSS color stop",
+  "version": "1.1.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc --reporter=lcov --reporter=text mocha",
+    "coveralls": "cat ./coverage/lcov.info | coveralls",
+    "lint": "eslint --ext .js lib util ./index.js"
+  },
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "mocha": "^3.4.2",
+    "nyc": "^11.0.3"
+  },
+  "dependencies": {
+    "css-color-names": "^0.0.4",
+    "hex-color-regex": "^1.1.0",
+    "hsl-regex": "^1.0.0",
+    "hsla-regex": "^1.0.0",
+    "rgb-regex": "^1.0.1",
+    "rgba-regex": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigcan/is-color-stop.git"
+  },
+  "keywords": [
+    "color-stop",
+    "is-color"
+  ],
+  "author": "pigcan <jiangjay818@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigcan/is-color-stop/issues"
+  },
+  "homepage": "https://github.com/pigcan/is-color-stop#readme"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/is-color-stop/package.json;TTF:charsetI"
+utf-8;F:digest"%ÂÑÝr9pÂj™a £Éy%7Ž%ê¨Ý×ã?:lengthic:dependencies_digest"%yà½ 1ËKdë¨Ç9Ñ¨`¼f0?ÚÌRþàÄßÎ:idI"Efa3da1681a4fd1628b1a2e5ac01a960d9eb24a2916b281b0bd0bc09e4978f508;F:
+mtimel+Q¢´e

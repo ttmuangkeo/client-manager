@@ -1,0 +1,36 @@
+{:uriI"Áfile://app/assets/javascripts/node_modules/@babel/plugin-syntax-private-property-in-object/package.json?type=application/json&id=717dae6822ee26e6c0278237ddaf1fab9f4dfb006c306b9310414a7a91c30964:ET:load_pathI"app/assets/javascripts;T:filenameI"eapp/assets/javascripts/node_modules/@babel/plugin-syntax-private-property-in-object/package.json;T:	nameI"Inode_modules/@babel/plugin-syntax-private-property-in-object/package;T:logical_pathI"Nnode_modules/@babel/plugin-syntax-private-property-in-object/package.json;T:content_typeI"application/json;T:sourceI"3{
+  "name": "@babel/plugin-syntax-private-property-in-object",
+  "version": "7.14.5",
+  "description": "Allow parsing of '#foo in obj' brand checks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-syntax-private-property-in-object"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-syntax-private-property-in-object",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.14.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"sfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-private-property-in-object/package.json;TTF:charsetI"
+utf-8;F:digest"%5¨‹¾ug8²M]­ÅIÃò¾”Øæ¾(Î7'Íã]¿:lengthi3:dependencies_digest"%Á‹+­~(;Õ–½õ¿ÞQªF)L(`(þT˜#:³²nû:idI"E717dae6822ee26e6c0278237ddaf1fab9f4dfb006c306b9310414a7a91c30964;F:
+mtimel+Q¢´e

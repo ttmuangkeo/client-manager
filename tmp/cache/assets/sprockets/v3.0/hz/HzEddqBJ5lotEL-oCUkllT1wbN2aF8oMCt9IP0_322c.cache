@@ -1,0 +1,43 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/google-maps/package.json?type=application/json&id=02e95770f0dfb7eda93a6643d16f89ab734a18b32455338f46a6be3bb7eb668d:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/google-maps/package.json;T:	nameI"%node_modules/google-maps/package;T:logical_pathI"*node_modules/google-maps/package.json;T:content_typeI"application/json;T:sourceI"G{
+	"name": "google-maps",
+	"description": "Wrapper for asynchronously used Google Maps API",
+	"version": "3.3.0",
+	"author": {
+		"name": "David Kudera",
+		"email": "kudera.d@gmail.com"
+	},
+	"keywords": [
+		"google",
+		"maps",
+		"asynchronous",
+		"browser",
+		"wrapper"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:Carrooi/Js-GoogleMapsLoader.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	},
+	"main": "./lib/Google.js",
+	"devDependencies": {
+		"uglify-js": "~2.4.0",
+		"mocha": "~2.2.0",
+		"mocha-phantomjs": "~3.5.0",
+		"phantomjs": "~1.9.0",
+		"chai": "~2.3.0"
+	},
+	"scripts": {
+		"minify": "node ./node_modules/uglify-js/bin/uglifyjs ./lib/Google.js -o ./lib/Google.min.js",
+		"test": "node ./node_modules/mocha-phantomjs/bin/mocha-phantomjs -p ./node_modules/phantomjs/bin/phantomjs ./test/index.html"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/google-maps/package.json;TTF:charsetI"
+utf-8;F:digest"%öqS0ˇÇÊì"P¸ÓNŸﬂ‡åm˛![Óyø—ã:lengthiG:dependencies_digest"%@s
+¿ﬁ#ÍÇ‡¬!
+±è~ñBõè†tÀy°ÁQF,≠:idI"E02e95770f0dfb7eda93a6643d16f89ab734a18b32455338f46a6be3bb7eb668d;F:
+mtimel+Q¢¥e

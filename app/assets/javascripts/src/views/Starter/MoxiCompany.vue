@@ -18,7 +18,7 @@
               {{ company.moxi_works_company_id }}
             </b-card-text>
             <div>
-              <b-dropdown id="dropdown-1" text="Regular" class="m-md-2">
+              <b-dropdown id="dropdown-1" text="Endpoints" class="m-md-2">
                 <b-dropdown-item
                   @click="
                     redirectTo('moxiAgents', company.moxi_works_company_id)
@@ -53,7 +53,7 @@
 </template>
 
 <script>
-import { mapGetters } from "vuex";
+import {mapGetters} from 'vuex'
 import { logout } from "@/services/AuthenticationService.js";
 import StatsCard from "../../components/Cards/StatsCard.vue";
 
@@ -67,28 +67,30 @@ export default {
       password: "",
       error: "",
       selectedCompanyId: null,
-      isLoggedIn: false,
     };
   },
   computed: {
     ...mapGetters("company", ["getCompanies"]),
   },
-  created() {
-    this.$store.dispatch('setCompanies', JSON.parse(localStorage.getItem('companies')) || [])
+  mounted() {
+    const storedCompanies = JSON.parse(localStorage.getItem('companies') || [])
+    console.log(storedCompanies)
+    this.$store.commit('setCompanies', storedCompanies)
   },
   methods: {
     async logout() {
       try {
-        const result = await logout;
+        const result = await logout();
         console.log(result);
         if (result.success) {
           this.password = "";
           this.error = "";
-          this.companies = [];
           this.selectedCompanyId = null;
           this.isLoggedIn = false;
+          this.$store.dispatch('setCompanies', [])
+          this.$store.dispatch('setLoggedIn', false)
 
-          this.$router.push({ name: "moxiCompany" });
+          this.$router.push({ name: "moxiLogin" });
         } else {
           console.log(result.error);
         }

@@ -1,11 +1,21 @@
 <template>
-    <div class="login-container">
-    <h2>Login</h2>
-    <base-input v-model="username" label="Username" type="text"></base-input>
-    <base-input v-model="password" label="Password" type="password"></base-input>
-    <button @click="login">Login</button>
-    <div v-if="error" class="danger">{{ error }}</div>
+  <card class="container">
+    <div class="row">
+      <div class="col-sm">
+        <base-input v-model="username" label="Username" placeholder="Username" type="text"></base-input>
+      </div>
+      <div class="col-sm">
+        <base-input v-model="password" label="Password" placeholder="password" type="password"></base-input>
+      </div>
+      <div class="row">
+        <div class="col-12"></div>
+        <div class="col-md-auto">
+          <button @click="login" class="btn btn-success">Login</button>
+          <div v-if="error" class="danger">{{error}}</div>
+        </div>
+      </div>
     </div>
+  </card>
 </template>
 
 <script>

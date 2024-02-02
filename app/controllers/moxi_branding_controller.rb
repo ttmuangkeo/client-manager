@@ -3,7 +3,6 @@ class MoxiBrandingController < ApplicationController
   skip_before_action :verify_authenticity_token
 
   def fetch_branding_data
-    Rails.logger.info(session.inspect)
 
     session_data = session[:moxi_session]
     moxi_works_company_id = params[:moxi_works_company_id]

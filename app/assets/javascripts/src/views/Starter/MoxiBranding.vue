@@ -1,16 +1,36 @@
 <template>
-  <div v-if="branding">
-    <pre>{{branding}}</pre>
-  </div>
+  <b-container v-if="branding">
+    <b-row>
+      <b-card class="col-6 center" v-if="!loading && !error">
+        <card class="mb-4">
+          <h1 class="text-center">{{ branding.display_name }}</h1>
+          <p class="text-center">display_name</p>
+        </card>
+        <img :src="branding.image_logo" alt="Company Logo" />
+        <p>image_logo</p>
+        <card class="mb-4" :style="{ backgroundColor: branding.background_color }">
+          <p>Background Color: {{ branding.background_color }}</p>
+          <p>Font Color Primary: {{ branding.background_font_color_primary }}</p>
+        </card>
+        <img :src="branding.image_cma_pdf_logo_header" alt="CMA PDF Logo Header" />
+        <p>image_cma_pdf_logo_header</p>
+        <hr>
+        <p v-html="formatCopyright(branding.copyright)"></p>
+      </b-card>
+    </b-row>
+  </b-container>
 </template>
 
 <script>
-import {fetchBrandingData} from "@/services/AuthenticationService.js";
+import { fetchBrandingData } from "@/services/AuthenticationService.js";
+
 export default {
   data() {
     return {
-      branding: null
-    }
+      branding: null,
+      loading: true,
+      error: null,
+    };
   },
   mounted() {
     this.brandingData();
@@ -18,24 +38,32 @@ export default {
   methods: {
     async brandingData() {
       const companyId = this.$route.params.moxi_works_company_id;
-      console.log('COMPANYID param', companyId)
+
       try {
-        const res = await fetchBrandingData(companyId)
-        console.log(res)
-        if(res.success) {
-          console.log(res)
-          this.branding = res.data
+        const res = await fetchBrandingData(companyId);
+
+        if (res.success) {
+          this.branding = res.data.data;
         } else {
-          console.log('failed to get data from fetchbrandingdata', res.error)
+          this.error = "Failed to retrieve branding data.";
         }
       } catch (error) {
-        console.error('error getting data after the try', error)
+        this.error = "An unexpected error occurred.";
+      } finally {
+        this.loading = false;
       }
-    }
-  }
-}
+    },
+  formatCopyright(copyright) {
+    // Use String.fromCharCode to convert HTML entity to actual character
+    return copyright.replace(/&copy;/g, String.fromCharCode(169));
+  }    
+  },
+};
 </script>
 
 <style>
-
+img {
+  height: auto;
+  max-width: 100%;
+}
 </style>

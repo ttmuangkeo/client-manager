@@ -1,0 +1,21 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/babel-runtime/package.json?type=application/json&id=eb36b3431338bb7091dc61f8661cc7520afdfbbc729a48e8ab33d9ce4ac5e4ba:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/babel-runtime/package.json;T:	nameI"'node_modules/babel-runtime/package;T:logical_pathI",node_modules/babel-runtime/package.json;T:content_typeI"application/json;T:sourceI"Æ{
+  "name": "babel-runtime",
+  "version": "6.26.0",
+  "description": "babel selfContained runtime",
+  "license": "MIT",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-runtime",
+  "author": "Sebastian McKenzie <sebmck@gmail.com>",
+  "dependencies": {
+    "core-js": "^2.4.0",
+    "regenerator-runtime": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-helpers": "^6.22.0",
+    "babel-plugin-transform-runtime": "^6.23.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/babel-runtime/package.json;TTF:charsetI"
+utf-8;F:digest"%.YĞ‡¬şl'+M–­cA™"ğfò/÷¼zàQö‡—â:lengthiÆ:dependencies_digest"%]øb&íˆêVÉRƒÄx‡Q”Rd¹­BÒÌWQ:idI"Eeb36b3431338bb7091dc61f8661cc7520afdfbbc729a48e8ab33d9ce4ac5e4ba;F:
+mtimel+Q¢´e

@@ -1,0 +1,34 @@
+{:uriI"¬file://app/assets/javascripts/node_modules/util/node_modules/inherits/package.json?type=application/json&id=454aab8e98a6814c026cf93a18b7ff3218ca33970759fea0cae58766e4c0d4f6:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/util/node_modules/inherits/package.json;T:	nameI"4node_modules/util/node_modules/inherits/package;T:logical_pathI"9node_modules/util/node_modules/inherits/package.json;T:content_typeI"application/json;T:sourceI"J{
+  "name": "inherits",
+  "description": "Browser-friendly inheritance fully compatible with standard node.js inherits()",
+  "version": "2.0.3",
+  "keywords": [
+    "inheritance",
+    "class",
+    "klass",
+    "oop",
+    "object-oriented",
+    "inherits",
+    "browser",
+    "browserify"
+  ],
+  "main": "./inherits.js",
+  "browser": "./inherits_browser.js",
+  "repository": "git://github.com/isaacs/inherits",
+  "license": "ISC",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "tap": "^7.1.0"
+  },
+  "files": [
+    "inherits.js",
+    "inherits_browser.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"^file-digest://app/assets/javascripts/node_modules/util/node_modules/inherits/package.json;TTF:charsetI"
+utf-8;F:digest"%~—Aõ. \›äöw¼—œ³İŸ.¸'Ì0ĞÜ%Ş#>¬:lengthiJ:dependencies_digest"%ó«=ÁŸšÈ6™gìú+í¯gÀîTg¶:LMAÀ\:idI"E454aab8e98a6814c026cf93a18b7ff3218ca33970759fea0cae58766e4c0d4f6;F:
+mtimel+Q¢´e

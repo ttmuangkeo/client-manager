@@ -1,0 +1,39 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/@babel/plugin-transform-dynamic-import/package.json?type=application/json&id=0d58648b263d73754df622da2ae0e00b16099b3982ca9f91f5b368469ebbb611:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/@babel/plugin-transform-dynamic-import/package.json;T:	nameI"@node_modules/@babel/plugin-transform-dynamic-import/package;T:logical_pathI"Enode_modules/@babel/plugin-transform-dynamic-import/package.json;T:content_typeI"application/json;T:sourceI">{
+  "name": "@babel/plugin-transform-dynamic-import",
+  "version": "7.23.4",
+  "description": "Transform import() expressions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-dynamic-import"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-dynamic-import/package.json;TTF:charsetI"
+utf-8;F:digest"%“İ©ğÌp´#QK‡&dŠê>u
+ÇÿÜ¤‰Ğï§aç˜›:lengthi>:dependencies_digest"%fşÏ.l@´æqa¶¡TÍS–{;rõ¤Ä_ò›¥<5çØ:idI"E0d58648b263d73754df622da2ae0e00b16099b3982ca9f91f5b368469ebbb611;F:
+mtimel+Q¢´e

@@ -1,0 +1,36 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/@eslint/js/package.json?type=application/json&id=d75a2752268f93035aa605c86ba3f121e8b0ea17fdda220c5d75db94a16fc142:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/@eslint/js/package.json;T:	nameI"$node_modules/@eslint/js/package;T:logical_pathI")node_modules/@eslint/js/package.json;T:content_typeI"application/json;T:sourceI"€{
+  "name": "@eslint/js",
+  "version": "8.56.0",
+  "description": "ESLint JavaScript language implementation",
+  "main": "./src/index.js",
+  "scripts": {},
+  "files": [
+    "LICENSE",
+    "README.md",
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eslint/eslint.git",
+    "directory": "packages/js"
+  },
+  "homepage": "https://eslint.org",
+  "bugs": "https://github.com/eslint/eslint/issues/",
+  "keywords": [
+    "javascript",
+    "eslint-plugin",
+    "eslint"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/@eslint/js/package.json;TTF:charsetI"
+utf-8;F:digest"%‡ªÓv(LÂÍA„HîWŠ@3M¢PÒ ÁÎñ‘V:lengthi€:dependencies_digest"%P´\¢Ğ*¢ÑbgX¾ßÿó¿«·z±ú¦:idI"Ed75a2752268f93035aa605c86ba3f121e8b0ea17fdda220c5d75db94a16fc142;F:
+mtimel+R¢´e

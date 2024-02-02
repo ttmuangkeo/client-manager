@@ -1,0 +1,11 @@
+{:uriI" file://app/assets/javascripts/node_modules/d3-format/locale/nl-NL.json?type=application/json&id=c3e79d883017352d7683a3b1f7f999134a8cb09460d22e373df2014d496217ce:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/d3-format/locale/nl-NL.json;T:	nameI"(node_modules/d3-format/locale/nl-NL;T:logical_pathI"-node_modules/d3-format/locale/nl-NL.json;T:content_typeI"application/json;T:sourceI"b{
+  "decimal": ",",
+  "thousands": ".",
+  "grouping": [3],
+  "currency": ["â‚¬\u00a0", ""]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/d3-format/locale/nl-NL.json;TTF:charsetI"
+utf-8;F:digest"%Z€.†q×ÖÌ¥¯_%O´áÍ7PvãH¤—HÙ_:lengthib:dependencies_digest"%ğêŸçıÛÿÁ…½ï”Æy´œÅØ‹Š‘…K£H/J:idI"Ec3e79d883017352d7683a3b1f7f999134a8cb09460d22e373df2014d496217ce;F:
+mtimel+S¢´e

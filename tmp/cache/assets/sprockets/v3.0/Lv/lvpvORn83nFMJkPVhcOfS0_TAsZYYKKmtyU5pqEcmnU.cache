@@ -1,0 +1,36 @@
+{:uriI"¥file://app/assets/javascripts/node_modules/vee-validate/dist/locale/da.json?type=application/json&id=f4905a1d5e998d3ba091979f3a0cbe63836d673649f3272236674139fa0c9806:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/da.json;T:	nameI"-node_modules/vee-validate/dist/locale/da;T:logical_pathI"2node_modules/vee-validate/dist/locale/da.json;T:content_typeI"application/json;T:sourceI"E{
+  "code": "da",
+  "messages": {
+    "alpha": "{_field_} mÃ¥ kun indeholde bogstaver",
+    "alpha_num": "{_field_} mÃ¥ kun indeholde tal og bogstaver",
+    "alpha_dash": "{_field_} mÃ¥ kun indeholde tal, bogstaver, bindestreger og underscores",
+    "alpha_spaces": "{_field_} mÃ¥ kun indeholde bogstaver og mellemrum",
+    "between": "{_field_} skal vÃ¦re mellem {min} og {max}",
+    "confirmed": "{_field_} skal matche {target}",
+    "digits": "{_field_} skal vÃ¦re et tal pÃ¥ {length} cifre",
+    "dimensions": "{_field_} skal vÃ¦re {width} pixels gange {height} pixels",
+    "email": "{_field_} skal vÃ¦re en gyldig email",
+    "excluded": "{_field_} skal vÃ¦re en gyldig vÃ¦rdi",
+    "ext": "{_field_} skal vÃ¦re en gyldig filtype",
+    "image": "{_field_} skal vÃ¦re et billede",
+    "integer": "{_field_} skal vÃ¦re en numerisk vÃ¦rdi",
+    "length": "{_field_} mÃ¥ maksimalt vÃ¦re {length} tegn langt",
+    "max_value": "{_field_} mÃ¥ maksimalt vÃ¦re {max} eller mindre",
+    "max": "{_field_} mÃ¥ maksimalt vÃ¦re {length} karakterer",
+    "mimes": "{_field_} skal vÃ¦re en gyldig filtype",
+    "min_value": "{_field_} skal vÃ¦re minimum {min} eller mere",
+    "min": "{_field_} skal minimum vÃ¦re {length} karakterer",
+    "numeric": "{_field_} skal vÃ¦re numerisk",
+    "oneOf": "{_field_} skal vÃ¦re en gyldig vÃ¦rdi",
+    "regex": "{_field_} skal have et gyldigt format",
+    "required": "{_field_} skal udfyldes",
+    "required_if": "{_field_} skal udfyldes",
+    "size": "{_field_} mÃ¥ maksimalt have en stÃ¸rrelse pÃ¥ {size}KB",
+    "double": "{_field_} skal vÃ¦re en gyldig decimal"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/da.json;TTF:charsetI"
+utf-8;F:digest"%Ÿ®/p¼8 3W‚>ÊBıñã~™tŠÀ5ëÛNÔßÑï:lengthiE:dependencies_digest"% şRÈËıwQ+'eÀ²wßàµqqd¥Ècb‚H:idI"Ef4905a1d5e998d3ba091979f3a0cbe63836d673649f3272236674139fa0c9806;F:
+mtimel+S¢´e

@@ -1,0 +1,67 @@
+{:uriI"file://app/assets/javascripts/node_modules/d3-delaunay/package.json?type=application/json&id=fcf720ee63b643ee2988421eed05222f70b0e79c2dfdb45d4e3dd4c919e4f542:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/d3-delaunay/package.json;T:	nameI"%node_modules/d3-delaunay/package;T:logical_pathI"*node_modules/d3-delaunay/package.json;T:content_typeI"application/json;T:sourceI"‚{
+  "name": "d3-delaunay",
+  "version": "6.0.4",
+  "description": "Compute the Voronoi diagram of a set of two-dimensional points.",
+  "homepage": "https://github.com/d3/d3-delaunay",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-delaunay.git"
+  },
+  "keywords": [
+    "voronoi",
+    "delaunay",
+    "geometry"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  },
+  "contributors": [
+    {
+      "name": "Vladimir Agafonkin",
+      "url": "https://agafonkin.com"
+    },
+    {
+      "name": "Philippe RiviÃ¨re",
+      "url": "https://visionscarto.net"
+    }
+  ],
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-delaunay.min.js",
+  "unpkg": "dist/d3-delaunay.min.js",
+  "exports": {
+    "umd": "./dist/d3-delaunay.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "delaunator": "5"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "13",
+    "eslint": "7",
+    "mocha": "8",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/d3-delaunay/package.json;TTF:charsetI"
+utf-8;F:digest"%	÷šü3©;8^PI÷e‹"¤À ‡ù €l¦ìï}°”:lengthi‚:dependencies_digest"%@—T×ŸİDÂa‰ã…v$ç³Xî­ÅÀ½œîõ"ói:idI"Efcf720ee63b643ee2988421eed05222f70b0e79c2dfdb45d4e3dd4c919e4f542;F:
+mtimel+R¢´e

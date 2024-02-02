@@ -1,0 +1,49 @@
+{:uriI"file://app/assets/javascripts/node_modules/query-string/package.json?type=application/json&id=db0adfcb9dab7c3f70f27bd53f7f204a9c7582afdf5043c0e5e8a741692243ea:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/query-string/package.json;T:	nameI"&node_modules/query-string/package;T:logical_pathI"+node_modules/query-string/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "query-string",
+  "version": "4.3.4",
+  "description": "Parse and stringify URL query strings",
+  "license": "MIT",
+  "repository": "sindresorhus/query-string",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "browser",
+    "querystring",
+    "query",
+    "string",
+    "qs",
+    "param",
+    "parameter",
+    "url",
+    "uri",
+    "parse",
+    "stringify",
+    "encode",
+    "decode"
+  ],
+  "dependencies": {
+    "object-assign": "^4.1.0",
+    "strict-uri-encode": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.16.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/query-string/package.json;TTF:charsetI"
+utf-8;F:digest"%p\£È)¹ßÎ©z»K|4(e”l;&Ú‚çíø¶:lengthi:dependencies_digest"%#Óò\Ì«-8Õ/™îñMø²ñ•_¹Ğ<HœpiÓ:idI"Edb0adfcb9dab7c3f70f27bd53f7f204a9c7582afdf5043c0e5e8a741692243ea;F:
+mtimel+Q¢´e

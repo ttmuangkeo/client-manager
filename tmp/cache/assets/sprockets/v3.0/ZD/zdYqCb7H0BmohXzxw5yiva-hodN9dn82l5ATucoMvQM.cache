@@ -1,0 +1,54 @@
+{:uriI"¾file://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/watchpack/package.json?type=application/json&id=20a90b81430a3556d23d2a695780b786acf95c1d362771587db6b905e7ce3980:ET:load_pathI"app/assets/javascripts;T:filenameI"bapp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/watchpack/package.json;T:	nameI"Fnode_modules/@vue/cli-plugin-babel/node_modules/watchpack/package;T:logical_pathI"Knode_modules/@vue/cli-plugin-babel/node_modules/watchpack/package.json;T:content_typeI"application/json;T:sourceI"ƒ{
+  "name": "watchpack",
+  "version": "2.4.0",
+  "description": "",
+  "main": "./lib/watchpack.js",
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "pretest": "yarn lint",
+    "test": "mocha",
+    "lint": "eslint lib",
+    "precover": "yarn lint",
+    "pretty-files": "prettier \"lib/**.*\" \"test/**/*.js\" --write",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpack/watchpack.git"
+  },
+  "author": "Tobias Koppers @sokra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webpack/watchpack/issues"
+  },
+  "homepage": "https://github.com/webpack/watchpack",
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "eslint": "^5.11.1",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^5.0.1",
+    "prettier": "^1.11.0",
+    "rimraf": "^2.6.2",
+    "should": "^8.3.1",
+    "write-file-atomic": "^3.0.1"
+  },
+  "dependencies": {
+    "glob-to-regexp": "^0.4.1",
+    "graceful-fs": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=10.13.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/watchpack/package.json;TTF:charsetI"
+utf-8;F:digest"%œAÌíûÈÊ]¬>(­Fƒ•b1ç1ÆsLâœòMEjg:lengthiƒ:dependencies_digest"%>“¸a!ìe>êüò¯’ÓÁÚÉÃV9Ôt²Ií²²:idI"E20a90b81430a3556d23d2a695780b786acf95c1d362771587db6b905e7ce3980;F:
+mtimel+R¢´e

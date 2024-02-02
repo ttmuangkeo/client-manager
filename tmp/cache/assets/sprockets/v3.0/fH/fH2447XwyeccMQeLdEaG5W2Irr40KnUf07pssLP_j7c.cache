@@ -1,0 +1,34 @@
+{:uriI"²file://app/assets/javascripts/node_modules/@babel/plugin-syntax-import-meta/package.json?type=application/json&id=f96244df3ac59484074237a74ac18f95bf2468c4386c9df8ae584d4689cd5ce5:ET:load_pathI"app/assets/javascripts;T:filenameI"Vapp/assets/javascripts/node_modules/@babel/plugin-syntax-import-meta/package.json;T:	nameI":node_modules/@babel/plugin-syntax-import-meta/package;T:logical_pathI"?node_modules/@babel/plugin-syntax-import-meta/package.json;T:content_typeI"application/json;T:sourceI"‰{
+  "name": "@babel/plugin-syntax-import-meta",
+  "version": "7.10.4",
+  "description": "Allow parsing of import.meta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-syntax-import-meta"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.10.4"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4"
+  },
+  "gitHead": "7fd40d86a0d03ff0e9c3ea16b29689945433d4df"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"dfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-import-meta/package.json;TTF:charsetI"
+utf-8;F:digest"%F7“°kˆ	›€a1Úƒ ·hês&ø
+KXÙpÖg:lengthi‰:dependencies_digest"%3ñXúMÂP†ósş¡öŸäs¿´ğÚÅ¾ë³:idI"Ef96244df3ac59484074237a74ac18f95bf2468c4386c9df8ae584d4689cd5ce5;F:
+mtimel+Q¢´e

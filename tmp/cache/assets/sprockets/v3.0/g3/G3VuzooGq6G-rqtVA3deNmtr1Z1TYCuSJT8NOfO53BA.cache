@@ -1,0 +1,44 @@
+{:uriI"Áfile://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/is-binary-path/package.json?type=application/json&id=0ceb636e92a04d55b2a7b8426cde154c42860622a6c4d80a6eb70ff26566016f:ET:load_pathI"app/assets/javascripts;T:filenameI"eapp/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/is-binary-path/package.json;T:	nameI"Inode_modules/watchpack-chokidar2/node_modules/is-binary-path/package;T:logical_pathI"Nnode_modules/watchpack-chokidar2/node_modules/is-binary-path/package.json;T:content_typeI"application/json;T:sourceI"£{
+  "name": "is-binary-path",
+  "version": "1.0.1",
+  "description": "Check if a filepath is a binary file",
+  "license": "MIT",
+  "repository": "sindresorhus/is-binary-path",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "bin",
+    "binary",
+    "ext",
+    "extensions",
+    "extension",
+    "file",
+    "path",
+    "check",
+    "detect",
+    "is"
+  ],
+  "dependencies": {
+    "binary-extensions": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"sfile-digest://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/is-binary-path/package.json;TTF:charsetI"
+utf-8;F:digest"%‘ìdN0£°¨fwga"ÁQªd œÃ+:P–ƒW:lengthi£:dependencies_digest"%¢_tó’¯ñ¥`Eº€a×{<=ø!wIe‹É­:idI"E0ceb636e92a04d55b2a7b8426cde154c42860622a6c4d80a6eb70ff26566016f;F:
+mtimel+Q¢´e

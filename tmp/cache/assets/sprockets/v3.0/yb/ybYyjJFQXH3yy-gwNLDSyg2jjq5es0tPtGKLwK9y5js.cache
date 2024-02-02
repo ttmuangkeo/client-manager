@@ -1,0 +1,53 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/define-lazy-prop/package.json?type=application/json&id=ed88b449a522f8b9982eb33a0869770846bd2b71a3f30b97fceeaf89a4a072b3:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/define-lazy-prop/package.json;T:	nameI"*node_modules/define-lazy-prop/package;T:logical_pathI"/node_modules/define-lazy-prop/package.json;T:content_typeI"application/json;T:sourceI"ó{
+	"name": "define-lazy-prop",
+	"version": "2.0.0",
+	"description": "Define a lazily evaluated property on an object",
+	"license": "MIT",
+	"repository": "sindresorhus/define-lazy-prop",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"lazy",
+		"property",
+		"properties",
+		"prop",
+		"define",
+		"object",
+		"value",
+		"lazily",
+		"laziness",
+		"evaluation",
+		"eval",
+		"execute",
+		"getter",
+		"function",
+		"fn",
+		"memoize",
+		"cache",
+		"defer",
+		"deferred"
+	],
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/define-lazy-prop/package.json;TTF:charsetI"
+utf-8;F:digest"%‡n2Û3	íÀ:2]ÅãŒ»d:rÅ*	f7\R:lengthió:dependencies_digest"%÷Á>ır}‡T¢µÛ,&^…×—KñW‰éƒ^,Ül:idI"Eed88b449a522f8b9982eb33a0869770846bd2b71a3f30b97fceeaf89a4a072b3;F:
+mtimel+Q¢´e

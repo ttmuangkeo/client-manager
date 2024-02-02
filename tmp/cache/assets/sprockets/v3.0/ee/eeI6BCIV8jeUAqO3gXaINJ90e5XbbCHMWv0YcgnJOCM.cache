@@ -1,0 +1,37 @@
+{:uriI"²file://app/assets/javascripts/node_modules/execa/node_modules/shebang-regex/package.json?type=application/json&id=23f9af415f7678ee01ad256cb72fd3225bcee59196730a73e88dc1cc30c8e52b:ET:load_pathI"app/assets/javascripts;T:filenameI"Vapp/assets/javascripts/node_modules/execa/node_modules/shebang-regex/package.json;T:	nameI":node_modules/execa/node_modules/shebang-regex/package;T:logical_pathI"?node_modules/execa/node_modules/shebang-regex/package.json;T:content_typeI"application/json;T:sourceI"4{
+  "name": "shebang-regex",
+  "version": "1.0.0",
+  "description": "Regular expression for matching a shebang",
+  "license": "MIT",
+  "repository": "sindresorhus/shebang-regex",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "re",
+    "regex",
+    "regexp",
+    "shebang",
+    "match",
+    "test"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"dfile-digest://app/assets/javascripts/node_modules/execa/node_modules/shebang-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%úõŸªN¤éŒŞ³E«Q­ŠAZ—$ÛŞ™ÒP:lengthi4:dependencies_digest"%c‡"áu9f‚—D5Ú-ñT¢Zr"gÄ7İÈ´M»å:idI"E23f9af415f7678ee01ad256cb72fd3225bcee59196730a73e88dc1cc30c8e52b;F:
+mtimel+Q¢´e

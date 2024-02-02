@@ -1,0 +1,43 @@
+{:uriI"òfile://app/assets/javascripts/node_modules/md5.js/package.json?type=application/json&id=d2b0fcfa4eab82eb753a2ff9fe91a3643d44cb0d82162f2ca837837fc57d8cc8:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/md5.js/package.json;T:	nameI" node_modules/md5.js/package;T:logical_pathI"%node_modules/md5.js/package.json;T:content_typeI"application/json;T:sourceI"i{
+  "name": "md5.js",
+  "version": "1.3.5",
+  "description": "node style md5 on pure JavaScript",
+  "keywords": [
+    "crypto",
+    "md5"
+  ],
+  "homepage": "https://github.com/crypto-browserify/md5.js",
+  "bugs": {
+    "url": "https://github.com/crypto-browserify/md5.js/issues"
+  },
+  "license": "MIT",
+  "author": "Kirill Fomichev <fanatid@ya.ru> (https://github.com/fanatid)",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crypto-browserify/md5.js.git"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && npm run unit",
+    "unit": "node test/*.js"
+  },
+  "dependencies": {
+    "hash-base": "^3.0.0",
+    "inherits": "^2.0.1",
+    "safe-buffer": "^5.1.2"
+  },
+  "devDependencies": {
+    "hash-test-vectors": "^1.3.2",
+    "standard": "^7.0.0",
+    "tape": "^4.2.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/md5.js/package.json;TTF:charsetI"
+utf-8;F:digest"%‹s†6CÖkVπƒ,[ì““5æn∫≥ŸV˛¥y¥ m$:lengthii:dependencies_digest"%çc‡hNÄø ù°2V+Ñ[®Ú≈¡Ïâ1W±&€%:idI"Ed2b0fcfa4eab82eb753a2ff9fe91a3643d44cb0d82162f2ca837837fc57d8cc8;F:
+mtimel+Q¢¥e

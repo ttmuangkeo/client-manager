@@ -1,0 +1,28 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/buffer-xor/test/fixtures.json?type=application/json&id=8bf5b8132fcd3c306f5b701f4819cad63d6901c2fda52aced7709cda4913ddd8:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/buffer-xor/test/fixtures.json;T:	nameI"*node_modules/buffer-xor/test/fixtures;T:logical_pathI"/node_modules/buffer-xor/test/fixtures.json;T:content_typeI"application/json;T:sourceI".[
+  {
+    "a": "000f",
+    "b": "f0ff",
+    "expected": "f0f0"
+  },
+  {
+    "a": "000f0f",
+    "b": "f0ff",
+    "mutated": "f0f00f",
+    "expected": "f0f0"
+  },
+  {
+    "a": "000f",
+    "b": "f0ffff",
+    "expected": "f0f0"
+  },
+  {
+    "a": "000000",
+    "b": "000000",
+    "expected": "000000"
+  }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/buffer-xor/test/fixtures.json;TTF:charsetI"
+utf-8;F:digest"%ZLÙ=◊*õ«√ô4+~ N†p™¬’â&Wap¬Ëë:lengthi.:dependencies_digest"%7wÕ_J\î=X√©Ûµ€˛˚Ó;OºÑu≤˝°ù¢:idI"E8bf5b8132fcd3c306f5b701f4819cad63d6901c2fda52aced7709cda4913ddd8;F:
+mtimel+R¢¥e

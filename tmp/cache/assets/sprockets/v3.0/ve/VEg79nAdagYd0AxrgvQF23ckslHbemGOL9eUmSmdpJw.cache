@@ -1,0 +1,27 @@
+{:uriI"Àfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/@webassemblyjs/ieee754/package.json?type=application/json&id=ca9968213f2e2286d5466902f5de8363cf6cfe5da3789faa7b829b6574990bff:ET:load_pathI"app/assets/javascripts;T:filenameI"oapp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/@webassemblyjs/ieee754/package.json;T:	nameI"Snode_modules/@vue/cli-plugin-babel/node_modules/@webassemblyjs/ieee754/package;T:logical_pathI"Xnode_modules/@vue/cli-plugin-babel/node_modules/@webassemblyjs/ieee754/package.json;T:content_typeI"application/json;T:sourceI"Ù{
+  "name": "@webassemblyjs/ieee754",
+  "version": "1.11.6",
+  "description": "IEEE754 decoder and encoder",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git",
+    "directory": "packages/ieee754"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@xtuc/ieee754": "^1.2.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"}file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/@webassemblyjs/ieee754/package.json;TTF:charsetI"
+utf-8;F:digest"%ßç¬·∞Ìÿ’ﬁÇaﬁ\Ã©¨.NöXÔü1x	î≠∫B:lengthiÙ:dependencies_digest"%j˚tXpé‰VØ¡0‚Ç™Ä ]2íî{ìp*á∑-qXÉ:idI"Eca9968213f2e2286d5466902f5de8363cf6cfe5da3789faa7b829b6574990bff;F:
+mtimel+Q¢¥e

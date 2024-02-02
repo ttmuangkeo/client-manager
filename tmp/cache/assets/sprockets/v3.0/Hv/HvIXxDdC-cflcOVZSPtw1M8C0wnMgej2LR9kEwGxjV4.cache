@@ -1,0 +1,10 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/resolve/test/resolver/browser_field/package.json?type=application/json&id=51175214f03e2d125bb8f1b678216bc7f3a1549140d9617b06219a311655dea5:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/resolve/test/resolver/browser_field/package.json;T:	nameI"=node_modules/resolve/test/resolver/browser_field/package;T:logical_pathI"Bnode_modules/resolve/test/resolver/browser_field/package.json;T:content_typeI"application/json;T:sourceI"D{
+  "name": "browser_field",
+  "main": "a",
+  "browser": "b"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/resolve/test/resolver/browser_field/package.json;TTF:charsetI"
+utf-8;F:digest"%(WÂø	½¦©e„òç¡¬Vº ö{¼w÷çfÄ"ô:lengthiD:dependencies_digest"%Õì>Q2s@‰¾îè ³È…¡Lpÿ#[G©ÿ¡:idI"E51175214f03e2d125bb8f1b678216bc7f3a1549140d9617b06219a311655dea5;F:
+mtimel+S¢´e

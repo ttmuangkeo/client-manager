@@ -1,0 +1,205 @@
+{:uriI"Æfile://app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/units.json?type=application/json&id=0993c954cd7c1e51acaddabcb2b40b090b91d629d01f1b68d1bf9c851982fc73:ET:load_pathI"app/assets/javascripts;T:filenameI"Rapp/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/units.json;T:	nameI"6node_modules/csso/node_modules/mdn-data/css/units;T:logical_pathI";node_modules/csso/node_modules/mdn-data/css/units.json;T:content_typeI"application/json;T:sourceI"k{
+  "ch": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "cm": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "deg": {
+    "groups": [
+      "CSS Units",
+      "CSS Angles"
+    ],
+    "status": "standard"
+  },
+  "dpcm": {
+    "groups": [
+      "CSS Units",
+      "CSS Resolutions"
+    ],
+    "status": "standard"
+  },
+  "dpi": {
+    "groups": [
+      "CSS Units",
+      "CSS Resolutions"
+    ],
+    "status": "standard"
+  },
+  "dppx": {
+    "groups": [
+      "CSS Units",
+      "CSS Resolutions"
+    ],
+    "status": "standard"
+  },
+  "em": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "ex": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "fr": {
+    "groups": [
+      "CSS Units",
+      "CSS Flexible Lengths",
+      "CSS Grid Layout"
+    ],
+    "status": "standard"
+  },
+  "grad": {
+    "groups": [
+      "CSS Units",
+      "CSS Angles"
+    ],
+    "status": "standard"
+  },
+  "Hz": {
+    "groups": [
+      "CSS Units",
+      "CSS Frequencies"
+    ],
+    "status": "standard"
+  },
+  "in": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "kHz": {
+    "groups": [
+      "CSS Units",
+      "CSS Frequencies"
+    ],
+    "status": "standard"
+  },
+  "mm": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "ms": {
+    "groups": [
+      "CSS Units",
+      "CSS Times"
+    ],
+    "status": "standard"
+  },
+  "pc": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "pt": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "px": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "Q": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "rad": {
+    "groups": [
+      "CSS Units",
+      "CSS Angles"
+    ],
+    "status": "standard"
+  },
+  "rem": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "s": {
+    "groups": [
+      "CSS Units",
+      "CSS Times"
+    ],
+    "status": "standard"
+  },
+  "turn": {
+    "groups": [
+      "CSS Units",
+      "CSS Angles"
+    ],
+    "status": "standard"
+  },
+  "vh": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "vmax": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "vmin": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "vw": {
+    "groups": [
+      "CSS Units",
+      "CSS Lengths"
+    ],
+    "status": "standard"
+  },
+  "x": {
+    "groups": [
+      "CSS Units",
+      "CSS Resolutions"
+    ],
+    "status": "standard"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"`file-digest://app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/units.json;TTF:charsetI"
+utf-8;F:digest"%]∏@Ú¬mJªπê˛=óz˝A0È–—çv>r_Æ~ı±≈ˆ:lengthik:dependencies_digest"%Â®ﬂç!`πoÆïl;∑ñ|5>xnö…œ¶∫3
+~›2H:idI"E0993c954cd7c1e51acaddabcb2b40b090b91d629d01f1b68d1bf9c851982fc73;F:
+mtimel+S¢¥e

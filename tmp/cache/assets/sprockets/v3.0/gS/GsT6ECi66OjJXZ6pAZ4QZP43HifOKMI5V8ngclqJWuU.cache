@@ -1,0 +1,84 @@
+{:uriI"›file://app/assets/javascripts/node_modules/set-value/package.json?type=application/json&id=e76f127e3e0a79904bd8627027ea11e124cc89ec3e908392135a71348ba6a51d:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/set-value/package.json;T:	nameI"#node_modules/set-value/package;T:logical_pathI"(node_modules/set-value/package.json;T:content_typeI"application/json;T:sourceI">{
+  "name": "set-value",
+  "description": "Create nested values and any intermediaries using dot notation (`'a.b.c'`) paths.",
+  "version": "2.0.1",
+  "homepage": "https://github.com/jonschlinkert/set-value",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "(https://github.com/wtgtybhertgeghgtwtg)",
+    "Vadim Demedes (https://vadimdemedes.com)"
+  ],
+  "repository": "jonschlinkert/set-value",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/set-value/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "is-extendable": "^0.1.1",
+    "is-plain-object": "^2.0.3",
+    "split-string": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.4.2"
+  },
+  "keywords": [
+    "get",
+    "has",
+    "hasown",
+    "key",
+    "keys",
+    "nested",
+    "notation",
+    "object",
+    "prop",
+    "properties",
+    "property",
+    "props",
+    "set",
+    "value",
+    "values"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "assign-value",
+        "get-value",
+        "has-value",
+        "merge-value",
+        "omit-value",
+        "set-value",
+        "union-value",
+        "unset-value"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/set-value/package.json;TTF:charsetI"
+utf-8;F:digest"%¼yiÃ4= üDBx’[Õ>œ™·†€‹ï{°˜\k:lengthi>:dependencies_digest"%¿Ê”{NC½O|NUÅ]ƒÀN4”N)“Kı<ù:idI"Ee76f127e3e0a79904bd8627027ea11e124cc89ec3e908392135a71348ba6a51d;F:
+mtimel+Q¢´e

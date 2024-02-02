@@ -1,0 +1,55 @@
+{:uriI"ôfile://app/assets/javascripts/node_modules/timsort/package.json?type=application/json&id=756753b92039ee6070b25243ee58fa072388016716105d430eb020239c96b169:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/timsort/package.json;T:	nameI"!node_modules/timsort/package;T:logical_pathI"&node_modules/timsort/package.json;T:content_typeI"application/json;T:sourceI"`{
+  "name": "timsort",
+  "version": "0.3.0",
+  "author": {
+    "name": "Marco Ziccardi",
+    "url": "http://mziccard.me/"
+  },
+  "description": "TimSort: Fast Sorting for Node.js",
+  "homepage": "https://github.com/mziccard/node-timsort",
+  "main": "index.js",
+  "directories": {
+    "test": "./test",
+    "benchmark": "./benchmark"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "assert": "~1.3.0",
+    "babel-eslint": "^4.0.5",
+    "eslint": "^1.1.0",
+    "grunt": "^0.4.5",
+    "grunt-babel": "^5.0.1",
+    "grunt-banner": "^0.5.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-uglify": "^0.9.1",
+    "mocha": "~2.2.5"
+  },
+  "scripts": {
+    "test": "mocha --timeout 5000",
+    "lint": "eslint Gruntfile.js src/ test/ benchmark/index.js",
+    "benchmark": "node benchmark/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mziccard/node-timsort.git"
+  },
+  "keywords": [
+    "sort",
+    "compare",
+    "TimSort",
+    "algorithm",
+    "python",
+    "performance"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mziccard/node-timsort/issues"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/timsort/package.json;TTF:charsetI"
+utf-8;F:digest"%‘‰9ÅXxÙc:ì“∑r
+Lƒ“ÁQé@¿Rk8ﬁ:lengthi`:dependencies_digest"%É¨¢∑è¸8…!aºjí°
+⁄DˆÍ‘hDà∏uˆvfz:idI"E756753b92039ee6070b25243ee58fa072388016716105d430eb020239c96b169;F:
+mtimel+Q¢¥e

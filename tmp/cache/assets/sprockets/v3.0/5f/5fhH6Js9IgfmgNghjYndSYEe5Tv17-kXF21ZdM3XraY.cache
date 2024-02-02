@@ -1,0 +1,37 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/easy-stack/package.json?type=application/json&id=89d801d7ae3d1132ca11b17724606df8603b5c88d8bb3c28d699aceaaa82fb57:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/easy-stack/package.json;T:	nameI"$node_modules/easy-stack/package;T:logical_pathI")node_modules/easy-stack/package.json;T:content_typeI"application/json;T:sourceI"½{
+  "name": "easy-stack",
+  "version": "1.0.1",
+  "description": "Simple JS stack with auto run for node and browsers",
+  "main": "stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines" : {
+      "node" : ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIAEvangelist/easy-stack.git"
+  },
+  "keywords": [
+    "stack",
+    "node",
+    "js",
+    "auto",
+    "run",
+    "execute",
+    "browser",
+    "react"
+  ],
+  "author": "Brandon Nozaki Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RIAEvangelist/easy-stack/issues"
+  },
+  "homepage": "https://github.com/RIAEvangelist/easy-stack#readme"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/easy-stack/package.json;TTF:charsetI"
+utf-8;F:digest"%6ÈT×vÜ49ÏD‘¿<Ê.,F‘©G"Ö6BµÑ+Àp:lengthi½:dependencies_digest"%ÙÇZ29f3N1Dß·Ù£fN´ûØÖÝá§Ü„Ä'?s:idI"E89d801d7ae3d1132ca11b17724606df8603b5c88d8bb3c28d699aceaaa82fb57;F:
+mtimel+Q¢´e

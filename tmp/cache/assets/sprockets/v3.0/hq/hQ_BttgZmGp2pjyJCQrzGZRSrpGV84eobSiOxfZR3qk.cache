@@ -1,0 +1,51 @@
+{:uriI"Àfile://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/locate-path/package.json?type=application/json&id=1024cafb9b7036c2fe46970f2a47bbd327e5f3d99ed635ae19014b23624c5cf8:ET:load_pathI"app/assets/javascripts;T:filenameI"dapp/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/locate-path/package.json;T:	nameI"Hnode_modules/terser-webpack-plugin/node_modules/locate-path/package;T:logical_pathI"Mnode_modules/terser-webpack-plugin/node_modules/locate-path/package.json;T:content_typeI"application/json;T:sourceI"¶{
+	"name": "locate-path",
+	"version": "3.0.0",
+	"description": "Get the first path that exists on disk of multiple paths",
+	"license": "MIT",
+	"repository": "sindresorhus/locate-path",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"locate",
+		"path",
+		"paths",
+		"file",
+		"files",
+		"exists",
+		"find",
+		"finder",
+		"search",
+		"searcher",
+		"array",
+		"iterable",
+		"iterator"
+	],
+	"dependencies": {
+		"p-locate": "^3.0.0",
+		"path-exists": "^3.0.0"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"xo": "*"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/javascripts/node_modules/terser-webpack-plugin/node_modules/locate-path/package.json;TTF:charsetI"
+utf-8;F:digest"%æn¾Fœ†¹SHK¸¦Kb8QÏ5îë±l-
+`­¥ä:lengthi¶:dependencies_digest"%œØ
+~D¦x‹Xİ—%yU­‚£'›Î*Úú“TÂc¯:idI"E1024cafb9b7036c2fe46970f2a47bbd327e5f3d99ed635ae19014b23624c5cf8;F:
+mtimel+Q¢´e

@@ -1,0 +1,25 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/prettier/package.json?type=application/json&id=6e3853731f6126502a1a2dec4a42a05a0cb65df2d221b9863c0ea9bebfbae69d:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/prettier/package.json;T:	nameI""node_modules/prettier/package;T:logical_pathI"'node_modules/prettier/package.json;T:content_typeI"application/json;T:sourceI"ñ{
+  "name": "prettier",
+  "version": "2.8.8",
+  "description": "Prettier is an opinionated code formatter",
+  "bin": "./bin-prettier.js",
+  "repository": "prettier/prettier",
+  "funding": "https://github.com/prettier/prettier?sponsor=1",
+  "homepage": "https://prettier.io",
+  "author": "James Long",
+  "license": "MIT",
+  "main": "./index.js",
+  "browser": "./standalone.js",
+  "unpkg": "./standalone.js",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "files": [
+    "*.js",
+    "esm/*.mjs"
+  ]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/prettier/package.json;TTF:charsetI"
+utf-8;F:digest"%¼|ÜıÂnöN¯9ŞO–oş™ÉT&M»Åûa§ƒh¥ı:lengthiñ:dependencies_digest"%HÉA¢‡²~Êr%¹ÓpÅ”€¶n=‘É‚:idI"E6e3853731f6126502a1a2dec4a42a05a0cb65df2d221b9863c0ea9bebfbae69d;F:
+mtimel+T¢´e

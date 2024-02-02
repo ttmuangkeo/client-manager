@@ -1,0 +1,51 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/normalize-range/package.json?type=application/json&id=990f67ab3656c9b6b35fdc98ffe915a0f07aeb8001ae32adfac2e591c7fe5ee2:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/normalize-range/package.json;T:	nameI")node_modules/normalize-range/package;T:logical_pathI".node_modules/normalize-range/package.json;T:content_typeI"application/json;T:sourceI" {
+  "name": "normalize-range",
+  "version": "0.1.2",
+  "description": "Utility for normalizing a numeric range, with a wrapping function useful for polar coordinates",
+  "license": "MIT",
+  "repository": "jamestalmage/normalize-range",
+  "author": {
+    "name": "James Talmage",
+    "email": "james@talmage.io",
+    "url": "github.com/jamestalmage"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "npm run cover && npm run lint && npm run style",
+    "cover": "istanbul cover ./node_modules/.bin/_mocha",
+    "lint": "jshint --reporter=node_modules/jshint-stylish *.js test/*.js",
+    "debug": "mocha",
+    "watch": "mocha -w",
+    "style": "jscs *.js ./**/*.js && jscs ./test/** --config=./test/.jscsrc"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "range",
+    "normalize",
+    "utility",
+    "angle",
+    "degrees",
+    "polar"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "almost-equal": "^1.0.0",
+    "codeclimate-test-reporter": "^0.1.0",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.17",
+    "jscs": "^2.1.1",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1",
+    "mocha": "^2.2.5",
+    "stringify-pi": "0.0.3"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/normalize-range/package.json;TTF:charsetI"
+utf-8;F:digest"%UÏÿX²„¨ÈÆØù@F%àQKíž("ðB‰€¿0;:lengthi :dependencies_digest"%®F<‡’ì~û¹øæÔG©ßœ"ÎË6(|QUwK:idI"E990f67ab3656c9b6b35fdc98ffe915a0f07aeb8001ae32adfac2e591c7fe5ee2;F:
+mtimel+Q¢´e

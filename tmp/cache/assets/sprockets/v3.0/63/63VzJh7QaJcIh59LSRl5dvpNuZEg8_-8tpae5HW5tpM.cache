@@ -1,0 +1,88 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/cache-base/package.json?type=application/json&id=5c9e0b066ad7f221e455d2f594d956dc61b76cfffd713bc6cc144ba4116054b5:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/cache-base/package.json;T:	nameI"$node_modules/cache-base/package;T:logical_pathI")node_modules/cache-base/package.json;T:content_typeI"application/json;T:sourceI"‘{
+  "name": "cache-base",
+  "description": "Basic object cache with `get`, `set`, `del`, and `has` methods for node.js/javascript projects.",
+  "version": "1.0.1",
+  "homepage": "https://github.com/jonschlinkert/cache-base",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "(https://github.com/wtgtybhertgeghgtwtg)"
+  ],
+  "repository": "jonschlinkert/cache-base",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/cache-base/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "collection-visit": "^1.0.0",
+    "component-emitter": "^1.2.1",
+    "get-value": "^2.0.6",
+    "has-value": "^1.0.0",
+    "isobject": "^3.0.1",
+    "set-value": "^2.0.0",
+    "to-object-path": "^0.3.0",
+    "union-value": "^1.0.0",
+    "unset-value": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^3.4.2"
+  },
+  "keywords": [
+    "base",
+    "cache",
+    "config",
+    "data",
+    "get",
+    "has",
+    "hash",
+    "hasown",
+    "object",
+    "set",
+    "store"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "highligh": "base",
+      "list": [
+        "base-methods",
+        "get-value",
+        "has-value",
+        "option-cache",
+        "set-value",
+        "unset-value"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/cache-base/package.json;TTF:charsetI"
+utf-8;F:digest"%ë2x5±–¯âÊSQ¾ŞÂÏŠù?xGBÛã}eGè:lengthi‘:dependencies_digest"%ŒqâàIšòŞ2dìp
+0£r›	,²à]:`×ù:idI"E5c9e0b066ad7f221e455d2f594d956dc61b76cfffd713bc6cc144ba4116054b5;F:
+mtimel+Q¢´e

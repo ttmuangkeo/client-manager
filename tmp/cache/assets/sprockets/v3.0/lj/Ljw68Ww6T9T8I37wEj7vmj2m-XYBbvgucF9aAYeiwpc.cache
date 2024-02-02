@@ -1,0 +1,95 @@
+{:uriI"ﬁfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation.json?type=application/json&id=c5e836d1360dc4063b9fc566255bccb407fb60bec8f36767125bdcfcb71b142d:ET:load_pathI"app/assets/javascripts;T:filenameI"}app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation.json;T:	nameI"fnode_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation;T:logical_pathI"knode_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "https://json-schema.org/draft/2019-09/meta/validation",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2019-09/vocab/validation": true
+  },
+  "$recursiveAnchor": true,
+
+  "title": "Validation vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "multipleOf": {
+      "type": "number",
+      "exclusiveMinimum": 0
+    },
+    "maximum": {
+      "type": "number"
+    },
+    "exclusiveMaximum": {
+      "type": "number"
+    },
+    "minimum": {
+      "type": "number"
+    },
+    "exclusiveMinimum": {
+      "type": "number"
+    },
+    "maxLength": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minLength": {"$ref": "#/$defs/nonNegativeIntegerDefault0"},
+    "pattern": {
+      "type": "string",
+      "format": "regex"
+    },
+    "maxItems": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minItems": {"$ref": "#/$defs/nonNegativeIntegerDefault0"},
+    "uniqueItems": {
+      "type": "boolean",
+      "default": false
+    },
+    "maxContains": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minContains": {
+      "$ref": "#/$defs/nonNegativeInteger",
+      "default": 1
+    },
+    "maxProperties": {"$ref": "#/$defs/nonNegativeInteger"},
+    "minProperties": {"$ref": "#/$defs/nonNegativeIntegerDefault0"},
+    "required": {"$ref": "#/$defs/stringArray"},
+    "dependentRequired": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/stringArray"
+      }
+    },
+    "const": true,
+    "enum": {
+      "type": "array",
+      "items": true
+    },
+    "type": {
+      "anyOf": [
+        {"$ref": "#/$defs/simpleTypes"},
+        {
+          "type": "array",
+          "items": {"$ref": "#/$defs/simpleTypes"},
+          "minItems": 1,
+          "uniqueItems": true
+        }
+      ]
+    }
+  },
+  "$defs": {
+    "nonNegativeInteger": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "nonNegativeIntegerDefault0": {
+      "$ref": "#/$defs/nonNegativeInteger",
+      "default": 0
+    },
+    "simpleTypes": {
+      "enum": ["array", "boolean", "integer", "null", "number", "object", "string"]
+    },
+    "stringArray": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true,
+      "default": []
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ãfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv/lib/refs/json-schema-2019-09/meta/validation.json;TTF:charsetI"
+utf-8;F:digest"%™∫-oÀﬂ¶ ó˝√”⁄Á÷l£2+~êœZò∞gU]Ê:lengthiÿ:dependencies_digest"%Q!É‰2(+ógÎJ*¢7q•ÍXŸ$ˆá.l+*&Ìqu—:idI"Ec5e836d1360dc4063b9fc566255bccb407fb60bec8f36767125bdcfcb71b142d;F:
+mtimel+S¢¥e

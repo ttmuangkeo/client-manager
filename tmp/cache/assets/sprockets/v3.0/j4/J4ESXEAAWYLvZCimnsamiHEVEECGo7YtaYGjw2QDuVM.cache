@@ -1,0 +1,57 @@
+{:uriI"¹file://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/p-limit/package.json?type=application/json&id=32ed663dfc31d9a589ab666d7982168f6c5c7f15ef2e3f99a10f3f3cf221d974:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/webpack-dev-server/node_modules/p-limit/package.json;T:	nameI"Anode_modules/webpack-dev-server/node_modules/p-limit/package;T:logical_pathI"Fnode_modules/webpack-dev-server/node_modules/p-limit/package.json;T:content_typeI"application/json;T:sourceI"œ{
+	"name": "p-limit",
+	"version": "2.3.0",
+	"description": "Run multiple promise-returning & async functions with limited concurrency",
+	"license": "MIT",
+	"repository": "sindresorhus/p-limit",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd-check"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"promise",
+		"limit",
+		"limited",
+		"concurrency",
+		"throttle",
+		"throat",
+		"rate",
+		"batch",
+		"ratelimit",
+		"task",
+		"queue",
+		"async",
+		"await",
+		"promises",
+		"bluebird"
+	],
+	"dependencies": {
+		"p-try": "^2.0.0"
+	},
+	"devDependencies": {
+		"ava": "^1.2.1",
+		"delay": "^4.1.0",
+		"in-range": "^1.0.0",
+		"random-int": "^1.0.0",
+		"time-span": "^2.0.0",
+		"tsd-check": "^0.3.0",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/p-limit/package.json;TTF:charsetI"
+utf-8;F:digest"%ÔRžˆÐdˆ!òS"°¶ßÅÞÖ;|}'ò¬?á»:lengthiœ:dependencies_digest"%dä(š‡ïk¸î·yäßâäo{h/ŸO->~‘Œç·t:idI"E32ed663dfc31d9a589ab666d7982168f6c5c7f15ef2e3f99a10f3f3cf221d974;F:
+mtimel+Q¢´e

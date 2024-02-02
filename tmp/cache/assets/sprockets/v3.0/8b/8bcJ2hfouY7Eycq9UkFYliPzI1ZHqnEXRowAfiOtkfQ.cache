@@ -1,0 +1,42 @@
+{:uriI"∏file://app/assets/javascripts/node_modules/html-webpack-plugin/node_modules/json5/package.json?type=application/json&id=23ba477dbdfecf6c71e747c661d9cd5a00f29eecc4bd7a699e1adb1bf5b949c5:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/html-webpack-plugin/node_modules/json5/package.json;T:	nameI"@node_modules/html-webpack-plugin/node_modules/json5/package;T:logical_pathI"Enode_modules/html-webpack-plugin/node_modules/json5/package.json;T:content_typeI"application/json;T:sourceI"∆{
+    "name": "json5",
+    "version": "0.5.1",
+    "description": "JSON for the ES5 era.",
+    "keywords": [
+        "json",
+        "es5"
+    ],
+    "author": "Aseem Kishore <aseem.kishore@gmail.com>",
+    "contributors": [
+        "Max Nanasy <max.nanasy@gmail.com>",
+        "Andrew Eisenberg <andrew@eisenberg.as>",
+        "Jordan Tucker <jordanbtucker@gmail.com>"
+    ],
+    "main": "lib/json5.js",
+    "bin": "lib/cli.js",
+    "files": [
+        "lib/"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-jshint": "^2.0.1",
+        "jshint": "^2.9.3",
+        "jshint-stylish": "^2.2.1",
+        "mocha": "^3.1.0"
+    },
+    "scripts": {
+        "build": "node ./lib/cli.js -c package.json5",
+        "test": "mocha --ui exports --reporter spec"
+    },
+    "homepage": "http://json5.org/",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aseemk/json5.git"
+    }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/html-webpack-plugin/node_modules/json5/package.json;TTF:charsetI"
+utf-8;F:digest"%„Ωÿ	˜Np«îœjvnJÅ õ∆îëÔ)[……∏ã:lengthi∆:dependencies_digest"%¿Úp©+AáœXV§åG–•ÕGq≈f–nÍúÀu:idI"E23ba477dbdfecf6c71e747c661d9cd5a00f29eecc4bd7a699e1adb1bf5b949c5;F:
+mtimel+Q¢¥e

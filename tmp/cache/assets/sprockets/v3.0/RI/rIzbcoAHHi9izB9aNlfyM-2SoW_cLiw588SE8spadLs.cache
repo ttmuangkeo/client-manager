@@ -1,0 +1,30 @@
+{:uriI"file://app/assets/javascripts/node_modules/stream-shift/package.json?type=application/json&id=4084b85e623d25e84c5e30c9e995c5a97059d47f9a5c78c047dccaefcc6943cc:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/stream-shift/package.json;T:	nameI"&node_modules/stream-shift/package;T:logical_pathI"+node_modules/stream-shift/package.json;T:content_typeI"application/json;T:sourceI"{{
+  "name": "stream-shift",
+  "version": "1.0.3",
+  "description": "Returns the next buffer/object in a stream's readable queue",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "tape": "^4.6.0",
+    "through2": "^2.0.1"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/stream-shift.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/stream-shift/issues"
+  },
+  "homepage": "https://github.com/mafintosh/stream-shift"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/stream-shift/package.json;TTF:charsetI"
+utf-8;F:digest"%„ŠCÙ—In(VÖ†ñÃ#§ùT×‡¼**>ÁÍö:lengthi{:dependencies_digest"%Ü§^¬ß›ƒÄı;;§ë^Á£¥Ìp•‡ÙVc`j×æ“:idI"E4084b85e623d25e84c5e30c9e995c5a97059d47f9a5c78c047dccaefcc6943cc;F:
+mtimel+R¢´e

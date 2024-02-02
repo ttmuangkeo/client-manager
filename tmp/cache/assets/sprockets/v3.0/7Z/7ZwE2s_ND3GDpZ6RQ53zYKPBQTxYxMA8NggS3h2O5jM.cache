@@ -1,0 +1,43 @@
+{:uriI"›file://app/assets/javascripts/node_modules/shapefile/package.json?type=application/json&id=29427ab2ba5966b9dd6a303d24fccdce12065b9a84bd1afc85eafb567b03aefd:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/shapefile/package.json;T:	nameI"#node_modules/shapefile/package;T:logical_pathI"(node_modules/shapefile/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "shapefile",
+  "version": "0.3.1",
+  "description": "An implementation of the shapefile (.shp) spatial data format.",
+  "keywords": [
+    "geojson",
+    "shapefile"
+  ],
+  "homepage": "https://github.com/mbostock/shapefile",
+  "license": "BSD-3-Clause",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mbostock/shapefile.git"
+  },
+  "bin": {
+    "dbfcat": "./bin/dbfcat",
+    "shpcat": "./bin/shpcat",
+    "shp2json": "./bin/shp2json"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/vows && echo"
+  },
+  "dependencies": {
+    "iconv-lite": "0.2",
+    "optimist": "0.3",
+    "d3-queue": "1"
+  },
+  "devDependencies": {
+    "vows": "0.7"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/shapefile/package.json;TTF:charsetI"
+utf-8;F:digest"%ˆ¡º¨ÆØ}æh{=›]q”üêidYß½²®ì‹Î:lengthi:dependencies_digest"%õ–ö›ÊàÂAüà/‰„ï¼Õk;zÃ‚Ø
+û
+]:idI"E29427ab2ba5966b9dd6a303d24fccdce12065b9a84bd1afc85eafb567b03aefd;F:
+mtimel+Q¢´e

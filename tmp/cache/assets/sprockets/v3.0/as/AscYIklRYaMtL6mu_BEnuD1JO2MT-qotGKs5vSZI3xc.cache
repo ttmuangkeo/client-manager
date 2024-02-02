@@ -1,0 +1,36 @@
+{:uriI"†file://app/assets/javascripts/node_modules/har-schema/lib/content.json?type=application/json&id=ae14a7838ef0144dd50037acf6eb4f93ab1cb8bc106fa3e54aa0be679a7ed8b2:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/har-schema/lib/content.json;T:	nameI"(node_modules/har-schema/lib/content;T:logical_pathI"-node_modules/har-schema/lib/content.json;T:content_typeI"application/json;T:sourceI"À{
+  "$id": "content.json#",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "required": [
+    "size",
+    "mimeType"
+  ],
+  "properties": {
+    "size": {
+      "type": "integer"
+    },
+    "compression": {
+      "type": "integer"
+    },
+    "mimeType": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "encoding": {
+      "type": "string"
+    },
+    "comment": {
+      "type": "string"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/har-schema/lib/content.json;TTF:charsetI"
+utf-8;F:digest"%VBVVı
+∫ÈCë∑€µcnlXîÓ[ê’·FzBò8ﬁY:lengthiÀ:dependencies_digest"%ÄY¸¥ëH˙Û‘X∏å⁄„G·òsÿ”èE¨∂¢
+‡&πPüÕ:idI"Eae14a7838ef0144dd50037acf6eb4f93ab1cb8bc106fa3e54aa0be679a7ed8b2;F:
+mtimel+R¢¥e

@@ -1,0 +1,48 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/@types/glob/package.json?type=application/json&id=5619d4fe8ab5fce914aa31c377162ffcf6a14acd0f4921217fb643d927e199e0:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/@types/glob/package.json;T:	nameI"%node_modules/@types/glob/package;T:logical_pathI"*node_modules/@types/glob/package.json;T:content_typeI"application/json;T:sourceI"ˇ{
+    "name": "@types/glob",
+    "version": "7.2.0",
+    "description": "TypeScript definitions for Glob",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/glob",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "vvakame",
+            "url": "https://github.com/vvakame",
+            "githubUsername": "vvakame"
+        },
+        {
+            "name": "voy",
+            "url": "https://github.com/voy",
+            "githubUsername": "voy"
+        },
+        {
+            "name": "Klaus Meinhardt",
+            "url": "https://github.com/ajafff",
+            "githubUsername": "ajafff"
+        },
+        {
+            "name": "Piotr B≈Ça≈ºejewicz",
+            "url": "https://github.com/peterblazejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/glob"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/minimatch": "*",
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "436848b740c6ebcf1bfea5b5542b494eb73ed390b43a18c3dffa26ce9bad0aa8",
+    "typeScriptVersion": "3.7"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/@types/glob/package.json;TTF:charsetI"
+utf-8;F:digest"%ä≥«7Ò¸∂f†Ñå©é3‰
+CŒ‰C¶ºC+¡÷|0Œ:lengthiˇ:dependencies_digest"%,ﬂYãÚ∫Sáõã˛⁄o™nJƒìê‰ÌS!òi˛qtûﬂ:idI"E5619d4fe8ab5fce914aa31c377162ffcf6a14acd0f4921217fb643d927e199e0;F:
+mtimel+Q¢¥e

@@ -1,0 +1,46 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/update-browserslist-db/package.json?type=application/json&id=70a2fff0f5112038dcfb8e1ddea586c263f13d92eb49dd07b8df8360b2b598d0:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/update-browserslist-db/package.json;T:	nameI"0node_modules/update-browserslist-db/package;T:logical_pathI"5node_modules/update-browserslist-db/package.json;T:content_typeI"application/json;T:sourceI"•{
+  "name": "update-browserslist-db",
+  "version": "1.0.13",
+  "description": "CLI tool to update caniuse-lite to refresh target browsers from Browserslist config",
+  "keywords": [
+    "caniuse",
+    "browsers",
+    "target"
+  ],
+  "funding": [
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/browserslist"
+    },
+    {
+      "type": "tidelift",
+      "url": "https://tidelift.com/funding/github/npm/browserslist"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/ai"
+    }
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "browserslist/update-db",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "escalade": "^3.1.1",
+    "picocolors": "^1.0.0"
+  },
+  "peerDependencies": {
+    "browserslist": ">= 4.21.0"
+  },
+  "bin": "cli.js"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/update-browserslist-db/package.json;TTF:charsetI"
+utf-8;F:digest"%A†Ã:4°Sµ¬ãóä•HŸöé{(ç=ìŽËCU<ÿ:lengthi•:dependencies_digest"%}U~´ª»>Þ¦ÿï¬?FWÀÜ² :h
+«è1šÊ‚x:idI"E70a2fff0f5112038dcfb8e1ddea586c263f13d92eb49dd07b8df8360b2b598d0;F:
+mtimel+Q¢´e

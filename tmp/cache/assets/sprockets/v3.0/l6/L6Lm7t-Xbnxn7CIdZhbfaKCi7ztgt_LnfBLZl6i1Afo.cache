@@ -1,0 +1,26 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/core-js-compat/external.json?type=application/json&id=e742715e970fcf6f8b67240496af376b564543bb3f3846df3151b3f24c170df1:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/core-js-compat/external.json;T:	nameI")node_modules/core-js-compat/external;T:logical_pathI".node_modules/core-js-compat/external.json;T:content_typeI"application/json;T:sourceI"Š{
+  "modules": {
+    "android": "61",
+    "bun": "0.1.1",
+    "chrome": "61",
+    "chrome-android": "61",
+    "deno": "1.0",
+    "edge": "16",
+    "firefox": "60",
+    "firefox-android": "60",
+    "ios": "10.3",
+    "node": "13.2",
+    "oculus": "4.0",
+    "opera": "48",
+    "opera-android": "45",
+    "opera_mobile": "45",
+    "quest": "4.0",
+    "safari": "10.1",
+    "samsung": "8.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/core-js-compat/external.json;TTF:charsetI"
+utf-8;F:digest"%ÄÆ%ü>²­°‘Ú«Áhðñ9’adµ`Â÷ýge±Ä:lengthiŠ:dependencies_digest"%ÍÜ	Ëláû=LÑÂÌUw—‰0\¿èþÌ7fh6}}:idI"Ee742715e970fcf6f8b67240496af376b564543bb3f3846df3151b3f24c170df1;F:
+mtimel+R¢´e

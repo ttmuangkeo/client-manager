@@ -1,0 +1,44 @@
+{:uriI"¹file://app/assets/javascripts/node_modules/unicode-match-property-value-ecmascript/package.json?type=application/json&id=649e2e458d7f30d97c52f8d0299d655ac31c115eed64cdac1e6a64ddf40c82d6:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/unicode-match-property-value-ecmascript/package.json;T:	nameI"Anode_modules/unicode-match-property-value-ecmascript/package;T:logical_pathI"Fnode_modules/unicode-match-property-value-ecmascript/package.json;T:content_typeI"application/json;T:sourceI"i{
+  "name": "unicode-match-property-value-ecmascript",
+  "version": "2.1.0",
+  "description": "Match a Unicode property or property alias to its canonical property name per the algorithm used for RegExp Unicode property escapes in ECMAScript.",
+  "homepage": "https://github.com/mathiasbynens/unicode-match-property-value-ecmascript",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "LICENSE-MIT.txt",
+    "data/mappings.js",
+    "index.js"
+  ],
+  "keywords": [
+    "unicode",
+    "unicode property values",
+    "unicode property value aliases"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/unicode-match-property-value-ecmascript.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/unicode-match-property-value-ecmascript/issues",
+  "devDependencies": {
+    "ava": "*",
+    "jsesc": "^3.0.2",
+    "unicode-property-value-aliases-ecmascript": "^2.1.0"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "ava tests/tests.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/unicode-match-property-value-ecmascript/package.json;TTF:charsetI"
+utf-8;F:digest"%ÐN:™+‰ýíµœ ;ÀÍ^¼U«¨BQJz\eÊ†:lengthii:dependencies_digest"%!5Aæ›™¶®ÿHHx/ž¸Àð pKÇŽïê™:idI"E649e2e458d7f30d97c52f8d0299d655ac31c115eed64cdac1e6a64ddf40c82d6;F:
+mtimel+Q¢´e

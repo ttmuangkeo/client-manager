@@ -1,0 +1,34 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/path-dirname/package.json?type=application/json&id=ed3c1d98905a245e38e0801c2efb96b37d15d96ef02a383678c5c211d3f2078a:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/path-dirname/package.json;T:	nameI"&node_modules/path-dirname/package;T:logical_pathI"+node_modules/path-dirname/package.json;T:content_typeI"application/json;T:sourceI"œ{
+  "name": "path-dirname",
+  "version": "1.0.2",
+  "description": "Node.js path.dirname() ponyfill",
+  "license": "MIT",
+  "repository": "es128/path-dirname",
+  "author": "Elan Shanker",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "dirname",
+    "dir",
+    "path",
+    "paths",
+    "file",
+    "built-in",
+    "util",
+    "utils",
+    "core",
+    "stdlib",
+    "ponyfill",
+    "polyfill",
+    "shim"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/path-dirname/package.json;TTF:charsetI"
+utf-8;F:digest"%Y1m'ôŒvpc9_6y¢ôhØO«EÌ·@Äœ˜Áç':lengthiœ:dependencies_digest"%¢kv&M·≥$Yaë$„©ìUﬁ<:„zmäÿz`+à:idI"Eed3c1d98905a245e38e0801c2efb96b37d15d96ef02a383678c5c211d3f2078a;F:
+mtimel+Q¢¥e

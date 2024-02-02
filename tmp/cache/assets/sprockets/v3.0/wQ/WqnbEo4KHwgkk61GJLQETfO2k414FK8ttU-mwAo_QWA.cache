@@ -1,0 +1,23 @@
+{:uriI"³file://app/assets/javascripts/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json?type=application/json&id=05ed5a09053bf333233f2674a07189abbb82e51c3fb5c2c00a7455f77eefa5d8:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json;T:	nameI";node_modules/webpack/schemas/plugins/WatchIgnorePlugin;T:logical_pathI"@node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json;T:content_typeI"application/json;T:sourceI"®{
+  "title": "WatchIgnorePluginOptions",
+  "description": "A list of RegExps or absolute paths to directories or files that should be ignored",
+  "type": "array",
+  "items": {
+    "description": "RegExp or absolute path to directories or files that should be ignored",
+    "oneOf": [
+      {
+        "type": "string"
+      },
+      {
+        "instanceof": "RegExp",
+        "tsType": "RegExp"
+      }
+    ]
+  },
+  "minItems": 1
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/webpack/schemas/plugins/WatchIgnorePlugin.json;TTF:charsetI"
+utf-8;F:digest"%Æ‘˜)‰Oæð¹þßÆã†å¢—Ë•tQ~?Ñ¯¬x:lengthi®:dependencies_digest"%fLô>\€î^‰¬/›Æ4lœ&½ ì†Y©•åÔ¨NC:idI"E05ed5a09053bf333233f2674a07189abbb82e51c3fb5c2c00a7455f77eefa5d8;F:
+mtimel+T¢´e

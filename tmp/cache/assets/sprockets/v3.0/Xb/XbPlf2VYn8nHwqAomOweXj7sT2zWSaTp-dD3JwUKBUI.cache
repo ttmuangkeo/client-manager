@@ -1,0 +1,35 @@
+{:uriI"–file://app/assets/javascripts/node_modules/datamaps/src/labels.html?type=text/html&id=35663b6889925c11234129b908762a9aaf4eef5aa64e76c3d40585274c251d03:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/datamaps/src/labels.html;T:	nameI"%node_modules/datamaps/src/labels;T:logical_pathI"*node_modules/datamaps/src/labels.html;T:content_typeI"text/html;T:sourceI"<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+          .active { fill: blue !important;}
+        </style>
+    </head>
+    <body>
+
+        <div id="container1" style="border:1px dotted blue; width: 700px; height: 475px; position: relative;"></div>
+        <script src="js/components/d3/d3.min.js"></script>
+        <script src="js/components/topojson/topojson.js"></script>
+        <script src="rel/datamaps.all.js"></script>
+        <script>
+
+      var election = new Datamap({
+        scope: 'usa',
+        // height: 200,
+        // width: 300,
+        element: document.getElementById('container1'),
+        geographyConfig: {
+          popupOnHover: false
+        }
+      });
+
+      election.labels({"fontSize": 10, labelColor: "#222"});
+      </script>
+    </body>
+</html>
+
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Ofile-digest://app/assets/javascripts/node_modules/datamaps/src/labels.html;TTF:charsetI"
+utf-8;F:digest"%…+íÙî‚/$Ê:É8)ÈÑBuÍÐœË‹ÇÂ':lengthi:dependencies_digest"%ãþY10Òš#A÷‡Å‘ÉßiªC—p902cCÂ:idI"E35663b6889925c11234129b908762a9aaf4eef5aa64e76c3d40585274c251d03;F:
+mtimel+U¢´e

@@ -1,0 +1,48 @@
+{:uriI"øfile://app/assets/javascripts/node_modules/ajv-formats/node_modules/json-schema-traverse/package.json?type=application/json&id=78dfbe3ea345250284d2e59e571b6e25f9707d01b123b098bacf5301a1dda59c:ET:load_pathI"app/assets/javascripts;T:filenameI"capp/assets/javascripts/node_modules/ajv-formats/node_modules/json-schema-traverse/package.json;T:	nameI"Gnode_modules/ajv-formats/node_modules/json-schema-traverse/package;T:logical_pathI"Lnode_modules/ajv-formats/node_modules/json-schema-traverse/package.json;T:content_typeI"application/json;T:sourceI"Ï{
+  "name": "json-schema-traverse",
+  "version": "1.0.0",
+  "description": "Traverse JSON Schema passing each schema object to callback",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "eslint": "eslint index.js spec",
+    "test-spec": "mocha spec -R spec",
+    "test": "npm run eslint && nyc npm run test-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoberezkin/json-schema-traverse.git"
+  },
+  "keywords": [
+    "JSON-Schema",
+    "traverse",
+    "iterate"
+  ],
+  "author": "Evgeny Poberezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epoberezkin/json-schema-traverse/issues"
+  },
+  "homepage": "https://github.com/epoberezkin/json-schema-traverse#readme",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "mocha": "^8.0.1",
+    "nyc": "^15.0.0",
+    "pre-commit": "^1.2.2"
+  },
+  "nyc": {
+    "exclude": [
+      "**/spec/**",
+      "node_modules"
+    ],
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"qfile-digest://app/assets/javascripts/node_modules/ajv-formats/node_modules/json-schema-traverse/package.json;TTF:charsetI"
+utf-8;F:digest"%o≤J(E¡êp`–m˝£^BÇ„JsBâÍï5≠òÆ:lengthiÏ:dependencies_digest"%ù†[ßpZÃt“m±|äyahx§≤µ'‚çNrv,Ω%:idI"E78dfbe3ea345250284d2e59e571b6e25f9707d01b123b098bacf5301a1dda59c;F:
+mtimel+R¢¥e

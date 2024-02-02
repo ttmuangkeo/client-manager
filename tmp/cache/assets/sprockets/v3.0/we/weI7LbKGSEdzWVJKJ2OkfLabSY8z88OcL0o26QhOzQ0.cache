@@ -1,0 +1,50 @@
+{:uriI"£file://app/assets/javascripts/node_modules/copy-concurrently/package.json?type=application/json&id=745f14c47d8000dfdb10c86714c47f7ffc70eb5d598ae80f4c1a7595063a212a:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/copy-concurrently/package.json;T:	nameI"+node_modules/copy-concurrently/package;T:logical_pathI"0node_modules/copy-concurrently/package.json;T:content_typeI"application/json;T:sourceI"
+{
+  "name": "copy-concurrently",
+  "version": "1.0.5",
+  "description": "Promises of copies of files, directories and symlinks, with concurrency controls and win32 junction fallback.",
+  "main": "copy.js",
+  "scripts": {
+    "test": "standard && tap --coverage test"
+  },
+  "keywords": [
+    "copy",
+    "cpr"
+  ],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "aproba": "^1.1.1",
+    "fs-write-stream-atomic": "^1.0.8",
+    "iferr": "^0.1.5",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.5.4",
+    "run-queue": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tacks": "^1.2.6",
+    "tap": "^10.1.1"
+  },
+  "files": [
+    "copy.js",
+    "is-windows.js"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/copy-concurrently.git"
+  },
+  "bugs": {
+    "url": "https://github.com/npm/copy-concurrently/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/copy-concurrently"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ufile-digest://app/assets/javascripts/node_modules/copy-concurrently/package.json;TTF:charsetI"
+utf-8;F:digest"%Jt{HÍN,:b&é‹åužkBÀiH ­eÃÐå¬:lengthi
+:dependencies_digest"%v^&îèh`B‚ŸŒæÁY¦<¥%B¥§Žs·þ+:idI"E745f14c47d8000dfdb10c86714c47f7ffc70eb5d598ae80f4c1a7595063a212a;F:
+mtimel+Q¢´e

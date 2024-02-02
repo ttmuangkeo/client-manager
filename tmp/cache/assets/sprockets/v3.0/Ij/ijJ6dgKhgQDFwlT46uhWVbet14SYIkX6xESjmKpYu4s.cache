@@ -1,0 +1,63 @@
+{:uriI"≥file://app/assets/javascripts/node_modules/renderkid/node_modules/strip-ansi/package.json?type=application/json&id=bfb28df5d3ac84dc0201adba2ae9c49af7be8d8941ade6cf714ec8bb040c0c07:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/renderkid/node_modules/strip-ansi/package.json;T:	nameI";node_modules/renderkid/node_modules/strip-ansi/package;T:logical_pathI"@node_modules/renderkid/node_modules/strip-ansi/package.json;T:content_typeI"application/json;T:sourceI"ˇ{
+  "name": "strip-ansi",
+  "version": "3.0.1",
+  "description": "Strip ANSI escape codes",
+  "license": "MIT",
+  "repository": "chalk/strip-ansi",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    "Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
+    "Joshua Boy Nicolai Appelman <joshua@jbna.nl> (jbna.nl)",
+    "JD Ballard <i.am.qix@gmail.com> (github.com/qix-)"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "strip",
+    "trim",
+    "remove",
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "log",
+    "logging",
+    "command-line",
+    "text"
+  ],
+  "dependencies": {
+    "ansi-regex": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/renderkid/node_modules/strip-ansi/package.json;TTF:charsetI"
+utf-8;F:digest"%`ﬂ∆øXÆ°DÁ›éQh£?Ë√Ü ìöZs¿ºT:lengthiˇ:dependencies_digest"%{@Z[’\÷ê
+†x!Œ¨Ç’¬ãbF Åñ4ÌZgÁ°X:idI"Ebfb28df5d3ac84dc0201adba2ae9c49af7be8d8941ade6cf714ec8bb040c0c07;F:
+mtimel+Q¢¥e

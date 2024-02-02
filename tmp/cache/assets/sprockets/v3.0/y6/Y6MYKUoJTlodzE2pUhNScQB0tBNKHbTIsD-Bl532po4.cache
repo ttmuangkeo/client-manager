@@ -1,0 +1,37 @@
+{:uriI"®file://app/assets/javascripts/node_modules/vue-template-es2015-compiler/package.json?type=application/json&id=f30a5cf23688bb2e12629cca4c0c6dbb9140e8ce0c95920f01d604343a3fdcf5:ET:load_pathI"app/assets/javascripts;T:filenameI"Rapp/assets/javascripts/node_modules/vue-template-es2015-compiler/package.json;T:	nameI"6node_modules/vue-template-es2015-compiler/package;T:logical_pathI";node_modules/vue-template-es2015-compiler/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "vue-template-es2015-compiler",
+  "version": "1.9.1",
+  "description": "Post compiler for Vue template render functions to support ES2015+ features",
+  "main": "index.js",
+  "author": "Evan You",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "buble.js"
+  ],
+  "scripts": {
+    "build": "cd buble && npm run build && cp dist/buble-browser-deps.umd.js ../buble.js",
+    "test": "jest",
+    "prepublishOnly": "jest && npm run build"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "vue": "^2.6.0",
+    "vue-template-compiler": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vuejs/vue-template-es2015-compiler"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/buble/"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"`file-digest://app/assets/javascripts/node_modules/vue-template-es2015-compiler/package.json;TTF:charsetI"
+utf-8;F:digest"%Ð^6[ú0œ^Òïºÿº„>× yAg!ÕA…(’”:lengthi:dependencies_digest"%žIž¶"Ñ…ù€wI…}š3Çæý±éA¶é+«\)ßì_:idI"Ef30a5cf23688bb2e12629cca4c0c6dbb9140e8ce0c95920f01d604343a3fdcf5;F:
+mtimel+Q¢´e

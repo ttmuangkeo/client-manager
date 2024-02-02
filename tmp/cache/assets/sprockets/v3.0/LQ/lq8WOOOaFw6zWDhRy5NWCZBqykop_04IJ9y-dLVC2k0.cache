@@ -1,0 +1,48 @@
+{:uriI"ßfile://app/assets/javascripts/node_modules/postcss-minify-params/package.json?type=application/json&id=687b54bde61f64bf1f7417a19dfbf2b301ef40aaa6a3f828a1ea2854c3f3f59e:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/postcss-minify-params/package.json;T:	nameI"/node_modules/postcss-minify-params/package;T:logical_pathI"4node_modules/postcss-minify-params/package.json;T:content_typeI"application/json;T:sourceI"≈{
+  "name": "postcss-minify-params",
+  "version": "4.0.2",
+  "description": "Minify at-rule params with PostCSS",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "minify",
+    "optimise",
+    "params"
+  ],
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "author": "Bogdan Chadkin <trysound@yandex.ru>",
+  "license": "MIT",
+  "repository": "cssnano/cssnano",
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "dependencies": {
+    "alphanum-sort": "^1.0.0",
+    "browserslist": "^4.0.0",
+    "cssnano-util-get-arguments": "^4.0.0",
+    "postcss": "^7.0.0",
+    "postcss-value-parser": "^3.0.0",
+    "uniqs": "^2.0.0"
+  },
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/postcss-minify-params/package.json;TTF:charsetI"
+utf-8;F:digest"%[≠˜ˇ´,YÚÜXJØÍ∏6≤Ï‚%?ˇª*ŒÍ®eXB:lengthi≈:dependencies_digest"%≈‘!ﬁ~™!;di	®™
+õÄ Ë˘œ>39£À”1!<d):idI"E687b54bde61f64bf1f7417a19dfbf2b301ef40aaa6a3f828a1ea2854c3f3f59e;F:
+mtimel+Q¢¥e

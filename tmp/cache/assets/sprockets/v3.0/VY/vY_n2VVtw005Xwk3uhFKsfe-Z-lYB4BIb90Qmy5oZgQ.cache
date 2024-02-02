@@ -1,0 +1,42 @@
+{:uriI"ôfile://app/assets/javascripts/node_modules/delegate/demo/multiple.html?type=text/html&id=af14c04ea6df3c141f55b8ae0a18c7c92c9ca6ba254aab2aba84d89a0a82b4b5:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/delegate/demo/multiple.html;T:	nameI"(node_modules/delegate/demo/multiple;T:logical_pathI"-node_modules/delegate/demo/multiple.html;T:content_typeI"text/html;T:sourceI"W<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delegate</title>
+</head>
+<body>
+    <!-- 1. Write some markup -->
+    <ul>
+        <li><button>Item 1</button></li>
+        <li><button>Item 2</button></li>
+        <li><button>Item 3</button></li>
+        <li><button>Item 4</button></li>
+        <li><button>Item 5</button></li>
+    </ul>
+    <ul>
+        <li><span>Item 6</span></li>
+        <li><span>Item 7</span></li>
+    </ul>
+
+    <!-- 2. Include library -->
+    <script src="../dist/delegate.js"></script>
+
+    <!-- 3. Add event delegation -->
+    <script>
+    var ul = document.querySelector('ul');
+
+    delegate(ul, 'button', 'click', function(e) {
+        console.log(e.target);
+    });
+
+    delegate(document.body, 'span', 'click', function(e) {
+        console.log(e.target);
+    });
+    </script>
+</body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Rfile-digest://app/assets/javascripts/node_modules/delegate/demo/multiple.html;TTF:charsetI"
+utf-8;F:digest"%•!ÆOJÚ•ﬂà€“†¸4Ènƒ©1—+@ñ√)UÇ¸:lengthiW:dependencies_digest"%ä&TπÜ8ÅﬁœÖ*TÅÛM?^QÀRUS∆d¯ª;ëCîƒ:idI"Eaf14c04ea6df3c141f55b8ae0a18c7c92c9ca6ba254aab2aba84d89a0a82b4b5;F:
+mtimel+R¢¥e

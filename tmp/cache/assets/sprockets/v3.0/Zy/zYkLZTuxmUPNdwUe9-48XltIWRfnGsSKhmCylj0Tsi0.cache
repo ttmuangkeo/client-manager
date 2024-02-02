@@ -1,0 +1,32 @@
+{:uriI"´file://app/assets/javascripts/node_modules/@babel/helper-validator-identifier/package.json?type=application/json&id=d388f860af1d75b382f7a1de86495fbfe09f88c8e6287b4615b9d0337da38bf1:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/@babel/helper-validator-identifier/package.json;T:	nameI"<node_modules/@babel/helper-validator-identifier/package;T:logical_pathI"Anode_modules/@babel/helper-validator-identifier/package.json;T:content_typeI"application/json;T:sourceI"¦{
+  "name": "@babel/helper-validator-identifier",
+  "version": "7.22.20",
+  "description": "Validate identifier/keywords name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-validator-identifier"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "devDependencies": {
+    "@unicode/unicode-15.1.0": "^1.5.2",
+    "charcodes": "^0.2.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ffile-digest://app/assets/javascripts/node_modules/@babel/helper-validator-identifier/package.json;TTF:charsetI"
+utf-8;F:digest"%ÈEğ(áÌâßøa¨’az©ğ±åEXNáQ‰š†Q)E:lengthi¦:dependencies_digest"%¿€2Ó–İ(rç°g×ï¿òÙMDhÍl-8={Á×:idI"Ed388f860af1d75b382f7a1de86495fbfe09f88c8e6287b4615b9d0337da38bf1;F:
+mtimel+R¢´e

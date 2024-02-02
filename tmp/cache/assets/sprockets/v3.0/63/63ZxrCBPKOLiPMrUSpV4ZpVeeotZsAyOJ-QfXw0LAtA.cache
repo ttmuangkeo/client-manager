@@ -1,0 +1,70 @@
+{:uriI"žfile://app/assets/javascripts/node_modules/is-directory/package.json?type=application/json&id=df7f1bea9544e9cdfcf306ed97e132d27c1f84caff0d98cbfd98026338ab2ad1:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/is-directory/package.json;T:	nameI"&node_modules/is-directory/package;T:logical_pathI"+node_modules/is-directory/package.json;T:content_typeI"application/json;T:sourceI" {
+  "name": "is-directory",
+  "description": "Returns true if a filepath exists on the file system and it's directory.",
+  "version": "0.3.1",
+  "homepage": "https://github.com/jonschlinkert/is-directory",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/is-directory",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-directory/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "dir",
+    "directories",
+    "directory",
+    "dirs",
+    "file",
+    "filepath",
+    "files",
+    "fp",
+    "fs",
+    "node",
+    "node.js",
+    "path",
+    "paths",
+    "system"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "is-glob",
+        "is-relative",
+        "is-absolute"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/is-directory/package.json;TTF:charsetI"
+utf-8;F:digest"%nà¬µ#ü´äs‘Ü;¿¼²w©¥öH;ªF:lengthi :dependencies_digest"%gxºŽ³QriªZPÁ0y—†ds‹ù`•£u<t›µ:idI"Edf7f1bea9544e9cdfcf306ed97e132d27c1f84caff0d98cbfd98026338ab2ad1;F:
+mtimel+Q¢´e

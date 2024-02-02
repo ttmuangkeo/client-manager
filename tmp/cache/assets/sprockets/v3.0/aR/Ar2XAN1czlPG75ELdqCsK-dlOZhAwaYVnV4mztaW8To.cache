@@ -1,0 +1,48 @@
+{:uriI"¦file://app/assets/javascripts/node_modules/json-schema-traverse/package.json?type=application/json&id=9631397765258e24a4aa948d4f550bf3f804d22d73f049c7e2ea066c10536732:ET:load_pathI"app/assets/javascripts;T:filenameI"Japp/assets/javascripts/node_modules/json-schema-traverse/package.json;T:	nameI".node_modules/json-schema-traverse/package;T:logical_pathI"3node_modules/json-schema-traverse/package.json;T:content_typeI"application/json;T:sourceI"ð{
+  "name": "json-schema-traverse",
+  "version": "0.4.1",
+  "description": "Traverse JSON Schema passing each schema object to callback",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js spec",
+    "test-spec": "mocha spec -R spec",
+    "test": "npm run eslint && nyc npm run test-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoberezkin/json-schema-traverse.git"
+  },
+  "keywords": [
+    "JSON-Schema",
+    "traverse",
+    "iterate"
+  ],
+  "author": "Evgeny Poberezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epoberezkin/json-schema-traverse/issues"
+  },
+  "homepage": "https://github.com/epoberezkin/json-schema-traverse#readme",
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "eslint": "^3.19.0",
+    "mocha": "^3.4.2",
+    "nyc": "^11.0.2",
+    "pre-commit": "^1.2.2"
+  },
+  "nyc": {
+    "exclude": [
+      "**/spec/**",
+      "node_modules"
+    ],
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Xfile-digest://app/assets/javascripts/node_modules/json-schema-traverse/package.json;TTF:charsetI"
+utf-8;F:digest"%½íò%_è	»”ù£™/“ƒ^<p‰K=Píuò\Q&:lengthið:dependencies_digest"%Ý¬%S2ñ™íîsË@$žë{eÂá*]ÒÛ1A¥4V¦:idI"E9631397765258e24a4aa948d4f550bf3f804d22d73f049c7e2ea066c10536732;F:
+mtimel+Q¢´e

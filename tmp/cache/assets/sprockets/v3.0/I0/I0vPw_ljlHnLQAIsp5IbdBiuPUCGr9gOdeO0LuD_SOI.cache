@@ -1,0 +1,23 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/cookie-signature/package.json?type=application/json&id=56f1008ac9a4ecc95fbee1e46fe79c054691f081cd880d5034d7657ae055be5e:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/cookie-signature/package.json;T:	nameI"*node_modules/cookie-signature/package;T:logical_pathI"/node_modules/cookie-signature/package.json;T:content_typeI"application/json;T:sourceI"ì{
+  "name": "cookie-signature",
+  "version": "1.0.6",
+  "description": "Sign and unsign cookies",
+  "keywords": ["cookie", "sign", "unsign"],
+  "author": "TJ Holowaychuk <tj@learnboost.com>",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/visionmedia/node-cookie-signature.git"},
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha --require should --reporter spec"
+  },
+  "main": "index"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/cookie-signature/package.json;TTF:charsetI"
+utf-8;F:digest"%«fwzg:à–ÖµªQµí´k„æüØ]À3XÃUvãßdõ:lengthiì:dependencies_digest"%XD"’Î‡=D@¡¾µ…Ë2Ò	ÑŠ/QÍ™xïÔ:idI"E56f1008ac9a4ecc95fbee1e46fe79c054691f081cd880d5034d7657ae055be5e;F:
+mtimel+Q¢´e

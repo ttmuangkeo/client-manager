@@ -1,0 +1,68 @@
+{:uriI"öfile://app/assets/javascripts/node_modules/asynckit/package.json?type=application/json&id=2f0364ab5c6492ede6f91084ec7eaa92d738b777bfdfb54b56095cb043664ce7:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/asynckit/package.json;T:	nameI""node_modules/asynckit/package;T:logical_pathI"'node_modules/asynckit/package.json;T:content_typeI"application/json;T:sourceI"K{
+  "name": "asynckit",
+  "version": "0.4.0",
+  "description": "Minimal async jobs utility library, with streams support",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf coverage",
+    "lint": "eslint *.js lib/*.js test/*.js",
+    "test": "istanbul cover --reporter=json tape -- 'test/test-*.js' | tap-spec",
+    "win-test": "tape test/test-*.js",
+    "browser": "browserify -t browserify-istanbul test/lib/browserify_adjustment.js test/test-*.js | obake --coverage | tap-spec",
+    "report": "istanbul report",
+    "size": "browserify index.js | size-table asynckit",
+    "debug": "tape test/test-*.js"
+  },
+  "pre-commit": [
+    "clean",
+    "lint",
+    "test",
+    "browser",
+    "report",
+    "size"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexindigo/asynckit.git"
+  },
+  "keywords": [
+    "async",
+    "jobs",
+    "parallel",
+    "serial",
+    "iterator",
+    "array",
+    "object",
+    "stream",
+    "destroy",
+    "terminate",
+    "abort"
+  ],
+  "author": "Alex Indigo <iam@alexindigo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexindigo/asynckit/issues"
+  },
+  "homepage": "https://github.com/alexindigo/asynckit#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "browserify-istanbul": "^2.0.0",
+    "coveralls": "^2.11.9",
+    "eslint": "^2.9.0",
+    "istanbul": "^0.4.3",
+    "obake": "^0.1.2",
+    "phantomjs-prebuilt": "^2.1.7",
+    "pre-commit": "^1.1.3",
+    "reamde": "^1.1.0",
+    "rimraf": "^2.5.2",
+    "size-table": "^0.2.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  },
+  "dependencies": {}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/asynckit/package.json;TTF:charsetI"
+utf-8;F:digest"%cÎüˆ;‚‚AÓnÄCMFA÷Èµ}àΩ;ªi/À-¸ç§©:lengthiK:dependencies_digest"%ï·≈$”vóe∏~0ªc_Œ!E—EΩÃà◊Æ+Nò`:idI"E2f0364ab5c6492ede6f91084ec7eaa92d738b777bfdfb54b56095cb043664ce7;F:
+mtimel+Q¢¥e

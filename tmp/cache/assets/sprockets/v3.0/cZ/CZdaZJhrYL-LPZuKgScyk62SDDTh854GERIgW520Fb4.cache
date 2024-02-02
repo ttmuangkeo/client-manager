@@ -1,0 +1,39 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/is-arrayish/package.json?type=application/json&id=acb9c67a9d273996ae65ab65bf2cac7aabb66c8522e1b42d581b7c991b6fc441:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/is-arrayish/package.json;T:	nameI"%node_modules/is-arrayish/package;T:logical_pathI"*node_modules/is-arrayish/package.json;T:content_typeI"application/json;T:sourceI"¡{
+  "name": "is-arrayish",
+  "description": "Determines if an object can be used as an array",
+  "version": "0.2.1",
+  "author": "Qix (http://github.com/qix-)",
+  "keywords": [
+    "is",
+    "array",
+    "duck",
+    "type",
+    "arrayish",
+    "similar",
+    "proto",
+    "prototype",
+    "type"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "pretest": "xo",
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qix-/node-is-arrayish.git"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "should": "^7.0.1",
+    "xo": "^0.6.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/is-arrayish/package.json;TTF:charsetI"
+utf-8;F:digest"%uòÓ˙?çu§%ÇÓ–√ulÜ9ÑaGˆ<~|äã1æ|:lengthi¡:dependencies_digest"%O¸Ï*SÍπg	RZ∂E‡w“ºÁREÆ>n\éÕ^V:idI"Eacb9c67a9d273996ae65ab65bf2cac7aabb66c8522e1b42d581b7c991b6fc441;F:
+mtimel+Q¢¥e

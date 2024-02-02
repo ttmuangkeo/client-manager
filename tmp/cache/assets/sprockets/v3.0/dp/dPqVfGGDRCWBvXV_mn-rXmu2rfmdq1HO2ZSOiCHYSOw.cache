@@ -1,0 +1,44 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/path-key/package.json?type=application/json&id=53c89652183b92486ec522ea68bc1fd08498d21b95aec582d9b7caae81df7274:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/path-key/package.json;T:	nameI""node_modules/path-key/package;T:logical_pathI"'node_modules/path-key/package.json;T:content_typeI"application/json;T:sourceI"Š{
+	"name": "path-key",
+	"version": "3.1.1",
+	"description": "Get the PATH environment variable key cross-platform",
+	"license": "MIT",
+	"repository": "sindresorhus/path-key",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"path",
+		"key",
+		"environment",
+		"env",
+		"variable",
+		"var",
+		"get",
+		"cross-platform",
+		"windows"
+	],
+	"devDependencies": {
+		"@types/node": "^11.13.0",
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/path-key/package.json;TTF:charsetI"
+utf-8;F:digest"%%YM«rh‘œÉ&:M¯'×zuàÒÂjM•mky†:lengthiŠ:dependencies_digest"%º*VÕ*ognÄxákq¥¾¾ŞÙ¥p¥o0ß¦‹h:idI"E53c89652183b92486ec522ea68bc1fd08498d21b95aec582d9b7caae81df7274;F:
+mtimel+Q¢´e

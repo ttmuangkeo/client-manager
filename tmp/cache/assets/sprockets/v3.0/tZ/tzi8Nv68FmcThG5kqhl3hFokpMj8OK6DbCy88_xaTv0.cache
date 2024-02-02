@@ -1,0 +1,86 @@
+{:uriI"›file://app/assets/javascripts/node_modules/picomatch/package.json?type=application/json&id=11ca26774b3058cbd54feafb312097d2da3e5684b9278db2389b1e60b399a9fc:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/picomatch/package.json;T:	nameI"#node_modules/picomatch/package;T:logical_pathI"(node_modules/picomatch/package.json;T:content_typeI"application/json;T:sourceI"x{
+  "name": "picomatch",
+  "description": "Blazing fast and accurate glob matcher written in JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.",
+  "version": "2.3.1",
+  "homepage": "https://github.com/micromatch/picomatch",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "funding": "https://github.com/sponsors/jonschlinkert",
+  "repository": "micromatch/picomatch",
+  "bugs": {
+    "url": "https://github.com/micromatch/picomatch/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.6"
+  },
+  "scripts": {
+    "lint": "eslint --cache --cache-location node_modules/.cache/.eslintcache --report-unused-disable-directives --ignore-path .gitignore .",
+    "mocha": "mocha --reporter dot",
+    "test": "npm run lint && npm run mocha",
+    "test:ci": "npm run test:cover",
+    "test:cover": "nyc npm run mocha"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "fill-range": "^7.0.1",
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^6.2.2",
+    "nyc": "^15.0.0",
+    "time-require": "github:jonschlinkert/time-require"
+  },
+  "keywords": [
+    "glob",
+    "match",
+    "picomatch"
+  ],
+  "nyc": {
+    "reporter": [
+      "html",
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "verb": {
+    "toc": {
+      "render": true,
+      "method": "preWrite",
+      "maxdepth": 3
+    },
+    "layout": "empty",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "braces",
+        "micromatch"
+      ]
+    },
+    "reflinks": [
+      "braces",
+      "expand-brackets",
+      "extglob",
+      "fill-range",
+      "micromatch",
+      "minimatch",
+      "nanomatch",
+      "picomatch"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/picomatch/package.json;TTF:charsetI"
+utf-8;F:digest"%9´ÅHWgõ µ–âá­‹7?ƒ¨mvßm‘šxL:lengthix:dependencies_digest"%æôß~:Ð(Ù?RéÿŸ)«Ã=¡åÏ5Ìè-=¬:idI"E11ca26774b3058cbd54feafb312097d2da3e5684b9278db2389b1e60b399a9fc;F:
+mtimel+R¢´e

@@ -1,0 +1,51 @@
+{:uriI"∞file://app/assets/javascripts/node_modules/@vue/babel-plugin-resolve-type/package.json?type=application/json&id=6dda216c2c384564371247c24a3656ce8b2f1846c050c2b679c823b8b68acfae:ET:load_pathI"app/assets/javascripts;T:filenameI"Tapp/assets/javascripts/node_modules/@vue/babel-plugin-resolve-type/package.json;T:	nameI"8node_modules/@vue/babel-plugin-resolve-type/package;T:logical_pathI"=node_modules/@vue/babel-plugin-resolve-type/package.json;T:content_typeI"application/json;T:sourceI"æ{
+  "name": "@vue/babel-plugin-resolve-type",
+  "version": "1.2.1",
+  "description": "Babel plugin for resolving Vue types.",
+  "author": "‰∏âÂí≤Êô∫Â≠ê <sxzz@sxzz.moe>",
+  "homepage": "https://github.com/vuejs/babel-plugin-jsx/tree/dev/packages/babel-plugin-resolve-type#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/babel-plugin-jsx"
+  },
+  "bugs": {
+    "url": "https://github.com/vuejs/babel-plugin-jsx/issues"
+  },
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "dependencies": {
+    "@babel/code-frame": "^7.23.5",
+    "@babel/helper-module-imports": "^7.22.15",
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/parser": "^7.23.6",
+    "@vue/compiler-sfc": "^3.4.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@types/babel__code-frame": "^7.0.6",
+    "vue": "^3.4.15"
+  },
+  "scripts": {
+    "build": "tsup",
+    "watch": "tsup --watch"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"bfile-digest://app/assets/javascripts/node_modules/@vue/babel-plugin-resolve-type/package.json;TTF:charsetI"
+utf-8;F:digest"%zu®2EKÇÁîºqÓ=Aó¢˘Ljb8äZ@’Fú7Êú:lengthiæ:dependencies_digest"%´è®≠SœéËì>æŒOÉ%>ˇ¸m«-6üÚB•»::idI"E6dda216c2c384564371247c24a3656ce8b2f1846c050c2b679c823b8b68acfae;F:
+mtimel+R¢¥e

@@ -1,0 +1,28 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/@babel/plugin-syntax-dynamic-import/package.json?type=application/json&id=7591e39d8771cec152dc4b640811fdf97d2feac15c60a6f56ed5c5c37659ec4f:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/@babel/plugin-syntax-dynamic-import/package.json;T:	nameI"=node_modules/@babel/plugin-syntax-dynamic-import/package;T:logical_pathI"Bnode_modules/@babel/plugin-syntax-dynamic-import/package.json;T:content_typeI"application/json;T:sourceI" {
+  "name": "@babel/plugin-syntax-dynamic-import",
+  "version": "7.8.3",
+  "description": "Allow parsing of import()",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-dynamic-import",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.8.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-dynamic-import/package.json;TTF:charsetI"
+utf-8;F:digest"%‡1ê&c{+.’zÅÚâÔº¨	z_†]ö[qL$ÒáÅ:lengthi :dependencies_digest"%{ð ‰ÿgÞÞ,;ã¹G9>üšbAöa¸è8öÑÂXš$:idI"E7591e39d8771cec152dc4b640811fdf97d2feac15c60a6f56ed5c5c37659ec4f;F:
+mtimel+Q¢´e

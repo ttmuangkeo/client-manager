@@ -1,0 +1,47 @@
+{:uriI"¬file://app/assets/javascripts/node_modules/postcss-discard-duplicates/package.json?type=application/json&id=954a4283dc2781be7f10571f61ba99abbd7247f4e677781cafa37b5188ccc130:ET:load_pathI"app/assets/javascripts;T:filenameI"Papp/assets/javascripts/node_modules/postcss-discard-duplicates/package.json;T:	nameI"4node_modules/postcss-discard-duplicates/package;T:logical_pathI"9node_modules/postcss-discard-duplicates/package.json;T:content_typeI"application/json;T:sourceI"|{
+  "name": "postcss-discard-duplicates",
+  "version": "4.0.2",
+  "description": "Discard duplicate rules in your CSS files with PostCSS.",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "keywords": [
+    "css",
+    "dedupe",
+    "optimise",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^7.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"^file-digest://app/assets/javascripts/node_modules/postcss-discard-duplicates/package.json;TTF:charsetI"
+utf-8;F:digest"%Žystj–‚ÖLÊ
+ øØ|ñªu¿ç$úÎ¯ÚeF2â:lengthi|:dependencies_digest"%­²|wQ©è¤ý‰YL‚ÁŒV^ZÄ“óË‡6ZP]<:idI"E954a4283dc2781be7f10571f61ba99abbd7247f4e677781cafa37b5188ccc130;F:
+mtimel+Q¢´e

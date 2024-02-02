@@ -1,0 +1,26 @@
+{:uriI"ßfile://app/assets/javascripts/node_modules/request/node_modules/qs/bower.json?type=application/json&id=7f9073f4c9c2f60e51d659de78aa4d7b3807ed4b4f43a60d9c471b7fbb39b936:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/request/node_modules/qs/bower.json;T:	nameI"/node_modules/request/node_modules/qs/bower;T:logical_pathI"4node_modules/request/node_modules/qs/bower.json;T:content_typeI"application/json;T:sourceI"·{
+    "name": "qs",
+    "main": "dist/qs.js",
+    "homepage": "https://github.com/hapijs/qs",
+    "authors": [
+        "Nathan LaFreniere <quitlahok@gmail.com>"
+    ],
+    "description": "A querystring parser that supports nesting and arrays, with a depth limit",
+    "keywords": [
+        "querystring",
+        "qs"
+    ],
+    "license": "BSD-3-Clause",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/request/node_modules/qs/bower.json;TTF:charsetI"
+utf-8;F:digest"%Ü€"=§^⁄@é˘ª¿B_·bIÖ®JTxrÅ–?ÒZ.:lengthi·:dependencies_digest"%<¢ºåªnüWhˆ´˜"ˇá‘¥1wá†˚nÓ◊JbÔ:idI"E7f9073f4c9c2f60e51d659de78aa4d7b3807ed4b4f43a60d9c471b7fbb39b936;F:
+mtimel+R¢¥e

@@ -1,0 +1,82 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/braces/package.json?type=application/json&id=b462f72faee76c53448473723cd2b3a24280387afc00ef0349faedf66ef08ba0:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/braces/package.json;T:	nameI" node_modules/braces/package;T:logical_pathI"%node_modules/braces/package.json;T:content_typeI"application/json;T:sourceI"o{
+  "name": "braces",
+  "description": "Bash-like brace expansion, implemented in JavaScript. Safer than other brace expansion libs, with complete support for the Bash 4.3 braces specification, without sacrificing speed.",
+  "version": "3.0.2",
+  "homepage": "https://github.com/micromatch/braces",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Elan Shanker (https://github.com/es128)",
+    "Eugene Sharygin (https://github.com/eush77)",
+    "hemanth.hm (http://h3manth.com)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "micromatch/braces",
+  "bugs": {
+    "url": "https://github.com/micromatch/braces/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "mocha",
+    "benchmark": "node benchmark"
+  },
+  "dependencies": {
+    "fill-range": "^7.0.1"
+  },
+  "devDependencies": {
+    "ansi-colors": "^3.2.4",
+    "bash-path": "^2.0.1",
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^6.1.1"
+  },
+  "keywords": [
+    "alpha",
+    "alphabetical",
+    "bash",
+    "brace",
+    "braces",
+    "expand",
+    "expansion",
+    "filepath",
+    "fill",
+    "fs",
+    "glob",
+    "globbing",
+    "letter",
+    "match",
+    "matches",
+    "matching",
+    "number",
+    "numerical",
+    "path",
+    "range",
+    "ranges",
+    "sh"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "plugins": [
+      "gulp-format-md"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/braces/package.json;TTF:charsetI"
+utf-8;F:digest"%å³„x–d#"K,ÛRDòúLF‹y>‰ÎØÆ¶­ƒ{â:lengthio:dependencies_digest"%^Ûv&äI™`¼‚Œ‚i¿ğbpsªâËÎò´Øš0ca:idI"Eb462f72faee76c53448473723cd2b3a24280387afc00ef0349faedf66ef08ba0;F:
+mtimel+Q¢´e

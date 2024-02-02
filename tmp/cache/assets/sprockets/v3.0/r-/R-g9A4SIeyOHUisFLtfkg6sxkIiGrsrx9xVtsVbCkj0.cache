@@ -1,0 +1,40 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/@babel/plugin-syntax-import-attributes/package.json?type=application/json&id=ef912aa02ebc075fcb282c1435cc5b9f2e0265485400172a3f2c5699cf438dfb:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/@babel/plugin-syntax-import-attributes/package.json;T:	nameI"@node_modules/@babel/plugin-syntax-import-attributes/package;T:logical_pathI"Enode_modules/@babel/plugin-syntax-import-attributes/package.json;T:content_typeI"application/json;T:sourceI"L{
+  "name": "@babel/plugin-syntax-import-attributes",
+  "version": "7.23.3",
+  "description": "Allow parsing of the module attributes in the import statement",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-syntax-import-attributes"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-import-attributes/package.json;TTF:charsetI"
+utf-8;F:digest"%#E‰•>p7Lˆnnz-Õ*šèB…ñíO°Ò[ÝÝN9g:lengthiL:dependencies_digest"%ÅìÙ\ñ*?xñ5l¤Î ]>VcƒSûªÄDíÓ[D:idI"Eef912aa02ebc075fcb282c1435cc5b9f2e0265485400172a3f2c5699cf438dfb;F:
+mtimel+Q¢´e

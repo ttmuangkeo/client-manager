@@ -1,46 +1,85 @@
 module MoxiAuthHelper
 
+def login(username, password)
+    Rails.logger.info("Stored credentials: #{username} and #{password}")
+    headers = {
+        Authorization: "Basic #{Base64.strict_encode64("#{username}:#{password}")}",
+        Content_Type: 'application/x-www-form-urlencoded',
+        Accept: 'application/vnd.moxi-platform+json;version=1'
+    }
+    
+    begin
+        Rails.logger.info("Request to #{Rails.application.config.base_moxi_url}/companies with headers: #{headers}")
+    
+        response = RestClient.get("#{Rails.application.config.base_moxi_url}/companies", headers)
+        cookie = extract_cookie_from_response(response)
+        creds = headers[:Authorization]
+    
+        store_cookies(cookie)
+        store_basic_auth_creds(username, password)
+        store_session_data(cookie, creds)
+    
+        { success: true }
+    rescue RestClient::ExceptionWithResponse => e
+        Rails.logger.error("Error authing: #{e.response}")
+        { success: false, error: "Failed to authenticate" }
+    end
+    end
 
-    def login(username, password)
-        result = fetch_moxi_data(username, password, 'companies')
-        if result[:success]
-            session[:moxi_credentials] = {username: username, password: password}
-            {success: true, data: result[:data]}
-        else
-            {success: false, error: 'authne erro'}
+    def extract_cookie_from_response(response)
+    cookie_header = response.headers[:set_cookie]
+
+    if cookie_header.is_a?(Array)
+        cookie_header = cookie_header.join(' ')
+    end
+
+    cookie_match = /_wms_svc_public_session=(\S+);/.match(cookie_header)
+    cookie_match[1] if cookie_match
+    end
+
+    def fetch_moxi_data(cookie, creds, endpoint)
+        headers = {
+        Cookie: "_wms_svc_public_session=#{cookie}",
+        Authorization: "Basic #{creds}",
+        Accept: 'application/vnd.moxi-platform+json;version=1',
+        Content_Type: 'application/x-www-form-urlencoded',
+        }
+    
+        begin
+        response = RestClient.get("#{Rails.application.config.base_moxi_url}/#{endpoint}", headers)
+        data = JSON.parse(response.body)
+    
+        { success: true, data: data }
+        rescue RestClient::ExceptionWithResponse => e
+        Rails.logger.error("Failed to get data at endpoint #{endpoint}: #{e.response}")
+        { success: false, error: 'Failed to get data' }
         end
+    end
+
+    def store_cookies(cookie)
+        session[:moxi_cookie] = cookie
+    end
+    def store_basic_auth_creds(username, password)  
+    creds = "Basic #{Base64.strict_encode64("#{username}:#{password}")}"
+    session[:moxi_basic_auth] = creds
+    end
+
+    def store_session_data(cookie, creds)
+    session[:moxi_session] = { cookie: cookie, creds: creds }
     end
 
     def perform_logout
-        session.delete(:moxi_credentials)
+        session.delete(:moxi_basic_auth)
+        session.delete(:moxi_session)
     end
-
-    def authenticate_request
-        credentials = session[:moxi_credentials]
-        if credentials
-            yield(credentials)
+    def fetch_company_data
+        cookie = session[:moxi_cookie]
+        creds = session[:moxi_basic_auth]
+    
+        if cookie.present? && creds.present?
+          fetch_moxi_data(cookie, creds, 'companies')
         else
-            {success: false, error: "user is not auth"}
+          { success: false, error: 'User is not authenticated' }
         end
-    end
-
-    def fetch_moxi_data(username, password, endpoint)
-        Rails.logger.info("Stored credentials: #{username} and #{password}")
-        headers = {
-            Authorization: "Basic #{Base64.strict_encode64("#{username}:#{password}")}",
-            Content_Type: 'application/x-www-form-urlencoded',
-            Accept: 'application/vnd.moxi-platform+json;version=1'
-        }        
-        begin
-            Rails.logger.info("Request to #{Rails.application.config.base_moxi_url}/#{endpoint} with headers: #{headers}")
-            response = RestClient.get("#{Rails.application.config.base_moxi_url}/#{endpoint}", headers)
-
-            data =JSON.parse(response.body)
-
-            {success: true, data: data}
-        rescue RestClient::ExceptionWithResponse => e
-            Rails.logger.error("Error fetching data #{endpoint}: #{e.response}")
-            {success: false, error: "Failed to get data"}
-        end
-    end
+      end    
 end

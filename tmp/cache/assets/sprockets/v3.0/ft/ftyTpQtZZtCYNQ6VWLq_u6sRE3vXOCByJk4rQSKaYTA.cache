@@ -1,0 +1,39 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/universalify/package.json?type=application/json&id=638a587c8997c5ce1ad752d8a408ebf4efa53751885fad87640ec33547e15049:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/universalify/package.json;T:	nameI"&node_modules/universalify/package;T:logical_pathI"+node_modules/universalify/package.json;T:content_typeI"application/json;T:sourceI"4{
+  "name": "universalify",
+  "version": "0.1.2",
+  "description": "Make a callback- or promise-based function support both promises and callbacks.",
+  "keywords": [
+    "callback",
+    "native",
+    "promise"
+  ],
+  "homepage": "https://github.com/RyanZim/universalify#readme",
+  "bugs": "https://github.com/RyanZim/universalify/issues",
+  "license": "MIT",
+  "author": "Ryan Zimmerman <opensrc@ryanzim.com>",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanZim/universalify.git"
+  },
+  "scripts": {
+    "test": "standard && nyc tape test/*.js | colortape"
+  },
+  "devDependencies": {
+    "colortape": "^0.1.2",
+    "coveralls": "^3.0.1",
+    "nyc": "^10.2.0",
+    "standard": "^10.0.1",
+    "tape": "^4.6.3"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/universalify/package.json;TTF:charsetI"
+utf-8;F:digest"%3è`#•ÂsdÜ”z~)˘U˛°∆õ ˝≈e¢Ω–èjÜû:lengthi4:dependencies_digest"%WÒ™*Ê/ä)Œ§YN~<›Ô=Œj¸X”Áàl:idI"E638a587c8997c5ce1ad752d8a408ebf4efa53751885fad87640ec33547e15049;F:
+mtimel+Q¢¥e

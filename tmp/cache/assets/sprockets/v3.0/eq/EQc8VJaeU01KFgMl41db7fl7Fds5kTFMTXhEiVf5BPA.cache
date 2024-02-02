@@ -1,0 +1,69 @@
+{:uriI"file://app/assets/javascripts/node_modules/magic-string/package.json?type=application/json&id=2c913da10dd2dcf33388adb547729db9a42938b8740c629b01d8c4307e9947dd:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/magic-string/package.json;T:	nameI"&node_modules/magic-string/package;T:logical_pathI"+node_modules/magic-string/package.json;T:content_typeI"application/json;T:sourceI"•{
+  "name": "magic-string",
+  "version": "0.30.5",
+  "description": "Modify strings, generate sourcemaps",
+  "keywords": [
+    "string",
+    "string manipulation",
+    "sourcemap",
+    "templating",
+    "transpilation"
+  ],
+  "repository": "https://github.com/rich-harris/magic-string",
+  "license": "MIT",
+  "author": "Rich Harris",
+  "main": "./dist/magic-string.cjs.js",
+  "module": "./dist/magic-string.es.mjs",
+  "jsnext:main": "./dist/magic-string.es.mjs",
+  "types": "./dist/magic-string.cjs.d.ts",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "import": "./dist/magic-string.es.mjs",
+      "require": "./dist/magic-string.cjs.js"
+    }
+  },
+  "files": [
+    "dist/*",
+    "index.d.ts",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "rollup -c && cp ./src/index.d.ts ./dist/magic-string.es.d.mts && cp ./src/index.d.ts ./dist/magic-string.cjs.d.ts",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "format": "prettier --single-quote --print-width 100 --use-tabs --write src/*.js src/**/*.js",
+    "lint": "eslint src test && publint",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run lint && rm -rf dist && npm test",
+    "release": "bumpp -x \"npm run changelog\" --all --commit --tag --push && npm publish",
+    "pretest": "npm run build",
+    "test": "mocha",
+    "bench": "npm run build && node benchmark/index.mjs",
+    "watch": "rollup -cw"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.0",
+    "@rollup/plugin-replace": "^5.0.2",
+    "benchmark": "^2.1.4",
+    "bumpp": "^9.2.0",
+    "conventional-changelog-cli": "^3.0.0",
+    "eslint": "^8.47.0",
+    "mocha": "^10.2.0",
+    "prettier": "^3.0.2",
+    "publint": "^0.2.1",
+    "rollup": "^3.28.0",
+    "source-map-js": "^1.0.2",
+    "source-map-support": "^0.5.21"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.15"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/magic-string/package.json;TTF:charsetI"
+utf-8;F:digest"%i:œËüvÌàc¼aQw÷! ÊÍMbÌX*¹¾‘u°:lengthi•:dependencies_digest"%¶Âî¦nI(ÒÄ»úWN,SÇ2:óÎ<Rq(P¯™l°İ:idI"E2c913da10dd2dcf33388adb547729db9a42938b8740c629b01d8c4307e9947dd;F:
+mtimel+R¢´e

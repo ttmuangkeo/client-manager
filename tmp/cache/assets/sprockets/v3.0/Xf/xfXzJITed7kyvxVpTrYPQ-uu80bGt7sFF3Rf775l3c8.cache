@@ -1,0 +1,86 @@
+{:uriI"™file://app/assets/javascripts/node_modules/is-glob/package.json?type=application/json&id=3bcea108e1853dfe9fd3b6f527e569fee99d7a56232799b8a7ca2270792220a3:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/is-glob/package.json;T:	nameI"!node_modules/is-glob/package;T:logical_pathI"&node_modules/is-glob/package.json;T:content_typeI"application/json;T:sourceI"Ô{
+  "name": "is-glob",
+  "description": "Returns `true` if the given string looks like a glob pattern or an extglob pattern. This makes it easy to create code that only uses external modules like node-glob when necessary, resulting in much faster code execution and initialization time, and a better user experience.",
+  "version": "4.0.3",
+  "homepage": "https://github.com/micromatch/is-glob",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Daniel Perez (https://tuvistavie.com)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)"
+  ],
+  "repository": "micromatch/is-glob",
+  "bugs": {
+    "url": "https://github.com/micromatch/is-glob/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha && node benchmark.js"
+  },
+  "dependencies": {
+    "is-extglob": "^2.1.1"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.10",
+    "mocha": "^3.0.2"
+  },
+  "keywords": [
+    "bash",
+    "braces",
+    "check",
+    "exec",
+    "expression",
+    "extglob",
+    "glob",
+    "globbing",
+    "globstar",
+    "is",
+    "match",
+    "matches",
+    "pattern",
+    "regex",
+    "regular",
+    "string",
+    "test"
+  ],
+  "verb": {
+    "layout": "default",
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "assemble",
+        "base",
+        "update",
+        "verb"
+      ]
+    },
+    "reflinks": [
+      "assemble",
+      "bach",
+      "base",
+      "composer",
+      "gulp",
+      "has-glob",
+      "is-valid-glob",
+      "micromatch",
+      "npm",
+      "scaffold",
+      "verb",
+      "vinyl"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/is-glob/package.json;TTF:charsetI"
+utf-8;F:digest"%Îb¸±/À3ØRPµˆ(„v"š½¨á«ÙƒrKïÕo:lengthiÔ:dependencies_digest"%M“Ùg;N*+©XÞÀÊ›ÏÚ˜<ÐïöÇÔ]ëãü•:idI"E3bcea108e1853dfe9fd3b6f527e569fee99d7a56232799b8a7ca2270792220a3;F:
+mtimel+Q¢´e

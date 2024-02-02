@@ -1,0 +1,64 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/follow-redirects/package.json?type=application/json&id=239acf17bf67c828a5d9e43e809e14a827394d0d8d147590346efbf089ec95fc:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/follow-redirects/package.json;T:	nameI"*node_modules/follow-redirects/package;T:logical_pathI"/node_modules/follow-redirects/package.json;T:content_typeI"application/json;T:sourceI"ˇ{
+  "name": "follow-redirects",
+  "version": "1.15.5",
+  "description": "HTTP and HTTPS modules that follow redirects.",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ],
+  "engines": {
+    "node": ">=4.0"
+  },
+  "scripts": {
+    "lint": "eslint *.js test",
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:follow-redirects/follow-redirects.git"
+  },
+  "homepage": "https://github.com/follow-redirects/follow-redirects",
+  "bugs": {
+    "url": "https://github.com/follow-redirects/follow-redirects/issues"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "url",
+    "redirect",
+    "client",
+    "location",
+    "utility"
+  ],
+  "author": "Ruben Verborgh <ruben@verborgh.org> (https://ruben.verborgh.org/)",
+  "contributors": [
+    "Olivier Lalonde <olalonde@gmail.com> (http://www.syskall.com)",
+    "James Talmage <james@talmage.io>"
+  ],
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://github.com/sponsors/RubenVerborgh"
+    }
+  ],
+  "peerDependenciesMeta": {
+    "debug": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "concat-stream": "^2.0.0",
+    "eslint": "^5.16.0",
+    "express": "^4.16.4",
+    "lolex": "^3.1.0",
+    "mocha": "^6.0.2",
+    "nyc": "^14.1.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/follow-redirects/package.json;TTF:charsetI"
+utf-8;F:digest"%£9A¿Œ/(ÌVö∫ÅqoHR¯‚:X IN¡J–ê:lengthiˇ:dependencies_digest"%,Ú´d0p∆\ÿ?˘˝È!êTª
+‚Q	ÂÅh&!î˚5:idI"E239acf17bf67c828a5d9e43e809e14a827394d0d8d147590346efbf089ec95fc;F:
+mtimel+R¢¥e

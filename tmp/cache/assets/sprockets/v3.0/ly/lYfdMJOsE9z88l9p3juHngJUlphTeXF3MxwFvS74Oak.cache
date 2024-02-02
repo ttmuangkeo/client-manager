@@ -1,0 +1,84 @@
+{:uriI"¥file://app/assets/javascripts/node_modules/html-webpack-plugin/package.json?type=application/json&id=06501c90402208ea82d7c469e4cadbf037144b5e87ecfb6e5d310e09279dd0ec:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/html-webpack-plugin/package.json;T:	nameI"-node_modules/html-webpack-plugin/package;T:logical_pathI"2node_modules/html-webpack-plugin/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "html-webpack-plugin",
+  "version": "3.2.0",
+  "license": "MIT",
+  "description": "Simplifies creation of HTML files to serve your webpack bundles",
+  "author": "Charles Blaxland <charles.blaxland@gmail.com> (https://github.com/ampedandwired)",
+  "main": "index.js",
+  "files": [
+    "lib/",
+    "index.js",
+    "default_index.ejs"
+  ],
+  "scripts": {
+    "pretest": "semistandard",
+    "commit": "git-cz",
+    "build-examples": "node examples/build-examples.js",
+    "test": "jasmine",
+    "release": "standard-version"
+  },
+  "semistandard": {
+    "ignore": [
+      "examples/*/dist/**/*.*"
+    ]
+  },
+  "devDependencies": {
+    "appcache-webpack-plugin": "^1.3.0",
+    "commitizen": "2.9.6",
+    "css-loader": "^0.26.1",
+    "cz-conventional-changelog": "2.1.0",
+    "dir-compare": "1.3.0",
+    "es6-promise": "^4.0.5",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.4",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.8.0",
+    "jasmine": "^2.5.2",
+    "jasmine-diff-matchers": "^2.0.0",
+    "rimraf": "^2.5.4",
+    "semistandard": "8.0.0",
+    "standard-version": "^4.3.0",
+    "style-loader": "^0.13.1",
+    "underscore-template-loader": "^0.7.3",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.14.0",
+    "webpack-recompilation-simulator": "^1.3.0"
+  },
+  "dependencies": {
+    "html-minifier": "^3.2.3",
+    "loader-utils": "^0.2.16",
+    "lodash": "^4.17.3",
+    "pretty-error": "^2.0.2",
+    "tapable": "^1.0.0",
+    "toposort": "^1.0.0",
+    "util.promisify": "1.0.0"
+  },
+  "peerDependencies": {
+    "webpack": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html",
+    "html-webpack-plugin"
+  ],
+  "bugs": "https://github.com/jantimon/html-webpack-plugin/issues",
+  "homepage": "https://github.com/jantimon/html-webpack-plugin",
+  "repository": "https://github.com/jantimon/html-webpack-plugin.git",
+  "engines": {
+    "node": ">=6.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/html-webpack-plugin/package.json;TTF:charsetI"
+utf-8;F:digest"%I¬š
+0è…,—+®@i};ßo*è­âûM©žƒ:lengthi:dependencies_digest"%8‡YÔö0ÿ9h­MeZ£ô
+×ýy¯ye–ëˆ0“:idI"E06501c90402208ea82d7c469e4cadbf037144b5e87ecfb6e5d310e09279dd0ec;F:
+mtimel+Q¢´e

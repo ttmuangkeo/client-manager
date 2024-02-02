@@ -1,0 +1,49 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/resolve-url-loader/package.json?type=application/json&id=e85f5eef47e3f6eec1807b0ca337079f82ab2639fc2a2925fd030be6b3080156:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/resolve-url-loader/package.json;T:	nameI",node_modules/resolve-url-loader/package;T:logical_pathI"1node_modules/resolve-url-loader/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "resolve-url-loader",
+  "version": "5.0.0",
+  "description": "Webpack loader that resolves relative paths in url() statements based on the original source file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bholloway/resolve-url-loader.git",
+    "directory": "packages/resolve-url-loader"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "css",
+    "normalize",
+    "rewrite",
+    "resolve",
+    "url",
+    "sass",
+    "relative",
+    "file"
+  ],
+  "author": "bholloway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bholloway/resolve-url-loader/issues"
+  },
+  "homepage": "https://github.com/bholloway/resolve-url-loader/tree/v5/packages/resolve-url-loader",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "index.js",
+    "lib/**/+([a-z-]).js",
+    "docs/**/*.*"
+  ],
+  "dependencies": {
+    "adjust-sourcemap-loader": "^4.0.0",
+    "convert-source-map": "^1.7.0",
+    "loader-utils": "^2.0.0",
+    "postcss": "^8.2.14",
+    "source-map": "0.6.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/resolve-url-loader/package.json;TTF:charsetI"
+utf-8;F:digest"%÷ÜzOV±æL3ZØÅÙÇã-e?6mÈõš€KH	:lengthi:dependencies_digest"%Cw®­JÎ|ãXtÙÏô4òœjZ68ç]°obloÑdj:idI"Ee85f5eef47e3f6eec1807b0ca337079f82ab2639fc2a2925fd030be6b3080156;F:
+mtimel+R¢´e

@@ -1,0 +1,56 @@
+{:uriI"·file://app/assets/javascripts/node_modules/snapdragon/node_modules/is-extendable/package.json?type=application/json&id=87ff8c011c64f17b1b3f22f84f0feb8ff9a2b0b4a20568591d503f0193e4869d:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/snapdragon/node_modules/is-extendable/package.json;T:	nameI"?node_modules/snapdragon/node_modules/is-extendable/package;T:logical_pathI"Dnode_modules/snapdragon/node_modules/is-extendable/package.json;T:content_typeI"application/json;T:sourceI"k{
+  "name": "is-extendable",
+  "description": "Returns true if a value is any of the object types: array, regexp, plain object, function or date. This is useful for determining if a value can be extended, e.g. \"can the value have keys?\"",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/is-extendable",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/is-extendable",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-extendable/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "array",
+    "assign",
+    "check",
+    "date",
+    "extend",
+    "extensible",
+    "function",
+    "is",
+    "object",
+    "regex",
+    "test"
+  ],
+  "verbiage": {
+    "related": {
+      "list": [
+        "isobject",
+        "is-plain-object",
+        "kind-of",
+        "is-extendable",
+        "is-equal-shallow",
+        "extend-shallow",
+        "assign-deep"
+      ]
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/snapdragon/node_modules/is-extendable/package.json;TTF:charsetI"
+utf-8;F:digest"%ëÌ×=gáò5nß}Àò5ÓÙ‹JÇC>GoÔÕ5:lengthik:dependencies_digest"%*±šåKöcJS–s=q^§;D¢okãš!âw–:idI"E87ff8c011c64f17b1b3f22f84f0feb8ff9a2b0b4a20568591d503f0193e4869d;F:
+mtimel+Q¢´e

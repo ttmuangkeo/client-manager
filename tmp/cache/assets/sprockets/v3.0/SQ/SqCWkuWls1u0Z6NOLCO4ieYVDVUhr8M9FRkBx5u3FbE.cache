@@ -1,0 +1,59 @@
+{:uriI"ªfile://app/assets/javascripts/node_modules/eslint-plugin-vue/lib/utils/vue-component-options.json?type=application/json&id=f30aaffe153d63a3f64f4aad12d10093cbf428dd8e2afd63d5e12a76b4d8e17e:ET:load_pathI"app/assets/javascripts;T:filenameI"_app/assets/javascripts/node_modules/eslint-plugin-vue/lib/utils/vue-component-options.json;T:	nameI"Cnode_modules/eslint-plugin-vue/lib/utils/vue-component-options;T:logical_pathI"Hnode_modules/eslint-plugin-vue/lib/utils/vue-component-options.json;T:content_typeI"application/json;T:sourceI"À{
+  "nuxt": ["asyncData", "fetch", "head", "key", "layout", "loading", "middleware", "scrollToTop", "transition", "validate", "watchQuery"],
+  "vue-router": [
+    "beforeRouteEnter",
+    "beforeRouteUpdate",
+    "beforeRouteLeave"
+  ],
+  "vue": [
+    "data",
+    "props",
+    "propsData",
+    "computed",
+    "methods",
+    "watch",
+    "el",
+    "template",
+    "render",
+    "renderError",
+    "staticRenderFns",
+    "beforeCreate",
+    "created",
+    "beforeDestroy",
+    "destroyed",
+    "beforeMount",
+    "mounted",
+    "beforeUpdate",
+    "updated",
+    "activated",
+    "deactivated",
+    "errorCaptured",
+    "serverPrefetch",
+    "directives",
+    "components",
+    "transitions",
+    "filters",
+    "provide",
+    "inject",
+    "model",
+    "parent",
+    "mixins",
+    "name",
+    "extends",
+    "delimiters",
+    "comments",
+    "inheritAttrs",
+
+    "setup",
+    "emits",
+    "beforeUnmount",
+    "unmounted",
+    "renderTracked",
+    "renderTriggered"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"mfile-digest://app/assets/javascripts/node_modules/eslint-plugin-vue/lib/utils/vue-component-options.json;TTF:charsetI"
+utf-8;F:digest"%B*$$≤ÅÚ◊k˝ò{6p&IçVú±RâO°ßBÿó:lengthiÀ:dependencies_digest"%Œø»WDòäjNÿJ·5¥ #ú∏)xÉAdÜ:idI"Ef30aaffe153d63a3f64f4aad12d10093cbf428dd8e2afd63d5e12a76b4d8e17e;F:
+mtimel+T¢¥e

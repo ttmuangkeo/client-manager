@@ -1,0 +1,68 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/static-extend/package.json?type=application/json&id=167e361e489ef2b1cdf0ad24bbd76e144662615f39528ca8ef3f5fc088ca445c:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/static-extend/package.json;T:	nameI"'node_modules/static-extend/package;T:logical_pathI",node_modules/static-extend/package.json;T:content_typeI"application/json;T:sourceI":{
+  "name": "static-extend",
+  "description": "Adds a static `extend` method to a class, to simplify inheritance. Extends the static properties, prototype properties, and descriptors from a `Parent` constructor onto `Child` constructors.",
+  "version": "0.1.2",
+  "homepage": "https://github.com/jonschlinkert/static-extend",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/static-extend",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/static-extend/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "define-property": "^0.2.5",
+    "object-copy": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "mocha": "^2.5.3"
+  },
+  "keywords": [
+    "class",
+    "ctor",
+    "descriptor",
+    "extend",
+    "extends",
+    "inherit",
+    "inheritance",
+    "merge",
+    "method",
+    "prop",
+    "properties",
+    "property",
+    "prototype"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "reflinks": [
+      "verb",
+      "verb-readme-generator"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/static-extend/package.json;TTF:charsetI"
+utf-8;F:digest"%¦yH7—""††^·e%­½o,ÔøSËbt£.(¦­:lengthi::dependencies_digest"%ô‡áM¦	>‡ä­œBöç/Ò‘†…Â@‹ÉƒÜú§:idI"E167e361e489ef2b1cdf0ad24bbd76e144662615f39528ca8ef3f5fc088ca445c;F:
+mtimel+Q¢´e

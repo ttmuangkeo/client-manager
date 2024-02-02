@@ -1,0 +1,38 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/@webassemblyjs/ast/package.json?type=application/json&id=082ba4a1ad4d1dbee8820a4389a6bce8467268fec56d56cb8ef688f1cefc10fa:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/@webassemblyjs/ast/package.json;T:	nameI",node_modules/@webassemblyjs/ast/package;T:logical_pathI"1node_modules/@webassemblyjs/ast/package.json;T:content_typeI"application/json;T:sourceI":{
+  "name": "@webassemblyjs/ast",
+  "version": "1.9.0",
+  "description": "AST utils for webassemblyjs",
+  "keywords": [
+    "webassembly",
+    "javascript",
+    "ast"
+  ],
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "dependencies": {
+    "@webassemblyjs/helper-module-context": "1.9.0",
+    "@webassemblyjs/helper-wasm-bytecode": "1.9.0",
+    "@webassemblyjs/wast-parser": "1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@webassemblyjs/helper-test-framework": "1.9.0",
+    "array.prototype.flatmap": "^1.2.1",
+    "dump-exports": "^0.1.0",
+    "mamacro": "^0.0.7"
+  },
+  "gitHead": "0440b420888c1f7701eb9762ec657775506b87d8"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/@webassemblyjs/ast/package.json;TTF:charsetI"
+utf-8;F:digest"%’‚¢Us!™_Àù«g§å)¤êÎ›ø¥”LBøÓ:lengthi::dependencies_digest"%µ"„³Õ‚êüs	½ôjxÕB¼ºÒ;7àüÏpƒ¶wi:idI"E082ba4a1ad4d1dbee8820a4389a6bce8467268fec56d56cb8ef688f1cefc10fa;F:
+mtimel+Q¢´e

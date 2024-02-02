@@ -1,0 +1,44 @@
+{:uriI"üfile://app/assets/javascripts/node_modules/dom-converter/package.json?type=application/json&id=e8ea8198b9f9a213dfa734fabf1afb8c55c77d822c85509187ba70aed4578a3e:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/dom-converter/package.json;T:	nameI"'node_modules/dom-converter/package;T:logical_pathI",node_modules/dom-converter/package.json;T:content_typeI"application/json;T:sourceI"Y{
+  "name": "dom-converter",
+  "version": "0.2.0",
+  "description": "converts bare objects to DOM objects or xml representations",
+  "main": "lib/domConverter.js",
+  "dependencies": {
+    "utila": "~0.4"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-changes": "^1.3.4",
+    "chai-fuzzy": "^1.4.0",
+    "coffee-script": "^1.8.0",
+    "jitter": "^1.3.0",
+    "mocha": "^2.0.1",
+    "mocha-pretty-spec-reporter": "0.1.0-beta.1",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  },
+  "scripts": {
+    "test": "mocha \"test/**/*.coffee\"",
+    "test:watch": "mocha \"test/**/*.coffee\" --watch",
+    "compile": "coffee --bare --compile --output ./lib ./src",
+    "compile:watch": "jitter src lib -b",
+    "watch": "npm run compile:watch & npm run test:watch",
+    "winwatch": "start/b npm run compile:watch & npm run test:watch",
+    "prepublish": "npm run compile"
+  },
+  "author": "Aria Minaei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AriaMinaei/dom-converter"
+  },
+  "bugs": {
+    "url": "https://github.com/AriaMinaei/dom-converter/issues"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/dom-converter/package.json;TTF:charsetI"
+utf-8;F:digest"%!Ë3∏=˝ìzC%Á [Kª÷Ω∑é†ŸJ©œ“ÛŸ:lengthiY:dependencies_digest"%∫íÄ∆	(˝ê÷ª	∫m
+Ô≠˝_«/d<UΩòìH@˙:idI"Ee8ea8198b9f9a213dfa734fabf1afb8c55c77d822c85509187ba70aed4578a3e;F:
+mtimel+Q¢¥e

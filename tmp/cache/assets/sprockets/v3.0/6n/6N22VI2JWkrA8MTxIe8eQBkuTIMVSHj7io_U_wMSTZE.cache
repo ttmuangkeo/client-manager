@@ -1,0 +1,51 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/get-stream/package.json?type=application/json&id=b1ca894659d350726c28f9beeeb847ff887875175a8630398166c1bf269c6ddc:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/get-stream/package.json;T:	nameI"$node_modules/get-stream/package;T:logical_pathI")node_modules/get-stream/package.json;T:content_typeI"application/json;T:sourceI"É{
+	"name": "get-stream",
+	"version": "4.1.0",
+	"description": "Get a stream as a string, buffer, or array",
+	"license": "MIT",
+	"repository": "sindresorhus/get-stream",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js",
+		"buffer-stream.js"
+	],
+	"keywords": [
+		"get",
+		"stream",
+		"promise",
+		"concat",
+		"string",
+		"text",
+		"buffer",
+		"read",
+		"data",
+		"consume",
+		"readable",
+		"readablestream",
+		"array",
+		"object"
+	],
+	"dependencies": {
+		"pump": "^3.0.0"
+	},
+	"devDependencies": {
+		"ava": "*",
+		"into-stream": "^3.0.0",
+		"xo": "*"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/get-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%4sñÍh†Ò˜ÚJJ·*®9ï	~;ıl|âÈŒ:lengthiÉ:dependencies_digest"%EÔ4êÄ\+}O¯Ù6)‚:ınM$‚´8¡tC‡bx:idI"Eb1ca894659d350726c28f9beeeb847ff887875175a8630398166c1bf269c6ddc;F:
+mtimel+Q¢´e

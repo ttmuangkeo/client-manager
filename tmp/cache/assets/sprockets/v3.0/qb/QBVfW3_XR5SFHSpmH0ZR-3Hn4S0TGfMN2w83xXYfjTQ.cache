@@ -1,0 +1,15 @@
+{:uriI"¥file://app/assets/javascripts/node_modules/d3-time-format/locale/hu-HU.json?type=application/json&id=5aef8dc7b834fd19410b31f65a0260fbe15ab54408e21dd947a655b4741d7eb8:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/d3-time-format/locale/hu-HU.json;T:	nameI"-node_modules/d3-time-format/locale/hu-HU;T:logical_pathI"2node_modules/d3-time-format/locale/hu-HU.json;T:content_typeI"application/json;T:sourceI"{
+  "dateTime": "%Y. %B %-e., %A %X",
+  "date": "%Y. %m. %d.",
+  "time": "%H:%M:%S",
+  "periods": ["de.", "du."],
+  "days": ["vasÃ¡rnap", "hÃ©tfÅ‘", "kedd", "szerda", "csÃ¼tÃ¶rtÃ¶k", "pÃ©ntek", "szombat"],
+  "shortDays": ["V", "H", "K", "Sze", "Cs", "P", "Szo"],
+  "months": ["januÃ¡r", "februÃ¡r", "mÃ¡rcius", "Ã¡prilis", "mÃ¡jus", "jÃºnius", "jÃºlius", "augusztus", "szeptember", "oktÃ³ber", "november", "december"],
+  "shortMonths": ["jan.", "feb.", "mÃ¡r.", "Ã¡pr.", "mÃ¡j.", "jÃºn.", "jÃºl.", "aug.", "szept.", "okt.", "nov.", "dec."]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/d3-time-format/locale/hu-HU.json;TTF:charsetI"
+utf-8;F:digest"%Ô“j4íSmäžZ’‚†â·Ü™5ª¦ö´2”ËaW:lengthi:dependencies_digest"%?QG7ìFç>÷‘þ›»]–Ãm"šÔÐ0°ÝVÍB:idI"E5aef8dc7b834fd19410b31f65a0260fbe15ab54408e21dd947a655b4741d7eb8;F:
+mtimel+R¢´e

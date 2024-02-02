@@ -1,0 +1,42 @@
+{:uriI"Îfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/DllPlugin.json?type=application/json&id=86a5278889a3ca387c1aeb98f3a92e6ba470a242c6874ece1870cb9ee99ddcc8:ET:load_pathI"app/assets/javascripts;T:filenameI"rapp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/DllPlugin.json;T:	nameI"Vnode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/DllPlugin;T:logical_pathI"[node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/DllPlugin.json;T:content_typeI"application/json;T:sourceI"{
+  "title": "DllPluginOptions",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "context": {
+      "description": "Context of requests in the manifest file (defaults to the webpack context).",
+      "type": "string",
+      "minLength": 1
+    },
+    "entryOnly": {
+      "description": "If true, only entry points will be exposed (default: true).",
+      "type": "boolean"
+    },
+    "format": {
+      "description": "If true, manifest json file (output) will be formatted.",
+      "type": "boolean"
+    },
+    "name": {
+      "description": "Name of the exposed dll function (external name, use value of 'output.library').",
+      "type": "string",
+      "minLength": 1
+    },
+    "path": {
+      "description": "Absolute path to the manifest json file (output).",
+      "type": "string",
+      "minLength": 1
+    },
+    "type": {
+      "description": "Type of the dll bundle (external type, use value of 'output.libraryTarget').",
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "required": ["path"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"{file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/DllPlugin.json;TTF:charsetI"
+utf-8;F:digest"%*»ŒQòcÛ§ÿxøä¹£Š.©Ò§íWg> 6$à“‚:lengthi:dependencies_digest"%>Õ‘Äü„“(Ö´ev~ü
+zô\²hÈÁî³&P°²:idI"E86a5278889a3ca387c1aeb98f3a92e6ba470a242c6874ece1870cb9ee99ddcc8;F:
+mtimel+T¢´e

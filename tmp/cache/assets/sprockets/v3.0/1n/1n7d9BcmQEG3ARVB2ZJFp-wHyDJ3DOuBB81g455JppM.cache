@@ -1,0 +1,55 @@
+{:uriI"ªfile://app/assets/javascripts/node_modules/babel-code-frame/node_modules/ansi-styles/package.json?type=application/json&id=9621ee1437e62c1228e9d20d813f539235490fdc9f7f484d58ebf1c6f587c662:ET:load_pathI"app/assets/javascripts;T:filenameI"_app/assets/javascripts/node_modules/babel-code-frame/node_modules/ansi-styles/package.json;T:	nameI"Cnode_modules/babel-code-frame/node_modules/ansi-styles/package;T:logical_pathI"Hnode_modules/babel-code-frame/node_modules/ansi-styles/package.json;T:content_typeI"application/json;T:sourceI"Ñ{
+  "name": "ansi-styles",
+  "version": "2.2.1",
+  "description": "ANSI escape codes for styling strings in the terminal",
+  "license": "MIT",
+  "repository": "chalk/ansi-styles",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    "Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
+    "Joshua Appelman <jappelman@xebia.com> (jbnicolai.com)"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "log",
+    "logging",
+    "command-line",
+    "text"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"mfile-digest://app/assets/javascripts/node_modules/babel-code-frame/node_modules/ansi-styles/package.json;TTF:charsetI"
+utf-8;F:digest"%xbb≥1ÏëóäƒHç„ò§ÁÄ®Œ:oª·~;›Vr:lengthiÑ:dependencies_digest"%2Â¸¿ù{}§K∞.¡—˚˘¨áyPÜù/ò[q√,:idI"E9621ee1437e62c1228e9d20d813f539235490fdc9f7f484d58ebf1c6f587c662;F:
+mtimel+Q¢¥e

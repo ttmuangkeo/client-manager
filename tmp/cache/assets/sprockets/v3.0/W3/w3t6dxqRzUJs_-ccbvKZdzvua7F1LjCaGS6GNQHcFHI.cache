@@ -1,0 +1,71 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/bootstrap-vue/src/components/jumbotron/package.json?type=application/json&id=5b69b43e58289383fbc719906528e80ca738e23777bb2dc56ae241ae76d8fda2:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/bootstrap-vue/src/components/jumbotron/package.json;T:	nameI"@node_modules/bootstrap-vue/src/components/jumbotron/package;T:logical_pathI"Enode_modules/bootstrap-vue/src/components/jumbotron/package.json;T:content_typeI"application/json;T:sourceI"–	{
+  "name": "@bootstrap-vue/jumbotron",
+  "version": "1.0.0",
+  "meta": {
+    "title": "Jumbotron",
+    "description": "A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.",
+    "components": [
+      {
+        "component": "BJumbotron",
+        "props": [
+          {
+            "prop": "bgVariant",
+            "description": "Applies one of the Bootstrap theme color variants to the background"
+          },
+          {
+            "prop": "borderVariant",
+            "description": "Applies one of the Bootstrap theme color variants to the border"
+          },
+          {
+            "prop": "containerFluid",
+            "description": "When prop 'fluid' is set, this prop will make the inner container wrapper also fluid in width. Can also be set to one of the Bootstrap breakpoint names"
+          },
+          {
+            "prop": "fluid",
+            "description": "Makes the jumbotron full width, and without rounded corners. When set, the inner content will automatically be wrapped into a 'b-container' (fixed width at the various breakpoints)"
+          },
+          {
+            "prop": "headerLevel",
+            "description": "Scaling factor of the header. Values range from 1 to 5"
+          },
+          {
+            "prop": "lead",
+            "description": "Text string to place in the lead paragraph"
+          },
+          {
+            "prop": "leadHtml",
+            "description": "HTML string to place in the lead paragraph",
+            "xss": true
+          },
+          {
+            "prop": "leadTag",
+            "description": "Specify the HTML tag to render instead of the default tag for the lead paragraph"
+          },
+          {
+            "prop": "textVariant",
+            "description": "Applies one of the Bootstrap theme color variants to the text"
+          }
+        ],
+        "slots": [
+          {
+            "name": "default",
+            "description": "Content to place in the jumbotron"
+          },
+          {
+            "name": "header",
+            "description": "Slot for custom header content. Placed inside 'header-tag'. Overrides the `header` and `header-html` props"
+          },
+          {
+            "name": "lead",
+            "description": "For custom rendering of lead text content. Placed inside 'lead-tag'. Overrides the `lead` and `lead-html` props"
+          }
+        ]
+      }
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/bootstrap-vue/src/components/jumbotron/package.json;TTF:charsetI"
+utf-8;F:digest"%þ›“þWÿœyœ4L'Ó\¸@„p½À—ŸPì b(€:lengthi–	:dependencies_digest"%Óþ‘ö‹T/¹®u1'R'c½;åïÏE²k>v"ÆûáP:idI"E5b69b43e58289383fbc719906528e80ca738e23777bb2dc56ae241ae76d8fda2;F:
+mtimel+U¢´e

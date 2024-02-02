@@ -1,0 +1,49 @@
+{:uriI" file://app/assets/javascripts/node_modules/find-cache-dir/package.json?type=application/json&id=a9d380ce127142752282ba6c9e5d9e6a016c9b82113c8db112e4e39b0f606476:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/find-cache-dir/package.json;T:	nameI"(node_modules/find-cache-dir/package;T:logical_pathI"-node_modules/find-cache-dir/package.json;T:content_typeI"application/json;T:sourceI"×{
+	"name": "find-cache-dir",
+	"version": "3.3.2",
+	"description": "Finds the common standard cache directory",
+	"license": "MIT",
+	"repository": "avajs/find-cache-dir",
+	"funding": "https://github.com/avajs/find-cache-dir?sponsor=1",
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && nyc ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cache",
+		"directory",
+		"dir",
+		"caching",
+		"find",
+		"search"
+	],
+	"dependencies": {
+		"commondir": "^1.0.1",
+		"make-dir": "^3.0.2",
+		"pkg-dir": "^4.1.0"
+	},
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"coveralls": "^3.0.9",
+		"del": "^4.0.0",
+		"nyc": "^15.0.0",
+		"tempy": "^0.4.0",
+		"xo": "^0.25.3"
+	},
+	"nyc": {
+		"reporter": [
+			"lcov",
+			"text"
+		]
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/find-cache-dir/package.json;TTF:charsetI"
+utf-8;F:digest"%‡í2Pî+Åá‰ªÚ[¸2æCÔ{°€£Ÿ:lengthi×:dependencies_digest"%t·zð±g¬ö*•ÒÃ“4Ñ}Ü}ÅSêGDL:idI"Ea9d380ce127142752282ba6c9e5d9e6a016c9b82113c8db112e4e39b0f606476;F:
+mtimel+Q¢´e

@@ -1,0 +1,43 @@
+{:uriI"¼file://app/assets/javascripts/node_modules/@babel/plugin-transform-object-rest-spread/package.json?type=application/json&id=c2fdd5db6cc798154eeae9c60a841250bd1b8dc92eab5e309f7506433d9c46fe:ET:load_pathI"app/assets/javascripts;T:filenameI"`app/assets/javascripts/node_modules/@babel/plugin-transform-object-rest-spread/package.json;T:	nameI"Dnode_modules/@babel/plugin-transform-object-rest-spread/package;T:logical_pathI"Inode_modules/@babel/plugin-transform-object-rest-spread/package.json;T:content_typeI"application/json;T:sourceI"Z{
+  "name": "@babel/plugin-transform-object-rest-spread",
+  "version": "7.23.4",
+  "description": "Compile object rest and spread to ES5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-object-rest-spread"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-object-rest-spread",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/compat-data": "^7.23.3",
+    "@babel/helper-compilation-targets": "^7.22.15",
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/plugin-syntax-object-rest-spread": "^7.8.3",
+    "@babel/plugin-transform-parameters": "^7.23.3"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "@babel/parser": "^7.23.4"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"nfile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-object-rest-spread/package.json;TTF:charsetI"
+utf-8;F:digest"%ºµÌÓ‡Ÿy99;X0òÇ5-ì€©†à-ÍÑ¼ê‚fÛ#:lengthiZ:dependencies_digest"%¾· zo%‡‰‰¨EÃfn{êª û[Gê®F(S-Nç<[:idI"Ec2fdd5db6cc798154eeae9c60a841250bd1b8dc92eab5e309f7506433d9c46fe;F:
+mtimel+R¢´e

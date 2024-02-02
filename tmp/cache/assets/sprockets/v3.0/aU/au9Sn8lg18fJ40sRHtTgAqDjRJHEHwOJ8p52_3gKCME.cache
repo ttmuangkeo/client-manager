@@ -1,0 +1,12 @@
+{:uriI" file://app/assets/javascripts/node_modules/d3-format/locale/ar-MR.json?type=application/json&id=dff154ada9bbe7774a7648dde74b0c9b86415057f0954b8d9994af5aca2984e8:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/d3-format/locale/ar-MR.json;T:	nameI"(node_modules/d3-format/locale/ar-MR;T:logical_pathI"-node_modules/d3-format/locale/ar-MR.json;T:content_typeI"application/json;T:sourceI"ì{
+  "decimal": "\u066b",
+  "thousands": "\u066c",
+  "grouping": [3],
+  "currency": ["", " \u0623\u002e\u0645\u002e"],
+  "numerals" : ["\u0660", "\u0661", "\u0662", "\u0663", "\u0664", "\u0665", "\u0666", "\u0667", "\u0668", "\u0669"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/d3-format/locale/ar-MR.json;TTF:charsetI"
+utf-8;F:digest"%]üýÉäÆÃ	$‚4ƒKVüú–%ééf¥ö×ˆ:lengthiì:dependencies_digest"%g"çé<äbH$ªü£#gñ5~í†ç¡/ð%ÉSÅ:idI"Edff154ada9bbe7774a7648dde74b0c9b86415057f0954b8d9994af5aca2984e8;F:
+mtimel+R¢´e

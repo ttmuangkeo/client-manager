@@ -1,0 +1,18 @@
+{:uriI"∑file://app/assets/javascripts/node_modules/webpack/schemas/plugins/debug/ProfilingPlugin.json?type=application/json&id=85b8e1f6fbe2f763874d9bca7556c15577bb821f440cac932bf31a51d18584a2:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/webpack/schemas/plugins/debug/ProfilingPlugin.json;T:	nameI"?node_modules/webpack/schemas/plugins/debug/ProfilingPlugin;T:logical_pathI"Dnode_modules/webpack/schemas/plugins/debug/ProfilingPlugin.json;T:content_typeI"application/json;T:sourceI"A{
+  "title": "ProfilingPluginOptions",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "outputPath": {
+      "description": "Path to the output file e.g. `profiling/events.json`. Defaults to `events.json`.",
+      "type": "string",
+      "absolutePath": false,
+      "minLength": 4
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/webpack/schemas/plugins/debug/ProfilingPlugin.json;TTF:charsetI"
+utf-8;F:digest"% ÑÀµÓLÏ ¶h≈;¸AÄhèÎË¡pd:lengthiA:dependencies_digest"%Ãùdçµ|ùûﬁ]ã˘“á:â∂I(Ä+B1∫‡4ÉT:idI"E85b8e1f6fbe2f763874d9bca7556c15577bb821f440cac932bf31a51d18584a2;F:
+mtimel+T¢¥e

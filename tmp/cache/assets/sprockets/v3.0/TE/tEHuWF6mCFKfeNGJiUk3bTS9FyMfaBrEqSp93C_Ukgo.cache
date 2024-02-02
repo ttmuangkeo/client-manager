@@ -1,0 +1,92 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/nanoid/package.json?type=application/json&id=806e8b9d5df59ccf97c64bcc32363b639bf4d5bb26a8598442bce642bd428d5d:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/nanoid/package.json;T:	nameI" node_modules/nanoid/package;T:logical_pathI"%node_modules/nanoid/package.json;T:content_typeI"application/json;T:sourceI"½{
+  "name": "nanoid",
+  "version": "3.3.7",
+  "description": "A tiny (116 bytes), secure URL-friendly unique string ID generator",
+  "keywords": [
+    "uuid",
+    "random",
+    "id",
+    "url"
+  ],
+  "engines": {
+    "node": "^10 || ^12 || ^13.7 || ^14 || >=15.0.1"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/ai"
+    }
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "ai/nanoid",
+  "browser": {
+    "./index.js": "./index.browser.js",
+    "./async/index.js": "./async/index.browser.js",
+    "./async/index.cjs": "./async/index.browser.cjs",
+    "./index.cjs": "./index.browser.cjs"
+  },
+  "react-native": "index.js",
+  "bin": "./bin/nanoid.cjs",
+  "sideEffects": false,
+  "types": "./index.d.ts",
+  "type": "module",
+  "main": "index.cjs",
+  "module": "index.js",
+  "exports": {
+    ".": {
+      "browser": "./index.browser.js",
+      "require": {
+        "types": "./index.d.cts",
+        "default": "./index.cjs"
+      },
+      "import": {
+        "types": "./index.d.ts",
+        "default": "./index.js"
+      },
+      "default": "./index.js"
+    },
+    "./package.json": "./package.json",
+    "./async/package.json": "./async/package.json",
+    "./async": {
+      "browser": "./async/index.browser.js",
+      "require": {
+        "types": "./index.d.cts",
+        "default": "./async/index.cjs"
+      },
+      "import": {
+        "types": "./index.d.ts",
+        "default": "./async/index.js"
+      },
+      "default": "./async/index.js"
+    },
+    "./non-secure/package.json": "./non-secure/package.json",
+    "./non-secure": {
+      "require": {
+        "types": "./index.d.cts",
+        "default": "./non-secure/index.cjs"
+      },
+      "import": {
+        "types": "./index.d.ts",
+        "default": "./non-secure/index.js"
+      },
+      "default": "./non-secure/index.js"
+    },
+    "./url-alphabet/package.json": "./url-alphabet/package.json",
+    "./url-alphabet": {
+      "require": {
+        "types": "./index.d.cts",
+        "default": "./url-alphabet/index.cjs"
+      },
+      "import": {
+        "types": "./index.d.ts",
+        "default": "./url-alphabet/index.js"
+      },
+      "default": "./url-alphabet/index.js"
+    }
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/nanoid/package.json;TTF:charsetI"
+utf-8;F:digest"%lzý-!VÖÑãàê¬Æç¹¥y.eOX‚à7aþ:lengthi½:dependencies_digest"%è DQÛÆaÕÿV6Z¿ìF¦‚CümÉRŸõ>ç?:idI"E806e8b9d5df59ccf97c64bcc32363b639bf4d5bb26a8598442bce642bd428d5d;F:
+mtimel+R¢´e

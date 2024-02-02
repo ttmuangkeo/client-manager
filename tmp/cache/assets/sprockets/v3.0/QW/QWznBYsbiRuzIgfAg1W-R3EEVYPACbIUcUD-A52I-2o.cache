@@ -1,0 +1,34 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/cs.json?type=application/json&id=5c75b2dd22150b45d868713d4693afd0384944e11a258c5479e5bad3624a4cae:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/cs.json;T:	nameI"-node_modules/vee-validate/dist/locale/cs;T:logical_pathI"2node_modules/vee-validate/dist/locale/cs.json;T:content_typeI"application/json;T:sourceI"C{
+  "code": "cs",
+  "messages": {
+    "alpha": "Pole {_field_} může obsahovat pouze písmena",
+    "alpha_num": "Pole {_field_} může obsahovat pouze písmena a číslice",
+    "alpha_dash": "Pole {_field_} může obsahovat pouze písmena, číslice, pomlčky nebo podtržítka",
+    "alpha_spaces": "Pole {_field_} může obsahovat pouze písmena, číslice a mezery",
+    "between": "Pole {_field_} musí být mezi {min} a {max}",
+    "confirmed": "Kontrola pole {_field_} se neshoduje",
+    "digits": "Pole {_field_} musí být číslo a musí obsahovat přesně {length} číslic",
+    "dimensions": "{_field_} musí mít {width} na {height} pixelů",
+    "email": "Pole {_field_} musí být validní email",
+    "excluded": "{_field_} musí být správná hodnota",
+    "ext": "{_field_} musí být validní soubor",
+    "image": "{_field_} musí být obrázek",
+    "max_value": "Pole {_field_} musí být {max}, nebo menší",
+    "max": "Maximální počet znaků pole {_field_} je {length}",
+    "mimes": "Pole {_field_} musí být správný typ souboru",
+    "min_value": "Pole {_field_} musí být {min}, nebo více",
+    "min": "Minimální počet znaků pole {_field_} je {length}",
+    "numeric": "Pole {_field_} může obsahovat pouze číslice",
+    "oneOf": "{_field_} musí být správná hodnota",
+    "regex": "Pole {_field_} není vyplněno správně",
+    "required": "Pole {_field_} je povinné",
+    "required_if": "Pole {_field_} je povinné",
+    "size": "{_field_} musí být menší než {size}",
+    "double": "Pole {_field_} musí být platné desetinné číslo"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/cs.json;TTF:charsetI"
+utf-8;F:digest"%�|���RG.U�s�����s�{��B���:lengthiC:dependencies_digest"%���|�h�z[&�O_��3��/�=O�Al�:idI"E5c75b2dd22150b45d868713d4693afd0384944e11a258c5479e5bad3624a4cae;F:
+mtimel+S��e

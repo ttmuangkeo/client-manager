@@ -1,0 +1,44 @@
+{:uriI"–file://app/assets/javascripts/node_modules/util/package.json?type=application/json&id=368b7b241ae47216b1f237d3f121ab0da6afa0a48a0a234c9cd850d307ef4410:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/util/package.json;T:	nameI"node_modules/util/package;T:logical_pathI"#node_modules/util/package.json;T:content_typeI"application/json;T:sourceI"/{
+  "author": {
+    "name": "Joyent",
+    "url": "http://www.joyent.com"
+  },
+  "name": "util",
+  "description": "Node.JS util module",
+  "keywords": [
+    "util"
+  ],
+  "version": "0.11.1",
+  "homepage": "https://github.com/defunctzombie/node-util",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/defunctzombie/node-util"
+  },
+  "main": "./util.js",
+  "files": [
+    "util.js",
+    "support"
+  ],
+  "scripts": {
+    "test": "node test/node/index.js",
+    "test:browsers": "airtap test/browser/index.js"
+  },
+  "dependencies": {
+    "inherits": "2.0.3"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "airtap": "~0.1.0",
+    "is-async-supported": "~1.2.0",
+    "run-series": "~1.1.4",
+    "tape": "~4.9.0"
+  },
+  "browser": {
+    "./support/isBuffer.js": "./support/isBufferBrowser.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/util/package.json;TTF:charsetI"
+utf-8;F:digest"%UKiLnU’°ƒêámSX\1‹Åò‹UÅŒY×ávœ:lengthi/:dependencies_digest"%ðêPÐ&Éj zjy£Áóäã}ËF× úf9:idI"E368b7b241ae47216b1f237d3f121ab0da6afa0a48a0a234c9cd850d307ef4410;F:
+mtimel+Q¢´e

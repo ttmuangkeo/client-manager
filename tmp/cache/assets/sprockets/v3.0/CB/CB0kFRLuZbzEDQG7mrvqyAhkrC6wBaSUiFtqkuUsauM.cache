@@ -1,0 +1,28 @@
+{:uriI"πfile://app/assets/javascripts/node_modules/@babel/plugin-syntax-object-rest-spread/package.json?type=application/json&id=29a6f88684a23cd1bb49bccb51b1afc1d1f9edb2a723fcc4449610be52eddeb1:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/@babel/plugin-syntax-object-rest-spread/package.json;T:	nameI"Anode_modules/@babel/plugin-syntax-object-rest-spread/package;T:logical_pathI"Fnode_modules/@babel/plugin-syntax-object-rest-spread/package.json;T:content_typeI"application/json;T:sourceI"2{
+  "name": "@babel/plugin-syntax-object-rest-spread",
+  "version": "7.8.3",
+  "description": "Allow parsing of object rest/spread",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-object-rest-spread",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.8.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/@babel/plugin-syntax-object-rest-spread/package.json;TTF:charsetI"
+utf-8;F:digest"%¨ÎcÀOB^|q¢à∞®ËjÄW3Êãqî›Wa1≈:lengthi2:dependencies_digest"%ù⁄VZ¶;«Ã\+S9jqVG©Q YE’]€Ä"W5a=:idI"E29a6f88684a23cd1bb49bccb51b1afc1d1f9edb2a723fcc4449610be52eddeb1;F:
+mtimel+Q¢¥e

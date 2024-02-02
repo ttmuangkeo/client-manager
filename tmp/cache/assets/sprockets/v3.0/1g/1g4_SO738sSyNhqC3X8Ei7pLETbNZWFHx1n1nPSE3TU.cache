@@ -1,0 +1,79 @@
+{:uriI"Âfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv-keywords/package.json?type=application/json&id=e29f19bfe51581f6f2475ca1100509edf4c3ea8a8c18ff4a5957bd49e5bf1087:ET:load_pathI"app/assets/javascripts;T:filenameI"fapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv-keywords/package.json;T:	nameI"Jnode_modules/@vue/cli-plugin-eslint/node_modules/ajv-keywords/package;T:logical_pathI"Onode_modules/@vue/cli-plugin-eslint/node_modules/ajv-keywords/package.json;T:content_typeI"application/json;T:sourceI"ø{
+  "name": "ajv-keywords",
+  "version": "5.1.0",
+  "description": "Additional JSON-Schema keywords for Ajv JSON validator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "prepublish": "npm run build",
+    "prettier:write": "prettier --write \"./**/*.{md,json,yaml,js,ts}\"",
+    "prettier:check": "prettier --list-different \"./**/*.{md,json,yaml,js,ts}\"",
+    "test": "npm link && npm link ajv-keywords && npm run eslint && npm run test-cov",
+    "eslint": "eslint \"src/**/*.*s\" \"spec/**/*.*s\"",
+    "test-spec": "jest spec/*.ts",
+    "test-cov": "jest spec/*.ts --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoberezkin/ajv-keywords.git"
+  },
+  "keywords": [
+    "JSON-Schema",
+    "ajv",
+    "keywords"
+  ],
+  "files": [
+    "src",
+    "dist",
+    "ajv-keywords.d.ts"
+  ],
+  "author": "Evgeny Poberezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epoberezkin/ajv-keywords/issues"
+  },
+  "homepage": "https://github.com/epoberezkin/ajv-keywords#readme",
+  "dependencies": {
+    "fast-deep-equal": "^3.1.3"
+  },
+  "peerDependencies": {
+    "ajv": "^8.8.2"
+  },
+  "devDependencies": {
+    "@ajv-validator/config": "^0.2.3",
+    "@types/chai": "^4.2.14",
+    "@types/jest": "^26.0.14",
+    "@types/node": "^16.4.10",
+    "@types/uuid": "^8.3.0",
+    "@typescript-eslint/eslint-plugin": "^4.4.1",
+    "@typescript-eslint/parser": "^4.4.1",
+    "ajv": "^8.8.2",
+    "ajv-formats": "^2.0.0",
+    "chai": "^4.2.0",
+    "eslint": "^7.2.0",
+    "eslint-config-prettier": "^7.0.0",
+    "husky": "^7.0.1",
+    "jest": "^26.5.3",
+    "json-schema-test": "^2.0.0",
+    "lint-staged": "^11.1.1",
+    "prettier": "^2.1.2",
+    "ts-jest": "^26.4.1",
+    "typescript": "^4.2.0",
+    "uuid": "^8.1.0"
+  },
+  "prettier": "@ajv-validator/config/prettierrc.json",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && npm test"
+    }
+  },
+  "lint-staged": {
+    "*.{md,json,yaml,js,ts}": "prettier --write"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"tfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/ajv-keywords/package.json;TTF:charsetI"
+utf-8;F:digest"%qéy"û³ªNÛ`ËIhËªÍ4)U`;YÎÄ0:«6Š Û:lengthiø:dependencies_digest"%Uş8çj±¡i¥ ~ÊYş­ŞÖèLª–Ò-N:idI"Ee29f19bfe51581f6f2475ca1100509edf4c3ea8a8c18ff4a5957bd49e5bf1087;F:
+mtimel+R¢´e

@@ -1,0 +1,32 @@
+{:uriI"­file://app/assets/javascripts/node_modules/@babel/helper-string-parser/package.json?type=application/json&id=c334e4723d9a1829a9515dbcaa5f75804b2027aed68d7ec3846bbff97ac9499d:ET:load_pathI"app/assets/javascripts;T:filenameI"Qapp/assets/javascripts/node_modules/@babel/helper-string-parser/package.json;T:	nameI"5node_modules/@babel/helper-string-parser/package;T:logical_pathI":node_modules/@babel/helper-string-parser/package.json;T:content_typeI"application/json;T:sourceI"º{
+  "name": "@babel/helper-string-parser",
+  "version": "7.23.4",
+  "description": "A utility package to parse strings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-string-parser"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-helper-string-parser",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "devDependencies": {
+    "charcodes": "^0.2.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"_file-digest://app/assets/javascripts/node_modules/@babel/helper-string-parser/package.json;TTF:charsetI"
+utf-8;F:digest"%sS\ÿß;’êé¦‘8Fìs¸Ã:wÈTU²!|ä8Zdş:lengthiº:dependencies_digest"%1Œíéù;ìğtÉÅ@Wù‹Pû¼˜,æw S2:idI"Ec334e4723d9a1829a9515dbcaa5f75804b2027aed68d7ec3846bbff97ac9499d;F:
+mtimel+R¢´e

@@ -1,0 +1,38 @@
+{:uriI"­file://app/assets/javascripts/node_modules/svgo/node_modules/nth-check/package.json?type=application/json&id=e0b442d4a6ef31575555e9ece9efd0ecb79e39598d98ff6da19ae40a6dedbd35:ET:load_pathI"app/assets/javascripts;T:filenameI"Qapp/assets/javascripts/node_modules/svgo/node_modules/nth-check/package.json;T:	nameI"5node_modules/svgo/node_modules/nth-check/package;T:logical_pathI":node_modules/svgo/node_modules/nth-check/package.json;T:content_typeI"application/json;T:sourceI"x{
+  "name": "nth-check",
+  "version": "1.0.2",
+  "description": "performant nth-check parser & compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fb55/nth-check"
+  },
+  "files": [
+    "compile.js",
+    "index.js",
+    "parse.js"
+  ],
+  "keywords": [
+    "nth-child",
+    "nth",
+    "css"
+  ],
+  "author": "Felix Boehm <me@feedic.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/fb55/nth-check/issues"
+  },
+  "homepage": "https://github.com/fb55/nth-check",
+  "dependencies": {
+    "boolbase": "~1.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"_file-digest://app/assets/javascripts/node_modules/svgo/node_modules/nth-check/package.json;TTF:charsetI"
+utf-8;F:digest"%f—_+ÏEÅõ<}¢é;žaÅØ•×@av¦ƒè
+:lengthix:dependencies_digest"%-Þ=‚äð…0ð yø#'‘§DÙ2@õî©”^Ûà¨J:idI"Ee0b442d4a6ef31575555e9ece9efd0ecb79e39598d98ff6da19ae40a6dedbd35;F:
+mtimel+Q¢´e

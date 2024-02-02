@@ -1,0 +1,14 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/parchment/tsconfig.json?type=application/json&id=784333e361a6680d278916fae27a5a23c8eca84e28a6e1ee29251ec68889e4a7:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/parchment/tsconfig.json;T:	nameI"$node_modules/parchment/tsconfig;T:logical_pathI")node_modules/parchment/tsconfig.json;T:content_typeI"application/json;T:sourceI"¡{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "declaration": true,
+    "strict": true
+  },
+  "exclude": ["node_modules", "test"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/parchment/tsconfig.json;TTF:charsetI"
+utf-8;F:digest"%Ö™/¢ÓS{ ßéŞª1pògøï0Rı:—Šæ#F:lengthi¡:dependencies_digest"%. ?Qğx¤÷ˆ¯“¬Ã¦íz»\×Eø‘"fäB:idI"E784333e361a6680d278916fae27a5a23c8eca84e28a6e1ee29251ec68889e4a7;F:
+mtimel+Q¢´e

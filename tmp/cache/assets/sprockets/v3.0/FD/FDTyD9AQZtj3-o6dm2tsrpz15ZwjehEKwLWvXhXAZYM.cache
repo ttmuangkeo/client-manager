@@ -1,0 +1,51 @@
+{:uriI"Âfile://app/assets/javascripts/node_modules/@vue/babel-sugar-composition-api-render-instance/package.json?type=application/json&id=038f94a653cc847edc8d3fa9a8f6e74063960374f108446af5faf242faa14d46:ET:load_pathI"app/assets/javascripts;T:filenameI"fapp/assets/javascripts/node_modules/@vue/babel-sugar-composition-api-render-instance/package.json;T:	nameI"Jnode_modules/@vue/babel-sugar-composition-api-render-instance/package;T:logical_pathI"Onode_modules/@vue/babel-sugar-composition-api-render-instance/package.json;T:content_typeI"application/json;T:sourceI"e{
+  "name": "@vue/babel-sugar-composition-api-render-instance",
+  "version": "1.4.0",
+  "description": "Babel syntactic sugar for replaceing `this` with `getCurrentInstance()` in Vue JSX with @vue/composition-api",
+  "main": "dist/plugin.js",
+  "repository": "https://github.com/vuejs/jsx/tree/master/packages/babel-sugar-composition-api-render-instance",
+  "author": "luwanquan <luwanquan@f-road.com.cn>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [],
+  "scripts": {
+    "prepublish": "yarn build",
+    "build": "rollup -c",
+    "build:test": "rollup -c rollup.config.testing.js",
+    "pretest": "yarn build:test && cd ../babel-sugar-v-model && yarn build:test",
+    "test": "nyc --reporter=html --reporter=text-summary ava -v test/test.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "ava": "^0.25.0",
+    "nyc": "^13.1.0",
+    "rollup": "^0.67.4",
+    "rollup-plugin-babel": "4.0.3",
+    "rollup-plugin-istanbul": "^2.0.1",
+    "rollup-plugin-uglify-es": "^0.0.1",
+    "vue": "^2.5.17"
+  },
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.2.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "nyc": {
+    "exclude": [
+      "dist",
+      "test"
+    ]
+  },
+  "gitHead": "6566e12067f5d6c02d3849b574a1b84de5634008"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"tfile-digest://app/assets/javascripts/node_modules/@vue/babel-sugar-composition-api-render-instance/package.json;TTF:charsetI"
+utf-8;F:digest"%}$Šsoo¼ÔÎœLê™D6n°ä:ûìgY3åé:lengthie:dependencies_digest"%õáœàß±N`K#îÃ¨UoÛ©õ}fÊNî¥Œ0:idI"E038f94a653cc847edc8d3fa9a8f6e74063960374f108446af5faf242faa14d46;F:
+mtimel+Q¢´e

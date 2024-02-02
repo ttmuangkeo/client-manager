@@ -1,0 +1,55 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/big.js/package.json?type=application/json&id=30042cc90b7ba6f9cb6aae63d2adfde1c3a4cc79090795eaa4008468b62fdb01:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/big.js/package.json;T:	nameI" node_modules/big.js/package;T:logical_pathI"%node_modules/big.js/package.json;T:content_typeI"application/json;T:sourceI"í{
+  "name": "big.js",
+  "description": "A small, fast, easy-to-use library for arbitrary-precision decimal arithmetic",
+  "version": "5.2.2",
+  "keywords": [
+    "arbitrary",
+    "precision",
+    "arithmetic",
+    "big",
+    "number",
+    "decimal",
+    "float",
+    "biginteger",
+    "bigdecimal",
+    "bignumber",
+    "bigint",
+    "bignum"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikeMcl/big.js.git"
+  },
+  "main": "big",
+  "browser": "big.js",
+  "module": "big.mjs",
+  "author": {
+    "name": "Michael Mclaughlin",
+    "email": "M8ch88l@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/MikeMcl/big.js/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./test/every-test.js",
+    "build": "uglifyjs big.js --source-map -c -m -o big.min.js"
+  },
+  "files": [
+    "big.js",
+    "big.mjs",
+    "big.min.js"
+  ],
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/bigjs"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/big.js/package.json;TTF:charsetI"
+utf-8;F:digest"%q€°"\Gßýúÿ—­÷F
+Ék~3ÖÊž€¯±ÏÛÍ:lengthií:dependencies_digest"%·U¾Tuy€§îÅ¡œNA(~¾Uµ0éÝÁI]@ÊG:idI"E30042cc90b7ba6f9cb6aae63d2adfde1c3a4cc79090795eaa4008468b62fdb01;F:
+mtimel+Q¢´e

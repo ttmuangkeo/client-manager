@@ -1,0 +1,41 @@
+{:uriI"file://app/assets/javascripts/node_modules/is-plain-obj/package.json?type=application/json&id=f09f7d79892d3dd7da413d5bb5e51a240b5d68c1543d78fd1b2a96a6ed527ca7:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/is-plain-obj/package.json;T:	nameI"&node_modules/is-plain-obj/package;T:logical_pathI"+node_modules/is-plain-obj/package.json;T:content_typeI"application/json;T:sourceI"\{
+  "name": "is-plain-obj",
+  "version": "1.1.0",
+  "description": "Check if a value is a plain object",
+  "license": "MIT",
+  "repository": "sindresorhus/is-plain-obj",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "obj",
+    "object",
+    "is",
+    "check",
+    "test",
+    "type",
+    "plain",
+    "vanilla",
+    "pure",
+    "simple"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/is-plain-obj/package.json;TTF:charsetI"
+utf-8;F:digest"%?-ÌJ×’vÖSa´üâ\şç*OÁ8¶Â8ßgÑ:lengthi\:dependencies_digest"%5%\˜Qr$¶ÖöÒÂ£ñCİ¸E±{àd+;D:idI"Ef09f7d79892d3dd7da413d5bb5e51a240b5d68c1543d78fd1b2a96a6ed527ca7;F:
+mtimel+Q¢´e

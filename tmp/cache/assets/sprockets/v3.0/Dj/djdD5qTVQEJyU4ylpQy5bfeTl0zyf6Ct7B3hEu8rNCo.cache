@@ -1,0 +1,37 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/ru.json?type=application/json&id=c55358d4f6b03a09c92862958b79d925379878db8022b6d232767ae59adb5fc9:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/ru.json;T:	nameI"-node_modules/vee-validate/dist/locale/ru;T:logical_pathI"2node_modules/vee-validate/dist/locale/ru.json;T:content_typeI"application/json;T:sourceI"�	{
+  "code": "ru",
+  "messages": {
+    "alpha": "Поле {_field_} может содержать только буквы",
+    "alpha_dash": "Поле {_field_} может содержать только буквы, цифры и дефис",
+    "alpha_num": "Поле {_field_} может содержать только буквы и цифры",
+    "alpha_spaces": "Поле {_field_} может содержать только буквы и пробелы",
+    "between": "Поле {_field_} должно быть между {min} и {max}",
+    "confirmed": "Поле {_field_} не совпадает с {target}",
+    "digits": "Поле {_field_} должно быть числовым и длиной {length}",
+    "dimensions": "Поле {_field_} должно быть {width} пикселей на {height} пикселей",
+    "email": "Поле {_field_} должно быть действительным электронным адресом",
+    "excluded": "Поле {_field_} должно быть допустимым значением",
+    "ext": "Поле {_field_} должно быть действительным файлом",
+    "image": "Поле {_field_} должно быть изображением",
+    "oneOf": "Поле {_field_} должно быть допустимым значением",
+    "integer": "Поле {_field_} должно быть целым числом",
+    "length": "Длина поля {_field_} должна быть {length}",
+    "max": "Поле {_field_} не может быть более {length} символов",
+    "max_value": "Поле {_field_} должно быть {max} или менее",
+    "mimes": "Поле {_field_} должно иметь допустимый тип файла",
+    "min": "Поле {_field_} должно быть не менее {length} символов",
+    "min_value": "Поле {_field_} должно быть {min} или больше",
+    "numeric": "Поле {_field_} должно быть числом",
+    "regex": "Поле {_field_} имеет ошибочный формат",
+    "required": "Поле {_field_} обязательно для заполнения",
+    "required_if": "Поле {_field_} обязательно для заполнения",
+    "size": "Поле {_field_} должно быть меньше, чем {size}KB",
+    "double": "Поле {_field_} должно быть допустимым десятичным числом"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/ru.json;TTF:charsetI"
+utf-8;F:digest"%h��\��jv���#J@E:,-�6�5
+G��A:lengthi�	:dependencies_digest"%���Hn���)��;������@Hw�dT���5�:idI"Ec55358d4f6b03a09c92862958b79d925379878db8022b6d232767ae59adb5fc9;F:
+mtimel+S��e

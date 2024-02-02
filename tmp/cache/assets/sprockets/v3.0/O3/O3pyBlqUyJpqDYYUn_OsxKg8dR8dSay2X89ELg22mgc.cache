@@ -1,0 +1,20 @@
+{:uriI"•file://app/assets/javascripts/node_modules/buffer/bin/zuul-es5.yml?type=text/yaml&id=de62cd93538d3e8a8451ce8682472d01371af014292ca391eb41d19ce35c4731:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/buffer/bin/zuul-es5.yml;T:	nameI"%node_modules/buffer/bin/zuul-es5;T:logical_pathI")node_modules/buffer/bin/zuul-es5.yml;T:content_typeI"text/yaml;T:sourceI"ıui: tape
+scripts:
+  - ./test/_polyfill.js
+browsers:
+  - name: safari
+    version: latest
+  - name: ie
+    version: 8..latest
+  - name: microsoftedge
+    version: 13..latest
+  - name: android
+    version: 4.4..latest
+  - name: iphone
+    version: latest
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"Nfile-digest://app/assets/javascripts/node_modules/buffer/bin/zuul-es5.yml;TTF:charsetI"
+utf-8;F:digest"%V¾™wº¿µîyï…;¥:Ñ ¨ÅÉ©¡ÕÇ“óTH¼¢î:lengthiı:dependencies_digest"%×k2F`o<š4€Ê®ö!vÑ£¿H'ÔL“ÛŞØ
+:idI"Ede62cd93538d3e8a8451ce8682472d01371af014292ca391eb41d19ce35c4731;F:
+mtimel+S¢´e

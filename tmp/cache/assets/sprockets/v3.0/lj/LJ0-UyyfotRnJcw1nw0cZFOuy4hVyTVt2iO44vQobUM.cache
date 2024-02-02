@@ -1,0 +1,29 @@
+{:uriI"´file://app/assets/javascripts/node_modules/quill-delta/node_modules/fast-diff/package.json?type=application/json&id=c22f25b119a0252b0dd2a101abc2e8536ec201f140ab49dfabdff789becbd038:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/quill-delta/node_modules/fast-diff/package.json;T:	nameI"<node_modules/quill-delta/node_modules/fast-diff/package;T:logical_pathI"Anode_modules/quill-delta/node_modules/fast-diff/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "fast-diff",
+  "version": "1.1.2",
+  "description": "Fast Javascript text diff",
+  "author": "Jason Chen <jhchen7@gmail.com>",
+  "main": "diff.js",
+  "devDependencies": {
+    "googlediff": "~0.1.0",
+    "lodash": "~3.9.3",
+    "seedrandom": "~2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhchen/fast-diff"
+  },
+  "bugs": {
+    "url": "https://github.com/jhchen/fast-diff/issues"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["diff"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ffile-digest://app/assets/javascripts/node_modules/quill-delta/node_modules/fast-diff/package.json;TTF:charsetI"
+utf-8;F:digest"%úp¤n®ÚMdè|),Í‰cşèÚşá%ÖãĞ,:lengthi:dependencies_digest"%ƒv4ò£‘[Wß®®@¶åHW—=åS•s(N¢…±®Í7:idI"Ec22f25b119a0252b0dd2a101abc2e8536ec201f140ab49dfabdff789becbd038;F:
+mtimel+Q¢´e

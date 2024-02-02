@@ -1,0 +1,22 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/lodash.kebabcase/package.json?type=application/json&id=6e4a6b359629ab39716e00e094b13c92b29d29d671e2d11383fc7f38ae28c338:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/lodash.kebabcase/package.json;T:	nameI"*node_modules/lodash.kebabcase/package;T:logical_pathI"/node_modules/lodash.kebabcase/package.json;T:content_typeI"application/json;T:sourceI"ð{
+  "name": "lodash.kebabcase",
+  "version": "4.1.1",
+  "description": "The lodash method `_.kebabCase` exported as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "keywords": "lodash-modularized, kebabcase",
+  "author": "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)",
+  "contributors": [
+    "John-David Dalton <john.david.dalton@gmail.com> (http://allyoucanleet.com/)",
+    "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
+    "Mathias Bynens <mathias@qiwi.be> (https://mathiasbynens.be/)"
+  ],
+  "repository": "lodash/lodash",
+  "scripts": { "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\"" }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/lodash.kebabcase/package.json;TTF:charsetI"
+utf-8;F:digest"%ÆLý?	ÍÒÀdÜYde°¸Ù¾ôfÚ«ßP¯þ	N'ãÎ:lengthið:dependencies_digest"%É0~W¾^öŸ³ù.°æìÁYQöcÎãÈŸpol²*:idI"E6e4a6b359629ab39716e00e094b13c92b29d29d671e2d11383fc7f38ae28c338;F:
+mtimel+Q¢´e

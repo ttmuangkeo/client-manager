@@ -1,0 +1,40 @@
+{:uriI"·file://app/assets/javascripts/node_modules/@babel/plugin-transform-function-name/package.json?type=application/json&id=a9b9d4a8ad1777c05ad778350f63f79864c027cbad4499ae46e4b3df13f1d801:ET:load_pathI"app/assets/javascripts;T:filenameI"[app/assets/javascripts/node_modules/@babel/plugin-transform-function-name/package.json;T:	nameI"?node_modules/@babel/plugin-transform-function-name/package;T:logical_pathI"Dnode_modules/@babel/plugin-transform-function-name/package.json;T:content_typeI"application/json;T:sourceI"Ö{
+  "name": "@babel/plugin-transform-function-name",
+  "version": "7.23.3",
+  "description": "Apply ES2015 function.name semantics to all functions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-function-name"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-function-name",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-compilation-targets": "^7.22.15",
+    "@babel/helper-function-name": "^7.23.0",
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ifile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-function-name/package.json;TTF:charsetI"
+utf-8;F:digest"%µÕÍonÿÈÂ)gSoª^[¯:+İjï+œİ_Ñ:lengthiÖ:dependencies_digest"%h$çkÜèím²X„Ğ|3‚X%şT…*W›şi:idI"Ea9b9d4a8ad1777c05ad778350f63f79864c027cbad4499ae46e4b3df13f1d801;F:
+mtimel+Q¢´e

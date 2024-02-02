@@ -1,0 +1,64 @@
+{:uriI"—file://app/assets/javascripts/node_modules/sshpk/package.json?type=application/json&id=ba58fb6dddd98dde3a8b15bec0b6abce64b37521bd8c96a92f883f087727d247:ET:load_pathI"app/assets/javascripts;T:filenameI";app/assets/javascripts/node_modules/sshpk/package.json;T:	nameI"node_modules/sshpk/package;T:logical_pathI"$node_modules/sshpk/package.json;T:content_typeI"application/json;T:sourceI"ú{
+  "name": "sshpk",
+  "version": "1.18.0",
+  "description": "A library for finding and using SSH public keys",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyent/node-sshpk.git"
+  },
+  "author": "Joyent, Inc",
+  "contributors": [
+    {
+      "name": "Dave Eddy",
+      "email": "dave@daveeddy.com"
+    },
+    {
+      "name": "Mark Cavage",
+      "email": "mcavage@gmail.com"
+    },
+    {
+      "name": "Alex Wilson",
+      "email": "alex@cooperi.net"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arekinath/node-sshpk/issues"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "directories": {
+    "bin": "./bin",
+    "lib": "./lib",
+    "man": "./man/man1"
+  },
+  "homepage": "https://github.com/arekinath/node-sshpk#readme",
+  "dependencies": {
+    "asn1": "~0.2.3",
+    "assert-plus": "^1.0.0",
+    "dashdash": "^1.12.0",
+    "getpass": "^0.1.1",
+    "safer-buffer": "^2.0.2",
+    "jsbn": "~0.1.0",
+    "tweetnacl": "~0.14.0",
+    "ecc-jsbn": "~0.1.1",
+    "bcrypt-pbkdf": "^1.0.0"
+  },
+  "optionalDependencies": {},
+  "devDependencies": {
+    "tape": "^3.5.0",
+    "benchmark": "^1.0.0",
+    "sinon": "^1.17.2",
+    "temp": "^0.8.2"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ifile-digest://app/assets/javascripts/node_modules/sshpk/package.json;TTF:charsetI"
+utf-8;F:digest"%Pá¿Qíyòî™û*	Ëúƒ¾†M=Y=Ê+ª'A’:lengthiú:dependencies_digest"%Q–/"wıÁb±€Ÿ›ğÙÀÁ¼NÅ<+©•€^ºrÇ°™:idI"Eba58fb6dddd98dde3a8b15bec0b6abce64b37521bd8c96a92f883f087727d247;F:
+mtimel+S¢´e

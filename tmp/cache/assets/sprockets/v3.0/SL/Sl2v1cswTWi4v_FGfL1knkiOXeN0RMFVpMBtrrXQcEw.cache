@@ -1,0 +1,70 @@
+{:uriI"öfile://app/assets/javascripts/node_modules/for-each/package.json?type=application/json&id=5d9949afbf656eb57cb7dcca38c7585ae3f9ddd67c8235ed081b0b16d6a0b297:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/for-each/package.json;T:	nameI""node_modules/for-each/package;T:logical_pathI"'node_modules/for-each/package.json;T:content_typeI"application/json;T:sourceI"ﬂ{
+  "name": "for-each",
+  "version": "0.3.3",
+  "description": "A better forEach",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/for-each.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/for-each",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    },
+    {
+      "name": "Jordan Harband",
+      "url": "https://github.com/ljharb"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/for-each/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "is-callable": "^1.1.3"
+  },
+  "devDependencies": {
+    "@ljharb/eslint-config": "^12.2.1",
+    "eslint": "^4.19.1",
+    "nsp": "^3.2.1",
+    "tape": "^4.9.0"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/for-each/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "pretest": "npm run lint",
+    "test": "npm run tests-only",
+    "tests-only": "node test/test",
+    "posttest": "npm run security",
+    "lint": "eslint *.js test/*.js",
+    "security": "nsp check"
+  },
+  "testling": {
+    "files": "test/test.js",
+    "browsers": [
+      "iexplore/6.0..latest",
+      "firefox/3.0..6.0",
+      "firefox/15.0..latest",
+      "firefox/nightly",
+      "chrome/4.0..10.0",
+      "chrome/20.0..latest",
+      "chrome/canary",
+      "opera/10.0..latest",
+      "opera/next",
+      "safari/4.0..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/for-each/package.json;TTF:charsetI"
+utf-8;F:digest"%ê-;”{0˛ac4YM±ˆ¡∫1‹¿*)ö))Íœ 	Üc:lengthiﬂ:dependencies_digest"%¶fP®®h÷ [âß<ãaŸ0µuâñx©Ní1v.ãq9:idI"E5d9949afbf656eb57cb7dcca38c7585ae3f9ddd67c8235ed081b0b16d6a0b297;F:
+mtimel+Q¢¥e

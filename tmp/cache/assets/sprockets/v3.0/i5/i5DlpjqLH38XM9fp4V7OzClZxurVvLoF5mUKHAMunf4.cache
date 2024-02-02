@@ -1,0 +1,43 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/chrome-trace-event/package.json?type=application/json&id=c42079f1e7512737b4725729d1a5f7b24ab034a05e889dcc10b3ccff2d3859f5:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/chrome-trace-event/package.json;T:	nameI",node_modules/chrome-trace-event/package;T:logical_pathI"1node_modules/chrome-trace-event/package.json;T:content_typeI"application/json;T:sourceI"?{
+  "name": "chrome-trace-event",
+  "description": "A library to create a trace of your node app per Google's Trace Event format.",
+  "license": "MIT",
+  "version": "1.0.3",
+  "author": "Trent Mick, Sam Saccone",
+  "keywords": [
+    "trace-event",
+    "trace",
+    "event",
+    "trace-viewer",
+    "google"
+  ],
+  "repository": {
+    "url": "github:samccone/chrome-trace-event"
+  },
+  "main": "./dist/trace-event.js",
+  "typings": "./dist/trace-event.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "*",
+    "prettier": "^1.12.1",
+    "tape": "4.8.0",
+    "typescript": "^4.2.4"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "files": [
+    "dist",
+    "CHANGES.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "check_format": "prettier -l lib/** test/** examples/**",
+    "test": "tape test/*.test.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/chrome-trace-event/package.json;TTF:charsetI"
+utf-8;F:digest"%MÈ‡Ó¼˜7Ègsé€âæÏcf®ëÌë¯ÓõK:lengthi?:dependencies_digest"%K,Ÿ«q’O&•3\Ö‘¶(Tì‚h«°£ë¶h:idI"Ec42079f1e7512737b4725729d1a5f7b24ab034a05e889dcc10b3ccff2d3859f5;F:
+mtimel+R¢´e

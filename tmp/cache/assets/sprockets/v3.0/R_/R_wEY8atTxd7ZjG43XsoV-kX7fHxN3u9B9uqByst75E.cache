@@ -1,0 +1,46 @@
+{:uriI"žfile://app/assets/javascripts/node_modules/datamaps/src/examples/italy.html?type=text/html&id=ad0cdfa4469f65d0a2eb26f7fe4cedd1a7653e76f4a1c5d9c4d62c62ee7349f0:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/datamaps/src/examples/italy.html;T:	nameI"-node_modules/datamaps/src/examples/italy;T:logical_pathI"2node_modules/datamaps/src/examples/italy.html;T:content_typeI"text/html;T:sourceI"Ð<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<!-- I recommend you host this file on your own, since this will change without warning -->
+<script src="/src/rel/datamaps.ita.js?v=1"></script>
+<h2>Datamaps Italy Test</h2>
+
+<p><a href="http://datamaps.github.io/">DataMaps Project Homepage</a></p>
+
+<div id="container1" style="position: relative; width: 700px; height: 450px;"></div>
+
+<script>
+  //basic map config with custom fills, mercator projection
+  var map = new Datamap({
+    scope: 'ita',
+    element: document.getElementById('container1'),
+    setProjection: function (element) {
+      var projection = d3.geo.mercator()
+          .center([12.560077144500099, 41.287229413500036])
+          .rotate([0, 0])
+          .scale(6144.37545703623 / 4)
+          .translate([350, 225]);
+      var path = d3.geo.path()
+          .projection(projection);
+
+      return {path: path, projection: projection};
+    },
+    fills: {
+      defaultFill: '#f0af0a',
+      lt50: 'rgba(0,244,244,0.9)',
+      gt50: 'red'
+    },
+
+    data: {
+      '071': {fillKey: 'lt50'},
+      '001': {fillKey: 'gt50'}
+    }
+  });
+</script>
+</body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Wfile-digest://app/assets/javascripts/node_modules/datamaps/src/examples/italy.html;TTF:charsetI"
+utf-8;F:digest"%Œ_T>pMH… Ìï<ÃUÀuˆC ½ÙRÓVÒ$¬þ:lengthiÐ:dependencies_digest"%²8-Dgƒ[ŸLi,»LFì#(øÚ½GF]1ÓÍ°ŸÉ:idI"Ead0cdfa4469f65d0a2eb26f7fe4cedd1a7653e76f4a1c5d9c4d62c62ee7349f0;F:
+mtimel+U¢´e

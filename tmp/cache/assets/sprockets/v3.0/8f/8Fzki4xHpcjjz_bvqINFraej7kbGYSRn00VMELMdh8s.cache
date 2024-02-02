@@ -1,0 +1,7 @@
+{:uriI"ßfile://app/assets/javascripts/node_modules/datamaps/src/js/data/bjn.topo.json?type=application/json&id=3621f86b92b6429488214bd66f76eb3135898a183cdbe1a19e80b425177f3360:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/datamaps/src/js/data/bjn.topo.json;T:	nameI"/node_modules/datamaps/src/js/data/bjn.topo;T:logical_pathI"4node_modules/datamaps/src/js/data/bjn.topo.json;T:content_typeI"application/json;T:sourceI";{"type":"Topology","objects":{"bjn":{"type":"GeometryCollection","geometries":[{"type":"MultiPolygon","properties":{"name":"Bajo Nuevo Bank [Petrel Is.]"},"id":"-99","arcs":[[[0]],[[1]],[[2]],[[3]],[[4]]]}]}},"arcs":[[[5971,1060],[-90,-1060],[-179,547],[269,513]],[[118,910],[-72,-35],[-46,110],[60,178],[58,-253]],[[260,1509],[-35,-104],[-21,208],[56,-104]],[[8879,9377],[-181,-219],[3,541],[178,-322]],[[9999,9809],[-111,-294],[50,484],[61,-190]]],"transform":{"scale":[0.00002455486438642868,0.0000070645085508587],"translate":[-79.98928788999987,15.787990627000127]}};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/datamaps/src/js/data/bjn.topo.json;TTF:charsetI"
+utf-8;F:digest"%m≥Ù@[ì¬b{oqJÑΩétÈﬁ¡
+5dÅ2óã∞:lengthi;:dependencies_digest"%ç˙OM“?P…¡•˘Û5]d
+O|©z©˚0J√ÂGˆ˜:idI"E3621f86b92b6429488214bd66f76eb3135898a183cdbe1a19e80b425177f3360;F:
+mtimel+U¢¥e

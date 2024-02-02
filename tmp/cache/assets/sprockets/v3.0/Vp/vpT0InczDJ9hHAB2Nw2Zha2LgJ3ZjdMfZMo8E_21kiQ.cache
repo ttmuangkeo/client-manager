@@ -1,0 +1,12 @@
+{:uriI"†file://app/assets/javascripts/node_modules/d3-format/locale/ar-ER.json?type=application/json&id=506fb73f4ae9bd06fbbb5f40c80d5f7db4fad86f9e1c596e4a2a7692ccd587d8:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/d3-format/locale/ar-ER.json;T:	nameI"(node_modules/d3-format/locale/ar-ER;T:logical_pathI"-node_modules/d3-format/locale/ar-ER.json;T:content_typeI"application/json;T:sourceI"Ê{
+  "decimal": "\u066b",
+  "thousands": "\u066c",
+  "grouping": [3],
+  "currency": ["\u004e\u0066\u006b ", ""],
+  "numerals" : ["\u0660", "\u0661", "\u0662", "\u0663", "\u0664", "\u0665", "\u0666", "\u0667", "\u0668", "\u0669"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/d3-format/locale/ar-ER.json;TTF:charsetI"
+utf-8;F:digest"%n\Q[çNí^˛6≈∫Å€C2?ãû∞x¥cÃà:lengthiÊ:dependencies_digest"%T¯tÔL&—»’†ÒÀ )Ÿe¶ü≈Í=‰rx_ıEµ?‚¿e:idI"E506fb73f4ae9bd06fbbb5f40c80d5f7db4fad86f9e1c596e4a2a7692ccd587d8;F:
+mtimel+R¢¥e

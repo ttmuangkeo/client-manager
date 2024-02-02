@@ -1,0 +1,42 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/randomfill/package.json?type=application/json&id=46fbcd69e40adf307e00237f781e976478a227d12722285b3bffc31d0ca90b83:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/randomfill/package.json;T:	nameI"$node_modules/randomfill/package;T:logical_pathI")node_modules/randomfill/package.json;T:content_typeI"application/json;T:sourceI"Å{
+  "name": "randomfill",
+  "version": "1.0.4",
+  "description": "random fill from browserify stand alone",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js | tspec",
+    "phantom": "zuul --phantom -- test.js",
+    "local": "zuul --local --no-coverage -- test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crypto-browserify/randomfill.git"
+  },
+  "keywords": [
+    "crypto",
+    "random"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crypto-browserify/randomfill/issues"
+  },
+  "homepage": "https://github.com/crypto-browserify/randomfill",
+  "browser": "browser.js",
+  "devDependencies": {
+    "phantomjs": "^1.9.9",
+    "standard": "^10.0.2",
+    "tap-spec": "^2.1.2",
+    "tape": "^4.6.3",
+    "zuul": "^3.7.2"
+  },
+  "dependencies": {
+    "randombytes": "^2.0.5",
+    "safe-buffer": "^5.1.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/randomfill/package.json;TTF:charsetI"
+utf-8;F:digest"%ÊG•7ﬁKcçJ·©QUÇK(¶‡W2—ò8…¯}—1ö<Ñ:lengthiÅ:dependencies_digest"%Ω¯õˆYˇ©:`ùÿq¸"XJ›ô6cÛÁ∞ö…f€:idI"E46fbcd69e40adf307e00237f781e976478a227d12722285b3bffc31d0ca90b83;F:
+mtimel+Q¢¥e

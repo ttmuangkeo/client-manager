@@ -1,0 +1,70 @@
+{:uriI"¡file://app/assets/javascripts/node_modules/querystring-es3/package.json?type=application/json&id=850de94d61a23203d2f32774ac273d1757fdf9566e2f42074947072b690eb0dc:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/querystring-es3/package.json;T:	nameI")node_modules/querystring-es3/package;T:logical_pathI".node_modules/querystring-es3/package.json;T:content_typeI"application/json;T:sourceI"¶{
+  "name": "querystring-es3",
+  "id": "querystring-es3",
+  "version": "0.2.1",
+  "description": "Node's querystring module for all engines. (ES3 compat fork)",
+  "keywords": [ "commonjs", "query", "querystring" ],
+  "author": "Irakli Gozalishvili <rfobic@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mike-spainhower/querystring.git",
+    "web": "https://github.com/mike-spainhower/querystring"
+  },
+  "bugs": {
+    "url": "http://github.com/mike-spainhower/querystring/issues/"
+  },
+  "devDependencies": {
+    "test": "~0.x.0",
+    "phantomify": "~0.x.0",
+    "retape": "~0.x.0",
+    "tape": "~0.1.5"
+  },
+  "engines": {
+    "node": ">=0.4.x"
+  },
+  "scripts": {
+    "test": "npm run test-node && npm run test-browser && npm run test-tap",
+    "test-browser": "node ./node_modules/phantomify/bin/cmd.js ./test/common-index.js",
+    "test-node": "node ./test/common-index.js",
+    "test-tap": "node ./test/tap-index.js"
+  },
+  "testling": {
+    "files": "test/tap-index.js",
+    "browsers": {
+      "iexplore": [
+        9,
+        10
+      ],
+      "chrome": [
+        16,
+        20,
+        25,
+        "canary"
+      ],
+      "firefox": [
+        10,
+        15,
+        16,
+        17,
+        18,
+        "nightly"
+      ],
+      "safari": [
+        5,
+        6
+      ],
+      "opera": [
+        12
+      ]
+    }
+  },
+  "licenses": [{
+    "type" : "MIT",
+    "url" : "https://github.com/Gozala/enchain/License.md"
+  }]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/querystring-es3/package.json;TTF:charsetI"
+utf-8;F:digest"%~˜êk¶Œèë)òê¦8nLA£LŠ&Rø")‡j:lengthi¶:dependencies_digest"%¶1ßî;ASYIOþÃÔ>6´ò@Â¡ãIj¤œ:idI"E850de94d61a23203d2f32774ac273d1757fdf9566e2f42074947072b690eb0dc;F:
+mtimel+Q¢´e

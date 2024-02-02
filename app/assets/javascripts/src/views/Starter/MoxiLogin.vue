@@ -15,8 +15,7 @@ export default {
         return {
             username: '',
             password: '',
-            error: '',
-            isLoggedIn: false
+            error: ''
         }
     },
     computed: {
@@ -30,7 +29,7 @@ export default {
                 if(result.success) {
                     this.error = ''
                     this.$store.dispatch('setCompanies', result.data)
-                    this.isLoggedIn = true
+                    this.$store.dispatch('setLoggedIn', true)
                     this.$router.push({
                         name: 'moxiCompany', 
                         params: {
@@ -54,6 +53,7 @@ export default {
                     this.username = '',
                     this.password = '',
                     this.error= ''
+                    this.$store.dispatch('setLoggedIn', false)
                     this.$router.push({name: 'moxiLogin'})
                 } else {
                     console.log(result.error)

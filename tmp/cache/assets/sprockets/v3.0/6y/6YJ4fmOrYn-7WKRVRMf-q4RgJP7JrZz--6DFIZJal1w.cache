@@ -1,0 +1,15 @@
+{:uriI"Àfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/terser/dist/package.json?type=application/json&id=b82713ffc87d7701cc83771dc3d916008eddb28455385a8aa35afb02129a0e38:ET:load_pathI"app/assets/javascripts;T:filenameI"dapp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/terser/dist/package.json;T:	nameI"Hnode_modules/@vue/cli-plugin-babel/node_modules/terser/dist/package;T:logical_pathI"Mnode_modules/@vue/cli-plugin-babel/node_modules/terser/dist/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "dist",
+  "private": true,
+  "version": "1.0.0",
+  "main": "bundle.min.js",
+  "type": "commonjs",
+  "author": "",
+  "license": "BSD-2-Clause",
+  "description": "A package to hold the Terser dist bundle as commonjs while keeping the rest of it ESM. Nothing to see here."
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/terser/dist/package.json;TTF:charsetI"
+utf-8;F:digest"%üìÙüóI†U)øÍ•[‹koàšÈÖ×§íÎó*5#:lengthi:dependencies_digest"%*µUoöuHsæ†ìõ§½…N’ä³Ÿ¾Ôºò0ı¤*:idI"Eb82713ffc87d7701cc83771dc3d916008eddb28455385a8aa35afb02129a0e38;F:
+mtimel+S¢´e

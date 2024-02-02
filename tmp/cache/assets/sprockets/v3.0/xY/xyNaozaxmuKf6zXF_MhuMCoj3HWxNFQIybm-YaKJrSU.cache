@@ -1,0 +1,44 @@
+{:uriI"³file://app/assets/javascripts/node_modules/@babel/helper-compilation-targets/package.json?type=application/json&id=70a757b9f5cf3ade3ac46c99dce183e9ba89d305e59148670f3a913f9508d5b0:ET:load_pathI"app/assets/javascripts;T:filenameI"Wapp/assets/javascripts/node_modules/@babel/helper-compilation-targets/package.json;T:	nameI";node_modules/@babel/helper-compilation-targets/package;T:logical_pathI"@node_modules/@babel/helper-compilation-targets/package.json;T:content_typeI"application/json;T:sourceI"Ô{
+  "name": "@babel/helper-compilation-targets",
+  "version": "7.23.6",
+  "author": "The Babel Team (https://babel.dev/team)",
+  "license": "MIT",
+  "description": "Helper functions on Babel compilation targets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-compilation-targets"
+  },
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/compat-data": "^7.23.5",
+    "@babel/helper-validator-option": "^7.23.5",
+    "browserslist": "^4.22.2",
+    "lru-cache": "^5.1.1",
+    "semver": "^6.3.1"
+  },
+  "devDependencies": {
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "@types/lru-cache": "^5.1.1",
+    "@types/semver": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"efile-digest://app/assets/javascripts/node_modules/@babel/helper-compilation-targets/package.json;TTF:charsetI"
+utf-8;F:digest"%ş6ø8€$j +g&È  Û÷+	.´¶÷0¸á:lengthiÔ:dependencies_digest"%ì9¶1Ë7¨BsÉPHòÊû†d26Ñ)¿Êj«!:idI"E70a757b9f5cf3ade3ac46c99dce183e9ba89d305e59148670f3a913f9508d5b0;F:
+mtimel+R¢´e

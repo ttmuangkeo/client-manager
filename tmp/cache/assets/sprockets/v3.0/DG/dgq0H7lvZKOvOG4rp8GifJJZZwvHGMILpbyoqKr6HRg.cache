@@ -1,0 +1,65 @@
+{:uriI"–file://app/assets/javascripts/node_modules/arch/package.json?type=application/json&id=28e238ceeddcf3d29db7512035f175b432b85fe8959253bee1e07b941d5c19ac:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/arch/package.json;T:	nameI"node_modules/arch/package;T:logical_pathI"#node_modules/arch/package.json;T:content_typeI"application/json;T:sourceI"4{
+  "name": "arch",
+  "description": "Better `os.arch()` for node and the browser -- detect OS architecture",
+  "version": "2.2.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org"
+  },
+  "browser": "browser.js",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/feross/arch/issues"
+  },
+  "devDependencies": {
+    "airtap": "^3.0.0",
+    "standard": "*",
+    "tape": "^5.0.0"
+  },
+  "homepage": "https://github.com/feross/arch",
+  "keywords": [
+    "browser",
+    "browserify",
+    "arch",
+    "cpu info",
+    "cpus",
+    "architecture",
+    "navigator.platform",
+    "x64",
+    "x86",
+    "64 bit",
+    "32 bit"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/arch.git"
+  },
+  "scripts": {
+    "test": "standard && npm run test-node && npm run test-browser",
+    "test-browser": "airtap -- test/*.js",
+    "test-browser-local": "airtap --local -- test/*.js",
+    "test-node": "tape test/*.js"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/feross"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/feross"
+    },
+    {
+      "type": "consulting",
+      "url": "https://feross.org/support"
+    }
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/arch/package.json;TTF:charsetI"
+utf-8;F:digest"%|ô]¸Ğâqˆ—pï˜l¹mèâŸ>j5W}#EËf:lengthi4:dependencies_digest"%qxù(Ÿ}·ıÂ[µ¢ÀñêğRò1ÔŒXtYÑ J:idI"E28e238ceeddcf3d29db7512035f175b432b85fe8959253bee1e07b941d5c19ac;F:
+mtimel+Q¢´e

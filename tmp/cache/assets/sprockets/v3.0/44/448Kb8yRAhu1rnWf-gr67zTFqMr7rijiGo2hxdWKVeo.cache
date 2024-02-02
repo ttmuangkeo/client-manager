@@ -1,0 +1,48 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/sockjs/package.json?type=application/json&id=d09777f7b022a02a4ea66770ef741fabfd25a983671eed873970ba527e7c159b:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/sockjs/package.json;T:	nameI" node_modules/sockjs/package;T:logical_pathI"%node_modules/sockjs/package.json;T:content_typeI"application/json;T:sourceI"ã{
+  "name": "sockjs",
+  "description": "SockJS-node is a server counterpart of SockJS-client a JavaScript library that provides a WebSocket-like object in the browser. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.",
+  "version": "0.3.24",
+  "author": "Marek Majkowski",
+  "bugs": {
+    "url": "https://github.com/sockjs/sockjs-node/issues"
+  },
+  "contributors": [
+    {
+      "name": "Bryce Kahle",
+      "email": "bkahle@gmail.com"
+    },
+    {
+      "name": "Marek Majkowski",
+      "email": "deadbeef@popcount.org"
+    }
+  ],
+  "dependencies": {
+    "faye-websocket": "^0.11.3",
+    "uuid": "^8.3.2",
+    "websocket-driver": "^0.7.4"
+  },
+  "devDependencies": {
+    "coffeescript": "^1.12.7"
+  },
+  "homepage": "https://github.com/sockjs/sockjs-node",
+  "keywords": [
+    "websockets",
+    "websocket"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sockjs/sockjs-node.git"
+  },
+  "scripts": {
+    "version": "make build && git add Changelog",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --all && git push origin --tags"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/sockjs/package.json;TTF:charsetI"
+utf-8;F:digest"%âÉ¿¼2)IÖ+yJ‚ØvU)tãCBÊ·eJÆ¯=Œu:lengthiã:dependencies_digest"%y©:ucv?èÛ`Ê©ºì:ˆŸ¹É"C]ÐVßéáE:idI"Ed09777f7b022a02a4ea66770ef741fabfd25a983671eed873970ba527e7c159b;F:
+mtimel+R¢´e

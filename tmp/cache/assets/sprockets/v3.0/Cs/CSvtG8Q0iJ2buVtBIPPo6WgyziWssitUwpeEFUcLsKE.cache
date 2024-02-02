@@ -1,0 +1,38 @@
+{:uriI"•file://app/assets/javascripts/node_modules/vee-validate/dist/locale/et.json?type=application/json&id=f7ee5381d9e971cd4f2aa2e654c719efd9fa16f1efffab636363dfb89ffbcc7e:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/et.json;T:	nameI"-node_modules/vee-validate/dist/locale/et;T:logical_pathI"2node_modules/vee-validate/dist/locale/et.json;T:content_typeI"application/json;T:sourceI"ï{
+  "code": "et",
+  "messages": {
+    "alpha": "{_field_} v√µib sisaldada ainult t√§hti",
+    "alpha_num": "{_field_} v√µib sisaldada ainult t√§hti ja numbreid",
+    "alpha_dash": "{_field_} v√µib sisaldada ainult t√§hti, numbreid, kriipse ja alakriipse",
+    "alpha_spaces": "{_field_} v√µib sisaldada ainult t√§hti ja t√ºhikuid",
+    "between": "{_field_} peab j√§√§ma vahemikku {min} kuni {max}",
+    "confirmed": "{_field_} on kontrollist erinev",
+    "digits": "{_field_} peab koosnema t√§pselt {length}-st numbrist",
+    "dimensions": "{_field_} peab olema {width} korda {height} pikslit suur",
+    "email": "{_field_} peab olema e-maili aadress",
+    "excluded": "{_field_} ei oma sobivat v√§√§rtust",
+    "ext": "{_field_} peab olema sobiv fail",
+    "image": "{_field_} peab olema pilt",
+    "integer": "{_field_} peab olema t√§isarv",
+    "is": "{_field_} peab olema {other}",
+    "is_not": "{_field_} ei tohi olla {other}",
+    "length": "{_field_} peab olema {length} √ºhikut pikk",
+    "max_value": "{_field_} peab olema {max} v√µi v√§iksem",
+    "max": "{_field_} ei tohi olla pikem kui {length} t√§hem√§rki",
+    "mimes": "{_field_} peab olema sobivat t√º√ºpi fail",
+    "min_value": "{_field_} peab olema {min} v√µi suurem",
+    "min": "{_field_} peab olema v√§hemalt {length} t√§hem√§rki pikk",
+    "numeric": "{_field_} v√µib sisaldada ainult numbreid",
+    "oneOf": "{_field_} ei oma sobivat v√§√§rtust",
+    "regex": "{_field_} pole sobival kujul",
+    "required": "{_field_} on n√µutud v√§li",
+    "required_if": "{_field_} on n√µutud v√§li",
+    "size": "{_field_} peab olema v√§iksem kui {size}KB",
+    "double": "{_field_} peab olema kehtiv k√ºmnendkoht"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/et.json;TTF:charsetI"
+utf-8;F:digest"%^ú¬•ìﬂI…ÕT«uêÅ;MoôH‡î5ZÒm%:lengthiï:dependencies_digest"%Wz@¢Ä2:‡Ê®¬Wùo…Hò<.fl§∆n⁄8cæqò:idI"Ef7ee5381d9e971cd4f2aa2e654c719efd9fa16f1efffab636363dfb89ffbcc7e;F:
+mtimel+S¢¥e

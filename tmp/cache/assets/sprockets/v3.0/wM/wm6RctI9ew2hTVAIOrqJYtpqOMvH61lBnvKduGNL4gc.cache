@@ -1,0 +1,26 @@
+{:uriI"äfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin.json?type=application/json&id=fde98903b961f067310c55398471bf076ed5532f3b7f5b2521246724a0f09ce0:ET:load_pathI"app/assets/javascripts;T:filenameI"ƒapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin.json;T:	nameI"lnode_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin;T:logical_pathI"qnode_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin.json;T:content_typeI"application/json;T:sourceI"-{
+  "title": "LimitChunkCountPluginOptions",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "chunkOverhead": {
+      "description": "Constant overhead for a chunk.",
+      "type": "number"
+    },
+    "entryChunkMultiplicator": {
+      "description": "Multiplicator for initial chunks.",
+      "type": "number"
+    },
+    "maxChunks": {
+      "description": "Limit the maximum number of chunks using a value greater greater than or equal to 1.",
+      "type": "number",
+      "minimum": 1
+    }
+  },
+  "required": ["maxChunks"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‘file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/webpack/schemas/plugins/optimize/LimitChunkCountPlugin.json;TTF:charsetI"
+utf-8;F:digest"%5­WE6ÔÃîüš…þé1ÃcgÉìMáäŽÚ€øÔ¦:lengthi-:dependencies_digest"%j±¤$Äú5J`sÌÎëÊ`Ð¤­V­s×‘c÷D:idI"Efde98903b961f067310c55398471bf076ed5532f3b7f5b2521246724a0f09ce0;F:
+mtimel+T¢´e

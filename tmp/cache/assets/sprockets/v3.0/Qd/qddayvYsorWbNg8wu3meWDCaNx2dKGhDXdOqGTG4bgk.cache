@@ -1,0 +1,17 @@
+{:uriI"´file://app/assets/javascripts/node_modules/@vue/babel-helper-vue-transform-on/package.json?type=application/json&id=56f60194d2837233032ca9a1029ab375d4ef5e14184b059647d799da981b9319:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/@vue/babel-helper-vue-transform-on/package.json;T:	nameI"<node_modules/@vue/babel-helper-vue-transform-on/package;T:logical_pathI"Anode_modules/@vue/babel-helper-vue-transform-on/package.json;T:content_typeI"application/json;T:sourceI"I{
+  "name": "@vue/babel-helper-vue-transform-on",
+  "version": "1.2.1",
+  "description": "to help transform on",
+  "author": "Amour1688 <lcz_1996@foxmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/babel-plugin-jsx"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ffile-digest://app/assets/javascripts/node_modules/@vue/babel-helper-vue-transform-on/package.json;TTF:charsetI"
+utf-8;F:digest"%öJş";‡¼Á„$Gæˆzv@ Şf“,hë7:lengthiI:dependencies_digest"%8mt×Dl2ı°¥â´æO¯_øòNøfÏÜ¯;ü:idI"E56f60194d2837233032ca9a1029ab375d4ef5e14184b059647d799da981b9319;F:
+mtimel+Q¢´e

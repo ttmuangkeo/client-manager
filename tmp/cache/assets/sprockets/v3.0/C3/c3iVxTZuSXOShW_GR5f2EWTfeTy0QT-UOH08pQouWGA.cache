@@ -1,0 +1,42 @@
+{:uriI"îfile://app/assets/javascripts/node_modules/bl/package.json?type=application/json&id=cba28b78a77dca5d6fe84216ef258af1827db0fed57042e986698efd70c05c4c:ET:load_pathI"app/assets/javascripts;T:filenameI"8app/assets/javascripts/node_modules/bl/package.json;T:	nameI"node_modules/bl/package;T:logical_pathI"!node_modules/bl/package.json;T:content_typeI"application/json;T:sourceI"ƒ{
+  "name": "bl",
+  "version": "4.1.0",
+  "description": "Buffer List: collect buffers and access with a standard readable Buffer interface, streamable too!",
+  "license": "MIT",
+  "main": "bl.js",
+  "scripts": {
+    "lint": "standard *.js test/*.js",
+    "test": "npm run lint && node test/test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvagg/bl.git"
+  },
+  "homepage": "https://github.com/rvagg/bl",
+  "authors": [
+    "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
+    "Matteo Collina <matteo.collina@gmail.com> (https://github.com/mcollina)",
+    "Jarett Cruger <jcrugzz@gmail.com> (https://github.com/jcrugzz)"
+  ],
+  "keywords": [
+    "buffer",
+    "buffers",
+    "stream",
+    "awesomesauce"
+  ],
+  "dependencies": {
+    "buffer": "^5.5.0",
+    "inherits": "^2.0.4",
+    "readable-stream": "^3.4.0"
+  },
+  "devDependencies": {
+    "faucet": "~0.0.1",
+    "standard": "^14.3.0",
+    "tape": "^4.11.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ffile-digest://app/assets/javascripts/node_modules/bl/package.json;TTF:charsetI"
+utf-8;F:digest"%˛¶m;Üq‰owË=∞@É|˜-°Ä∏”ê’<CÿÇ˝U6Yﬂ:lengthiƒ:dependencies_digest"%l"ÔÄ±0sáK‚3©'2/Ÿ‹;wÔ[ƒ$Çq∑Øj]°:idI"Ecba28b78a77dca5d6fe84216ef258af1827db0fed57042e986698efd70c05c4c;F:
+mtimel+R¢¥e

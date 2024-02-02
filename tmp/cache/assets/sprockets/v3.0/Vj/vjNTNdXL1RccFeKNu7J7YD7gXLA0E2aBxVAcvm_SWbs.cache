@@ -1,0 +1,52 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/body-parser/node_modules/iconv-lite/package.json?type=application/json&id=da5d9ba9fcaaeaec94a0820a6bb0a2b55f0fe3d1e0fa4efc6df6b6a2a4368c26:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/body-parser/node_modules/iconv-lite/package.json;T:	nameI"=node_modules/body-parser/node_modules/iconv-lite/package;T:logical_pathI"Bnode_modules/body-parser/node_modules/iconv-lite/package.json;T:content_typeI"application/json;T:sourceI"Ë{
+    "name": "iconv-lite",
+    "description": "Convert character encodings in pure javascript.",
+    "version": "0.4.24",
+    "license": "MIT",
+    "keywords": [
+        "iconv",
+        "convert",
+        "charset",
+        "icu"
+    ],
+    "author": "Alexander Shtuchkin <ashtuchkin@gmail.com>",
+    "main": "./lib/index.js",
+    "typings": "./lib/index.d.ts",
+    "homepage": "https://github.com/ashtuchkin/iconv-lite",
+    "bugs": "https://github.com/ashtuchkin/iconv-lite/issues",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ashtuchkin/iconv-lite.git"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "scripts": {
+        "coverage": "istanbul cover _mocha -- --grep .",
+        "coverage-open": "open coverage/lcov-report/index.html",
+        "test": "mocha --reporter spec --grep ."
+    },
+    "browser": {
+        "./lib/extend-node": false,
+        "./lib/streams": false
+    },
+    "devDependencies": {
+        "mocha": "^3.1.0",
+        "request": "~2.87.0",
+        "unorm": "*",
+        "errto": "*",
+        "async": "*",
+        "istanbul": "*",
+        "semver": "*",
+        "iconv": "*"
+    },
+    "dependencies": {
+        "safer-buffer": ">= 2.1.2 < 3"
+    }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/body-parser/node_modules/iconv-lite/package.json;TTF:charsetI"
+utf-8;F:digest"%o|–Ã/}n˜¾q°Ìí¯)‹°
+´Ý@ÁÖ6UìSG}³„:lengthiË:dependencies_digest"%ÐþãâöeW5##§\¨æT"(\:¹EÝ5åS”4:idI"Eda5d9ba9fcaaeaec94a0820a6bb0a2b55f0fe3d1e0fa4efc6df6b6a2a4368c26;F:
+mtimel+Q¢´e

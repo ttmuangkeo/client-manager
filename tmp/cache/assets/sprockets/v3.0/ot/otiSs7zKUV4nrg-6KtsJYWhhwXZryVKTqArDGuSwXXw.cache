@@ -1,0 +1,22 @@
+{:uriI"õfile://app/assets/javascripts/node_modules/aws-sign2/package.json?type=application/json&id=3f5cbf9f9bc0645a8e2c366ba1b39c8ea613ce5d5fbd4bb024cb4018c143e02b:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/aws-sign2/package.json;T:	nameI"#node_modules/aws-sign2/package;T:logical_pathI"(node_modules/aws-sign2/package.json;T:content_typeI"application/json;T:sourceI"{
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.futurealoof.com)",
+  "name": "aws-sign2",
+  "description": "AWS signing. Originally pulled from LearnBoost/knox, maintained as vendor in request, now a standalone module.",
+  "version": "0.7.0",
+  "repository": {
+    "url": "https://github.com/mikeal/aws-sign"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/aws-sign2/package.json;TTF:charsetI"
+utf-8;F:digest"%C,/ªAò|FM€Àª±¡€t"E‹^!Û $M„\'*∏:lengthi:dependencies_digest"%µBÑ9Gr¶Î Uôúdp∆zı‹X  zI˜çÖB—:idI"E3f5cbf9f9bc0645a8e2c366ba1b39c8ea613ce5d5fbd4bb024cb4018c143e02b;F:
+mtimel+Q¢¥e

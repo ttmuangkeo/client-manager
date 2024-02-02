@@ -1,0 +1,48 @@
+{:uriI"§file://app/assets/javascripts/node_modules/postcss-discard-empty/package.json?type=application/json&id=855b9f0e136a0077e6685eb7048a11fe66b2669c9495e003576b04751d4df08b:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/postcss-discard-empty/package.json;T:	nameI"/node_modules/postcss-discard-empty/package;T:logical_pathI"4node_modules/postcss-discard-empty/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "postcss-discard-empty",
+  "version": "4.0.1",
+  "description": "Discard empty rules and values with PostCSS.",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "keywords": [
+    "compress",
+    "css",
+    "empty",
+    "minify",
+    "optimisation",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^7.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/postcss-discard-empty/package.json;TTF:charsetI"
+utf-8;F:digest"%dĞ	Ûsş iÈj§\[C´ş÷óûÔ¹Õş…Vvéu¦#:lengthi:dependencies_digest"%Èõ£ŠEÕÒ³$ÁÈBu¨^Xó–É°!F!ÚÆ17:idI"E855b9f0e136a0077e6685eb7048a11fe66b2669c9495e003576b04751d4df08b;F:
+mtimel+Q¢´e

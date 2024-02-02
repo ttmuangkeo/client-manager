@@ -1,0 +1,70 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/node-ipc/package.json?type=application/json&id=6e211eb8bb941e306ed1e7c1b43d57851ac282b0276d6ea73f097a47a6ac66ee:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/node-ipc/package.json;T:	nameI""node_modules/node-ipc/package;T:logical_pathI"'node_modules/node-ipc/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "node-ipc",
+  "version": "9.2.1",
+  "description": "A nodejs module for local and remote Inter Process Communication (IPC), Neural Networking, and able to facilitate machine learning.",
+  "main": "node-ipc.js",
+  "directories": {
+    "example": "example"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "event-pubsub": "4.3.0",
+    "js-message": "1.0.7",
+    "js-queue": "2.0.2"
+  },
+  "devDependencies": {
+    "codacy-coverage": "2.0.0",
+    "istanbul": "0.4.1",
+    "jasmine": "2.4.1",
+    "node-cmd": "2.0.0"
+  },
+  "scripts": {
+    "test-windows": "istanbul cover -x **/spec/** -dir ./spec/coverage ./node_modules/jasmine/bin/jasmine.js",
+    "test": "istanbul cover -x **/spec/** -dir ./spec/coverage jasmine",
+    "cover": "istanbul cover -x **/spec/** -dir ./spec/coverage jasmine",
+    "coverup": "cat ./spec/coverage/lcov.info | codacy-coverage"
+  },
+  "pre-commit": [
+    "cover"
+  ],
+  "keywords": [
+    "IPC",
+    "Neural Networking",
+    "Machine Learning",
+    "inter",
+    "process",
+    "communication",
+    "unix",
+    "windows",
+    "win",
+    "socket",
+    "TCP",
+    "UDP",
+    "domain",
+    "sockets",
+    "threaded",
+    "communication",
+    "multi",
+    "process",
+    "shared",
+    "memory"
+  ],
+  "author": "Brandon Nozaki Miller",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RIAEvangelist/node-ipc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RIAEvangelist/node-ipc/issues"
+  },
+  "homepage": "http://riaevangelist.github.io/node-ipc/"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/node-ipc/package.json;TTF:charsetI"
+utf-8;F:digest"%LÆ¶~¶ú(ÊÀís„uÕê²øÌ
+‰òş6²Èsãí¿Ÿ@:lengthi:dependencies_digest"%4€fÿ–ıÓ÷±}Ç­£8è@öæoä)…§f¾¤ÿW:idI"E6e211eb8bb941e306ed1e7c1b43d57851ac282b0276d6ea73f097a47a6ac66ee;F:
+mtimel+R¢´e

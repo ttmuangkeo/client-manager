@@ -1,0 +1,43 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/estree-walker/package.json?type=application/json&id=ba8bfc36014a44e06c759727b582f0cb6a287aa86d9353a3da6a82832692a648:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/estree-walker/package.json;T:	nameI"'node_modules/estree-walker/package;T:logical_pathI",node_modules/estree-walker/package.json;T:content_typeI"application/json;T:sourceI"P{
+  "name": "estree-walker",
+  "description": "Traverse an ESTree-compliant AST",
+  "version": "2.0.2",
+  "private": false,
+  "author": "Rich Harris",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rich-Harris/estree-walker"
+  },
+  "type": "commonjs",
+  "main": "./dist/umd/estree-walker.js",
+  "module": "./dist/esm/estree-walker.js",
+  "exports": {
+    "require": "./dist/umd/estree-walker.js",
+    "import": "./dist/esm/estree-walker.js"
+  },
+  "types": "types/index.d.ts",
+  "scripts": {
+    "prepublishOnly": "npm run build && npm test",
+    "build": "tsc && rollup -c",
+    "test": "uvu test"
+  },
+  "devDependencies": {
+    "@types/estree": "0.0.42",
+    "rollup": "^2.10.9",
+    "typescript": "^3.7.5",
+    "uvu": "^0.5.1"
+  },
+  "files": [
+    "src",
+    "dist",
+    "types",
+    "README.md"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/estree-walker/package.json;TTF:charsetI"
+utf-8;F:digest"%oC1Úêíª5ç¨Ê4|Ût“’/éH[õ~´ÖÏ°³­:lengthiP:dependencies_digest"%]O¡7
+ü˜ò!§9ÊúÜ-®‘Şs$•Â¢e¤®<:idI"Eba8bfc36014a44e06c759727b582f0cb6a287aa86d9353a3da6a82832692a648;F:
+mtimel+R¢´e

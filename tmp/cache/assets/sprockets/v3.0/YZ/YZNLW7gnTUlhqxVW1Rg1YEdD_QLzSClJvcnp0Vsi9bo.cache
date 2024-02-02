@@ -1,0 +1,66 @@
+{:uriI"°file://app/assets/javascripts/node_modules/fast-deep-equal/package.json?type=application/json&id=a1af802b4c1a462a43c49b441e5c1998cc9feb738551ae3e20c8276592af57f9:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/fast-deep-equal/package.json;T:	nameI")node_modules/fast-deep-equal/package;T:logical_pathI".node_modules/fast-deep-equal/package.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "name": "fast-deep-equal",
+  "version": "3.1.3",
+  "description": "Fast deep equal",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint *.js benchmark/*.js spec/*.js",
+    "build": "node build",
+    "benchmark": "npm i && npm run build && cd ./benchmark && npm i && node ./",
+    "test-spec": "mocha spec/*.spec.js -R spec",
+    "test-cov": "nyc npm run test-spec",
+    "test-ts": "tsc --target ES5 --noImplicitAny index.d.ts",
+    "test": "npm run build && npm run eslint && npm run test-ts && npm run test-cov",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoberezkin/fast-deep-equal.git"
+  },
+  "keywords": [
+    "fast",
+    "equal",
+    "deep-equal"
+  ],
+  "author": "Evgeny Poberezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epoberezkin/fast-deep-equal/issues"
+  },
+  "homepage": "https://github.com/epoberezkin/fast-deep-equal#readme",
+  "devDependencies": {
+    "coveralls": "^3.1.0",
+    "dot": "^1.1.2",
+    "eslint": "^7.2.0",
+    "mocha": "^7.2.0",
+    "nyc": "^15.1.0",
+    "pre-commit": "^1.2.2",
+    "react": "^16.12.0",
+    "react-test-renderer": "^16.12.0",
+    "sinon": "^9.0.2",
+    "typescript": "^3.9.5"
+  },
+  "nyc": {
+    "exclude": [
+      "**/spec/**",
+      "node_modules"
+    ],
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "react.js",
+    "react.d.ts",
+    "es6/"
+  ],
+  "types": "index.d.ts"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/fast-deep-equal/package.json;TTF:charsetI"
+utf-8;F:digest"%•∆9@€`sõÈ‚¨gÛ™¬hﬂMµw ÓN4‰ì/ó“:lengthiÿ:dependencies_digest"%Tñ:ﬁ˘QŸ&ﬁ¿ÉC¯¯èFﬂUÿä¶UcÍG÷É¥:idI"Ea1af802b4c1a462a43c49b441e5c1998cc9feb738551ae3e20c8276592af57f9;F:
+mtimel+R¢¥e

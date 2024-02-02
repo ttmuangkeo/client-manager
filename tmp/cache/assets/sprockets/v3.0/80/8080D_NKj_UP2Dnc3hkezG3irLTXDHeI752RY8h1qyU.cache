@@ -1,0 +1,54 @@
+{:uriI"™file://app/assets/javascripts/node_modules/js-yaml/package.json?type=application/json&id=a038d3cdd6a510b529b29fbd9de827811d29018359ca174ef3961e28b42c42b0:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/js-yaml/package.json;T:	nameI"!node_modules/js-yaml/package;T:logical_pathI"&node_modules/js-yaml/package.json;T:content_typeI"application/json;T:sourceI"‡{
+  "name": "js-yaml",
+  "version": "3.14.1",
+  "description": "YAML 1.2 parser and serializer",
+  "keywords": [
+    "yaml",
+    "parser",
+    "serializer",
+    "pyyaml"
+  ],
+  "homepage": "https://github.com/nodeca/js-yaml",
+  "author": "Vladimir Zapparov <dervus.grim@gmail.com>",
+  "contributors": [
+    "Aleksey V Zapparov <ixti@member.fsf.org> (http://www.ixti.net/)",
+    "Vitaly Puzrin <vitaly@rcdesign.ru> (https://github.com/puzrin)",
+    "Martin Grenfell <martin.grenfell@gmail.com> (http://got-ravings.blogspot.com)"
+  ],
+  "license": "MIT",
+  "repository": "nodeca/js-yaml",
+  "files": [
+    "index.js",
+    "lib/",
+    "bin/",
+    "dist/"
+  ],
+  "bin": {
+    "js-yaml": "bin/js-yaml.js"
+  },
+  "unpkg": "dist/js-yaml.min.js",
+  "jsdelivr": "dist/js-yaml.min.js",
+  "dependencies": {
+    "argparse": "^1.0.7",
+    "esprima": "^4.0.0"
+  },
+  "devDependencies": {
+    "ansi": "^0.3.1",
+    "benchmark": "^2.1.4",
+    "browserify": "^16.2.2",
+    "codemirror": "^5.13.4",
+    "eslint": "^7.0.0",
+    "fast-check": "^1.24.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^7.1.2",
+    "uglify-js": "^3.0.1"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/js-yaml/package.json;TTF:charsetI"
+utf-8;F:digest"%å÷Ñò0géB/½ÚYC†Üf4BE–xQ•ü'ÇÍ‚oßc:lengthi‡:dependencies_digest"%Þ7C0°SÇ®ú_ÂâÚ§?ì}ß/9‹fðXL´:idI"Ea038d3cdd6a510b529b29fbd9de827811d29018359ca174ef3961e28b42c42b0;F:
+mtimel+S¢´e

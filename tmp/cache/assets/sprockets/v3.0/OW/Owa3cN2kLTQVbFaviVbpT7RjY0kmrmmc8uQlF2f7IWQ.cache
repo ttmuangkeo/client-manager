@@ -1,0 +1,43 @@
+{:uriI"©file://app/assets/javascripts/node_modules/adjust-sourcemap-loader/package.json?type=application/json&id=16a744c628222fc3ae461ff93447d321d5b9fadcb3fd1710400baf4e4aa1b488:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/adjust-sourcemap-loader/package.json;T:	nameI"1node_modules/adjust-sourcemap-loader/package;T:logical_pathI"6node_modules/adjust-sourcemap-loader/package.json;T:content_typeI"application/json;T:sourceI">{
+  "name": "adjust-sourcemap-loader",
+  "version": "4.0.0",
+  "description": "Webpack loader that adjusts source maps",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bholloway/adjust-sourcemap-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "source-map",
+    "sourcemap",
+    "sources",
+    "resolve",
+    "adjust"
+  ],
+  "author": "bholloway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bholloway/adjust-sourcemap-loader/issues"
+  },
+  "homepage": "https://github.com/bholloway/adjust-sourcemap-loader",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "regex-parser": "^2.2.11"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
+  },
+  "scripts": {
+    "lint": "jshint index.js lib codec"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"[file-digest://app/assets/javascripts/node_modules/adjust-sourcemap-loader/package.json;TTF:charsetI"
+utf-8;F:digest"%Žõü¬Ó>ZP¼ÔáVÎnh|×èÙœZv:lengthi>:dependencies_digest"%¸[Y!Ù©]å·ÌnVJa)˜Šog­”¯Z#Ö'Çåï:idI"E16a744c628222fc3ae461ff93447d321d5b9fadcb3fd1710400baf4e4aa1b488;F:
+mtimel+Q¢´e

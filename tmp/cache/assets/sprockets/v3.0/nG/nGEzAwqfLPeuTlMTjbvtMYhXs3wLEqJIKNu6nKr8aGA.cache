@@ -1,0 +1,34 @@
+{:uriI"¯file://app/assets/javascripts/node_modules/@babel/helper-hoist-variables/package.json?type=application/json&id=0f14a33d895185aad8b8441d2841d2ab7636f3e13db6883fbb36b453c18d160d:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/@babel/helper-hoist-variables/package.json;T:	nameI"7node_modules/@babel/helper-hoist-variables/package;T:logical_pathI"<node_modules/@babel/helper-hoist-variables/package.json;T:content_typeI"application/json;T:sourceI",{
+  "name": "@babel/helper-hoist-variables",
+  "version": "7.22.5",
+  "description": "Helper function to hoist variables",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-hoist-variables"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-helper-hoist-variables",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "@babel/types": "^7.22.5"
+  },
+  "TODO": "The @babel/traverse dependency is only needed for the NodePath TS type. We can consider exporting it from @babel/core.",
+  "devDependencies": {
+    "@babel/traverse": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"afile-digest://app/assets/javascripts/node_modules/@babel/helper-hoist-variables/package.json;TTF:charsetI"
+utf-8;F:digest"%?ûÜd¦œ%ÿ
+vö>üLtù¥4AêÄêÔ¡­ûÊĞ‡:lengthi,:dependencies_digest"%ª{(r-¤s¶xC\
+t¶œùàõ)ti¾Oà+óøLq:idI"E0f14a33d895185aad8b8441d2841d2ab7636f3e13db6883fbb36b453c18d160d;F:
+mtimel+Q¢´e

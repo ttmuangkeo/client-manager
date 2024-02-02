@@ -1,0 +1,12 @@
+{:uriI"®file://app/assets/javascripts/node_modules/shapefile/test/latin1-property.json?type=application/json&id=7e89930434433c66c7c8282cfa8f64af8746f4d527fba190b561e3bfff269db2:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/shapefile/test/latin1-property.json;T:	nameI"0node_modules/shapefile/test/latin1-property;T:logical_pathI"5node_modules/shapefile/test/latin1-property.json;T:content_typeI"application/json;T:sourceI"æ{
+  "type": "FeatureCollection",
+  "bbox": [3, 4, 3, 4],
+  "features": [
+    {"type": "Feature","properties": {"name": "M√©xico"},"geometry": {"type": "Point", "coordinates": [3, 4]}}
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/shapefile/test/latin1-property.json;TTF:charsetI"
+utf-8;F:digest"%5zg≥œ—Êª@∞jõF.¨êÇ”Xuf≠^Ì57Ü/:lengthiæ:dependencies_digest"%TCGNß	ÊVd=ﬁVfƒZ†‘Éè^Srq–{´˘»√àN:idI"E7e89930434433c66c7c8282cfa8f64af8746f4d527fba190b561e3bfff269db2;F:
+mtimel+R¢¥e

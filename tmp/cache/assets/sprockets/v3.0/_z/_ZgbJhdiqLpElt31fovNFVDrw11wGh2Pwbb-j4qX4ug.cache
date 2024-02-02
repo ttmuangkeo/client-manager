@@ -1,0 +1,93 @@
+{:uriI" file://app/assets/javascripts/node_modules/to-regex-range/package.json?type=application/json&id=0edd54e775fb054f1983daf2aaf83b5683f59a084964353fae97b20532a87e80:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/to-regex-range/package.json;T:	nameI"(node_modules/to-regex-range/package;T:logical_pathI"-node_modules/to-regex-range/package.json;T:content_typeI"application/json;T:sourceI"ö{
+  "name": "to-regex-range",
+  "description": "Pass two numbers, get a regex-compatible source string for matching ranges. Validated against more than 2.78 million test assertions.",
+  "version": "5.0.1",
+  "homepage": "https://github.com/micromatch/to-regex-range",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Rouven WeÃŸling (www.rouvenwessling.de)"
+  ],
+  "repository": "micromatch/to-regex-range",
+  "bugs": {
+    "url": "https://github.com/micromatch/to-regex-range/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^7.0.0"
+  },
+  "devDependencies": {
+    "fill-range": "^6.0.0",
+    "gulp-format-md": "^2.0.0",
+    "mocha": "^6.0.2",
+    "text-table": "^0.2.0",
+    "time-diff": "^0.3.1"
+  },
+  "keywords": [
+    "bash",
+    "date",
+    "expand",
+    "expansion",
+    "expression",
+    "glob",
+    "match",
+    "match date",
+    "match number",
+    "match numbers",
+    "match year",
+    "matches",
+    "matching",
+    "number",
+    "numbers",
+    "numerical",
+    "range",
+    "ranges",
+    "regex",
+    "regexp",
+    "regular",
+    "regular expression",
+    "sequence"
+  ],
+  "verb": {
+    "layout": "default",
+    "toc": false,
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "helpers": {
+      "examples": {
+        "displayName": "examples"
+      }
+    },
+    "related": {
+      "list": [
+        "expand-range",
+        "fill-range",
+        "micromatch",
+        "repeat-element",
+        "repeat-string"
+      ]
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/to-regex-range/package.json;TTF:charsetI"
+utf-8;F:digest"%voÁ»4ÿüÕÈŸA”ŒàYy\RýÆu<Ô·Üü?áì:lengthiö:dependencies_digest"%QÚô½?”Ÿ57~¼y#d°À°#•õB!ÈéŠvüq³:idI"E0edd54e775fb054f1983daf2aaf83b5683f59a084964353fae97b20532a87e80;F:
+mtimel+Q¢´e

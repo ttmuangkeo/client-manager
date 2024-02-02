@@ -1,0 +1,54 @@
+{:uriI"£file://app/assets/javascripts/node_modules/node-libs-browser/package.json?type=application/json&id=7ba8e642ae5b14faaa15d284ef7f7ef1a72a0b6e93a6103d37edee4bde73086b:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/node-libs-browser/package.json;T:	nameI"+node_modules/node-libs-browser/package;T:logical_pathI"0node_modules/node-libs-browser/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "node-libs-browser",
+  "version": "2.2.1",
+  "author": "Tobias Koppers @sokra",
+  "description": "The node core libs for in browser usage.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpack/node-libs-browser.git"
+  },
+  "dependencies": {
+    "assert": "^1.1.1",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^4.3.0",
+    "console-browserify": "^1.1.0",
+    "constants-browserify": "^1.0.0",
+    "crypto-browserify": "^3.11.0",
+    "domain-browser": "^1.1.1",
+    "events": "^3.0.0",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "0.0.1",
+    "process": "^0.11.10",
+    "punycode": "^1.2.4",
+    "querystring-es3": "^0.2.0",
+    "readable-stream": "^2.3.3",
+    "stream-browserify": "^2.0.1",
+    "stream-http": "^2.7.2",
+    "string_decoder": "^1.0.0",
+    "timers-browserify": "^2.0.4",
+    "tty-browserify": "0.0.0",
+    "url": "^0.11.0",
+    "util": "^0.11.0",
+    "vm-browserify": "^1.0.1"
+  },
+  "homepage": "http://github.com/webpack/node-libs-browser",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "mock/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webpack/node-libs-browser/issues"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ufile-digest://app/assets/javascripts/node_modules/node-libs-browser/package.json;TTF:charsetI"
+utf-8;F:digest"%ÈæòÑÇ∂ÅÓ˙D1ãÍz<Â¸¸ñÉ$yKô2˝¡óì`:lengthi:dependencies_digest"%-¿sWÒ˘ıÊùp&‰=
+Ó∏b.¿Èõ£é3˜⁄ö‚9:idI"E7ba8e642ae5b14faaa15d284ef7f7ef1a72a0b6e93a6103d37edee4bde73086b;F:
+mtimel+Q¢¥e

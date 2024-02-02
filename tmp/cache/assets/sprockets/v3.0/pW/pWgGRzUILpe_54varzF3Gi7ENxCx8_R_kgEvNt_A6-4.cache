@@ -1,0 +1,34 @@
+{:uriI"­file://app/assets/javascripts/node_modules/@vue/eslint-config-prettier/package.json?type=application/json&id=3c355125b0a1af25df74edda7a533a631f224b874bec536d882e6164bd143300:ET:load_pathI"app/assets/javascripts;T:filenameI"Qapp/assets/javascripts/node_modules/@vue/eslint-config-prettier/package.json;T:	nameI"5node_modules/@vue/eslint-config-prettier/package;T:logical_pathI":node_modules/@vue/eslint-config-prettier/package.json;T:content_typeI"application/json;T:sourceI"ß{
+  "name": "@vue/eslint-config-prettier",
+  "version": "4.0.1",
+  "description": "eslint-config-prettier for vue-cli",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue-cli.git"
+  },
+  "keywords": [
+    "vue",
+    "cli"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-cli/issues"
+  },
+  "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/eslint-config-prettier#readme",
+  "dependencies": {
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.2"
+  },
+  "gitHead": "cd7a5d0b5231fcb6970d8aac42708c3ab29c0df3"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"_file-digest://app/assets/javascripts/node_modules/@vue/eslint-config-prettier/package.json;TTF:charsetI"
+utf-8;F:digest"%7$D÷bùÂ~àp2Ô¸	Li±_)½¤(sˆ¼7o:lengthiß:dependencies_digest"%Gõ~	œÇÙ3¢0äa‚qñI7›S¦@~^³×ÿë¿:idI"E3c355125b0a1af25df74edda7a533a631f224b874bec536d882e6164bd143300;F:
+mtimel+Q¢´e

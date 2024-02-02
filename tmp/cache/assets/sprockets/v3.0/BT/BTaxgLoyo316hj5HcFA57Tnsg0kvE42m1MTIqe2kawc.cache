@@ -1,0 +1,69 @@
+{:uriI"¼file://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/ansi-regex/package.json?type=application/json&id=5ad2424cf6d6bba4c2e3a2e6948ab0fce9077d92cd261e26edaa069b960fc297:ET:load_pathI"app/assets/javascripts;T:filenameI"`app/assets/javascripts/node_modules/webpack-dev-server/node_modules/ansi-regex/package.json;T:	nameI"Dnode_modules/webpack-dev-server/node_modules/ansi-regex/package;T:logical_pathI"Inode_modules/webpack-dev-server/node_modules/ansi-regex/package.json;T:content_typeI"application/json;T:sourceI"¥{
+  "name": "ansi-regex",
+  "version": "2.1.1",
+  "description": "Regular expression for matching ANSI escape codes",
+  "license": "MIT",
+  "repository": "chalk/ansi-regex",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    "Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)",
+    "Joshua Appelman <jappelman@xebia.com> (jbnicolai.com)",
+    "JD Ballard <i.am.qix@gmail.com> (github.com/qix-)"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava --verbose",
+    "view-supported": "node fixtures/view-codes.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "command-line",
+    "text",
+    "regex",
+    "regexp",
+    "re",
+    "match",
+    "test",
+    "find",
+    "pattern"
+  ],
+  "devDependencies": {
+    "ava": "0.17.0",
+    "xo": "0.16.0"
+  },
+  "xo": {
+    "rules": {
+      "guard-for-in": 0,
+      "no-loop-func": 0
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"nfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/ansi-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%#R³þ<”Šz4”úéõàŽC	Iñ.D–6ºr{xK:lengthi¥:dependencies_digest"%Ø]lmat^ÔtÒ’nf²x48®‘¹hÑ¢Pþ:idI"E5ad2424cf6d6bba4c2e3a2e6948ab0fce9077d92cd261e26edaa069b960fc297;F:
+mtimel+Q¢´e

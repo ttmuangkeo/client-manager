@@ -1,0 +1,78 @@
+{:uriI"´file://app/assets/javascripts/node_modules/bootstrap-vue/src/components/alert/package.json?type=application/json&id=8a52cbee76f49728840286f7a9a2802e64e4acc0413456c28b0faa75c6238238:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/bootstrap-vue/src/components/alert/package.json;T:	nameI"<node_modules/bootstrap-vue/src/components/alert/package;T:logical_pathI"Anode_modules/bootstrap-vue/src/components/alert/package.json;T:content_typeI"application/json;T:sourceI"Ó{
+  "name": "@bootstrap-vue/alert",
+  "version": "1.0.0",
+  "meta": {
+    "title": "Alert",
+    "description": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+    "components": [
+      {
+        "component": "BAlert",
+        "props": [
+          {
+            "prop": "dismissLabel",
+            "description": "Value for the 'aria-label' attribute on the dismiss button"
+          },
+          {
+            "prop": "dismissible",
+            "description": "When set, enables the dismiss close button"
+          },
+          {
+            "prop": "show",
+            "description": "When set, shows the alert. Set to a number (seconds) to show and automatically dismiss the alert after the number of seconds has elapsed"
+          },
+          {
+            "prop": "variant",
+            "description": "Applies one of the Bootstrap theme color variants to the component"
+          }
+        ],
+        "events": [
+          {
+            "event": "dismiss-count-down",
+            "description": "When prop show is a number, this event emits every second on countdown",
+            "args": [
+              {
+                "arg": "dismissCountDown",
+                "type": "Number",
+                "description": "Time remaining to dismissed"
+              }
+            ]
+          },
+          {
+            "event": "dismissed",
+            "description": "Alert dismissed either via the dismiss close button or when the dismiss countdown has expired"
+          },
+          {
+            "event": "input",
+            "description": "Used to update the v-model show value",
+            "args": [
+              {
+                "arg": "show",
+                "type": [
+                  "Boolean",
+                  "Number"
+                ],
+                "description": "Boolean state of alert, or Number for current countdown value"
+              }
+            ]
+          }
+        ],
+        "slots": [
+          {
+            "name": "dismiss",
+            "description": "Content for the dismiss button"
+          },
+          {
+            "name": "default",
+            "description": "Content to place in the alert"
+          }
+        ]
+      }
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ffile-digest://app/assets/javascripts/node_modules/bootstrap-vue/src/components/alert/package.json;TTF:charsetI"
+utf-8;F:digest"%nƒ#xkÒŽO«4*—í{Àïš'f{Î¨ÏÉ9æÙ
+e:lengthiÓ:dependencies_digest"%­çiO¸Ç‡lÔn›3b”–¯ígâÎei‘½ß§:idI"E8a52cbee76f49728840286f7a9a2802e64e4acc0413456c28b0faa75c6238238;F:
+mtimel+U¢´e

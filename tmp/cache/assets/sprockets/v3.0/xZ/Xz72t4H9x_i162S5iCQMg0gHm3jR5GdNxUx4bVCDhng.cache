@@ -1,0 +1,24 @@
+{:uriI"Àfile://app/assets/javascripts/node_modules/babel-runtime/node_modules/regenerator-runtime/package.json?type=application/json&id=36a405740f27f715c3c5f4148073e7f352d7cc6cfaafd405b79f7aa59907de2d:ET:load_pathI"app/assets/javascripts;T:filenameI"dapp/assets/javascripts/node_modules/babel-runtime/node_modules/regenerator-runtime/package.json;T:	nameI"Hnode_modules/babel-runtime/node_modules/regenerator-runtime/package;T:logical_pathI"Mnode_modules/babel-runtime/node_modules/regenerator-runtime/package.json;T:content_typeI"application/json;T:sourceI"Í{
+  "name": "regenerator-runtime",
+  "author": "Ben Newman <bn@cs.stanford.edu>",
+  "description": "Runtime for Regenerator-compiled generator and async functions.",
+  "version": "0.11.1",
+  "main": "runtime-module.js",
+  "keywords": [
+    "regenerator",
+    "runtime",
+    "generator",
+    "async"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/regenerator/tree/master/packages/regenerator-runtime"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/javascripts/node_modules/babel-runtime/node_modules/regenerator-runtime/package.json;TTF:charsetI"
+utf-8;F:digest"%EĞ _5¥Ä±´Ñ’në[£eÿW[Jz¦”B6e}:lengthiÍ:dependencies_digest"%ÙïCÚ8‹XÛÑ›%¬PŒzv–Q¢Í˜¤˜9
+:idI"E36a405740f27f715c3c5f4148073e7f352d7cc6cfaafd405b79f7aa59907de2d;F:
+mtimel+Q¢´e

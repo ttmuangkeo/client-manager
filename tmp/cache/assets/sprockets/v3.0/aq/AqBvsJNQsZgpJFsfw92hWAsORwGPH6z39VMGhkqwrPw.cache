@@ -1,0 +1,55 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/normalize-url/package.json?type=application/json&id=fa3579cf9d3931986327e16f0cb121d6c6525c68db9fa7f39000035591ae957c:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/normalize-url/package.json;T:	nameI"'node_modules/normalize-url/package;T:logical_pathI",node_modules/normalize-url/package.json;T:content_typeI"application/json;T:sourceI"e{
+  "name": "normalize-url",
+  "version": "1.9.1",
+  "description": "Normalize a URL",
+  "license": "MIT",
+  "repository": "sindresorhus/normalize-url",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "normalize",
+    "url",
+    "uri",
+    "address",
+    "string",
+    "str",
+    "normalise",
+    "normalization",
+    "normalisation",
+    "query",
+    "string",
+    "querystring",
+    "unicode",
+    "simplify",
+    "strip",
+    "trim",
+    "canonical"
+  ],
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "prepend-http": "^1.0.0",
+    "query-string": "^4.1.0",
+    "sort-keys": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "^0.16.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/normalize-url/package.json;TTF:charsetI"
+utf-8;F:digest"%Ö·Ú×Ïå80ìIÎf?~y'V¾$>+ä±O:lengthie:dependencies_digest"%°ûÈMªææğ×¯‰‰×&IÌ=Rc ‚ÃŠÛ¬$²h:idI"Efa3579cf9d3931986327e16f0cb121d6c6525c68db9fa7f39000035591ae957c;F:
+mtimel+Q¢´e

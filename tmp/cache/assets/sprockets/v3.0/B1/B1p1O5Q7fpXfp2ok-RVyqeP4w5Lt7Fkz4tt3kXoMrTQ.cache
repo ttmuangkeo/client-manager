@@ -1,0 +1,38 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/isstream/package.json?type=application/json&id=a1e4693fa91b1a8cfb3f2c890a7880f91e99ad22f74c3567e06f5d574c079cf4:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/isstream/package.json;T:	nameI""node_modules/isstream/package;T:logical_pathI"'node_modules/isstream/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "isstream",
+  "version": "0.1.2",
+  "description": "Determine if an object is a Stream",
+  "main": "isstream.js",
+  "scripts": {
+    "test": "tar --xform 's/^package/readable-stream-1.0/' -zxf readable-stream-1.0.*.tgz && tar --xform 's/^package/readable-stream-1.1/' -zxf readable-stream-1.1.*.tgz && node test.js; rm -rf readable-stream-1.?/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvagg/isstream.git"
+  },
+  "keywords": [
+    "stream",
+    "type",
+    "streams",
+    "readable-stream",
+    "hippo"
+  ],
+  "devDependencies": {
+    "tape": "~2.12.3",
+    "core-util-is": "~1.0.0",
+    "isarray": "0.0.1",
+    "string_decoder": "~0.10.x",
+    "inherits": "~2.0.1"
+  },
+  "author": "Rod Vagg <rod@vagg.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rvagg/isstream/issues"
+  },
+  "homepage": "https://github.com/rvagg/isstream"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/isstream/package.json;TTF:charsetI"
+utf-8;F:digest"%?»ô!e…Ö‚êhmÿòíŸ6	¸Õ7Ú–=Ssª:lengthi:dependencies_digest"%Œ5–ó†86ºß–ôÍéú— ñå²Ş¾ñïà‰P°0¬:idI"Ea1e4693fa91b1a8cfb3f2c890a7880f91e99ad22f74c3567e06f5d574c079cf4;F:
+mtimel+Q¢´e

@@ -1,0 +1,24 @@
+{:uriI"›file://app/assets/javascripts/node_modules/isarray/component.json?type=application/json&id=785e3aa6a904de78b1d3a8357b311af9e9ed1932c1034226e8a10be69fa881e7:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/isarray/component.json;T:	nameI"#node_modules/isarray/component;T:logical_pathI"(node_modules/isarray/component.json;T:content_typeI"application/json;T:sourceI"Ö{
+  "name" : "isarray",
+  "description" : "Array#isArray for older browsers",
+  "version" : "0.0.1",
+  "repository" : "juliangruber/isarray",
+  "homepage": "https://github.com/juliangruber/isarray",
+  "main" : "index.js",
+  "scripts" : [
+    "index.js"
+  ],
+  "dependencies" : {},
+  "keywords": ["browser","isarray","array"],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/isarray/component.json;TTF:charsetI"
+utf-8;F:digest"%ùåï•ØèöZ]Í: 8å¡4aí•M¬=Œ9×1:lengthiÖ:dependencies_digest"%V¡êò8§1ÂWÄÇ7‰ÃÛôıT!)B0’æâ:idI"E785e3aa6a904de78b1d3a8357b311af9e9ed1932c1034226e8a10be69fa881e7;F:
+mtimel+R¢´e

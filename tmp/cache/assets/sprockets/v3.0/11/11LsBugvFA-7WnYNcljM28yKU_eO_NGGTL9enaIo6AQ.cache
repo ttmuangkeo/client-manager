@@ -1,0 +1,43 @@
+{:uriI"äfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/terser-webpack-plugin/node_modules/jest-worker/package.json?type=application/json&id=eb29d783b9015e06350e537ed8f7a1b599d681ae96b16e68496e5c6a1da30c38:ET:load_pathI"app/assets/javascripts;T:filenameI"ƒapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/terser-webpack-plugin/node_modules/jest-worker/package.json;T:	nameI"lnode_modules/@vue/cli-plugin-eslint/node_modules/terser-webpack-plugin/node_modules/jest-worker/package;T:logical_pathI"qnode_modules/@vue/cli-plugin-eslint/node_modules/terser-webpack-plugin/node_modules/jest-worker/package.json;T:content_typeI"application/json;T:sourceI"k{
+  "name": "jest-worker",
+  "version": "27.5.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/jest.git",
+    "directory": "packages/jest-worker"
+  },
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "default": "./build/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@types/node": "*",
+    "merge-stream": "^2.0.0",
+    "supports-color": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/merge-stream": "^1.1.2",
+    "@types/supports-color": "^8.1.0",
+    "get-stream": "^6.0.0",
+    "jest-leak-detector": "^27.5.1",
+    "worker-farm": "^1.6.0"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "67c1aa20c5fec31366d733e901fee2b981cb1850"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‘file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/terser-webpack-plugin/node_modules/jest-worker/package.json;TTF:charsetI"
+utf-8;F:digest"%QÃñ×Áˆ=D˜‚½à²aÉàêé®ë´Ş5¡Ãì:lengthik:dependencies_digest"%s¢€vãdÑŒ8?¶‘ÔìKîŒóş¬õÄPÀ´~3˜ˆ:idI"Eeb29d783b9015e06350e537ed8f7a1b599d681ae96b16e68496e5c6a1da30c38;F:
+mtimel+R¢´e

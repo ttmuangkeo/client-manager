@@ -1,0 +1,24 @@
+{:uriI"°file://app/assets/javascripts/node_modules/spdx-exceptions/package.json?type=application/json&id=4942b6585eecbec3d02b616c8b6058937422c58e72ed28e6bfb0231bbfb96244:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/spdx-exceptions/package.json;T:	nameI")node_modules/spdx-exceptions/package;T:logical_pathI".node_modules/spdx-exceptions/package.json;T:content_typeI"application/json;T:sourceI"œ{
+  "name": "spdx-exceptions",
+  "description": "list of SPDX standard license exceptions",
+  "version": "2.4.0",
+  "author": "The Linux Foundation",
+  "contributors": [
+    "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
+  ],
+  "license": "CC-BY-3.0",
+  "repository": "kemitchell/spdx-exceptions.json",
+  "files": [
+    "index.json",
+    "deprecated.json"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "latest": "node latest.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/spdx-exceptions/package.json;TTF:charsetI"
+utf-8;F:digest"%UÃ£vıƒOÁ}ë¶Œ¶πqŒˇ„Î&zÉ4˜èû:lengthiœ:dependencies_digest"%∂1DÊ∏˘~9‰ËÛT>àS'ñA£‰cÈsç“â‘¡:idI"E4942b6585eecbec3d02b616c8b6058937422c58e72ed28e6bfb0231bbfb96244;F:
+mtimel+Q¢¥e

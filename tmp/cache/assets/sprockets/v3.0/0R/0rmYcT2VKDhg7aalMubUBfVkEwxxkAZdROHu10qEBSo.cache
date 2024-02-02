@@ -1,0 +1,60 @@
+{:uriI"°file://app/assets/javascripts/node_modules/regjsparser/node_modules/jsesc/package.json?type=application/json&id=e8e04a22f498d538cd5c7822f8f099fb063c6bcec8640348e64a2f076b1ecf94:ET:load_pathI"app/assets/javascripts;T:filenameI"Tapp/assets/javascripts/node_modules/regjsparser/node_modules/jsesc/package.json;T:	nameI"8node_modules/regjsparser/node_modules/jsesc/package;T:logical_pathI"=node_modules/regjsparser/node_modules/jsesc/package.json;T:content_typeI"application/json;T:sourceI"3{
+	"name": "jsesc",
+	"version": "0.5.0",
+	"description": "A JavaScript library for escaping JavaScript strings while generating the shortest possible valid output.",
+	"homepage": "http://mths.be/jsesc",
+	"main": "jsesc.js",
+	"bin": "bin/jsesc",
+	"man": "man/jsesc.1",
+	"keywords": [
+		"string",
+		"escape",
+		"javascript",
+		"tool"
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://mths.be/mit"
+		}
+	],
+	"author": {
+		"name": "Mathias Bynens",
+		"url": "http://mathiasbynens.be/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mathiasbynens/jsesc.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mathiasbynens/jsesc/issues"
+	},
+	"files": [
+		"LICENSE-MIT.txt",
+		"jsesc.js",
+		"bin/",
+		"man/"
+	],
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "node tests/tests.js"
+	},
+	"devDependencies": {
+		"coveralls": "^2.10.0",
+		"grunt": "^0.4.5",
+		"grunt-shell": "^0.7.0",
+		"grunt-template": "^0.2.3",
+		"istanbul": "^0.3.0",
+		"qunit-extras": "^1.2.0",
+		"qunitjs": "~1.11.0",
+		"regenerate": "^0.6.2",
+		"requirejs": "^2.1.14"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"bfile-digest://app/assets/javascripts/node_modules/regjsparser/node_modules/jsesc/package.json;TTF:charsetI"
+utf-8;F:digest"%âN!û\qU&+jÄ@×m–sG6ü1Ô¤¦í:lengthi3:dependencies_digest"%ş¬uòÜÁOøDN¸ãqÔKUFHŠ|w‘!±¼±:idI"Ee8e04a22f498d538cd5c7822f8f099fb063c6bcec8640348e64a2f076b1ecf94;F:
+mtimel+Q¢´e

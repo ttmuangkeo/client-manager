@@ -1,0 +1,11 @@
+{:uriI" file://app/assets/javascripts/node_modules/d3-format/locale/zh-CN.json?type=application/json&id=52939d001a5e5a17c65a9c50a850cef7ffd08178765ce3cf05548b8ba4c4745a:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/d3-format/locale/zh-CN.json;T:	nameI"(node_modules/d3-format/locale/zh-CN;T:logical_pathI"-node_modules/d3-format/locale/zh-CN.json;T:content_typeI"application/json;T:sourceI"[{
+  "decimal": ".",
+  "thousands": ",",
+  "grouping": [3],
+  "currency": ["Â¥", ""]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/d3-format/locale/zh-CN.json;TTF:charsetI"
+utf-8;F:digest"%\Òm›ËI!RûÖÑ"Ÿp$ÓÀÔÞÅ6{;">Åtà:lengthi[:dependencies_digest"%;$ay U'‡VòqìFh‘®Î’-ðpõAÂ¶§„:idI"E52939d001a5e5a17c65a9c50a850cef7ffd08178765ce3cf05548b8ba4c4745a;F:
+mtimel+S¢´e

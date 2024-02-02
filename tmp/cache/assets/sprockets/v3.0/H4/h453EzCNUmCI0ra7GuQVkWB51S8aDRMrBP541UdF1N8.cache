@@ -1,0 +1,31 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/@types/estree/package.json?type=application/json&id=b0a0ffb24cd69b6cea91149ebd6496be97bc43cc2508a18a60b753cfa737895e:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/@types/estree/package.json;T:	nameI"'node_modules/@types/estree/package;T:logical_pathI",node_modules/@types/estree/package.json;T:content_typeI"application/json;T:sourceI"!{
+    "name": "@types/estree",
+    "version": "1.0.5",
+    "description": "TypeScript definitions for estree",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/estree",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "RReverser",
+            "githubUsername": "RReverser",
+            "url": "https://github.com/RReverser"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/estree"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "6f0eeaffe488ce594e73f8df619c677d752a279b51edbc744e4aebb20db4b3a7",
+    "typeScriptVersion": "4.5",
+    "nonNpm": true
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/@types/estree/package.json;TTF:charsetI"
+utf-8;F:digest"%1I–üâ]ZÚeu&Qªó5.H¹Çš}ˆ&k¦ûb[:lengthi!:dependencies_digest"%fªÂ^Î^ì
+K¸>ŽàŠ¦ððR¬H-&%u\†°I:idI"Eb0a0ffb24cd69b6cea91149ebd6496be97bc43cc2508a18a60b753cfa737895e;F:
+mtimel+Q¢´e

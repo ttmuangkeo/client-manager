@@ -1,0 +1,76 @@
+{:uriI"¯file://app/assets/javascripts/node_modules/@vue/component-compiler-utils/package.json?type=application/json&id=5a675b82dd188a77ffce4f734d491514ba30c0f511a935a3380b062e2d05ddc6:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/@vue/component-compiler-utils/package.json;T:	nameI"7node_modules/@vue/component-compiler-utils/package;T:logical_pathI"<node_modules/@vue/component-compiler-utils/package.json;T:content_typeI"application/json;T:sourceI"2{
+  "name": "@vue/component-compiler-utils",
+  "version": "3.3.0",
+  "description": "Lower level utilities for compiling Vue single file components",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "lib"
+  ],
+  "scripts": {
+    "lint": "prettier --write \"{lib,test}/**/*.ts\"",
+    "test": "prettier --list-different \"{lib,test}/**/*.ts\" && jest --coverage",
+    "build": "rm -rf dist && tsc",
+    "prepublishOnly": "yarn build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{ts,js}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/component-compiler-utils.git"
+  },
+  "keywords": [
+    "vue",
+    "sfc",
+    "component",
+    "compiler"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/component-compiler-utils/issues"
+  },
+  "homepage": "https://github.com/vuejs/component-compiler-utils#readme",
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "@types/node": "^10.12.20",
+    "conventional-changelog-cli": "^2.0.11",
+    "jest": "^24.0.0",
+    "less": "^3.9.0",
+    "lint-staged": "^8.1.1",
+    "pug": "^2.0.3",
+    "sass": "^1.17.3",
+    "stylus": "^0.54.5",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.0",
+    "vue": "^2.6.6",
+    "vue-template-compiler": "^2.6.6",
+    "yorkie": "^2.0.0"
+  },
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "hash-sum": "^1.0.2",
+    "lru-cache": "^4.1.2",
+    "merge-source-map": "^1.1.0",
+    "postcss": "^7.0.36",
+    "postcss-selector-parser": "^6.0.2",
+    "source-map": "~0.6.1",
+    "vue-template-es2015-compiler": "^1.9.0"
+  },
+  "optionalDependencies": {
+    "prettier": "^1.18.2 || ^2.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"afile-digest://app/assets/javascripts/node_modules/@vue/component-compiler-utils/package.json;TTF:charsetI"
+utf-8;F:digest"%'}Vºª-›º3f—Ÿ®=”²YPmxš56Döæ:lengthi2:dependencies_digest"%é²¹Ú°ãÌF	“YnåÆç€éÛØ‘óìÑ>šx5:idI"E5a675b82dd188a77ffce4f734d491514ba30c0f511a935a3380b062e2d05ddc6;F:
+mtimel+R¢´e

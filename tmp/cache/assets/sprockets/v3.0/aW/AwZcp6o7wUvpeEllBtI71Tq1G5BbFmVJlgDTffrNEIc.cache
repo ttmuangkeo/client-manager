@@ -1,0 +1,20 @@
+{:uriI"¸file://app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/syntaxes.schema.json?type=application/json&id=ced1c2f529eef16fc450188ff2b8b7a4b0763e080f51821081f4bc8a14569f8f:ET:load_pathI"app/assets/javascripts;T:filenameI"\app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/syntaxes.schema.json;T:	nameI"@node_modules/csso/node_modules/mdn-data/css/syntaxes.schema;T:logical_pathI"Enode_modules/csso/node_modules/mdn-data/css/syntaxes.schema.json;T:content_typeI"application/json;T:sourceI"æ{
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "syntax"
+    ],
+    "properties": {
+      "syntax": {
+        "type": "string"
+      }
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"jfile-digest://app/assets/javascripts/node_modules/csso/node_modules/mdn-data/css/syntaxes.schema.json;TTF:charsetI"
+utf-8;F:digest"%²˜r5@RG[t8øÅ¸?‚aÄsøD §œ£’[v:lengthiæ:dependencies_digest"%^›	0Ä ÜR ;'Šı-ü<äúrBŒ0È_øç¬Ø:idI"Eced1c2f529eef16fc450188ff2b8b7a4b0763e080f51821081f4bc8a14569f8f;F:
+mtimel+S¢´e

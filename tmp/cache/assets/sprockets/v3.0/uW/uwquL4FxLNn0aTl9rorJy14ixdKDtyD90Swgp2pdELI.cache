@@ -1,0 +1,39 @@
+{:uriI"Ñfile://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/IgnorePlugin.json?type=application/json&id=c411738ebc9d25b1a53769fd22536fffc8fb41671ce0460094f3f71491937b0f:ET:load_pathI"app/assets/javascripts;T:filenameI"uapp/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/IgnorePlugin.json;T:	nameI"Ynode_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/IgnorePlugin;T:logical_pathI"^node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/IgnorePlugin.json;T:content_typeI"application/json;T:sourceI"ƒ{
+  "title": "IgnorePluginOptions",
+  "anyOf": [
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "contextRegExp": {
+          "description": "A RegExp to test the context (directory) against.",
+          "instanceof": "RegExp",
+          "tsType": "RegExp"
+        },
+        "resourceRegExp": {
+          "description": "A RegExp to test the request against.",
+          "instanceof": "RegExp",
+          "tsType": "RegExp"
+        }
+      },
+      "required": ["resourceRegExp"]
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "checkResource": {
+          "description": "A filter function for resource and context.",
+          "instanceof": "Function",
+          "tsType": "((resource: string, context: string) => boolean)"
+        }
+      },
+      "required": ["checkResource"]
+    }
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"~file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-babel/node_modules/webpack/schemas/plugins/IgnorePlugin.json;TTF:charsetI"
+utf-8;F:digest"%‘ô	½Ekz}ˆñf—×ÎV(Fˆ||Î–\n,ú 4ç:lengthiƒ:dependencies_digest"%ÛØ½©ô9'm¶kd„ëi¸ah¬ì½oÂŠ‰:idI"Ec411738ebc9d25b1a53769fd22536fffc8fb41671ce0460094f3f71491937b0f;F:
+mtimel+T¢´e

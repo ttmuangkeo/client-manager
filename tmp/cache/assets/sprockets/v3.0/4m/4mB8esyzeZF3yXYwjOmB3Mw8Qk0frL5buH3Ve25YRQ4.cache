@@ -1,0 +1,59 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/graceful-fs/package.json?type=application/json&id=99c31b90b89fe0de2f983807b3f3515c5c53511bedf1c36ab3c45aa016c4eb4f:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/graceful-fs/package.json;T:	nameI"%node_modules/graceful-fs/package;T:logical_pathI"*node_modules/graceful-fs/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "graceful-fs",
+  "description": "A drop-in replacement for fs, making various improvements.",
+  "version": "4.2.11",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaacs/node-graceful-fs"
+  },
+  "main": "graceful-fs.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --follow-tags",
+    "test": "nyc --silent node test.js | tap -c -",
+    "posttest": "nyc report"
+  },
+  "keywords": [
+    "fs",
+    "module",
+    "reading",
+    "retry",
+    "retries",
+    "queue",
+    "error",
+    "errors",
+    "handling",
+    "EMFILE",
+    "EAGAIN",
+    "EINVAL",
+    "EPERM",
+    "EACCESS"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "import-fresh": "^2.0.0",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.2.8",
+    "tap": "^16.3.4"
+  },
+  "files": [
+    "fs.js",
+    "graceful-fs.js",
+    "legacy-streams.js",
+    "polyfills.js",
+    "clone.js"
+  ],
+  "tap": {
+    "reporter": "classic"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/graceful-fs/package.json;TTF:charsetI"
+utf-8;F:digest"%WG‘∫k\n √
+≥£1q_A«≠Tnt⁄±ΩÀaÅ:lengthi:dependencies_digest"%äÑ@ƒq†ëxTo’˜Êe4gü´±oÙ	ì#u$Èç:idI"E99c31b90b89fe0de2f983807b3f3515c5c53511bedf1c36ab3c45aa016c4eb4f;F:
+mtimel+Q¢¥e

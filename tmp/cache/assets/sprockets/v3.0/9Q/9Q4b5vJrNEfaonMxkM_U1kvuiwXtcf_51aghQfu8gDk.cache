@@ -1,0 +1,63 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/punycode/package.json?type=application/json&id=0c0ea14aa6ab7ff5607ddac55e875874d82ce06ec42076ff2876f230d172ec23:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/punycode/package.json;T:	nameI""node_modules/punycode/package;T:logical_pathI"'node_modules/punycode/package.json;T:content_typeI"application/json;T:sourceI"Ë{
+  "name": "punycode",
+  "version": "2.3.1",
+  "description": "A robust Punycode converter that fully complies to RFC 3492 and RFC 5891, and works on nearly all JavaScript platforms.",
+  "homepage": "https://mths.be/punycode",
+  "main": "punycode.js",
+  "jsnext:main": "punycode.es6.js",
+  "module": "punycode.es6.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "punycode",
+    "unicode",
+    "idn",
+    "idna",
+    "dns",
+    "url",
+    "domain"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/"
+  },
+  "contributors": [
+    {
+      "name": "Mathias Bynens",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathiasbynens/punycode.js.git"
+  },
+  "bugs": "https://github.com/mathiasbynens/punycode.js/issues",
+  "files": [
+    "LICENSE-MIT.txt",
+    "punycode.js",
+    "punycode.es6.js"
+  ],
+  "scripts": {
+    "test": "mocha tests",
+    "build": "node scripts/prepublish.js"
+  },
+  "devDependencies": {
+    "codecov": "^3.8.3",
+    "nyc": "^15.1.0",
+    "mocha": "^10.2.0"
+  },
+  "jspm": {
+    "map": {
+      "./punycode.js": {
+        "node": "@node/punycode"
+      }
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/punycode/package.json;TTF:charsetI"
+utf-8;F:digest"%à%;Ñ¯g¸ëbðÛˆ•<ÍÊpµ–ª”¢~µ¿šË:lengthiË:dependencies_digest"%µ¤˜eîÛ;AŽÃ¶î€™«?Žl£¨›ÚÖbFXÁÅ:idI"E0c0ea14aa6ab7ff5607ddac55e875874d82ce06ec42076ff2876f230d172ec23;F:
+mtimel+Q¢´e

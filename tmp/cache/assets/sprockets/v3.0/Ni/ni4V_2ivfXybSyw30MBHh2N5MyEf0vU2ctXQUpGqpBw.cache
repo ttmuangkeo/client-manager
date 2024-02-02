@@ -1,0 +1,48 @@
+{:uriI"§file://app/assets/javascripts/node_modules/@vue/babel-preset-jsx/package.json?type=application/json&id=4aac3ad33fa9c1304f2132fc39ea23a60b412697990b7871b1878a901d31902d:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/@vue/babel-preset-jsx/package.json;T:	nameI"/node_modules/@vue/babel-preset-jsx/package;T:logical_pathI"4node_modules/@vue/babel-preset-jsx/package.json;T:content_typeI"application/json;T:sourceI"®{
+  "name": "@vue/babel-preset-jsx",
+  "version": "1.4.0",
+  "description": "Babel preset for Vue JSX",
+  "main": "dist/plugin.cjs.js",
+  "repository": "https://github.com/vuejs/jsx/tree/master/packages/babel-preset-jsx",
+  "author": "Nick Messing <dot.nick.dot.messing@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [],
+  "scripts": {
+    "build": "rollup -c",
+    "prerelease": "yarn build"
+  },
+  "dependencies": {
+    "@vue/babel-helper-vue-jsx-merge-props": "^1.4.0",
+    "@vue/babel-plugin-transform-vue-jsx": "^1.4.0",
+    "@vue/babel-sugar-composition-api-inject-h": "^1.4.0",
+    "@vue/babel-sugar-composition-api-render-instance": "^1.4.0",
+    "@vue/babel-sugar-functional-vue": "^1.4.0",
+    "@vue/babel-sugar-inject-h": "^1.4.0",
+    "@vue/babel-sugar-v-model": "^1.4.0",
+    "@vue/babel-sugar-v-on": "^1.4.0"
+  },
+  "devDependencies": {
+    "rollup": "^0.67.4",
+    "rollup-plugin-babel-minify": "^6.2.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "vue": "*"
+  },
+  "peerDependenciesMeta": {
+    "vue": {
+      "optional": true
+    }
+  },
+  "gitHead": "6566e12067f5d6c02d3849b574a1b84de5634008"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/@vue/babel-preset-jsx/package.json;TTF:charsetI"
+utf-8;F:digest"%p®
+}DÂ«¾¸	‰Ä³N'D¨Ym=j†“‚³œéµl:lengthi®:dependencies_digest"%8ÎÄš­ÿ+F¿e8â„[‚w&:ÈûßxòÅĞ„:idI"E4aac3ad33fa9c1304f2132fc39ea23a60b412697990b7871b1878a901d31902d;F:
+mtimel+Q¢´e

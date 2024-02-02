@@ -1,0 +1,34 @@
+{:uriI"Äfile://app/assets/javascripts/node_modules/@babel/helper-skip-transparent-expression-wrappers/package.json?type=application/json&id=0c36a4810842a4bcc2a3313b4064ca10bef7ab97d02a4b9b58ac9de50ec1cf58:ET:load_pathI"app/assets/javascripts;T:filenameI"happ/assets/javascripts/node_modules/@babel/helper-skip-transparent-expression-wrappers/package.json;T:	nameI"Lnode_modules/@babel/helper-skip-transparent-expression-wrappers/package;T:logical_pathI"Qnode_modules/@babel/helper-skip-transparent-expression-wrappers/package.json;T:content_typeI"application/json;T:sourceI"á{
+  "name": "@babel/helper-skip-transparent-expression-wrappers",
+  "version": "7.22.5",
+  "description": "Helper which skips types and parentheses",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-helper-skip-transparent-expression-wrappers"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@babel/types": "^7.22.5"
+  },
+  "devDependencies": {
+    "@babel/traverse": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"vfile-digest://app/assets/javascripts/node_modules/@babel/helper-skip-transparent-expression-wrappers/package.json;TTF:charsetI"
+utf-8;F:digest"%3ô²8©"Òv+3¾>sg¾¹ş«$jB1>'¸œµ:lengthiá:dependencies_digest"%:[JÆÛíJÓ Ñ…õªwëÜ£‚»;àqŸ"l¦:idI"E0c36a4810842a4bcc2a3313b4064ca10bef7ab97d02a4b9b58ac9de50ec1cf58;F:
+mtimel+Q¢´e

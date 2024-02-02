@@ -1,0 +1,45 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/ecc-jsbn/package.json?type=application/json&id=5cb25d388f5813524ca389ec0124388d9617853b887ae4a30e65d6b4973ec28c:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/ecc-jsbn/package.json;T:	nameI""node_modules/ecc-jsbn/package;T:logical_pathI"'node_modules/ecc-jsbn/package.json;T:content_typeI"application/json;T:sourceI"I{
+  "name": "ecc-jsbn",
+  "version": "0.1.2",
+  "description": "ECC JS code based on JSBN",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quartzjer/ecc-jsbn.git"
+  },
+  "keywords": [
+    "jsbn",
+    "ecc",
+    "browserify"
+  ],
+  "author": {
+    "name": "Jeremie Miller",
+    "email": "jeremie@jabber.org",
+    "url": "http://jeremie.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Jeremie Miller",
+      "email": "jeremie@jabber.org",
+      "url": "http://jeremie.com/"
+    },
+    {
+      "name": "Ryan Bennett",
+      "url": "https://github.com/rynomad"
+    }
+  ],
+  "dependencies": {
+    "jsbn": "~0.1.0",
+    "safer-buffer": "^2.1.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quartzjer/ecc-jsbn/issues"
+  },
+  "homepage": "https://github.com/quartzjer/ecc-jsbn"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/ecc-jsbn/package.json;TTF:charsetI"
+utf-8;F:digest"%¾¦X›}(Oo>¯¾¿È ™öt¢Vc‰#ÙŽ“Íb:lengthiI:dependencies_digest"%öL~œ²‹_€RËDKmJŠ'N³Ý­ú"Dð@Å\)Ä:idI"E5cb25d388f5813524ca389ec0124388d9617853b887ae4a30e65d6b4973ec28c;F:
+mtimel+Q¢´e

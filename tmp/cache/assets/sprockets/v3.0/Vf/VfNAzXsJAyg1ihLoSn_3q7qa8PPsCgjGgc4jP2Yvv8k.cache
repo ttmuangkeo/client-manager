@@ -1,0 +1,29 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/tunnel-agent/package.json?type=application/json&id=64768aca4fee469767a50705b11344ca450706a27de9672eddec81610a353646:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/tunnel-agent/package.json;T:	nameI"&node_modules/tunnel-agent/package;T:logical_pathI"+node_modules/tunnel-agent/package.json;T:content_typeI"application/json;T:sourceI"{
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.futurealoof.com)",
+  "name": "tunnel-agent",
+  "license": "Apache-2.0",
+  "description": "HTTP proxy tunneling agent. Formerly part of mikeal/request, now a standalone module.",
+  "version": "0.6.0",
+  "repository": {
+    "url": "https://github.com/mikeal/tunnel-agent"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "safe-buffer": "^5.0.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/tunnel-agent/package.json;TTF:charsetI"
+utf-8;F:digest"%®VeI7
+ÙAH®d\g[©}!Ó4}çCK≈t:lengthi:dependencies_digest"%íb-<@¥5ﬁuPJ‰˘u∞1_`äì[
+›9J˙0\:idI"E64768aca4fee469767a50705b11344ca450706a27de9672eddec81610a353646;F:
+mtimel+Q¢¥e

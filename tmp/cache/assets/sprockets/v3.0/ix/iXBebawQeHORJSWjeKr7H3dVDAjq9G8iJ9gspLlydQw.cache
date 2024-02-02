@@ -1,0 +1,42 @@
+{:uriI"´file://app/assets/javascripts/node_modules/postcss-reduce-transforms/package.json?type=application/json&id=c33bd2d5d187dc8601644c1d21bb6e4538e09264ecdb3bdea2677fcdbf710bc1:ET:load_pathI"app/assets/javascripts;T:filenameI"Oapp/assets/javascripts/node_modules/postcss-reduce-transforms/package.json;T:	nameI"3node_modules/postcss-reduce-transforms/package;T:logical_pathI"8node_modules/postcss-reduce-transforms/package.json;T:content_typeI"application/json;T:sourceI"m{
+  "name": "postcss-reduce-transforms",
+  "version": "4.0.2",
+  "description": "Reduce transform functions with PostCSS.",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel src --out-dir dist --ignore /__tests__/"
+  },
+  "files": [
+    "LICENSE-MIT",
+    "dist"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "dependencies": {
+    "cssnano-util-get-match": "^4.0.0",
+    "has": "^1.0.0",
+    "postcss": "^7.0.0",
+    "postcss-value-parser": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"]file-digest://app/assets/javascripts/node_modules/postcss-reduce-transforms/package.json;TTF:charsetI"
+utf-8;F:digest"%‘/Î‡Z(E∆…kIâ“ÆØQ\œc\‡¿:lengthim:dependencies_digest"%µ>ÚF·R˘jºî†aΩ^–é4Œ#åré≈í:idI"Ec33bd2d5d187dc8601644c1d21bb6e4538e09264ecdb3bdea2677fcdbf710bc1;F:
+mtimel+Q¢¥e

@@ -1,0 +1,11 @@
+{:uriI"ïfile://app/assets/javascripts/node_modules/buffer/bin/zuul-es6.yml?type=text/yaml&id=fa39e75bcc0729039ffd922130b5a925fb81a690d0a91073056eb70aea5a54c6:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/buffer/bin/zuul-es6.yml;T:	nameI"%node_modules/buffer/bin/zuul-es6;T:logical_pathI")node_modules/buffer/bin/zuul-es6.yml;T:content_typeI"text/yaml;T:sourceI"oui: tape
+browsers:
+  - name: chrome
+    version: '-1..latest'
+  - name: firefox
+    version: '-1..latest'
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"Nfile-digest://app/assets/javascripts/node_modules/buffer/bin/zuul-es6.yml;TTF:charsetI"
+utf-8;F:digest"%Ö1ô¡$As;UÁ0ıìW?“3ÃÄ9©G»…b¸!c:lengthio:dependencies_digest"%:ñ‡Iyû∫æﬂb÷?–ˆt‰Œ8Gôa>MÅ√3ºê:idI"Efa39e75bcc0729039ffd922130b5a925fb81a690d0a91073056eb70aea5a54c6;F:
+mtimel+S¢¥e

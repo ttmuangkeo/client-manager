@@ -1,0 +1,56 @@
+{:uriI"öfile://app/assets/javascripts/node_modules/yargs/locales/en.json?type=application/json&id=fe485c7ccfff7b44cb7dc16a4719d97c3d6c48ab522254f5997899f05b938fd7:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/yargs/locales/en.json;T:	nameI""node_modules/yargs/locales/en;T:logical_pathI"'node_modules/yargs/locales/en.json;T:content_typeI"application/json;T:sourceI"}{
+  "Commands:": "Commands:",
+  "Options:": "Options:",
+  "Examples:": "Examples:",
+  "boolean": "boolean",
+  "count": "count",
+  "string": "string",
+  "number": "number",
+  "array": "array",
+  "required": "required",
+  "default": "default",
+  "default:": "default:",
+  "choices:": "choices:",
+  "aliases:": "aliases:",
+  "generated-value": "generated-value",
+  "Not enough non-option arguments: got %s, need at least %s": {
+    "one": "Not enough non-option arguments: got %s, need at least %s",
+    "other": "Not enough non-option arguments: got %s, need at least %s"
+  },
+  "Too many non-option arguments: got %s, maximum of %s": {
+    "one": "Too many non-option arguments: got %s, maximum of %s",
+    "other": "Too many non-option arguments: got %s, maximum of %s"
+  },
+  "Missing argument value: %s": {
+    "one": "Missing argument value: %s",
+    "other": "Missing argument values: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Missing required argument: %s",
+    "other": "Missing required arguments: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Unknown argument: %s",
+    "other": "Unknown arguments: %s"
+  },
+  "Invalid values:": "Invalid values:",
+  "Argument: %s, Given: %s, Choices: %s": "Argument: %s, Given: %s, Choices: %s",
+  "Argument check failed: %s": "Argument check failed: %s",
+  "Implications failed:": "Missing dependent arguments:",
+  "Not enough arguments following: %s": "Not enough arguments following: %s",
+  "Invalid JSON config file: %s": "Invalid JSON config file: %s",
+  "Path to JSON config file": "Path to JSON config file",
+  "Show help": "Show help",
+  "Show version number": "Show version number",
+  "Did you mean %s?": "Did you mean %s?",
+  "Arguments %s and %s are mutually exclusive" : "Arguments %s and %s are mutually exclusive",
+  "Positionals:": "Positionals:",
+  "command": "command",
+  "deprecated": "deprecated",
+  "deprecated: %s": "deprecated: %s"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/yargs/locales/en.json;TTF:charsetI"
+utf-8;F:digest"%ÕΩf¡’-ß∑â}¸D‚pÎØ9p·Ã4Fé˛^4otgEs:lengthi}:dependencies_digest"%gîxèS—t◊ºˆ;~§oz#.ñ’äc±Ô{i-ê›lé:idI"Efe485c7ccfff7b44cb7dc16a4719d97c3d6c48ab522254f5997899f05b938fd7;F:
+mtimel+S¢¥e

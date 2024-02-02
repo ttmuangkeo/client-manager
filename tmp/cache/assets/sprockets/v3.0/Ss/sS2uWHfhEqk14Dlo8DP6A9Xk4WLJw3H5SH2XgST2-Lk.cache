@@ -1,0 +1,36 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/ro.json?type=application/json&id=86b7476e647c7975921dc5c1299ec9952a846b8a338da5fefb2b2a7a0effda0f:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/ro.json;T:	nameI"-node_modules/vee-validate/dist/locale/ro;T:logical_pathI"2node_modules/vee-validate/dist/locale/ro.json;T:content_typeI"application/json;T:sourceI"�{
+  "code": "ro",
+  "messages": {
+    "alpha": "Câmpul {_field_} poate conține doar literele alfabetului",
+    "alpha_dash": "Câmpul {_field_} poate conține litere și caracterele '-' sau '_'",
+    "alpha_num": "Câmpul {_field_} poate conține doar caractere alfanumerice",
+    "alpha_spaces": "Câmpul {_field_} poate conține doar litere și spații",
+    "between": "Valoarea câmpului {_field_} trebuie să fie între {min} și {max}",
+    "confirmed": "Câmpul {_field_} nu coincide",
+    "digits": "Câmpul {_field_} trebuie să fie numeric și să conțină exact {length} caractere",
+    "dimensions": "Câmpul {_field_} trebuie să fie {width} pixeli lungime și {height} pixeli înălțime",
+    "email": "Câmpul {_field_} trebuie să conțină un email valid",
+    "excluded": "Câmpul {_field_} trebuie să conțină o valoare validă",
+    "ext": "Câmpul {_field_} trebuie să fie un nume de fișier valid",
+    "image": "Câmpul {_field_} trebuie să fie o imagine",
+    "integer": "Câmpul {_field_} trebuie să fie un număr întreg",
+    "length": "Câmpul {_field_} trebuie să conțină exact {length} caractere",
+    "max": "Câmpul {_field_} nu poate conține mai mult de {length} caractere",
+    "max_value": "Valoarea câmpului {_field_} trebuie să fie maxim {max}",
+    "mimes": "Câmpul {_field_} trebuie să conțină un fișier cu extensie validă",
+    "min": "Câmpul {_field_} trebuie să conțină cel puțin {length} caractere",
+    "min_value": "Valoarea câmpului {_field_} trebuie să fie mai mare de {min}",
+    "numeric": "Câmpul {_field_} poate conține doar valori numerice",
+    "oneOf": "Câmpul {_field_} trebuie să conțină o valoare validă",
+    "regex": "Formatul câmpului {_field_} este invalid",
+    "required": "Câmpul {_field_} este obligatoriu",
+    "required_if": "Câmpul {_field_} este obligatoriu",
+    "size": "Câmpul {_field_} nu trebuie să depășească {size}KB",
+    "double": "Câmpul {_field_} trebuie să fie o zecimală validă"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/ro.json;TTF:charsetI"
+utf-8;F:digest"%��;�j�3�1�t��}�;řRk�$����/�1��:lengthi�:dependencies_digest"%���C��[&`{�/!�(�C�M��cl:idI"E86b7476e647c7975921dc5c1299ec9952a846b8a338da5fefb2b2a7a0effda0f;F:
+mtimel+S��e

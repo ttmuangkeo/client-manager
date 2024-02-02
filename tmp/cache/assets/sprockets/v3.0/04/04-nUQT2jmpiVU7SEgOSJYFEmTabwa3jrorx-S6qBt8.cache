@@ -1,0 +1,32 @@
+{:uriI"¨file://app/assets/javascripts/node_modules/clipboard/demo/text-programmatic-copy.html?type=text/html&id=bfe875e0c1e1a756d419f1b0ad314f70a431b09112ca36bc958d422c9c7348e7:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/clipboard/demo/text-programmatic-copy.html;T:	nameI"7node_modules/clipboard/demo/text-programmatic-copy;T:logical_pathI"<node_modules/clipboard/demo/text-programmatic-copy.html;T:content_typeI"text/html;T:sourceI"‘<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>text-programmatic-copy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <!-- 1. Define some markup -->
+    <button id="btn">
+      Copy
+    </button>
+
+    <!-- 2. Include library -->
+    <script src="../dist/clipboard.min.js"></script>
+
+    <!-- 3. Instantiate clipboard -->
+    <script>
+      var btn = document.querySelector('#btn');
+
+      btn.addEventListener('click', () => {
+        const textCopied = ClipboardJS.copy('123');
+        console.log('copied!', textCopied);
+      })
+    </script>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"afile-digest://app/assets/javascripts/node_modules/clipboard/demo/text-programmatic-copy.html;TTF:charsetI"
+utf-8;F:digest"%ÞUñÅãX#LÉE»ªæ¾¼Ü0­Ëµ±†°Ž‹SW:lengthi‘:dependencies_digest"%àcî{l4X6«B« ÇÇ-ôf–š«<NóÇô!s@:idI"Ebfe875e0c1e1a756d419f1b0ad314f70a431b09112ca36bc958d422c9c7348e7;F:
+mtimel+R¢´e

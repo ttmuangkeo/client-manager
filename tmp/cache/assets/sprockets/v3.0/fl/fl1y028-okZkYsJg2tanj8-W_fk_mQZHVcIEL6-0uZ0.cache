@@ -1,0 +1,36 @@
+{:uriI"úfile://app/assets/javascripts/node_modules/@hapi/hoek/package.json?type=application/json&id=1f1540c966d85cdd26e4819f651b2787eee54548f8f9884157406ff1c8989dc7:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/@hapi/hoek/package.json;T:	nameI"$node_modules/@hapi/hoek/package;T:logical_pathI")node_modules/@hapi/hoek/package.json;T:content_typeI"application/json;T:sourceI"ß{
+  "name": "@hapi/hoek",
+  "description": "General purpose node utilities",
+  "version": "9.3.0",
+  "repository": "git://github.com/hapijs/hoek",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "utilities"
+  ],
+  "files": [
+    "lib"
+  ],
+  "eslintConfig": {
+    "extends": [
+      "plugin:@hapi/module"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@hapi/code": "8.x.x",
+    "@hapi/eslint-plugin": "*",
+    "@hapi/lab": "^24.0.0",
+    "typescript": "~4.0.2"
+  },
+  "scripts": {
+    "test": "lab -a @hapi/code -t 100 -L -Y",
+    "test-cov-html": "lab -a @hapi/code -t 100 -L -r html -o coverage.html"
+  },
+  "license": "BSD-3-Clause"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/@hapi/hoek/package.json;TTF:charsetI"
+utf-8;F:digest"%ÈZE5_yhí÷ÖûΩgeA˙˝∞[bÃLXª≤p≤:lengthiß:dependencies_digest"%r˙ãG¯∂ƒå(>7≠Ê¬HAeÿ”W8Ü›,é∆Ó[œ‡À:idI"E1f1540c966d85cdd26e4819f651b2787eee54548f8f9884157406ff1c8989dc7;F:
+mtimel+R¢¥e

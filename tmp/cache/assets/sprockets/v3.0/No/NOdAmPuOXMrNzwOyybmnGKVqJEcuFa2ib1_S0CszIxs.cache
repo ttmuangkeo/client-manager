@@ -1,0 +1,23 @@
+{:uriI"•file://app/assets/javascripts/node_modules/watchpack-chokidar2/package.json?type=application/json&id=854ca2109a7c309e88fe8d2a0116e84804c6d17c231b917cd16c647a1715bf13:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/watchpack-chokidar2/package.json;T:	nameI"-node_modules/watchpack-chokidar2/package;T:logical_pathI"2node_modules/watchpack-chokidar2/package.json;T:content_typeI"application/json;T:sourceI"Ö{
+  "name": "watchpack-chokidar2",
+  "version": "2.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpack/watchpack.git"
+  },
+  "author": "Tobias Koppers @sokra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webpack/watchpack/issues"
+  },
+  "homepage": "https://github.com/webpack/watchpack",
+  "dependencies": {
+    "chokidar": "^2.1.8"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/watchpack-chokidar2/package.json;TTF:charsetI"
+utf-8;F:digest"%âÅHùœC
+#<3ıg[	ñ49™pú◊–¿ºÖ-œ≠:lengthiÖ:dependencies_digest"%z&´î$≠]dwJpÖ-l2kuêÓƒ¶ë)å9“å’e:idI"E854ca2109a7c309e88fe8d2a0116e84804c6d17c231b917cd16c647a1715bf13;F:
+mtimel+Q¢¥e

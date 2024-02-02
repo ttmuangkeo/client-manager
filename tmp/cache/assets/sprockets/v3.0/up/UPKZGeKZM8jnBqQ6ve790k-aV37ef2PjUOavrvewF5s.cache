@@ -1,0 +1,44 @@
+{:uriI"Ìfile://app/assets/javascripts/node_modules/@vue/babel-plugin-transform-vue-jsx/node_modules/html-tags/package.json?type=application/json&id=229db402deee12443382195265c905d37ab0971b73584e356dd23d1cc4e26b8e:ET:load_pathI"app/assets/javascripts;T:filenameI"papp/assets/javascripts/node_modules/@vue/babel-plugin-transform-vue-jsx/node_modules/html-tags/package.json;T:	nameI"Tnode_modules/@vue/babel-plugin-transform-vue-jsx/node_modules/html-tags/package;T:logical_pathI"Ynode_modules/@vue/babel-plugin-transform-vue-jsx/node_modules/html-tags/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "html-tags",
+  "version": "2.0.0",
+  "description": "List of standard HTML tags",
+  "license": "MIT",
+  "repository": "sindresorhus/html-tags",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "void.js",
+    "html-tags.json",
+    "html-tags-void.json"
+  ],
+  "keywords": [
+    "html",
+    "html5",
+    "tags",
+    "elements",
+    "list",
+    "whatwg",
+    "w3c",
+    "void",
+    "self-closing"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"~file-digest://app/assets/javascripts/node_modules/@vue/babel-plugin-transform-vue-jsx/node_modules/html-tags/package.json;TTF:charsetI"
+utf-8;F:digest"%'¼MMü]q³jäFäu5›Äş˜ËTÊ´•UvPêç¬U:lengthi:dependencies_digest"%•ßîÖZ¿ˆU˜§Têğs,=æ“<–¶8_÷½‹:idI"E229db402deee12443382195265c905d37ab0971b73584e356dd23d1cc4e26b8e;F:
+mtimel+Q¢´e

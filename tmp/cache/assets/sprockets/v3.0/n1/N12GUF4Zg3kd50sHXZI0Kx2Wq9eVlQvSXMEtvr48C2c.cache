@@ -1,0 +1,40 @@
+{:uriI"§file://app/assets/javascripts/node_modules/vue-hot-reload-api/package.json?type=application/json&id=3c16b48b6fb2afcf64b304cc7a4669ed981ddcb71452566dde6ccf667766c5df:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/vue-hot-reload-api/package.json;T:	nameI",node_modules/vue-hot-reload-api/package;T:logical_pathI"1node_modules/vue-hot-reload-api/package.json;T:content_typeI"application/json;T:sourceI"Ì{
+  "name": "vue-hot-reload-api",
+  "version": "2.3.4",
+  "description": "hot reload api for *.vue components",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "buble src -o dist",
+    "test": "jest",
+    "prepublishOnly": "npm run test && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue-hot-reload-api.git"
+  },
+  "keywords": [
+    "vue",
+    "hot",
+    "reload"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-hot-reload-api/issues"
+  },
+  "homepage": "https://github.com/vuejs/vue-hot-reload-api#readme",
+  "devDependencies": {
+    "buble": "^0.19.6",
+    "jest": "^24.9.0",
+    "vue": "^2.5.21"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/vue-hot-reload-api/package.json;TTF:charsetI"
+utf-8;F:digest"%œ•
+∂õ/mƒoîÓÖzo  ó⁄êÿÎH◊\G4F:lengthiÌ:dependencies_digest"%&¸q∫8Æy,ö}2e§|˜!cr^1á2[‘≈πMaw6:idI"E3c16b48b6fb2afcf64b304cc7a4669ed981ddcb71452566dde6ccf667766c5df;F:
+mtimel+Q¢¥e

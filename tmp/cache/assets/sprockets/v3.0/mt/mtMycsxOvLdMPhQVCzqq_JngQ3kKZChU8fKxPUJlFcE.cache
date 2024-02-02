@@ -1,0 +1,55 @@
+{:uriI"ôfile://app/assets/javascripts/node_modules/bonjour/package.json?type=application/json&id=826a7ee44196eb42c9a42bace5d3413d5a6eea1095d6458bbe4e2fc21ad0657a:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/bonjour/package.json;T:	nameI"!node_modules/bonjour/package;T:logical_pathI"&node_modules/bonjour/package.json;T:content_typeI"application/json;T:sourceI";{
+  "name": "bonjour",
+  "version": "3.5.0",
+  "description": "A Bonjour/Zeroconf implementation in pure JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "array-flatten": "^2.1.0",
+    "deep-equal": "^1.0.1",
+    "dns-equal": "^1.0.0",
+    "dns-txt": "^2.0.2",
+    "multicast-dns": "^6.0.1",
+    "multicast-dns-service-types": "^1.1.0"
+  },
+  "devDependencies": {
+    "after-all": "^2.0.2",
+    "standard": "^6.0.8",
+    "tape": "^4.5.1"
+  },
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson/bonjour.git"
+  },
+  "keywords": [
+    "bonjour",
+    "zeroconf",
+    "zero",
+    "configuration",
+    "mdns",
+    "dns",
+    "service",
+    "discovery",
+    "multicast",
+    "broadcast",
+    "dns-sd"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/bonjour/issues"
+  },
+  "homepage": "https://github.com/watson/bonjour",
+  "coordinates": [
+    55.68250900965318,
+    12.586377442991648
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/bonjour/package.json;TTF:charsetI"
+utf-8;F:digest"%ùC’±7#Crj°ü∆‚ÖÕ0ìí*´¡Üød•áÄÃ:lengthi;:dependencies_digest"%Mèg
+¶èr;A<ê…”ºœ‚ÿı@ñ0¯zOU‡jns:idI"E826a7ee44196eb42c9a42bace5d3413d5a6eea1095d6458bbe4e2fc21ad0657a;F:
+mtimel+Q¢¥e

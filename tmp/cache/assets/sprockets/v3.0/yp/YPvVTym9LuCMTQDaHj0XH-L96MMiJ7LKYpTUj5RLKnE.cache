@@ -1,0 +1,50 @@
+{:uriI"²file://app/assets/javascripts/node_modules/read-pkg/node_modules/parse-json/package.json?type=application/json&id=8f66275040526aee5c9285a4d99622bfa20585e125f951bba1fb455f0719b10f:ET:load_pathI"app/assets/javascripts;T:filenameI"Vapp/assets/javascripts/node_modules/read-pkg/node_modules/parse-json/package.json;T:	nameI":node_modules/read-pkg/node_modules/parse-json/package;T:logical_pathI"?node_modules/read-pkg/node_modules/parse-json/package.json;T:content_typeI"application/json;T:sourceI"9{
+	"name": "parse-json",
+	"version": "5.2.0",
+	"description": "Parse JSON with more helpful errors",
+	"license": "MIT",
+	"repository": "sindresorhus/parse-json",
+	"funding": "https://github.com/sponsors/sindresorhus",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && nyc ava"
+	},
+	"files": [
+		"index.js",
+		"vendor"
+	],
+	"keywords": [
+		"parse",
+		"json",
+		"graceful",
+		"error",
+		"message",
+		"humanize",
+		"friendly",
+		"helpful",
+		"string"
+	],
+	"dependencies": {
+		"@babel/code-frame": "^7.0.0",
+		"error-ex": "^1.3.1",
+		"json-parse-even-better-errors": "^2.3.0",
+		"lines-and-columns": "^1.1.6"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"nyc": "^14.1.1",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"dfile-digest://app/assets/javascripts/node_modules/read-pkg/node_modules/parse-json/package.json;TTF:charsetI"
+utf-8;F:digest"%:c+"†ÇŸ’¡`õj9ôv€,…ğà9£~ÎÊß±:lengthi9:dependencies_digest"%=t‡Íï›³|âÄu"K•ì·\O;H²{H?àÀ‰€:idI"E8f66275040526aee5c9285a4d99622bfa20585e125f951bba1fb455f0719b10f;F:
+mtimel+Q¢´e

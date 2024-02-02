@@ -1,0 +1,31 @@
+{:uriI"file://app/assets/javascripts/node_modules/good-listener/demo/nodelist.html?type=text/html&id=2907fe206f80690b8aaee02167127c08fefccc108686d5d53353a391ae5fdfb7:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/good-listener/demo/nodelist.html;T:	nameI"-node_modules/good-listener/demo/nodelist;T:logical_pathI"2node_modules/good-listener/demo/nodelist.html;T:content_typeI"text/html;T:sourceI"0<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NodeList</title>
+</head>
+<body>
+    <!-- 1. Write some markup -->
+    <button>Click me</button>
+    <button>Click me</button>
+    <button>Click me</button>
+
+    <!-- 2. Include library -->
+    <script src="../dist/good-listener.js"></script>
+
+    <!-- 3. Add listener by passing a list of HTML elements -->
+    <script>
+    var targets = document.querySelectorAll('button');
+
+    listen(targets, 'click', function(e) {
+        console.info(e);
+    });
+    </script>
+</body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Wfile-digest://app/assets/javascripts/node_modules/good-listener/demo/nodelist.html;TTF:charsetI"
+utf-8;F:digest"%â6ßİ¬0wŒ¤Ä†û«[›Ãı‰/
+8äWó{µ[©:lengthi0:dependencies_digest"%¬N`UK€wº®«²ı±±û`áĞû¨¸â©dª¸h:idI"E2907fe206f80690b8aaee02167127c08fefccc108686d5d53353a391ae5fdfb7;F:
+mtimel+R¢´e

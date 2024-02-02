@@ -1,0 +1,28 @@
+{:uriI"file://app/assets/javascripts/node_modules/chrome-trace-event/LICENSE.txt?type=text/plain&id=33981bd7f8611fe3cac7ed925763b86356c67cd3a05ceb2f9ad2f8368279a9ce:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/chrome-trace-event/LICENSE.txt;T:	nameI",node_modules/chrome-trace-event/LICENSE;T:logical_pathI"0node_modules/chrome-trace-event/LICENSE.txt;T:content_typeI"text/plain;T:sourceI"P# This is the MIT license
+
+Copyright (c) 2015 Joyent Inc. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"4processors:type=text/plain&file_type=text/plain;TTI"Ufile-digest://app/assets/javascripts/node_modules/chrome-trace-event/LICENSE.txt;TTF:charsetI"
+utf-8;F:digest"%¤È¬ºó·g^½&v©TÚ)RSB¹ö‰|N.È²:lengthiP:dependencies_digest"%]¦Õ «>œz…³ÃÒ+]Ò:›7áŒÊzÄï·°¹–:idI"E33981bd7f8611fe3cac7ed925763b86356c67cd3a05ceb2f9ad2f8368279a9ce;F:
+mtimel+R¢´e

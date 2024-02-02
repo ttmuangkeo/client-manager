@@ -1,0 +1,37 @@
+{:uriI"›file://app/assets/javascripts/node_modules/delegate/demo/undelegate.html?type=text/html&id=088980f9f611fe661178c15da9237a8433d1adec963c15c4c8f9f22f00f1fa9c:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/delegate/demo/undelegate.html;T:	nameI"*node_modules/delegate/demo/undelegate;T:logical_pathI"/node_modules/delegate/demo/undelegate.html;T:content_typeI"text/html;T:sourceI"Ë<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Undelegate</title>
+</head>
+<body>
+    <!-- 1. Write some markup -->
+    <ul>
+        <li><button>Item 1</button></li>
+        <li><button>Item 2</button></li>
+        <li><button>Item 3</button></li>
+        <li><button>Item 4</button></li>
+        <li><button>Item 5</button></li>
+    </ul>
+
+    <!-- 2. Include library -->
+    <script src="../dist/delegate.js"></script>
+
+    <!-- 3. Remove event delegation -->
+    <script>
+    var ul = document.querySelector('ul');
+
+    var delegation = delegate(ul, 'li button', 'click', function(e) {
+        console.log(e.target);
+    });
+
+    delegation.destroy();
+    </script>
+</body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Tfile-digest://app/assets/javascripts/node_modules/delegate/demo/undelegate.html;TTF:charsetI"
+utf-8;F:digest"%ž1M€ìšëµ+ÒŒƒ|ÄÙe²®ÌÂO,Ñªd•þ½ÜóŽ:lengthiË:dependencies_digest"%r{=HI[uö<¸
+5íÅƒáx	F‘Â„Àá*#>ÇEÍ:idI"E088980f9f611fe661178c15da9237a8433d1adec963c15c4c8f9f22f00f1fa9c;F:
+mtimel+R¢´e

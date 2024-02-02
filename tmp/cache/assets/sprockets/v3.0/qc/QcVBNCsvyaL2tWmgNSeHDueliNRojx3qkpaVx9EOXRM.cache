@@ -1,0 +1,63 @@
+{:uriI"´file://app/assets/javascripts/node_modules/datamaps/src/examples/custom-map-data-multi-layer.html?type=text/html&id=877377dd56aa34f925b5497db15d5292aa06c1e43bdaa65dd0e835d431573d1a:ET:load_pathI"app/assets/javascripts;T:filenameI"_app/assets/javascripts/node_modules/datamaps/src/examples/custom-map-data-multi-layer.html;T:	nameI"Cnode_modules/datamaps/src/examples/custom-map-data-multi-layer;T:logical_pathI"Hnode_modules/datamaps/src/examples/custom-map-data-multi-layer.html;T:content_typeI"text/html;T:sourceI"¢<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <!-- I recommend you host this file on your own, since this will change without warning -->
+  <script src="/src/rel/datamaps.world.js?v=1"></script>
+  <h2>Datamaps New York Test</h2>
+  <p><a href="http://datamaps.github.io/">DataMaps Project Homepage</a>, Counties referred to by their <a href="http://en.wikipedia.org/wiki/List_of_counties_in_New_York">FIPS code</a></p>
+  <div id="container1" style="position: relative; width: 900px; height: 450px;"></div>
+ 
+ <style>
+.land {
+  fill: rgba(240, 175, 10, 0.5) ;
+  stroke-width: 0.5px;
+  stroke: #f0af0a !important;
+  pointer-events: none;
+}
+ </style>
+     
+     <script>
+       //basic map config with custom fills, mercator projection
+      var map = new Datamap({
+        element: document.getElementById('container1'),
+        geographyConfig: {
+          dataUrl: 'http://joelgombin.fr/cartes/comm.couleur.json',
+          borderWidth: 0
+        },
+        scope: 'comm.couleur',
+        fills: {
+          defaultFill: 'blue',
+          lt50: 'rgba(0,244,244,0.9)',
+          gt50: 'red'
+        },
+        
+        data: {
+          '071': {fillKey: 'lt50' },
+          '001': {fillKey: 'gt50' }       
+        },
+
+        done: function(datamap) {
+          datamap.dept();
+        }
+      });
+
+      map.addPlugin('dept', function() {
+        map.svg.insert("path", ".datamaps-subunits")
+          .datum(topojson.feature(map.customTopo, map.customTopo.objects.dept))
+          .attr("class", "land")
+          .attr("d", map.path)
+      });
+
+
+
+
+
+      
+     </script>
+</body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"mfile-digest://app/assets/javascripts/node_modules/datamaps/src/examples/custom-map-data-multi-layer.html;TTF:charsetI"
+utf-8;F:digest"%¹cä¤å÷éaJƒÝ5³6²f8oÁÄ=„ÊÍ¿™:lengthi¢:dependencies_digest"%Ûð–Ôx6Iq]8¶²êHœ¡	0ªms/òT|Š>:idI"E877377dd56aa34f925b5497db15d5292aa06c1e43bdaa65dd0e835d431573d1a;F:
+mtimel+U¢´e

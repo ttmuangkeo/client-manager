@@ -1,0 +1,74 @@
+{:uriI"Êfile://app/assets/javascripts/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json?type=application/json&id=2f3b0e111ac8a855b3023ad06829c79f9b4b946a6278fa076432c7ea3cc70893:ET:load_pathI"app/assets/javascripts;T:filenameI"napp/assets/javascripts/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json;T:	nameI"Rnode_modules/unset-value/node_modules/has-value/node_modules/isobject/package;T:logical_pathI"Wnode_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json;T:content_typeI"application/json;T:sourceI"¿{
+  "name": "isobject",
+  "description": "Returns true if the value is an object and not an array or null.",
+  "version": "2.1.0",
+  "homepage": "https://github.com/jonschlinkert/isobject",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/isobject",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/isobject/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "isarray": "1.0.0"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "check",
+    "is",
+    "is-object",
+    "isobject",
+    "kind",
+    "kind-of",
+    "kindof",
+    "native",
+    "object",
+    "type",
+    "typeof",
+    "value"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "merge-deep",
+        "extend-shallow",
+        "is-plain-object",
+        "kind-of"
+      ]
+    },
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"|file-digest://app/assets/javascripts/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json;TTF:charsetI"
+utf-8;F:digest"%3õ‰3õ0ùÀî’ïW~
+-€>ë@ýiPñ»È:lengthi¿:dependencies_digest"%
+qiùŠLî"Ä’þ¸Ä¥oÖþ7oU¨áo`ˆ:idI"E2f3b0e111ac8a855b3023ad06829c79f9b4b946a6278fa076432c7ea3cc70893;F:
+mtimel+Q¢´e

@@ -1,0 +1,47 @@
+{:uriI"Ωfile://app/assets/javascripts/node_modules/static-module/node_modules/merge-source-map/package.json?type=application/json&id=b4661aa2191869d21fee669ba7512915ae85aa332635249710b731f273983dcf:ET:load_pathI"app/assets/javascripts;T:filenameI"aapp/assets/javascripts/node_modules/static-module/node_modules/merge-source-map/package.json;T:	nameI"Enode_modules/static-module/node_modules/merge-source-map/package;T:logical_pathI"Jnode_modules/static-module/node_modules/merge-source-map/package.json;T:content_typeI"application/json;T:sourceI"`{
+  "name": "merge-source-map",
+  "version": "1.0.4",
+  "description": "Merge old source map and new source map in multi-transform flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc tape test/*.js",
+    "lint": "eslint index.js 'test/**/*.js'",
+    "version": "npm run lint && npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keik/merge-source-map.git"
+  },
+  "author": "keik <k4t0.kei@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keik/merge-source-map/issues"
+  },
+  "keywords": [
+    "sourcemap",
+    "source-map"
+  ],
+  "dependencies": {
+    "source-map": "^0.5.6"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "babel-plugin-transform-es2015-spread": "^6.22.0",
+    "coffee-script": "^1.12.6",
+    "convert-source-map": "^1.5.0",
+    "escodegen": "^1.8.1",
+    "eslint": "^3.19.0",
+    "esprima": "^3.1.3",
+    "estraverse": "^4.2.0",
+    "nyc": "^8.4.0",
+    "tape": "^4.6.3"
+  },
+  "files": []
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ofile-digest://app/assets/javascripts/node_modules/static-module/node_modules/merge-source-map/package.json;TTF:charsetI"
+utf-8;F:digest"%˜ŒAﬂÛíÿâı÷®R}•XÈÚ7∆	Ω∂∑ò:ª\eSÿ:lengthi`:dependencies_digest"%a(i´Å´ûqÍDg˛ºh«a]õÙÈå¥ΩÃúòAü‘Xπ:idI"Eb4661aa2191869d21fee669ba7512915ae85aa332635249710b731f273983dcf;F:
+mtimel+Q¢¥e

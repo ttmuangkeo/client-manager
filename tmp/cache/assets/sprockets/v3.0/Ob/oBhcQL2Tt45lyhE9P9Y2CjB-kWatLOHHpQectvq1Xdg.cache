@@ -1,0 +1,43 @@
+{:uriI"›file://app/assets/javascripts/node_modules/deepmerge/package.json?type=application/json&id=1d2a5d9ea355a2187355621b6830575692decc4dfb45df2ece248ad371eff88e:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/deepmerge/package.json;T:	nameI"#node_modules/deepmerge/package;T:logical_pathI"(node_modules/deepmerge/package.json;T:content_typeI"application/json;T:sourceI"s{
+  "author": "Nick Fisher",
+  "name": "deepmerge",
+  "description": "A library for deep (recursive) merging of Javascript objects",
+  "keywords": [
+    "merge",
+    "deep",
+    "extend",
+    "copy",
+    "clone",
+    "recursive"
+  ],
+  "version": "1.5.2",
+  "homepage": "https://github.com/KyleAMathews/deepmerge",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KyleAMathews/deepmerge.git"
+  },
+  "main": "dist/umd.js",
+  "module": "dist/es.js",
+  "browser": "dist/cjs.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "npm run build && tap test/*.js && jsmd README.markdown"
+  },
+  "devDependencies": {
+    "is-mergeable-object": "1.1.0",
+    "jsmd": "0.3.1",
+    "rollup": "0.49.3",
+    "rollup-plugin-commonjs": "8.2.1",
+    "rollup-plugin-node-resolve": "3.0.0",
+    "tap": "~7.1.2"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/deepmerge/package.json;TTF:charsetI"
+utf-8;F:digest"%7|æÔÖ¸ ­höC5˜ğ'¦°@†´Á‰êì@6Pİ:lengthis:dependencies_digest"%Õˆß?¥5ÓóeèîÔüª"Vé';Q÷aGLı:idI"E1d2a5d9ea355a2187355621b6830575692decc4dfb45df2ece248ad371eff88e;F:
+mtimel+Q¢´e

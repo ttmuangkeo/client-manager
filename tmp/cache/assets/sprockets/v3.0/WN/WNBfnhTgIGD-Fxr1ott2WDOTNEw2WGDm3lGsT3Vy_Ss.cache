@@ -1,0 +1,43 @@
+{:uriI"—file://app/assets/javascripts/node_modules/is-ci/package.json?type=application/json&id=b36830417cf3814e47633e395583a53d3253a30e229f12dfd92a2fe5a690882f:ET:load_pathI"app/assets/javascripts;T:filenameI";app/assets/javascripts/node_modules/is-ci/package.json;T:	nameI"node_modules/is-ci/package;T:logical_pathI"$node_modules/is-ci/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "is-ci",
+  "version": "1.2.1",
+  "description": "Detect if the current environment is a CI server",
+  "bin": "bin.js",
+  "main": "index.js",
+  "dependencies": {
+    "ci-info": "^1.5.0"
+  },
+  "devDependencies": {
+    "clear-require": "^1.0.1",
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson/is-ci.git"
+  },
+  "keywords": [
+    "ci",
+    "continuous",
+    "integration",
+    "test",
+    "detect"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/is-ci/issues"
+  },
+  "homepage": "https://github.com/watson/is-ci",
+  "coordinates": [
+    55.778255,
+    12.593033
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ifile-digest://app/assets/javascripts/node_modules/is-ci/package.json;TTF:charsetI"
+utf-8;F:digest"%ª‡£ô–8§š#æìÚ»7­Åƒÿ¿‚ßÿÄÁ©6°:lengthi:dependencies_digest"%ìî—‹UYs3^H[3lXuî¤ÌNk>‘Õ’ÎÃ:idI"Eb36830417cf3814e47633e395583a53d3253a30e229f12dfd92a2fe5a690882f;F:
+mtimel+Q¢´e

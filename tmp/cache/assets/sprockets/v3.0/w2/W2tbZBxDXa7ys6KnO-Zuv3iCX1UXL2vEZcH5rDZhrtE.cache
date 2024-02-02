@@ -1,0 +1,25 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/vue-router/vetur/tags.json?type=application/json&id=5ac99f8906d86bec2f8d4775a65c52db6b2341b6881df5f89060328ef16402ad:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/vue-router/vetur/tags.json;T:	nameI"'node_modules/vue-router/vetur/tags;T:logical_pathI",node_modules/vue-router/vetur/tags.json;T:content_typeI"application/json;T:sourceI"É{
+  "router-view": {
+    "attributes": ["name"],
+    "description": "Component that renders the matched component for the current location. Components rendered by `<router-view>` can also contain their own `<router-view>` to render nested routes."
+  },
+  "router-link": {
+    "attributes": [
+      "to",
+      "replace",
+      "append",
+      "tag",
+      "active-class",
+      "exact",
+      "event",
+      "exact-active-class",
+      "aria-current-value"
+    ],
+    "description": "Component that renders an `<a>` with the correct `href` attribute and click listeners to trigger a local navigation when clicked. Can also customize its rendering by providing the `custom` prop and using its `v-slot` API."
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/vue-router/vetur/tags.json;TTF:charsetI"
+utf-8;F:digest"%ã‰,¢Ùİ4¬5Ë“p’~ö¹8G"’èQ*ÊP:lengthiÉ:dependencies_digest"%^°+]N¥+«5æœíS *°•p¢CÄ]k˜‹KNH:idI"E5ac99f8906d86bec2f8d4775a65c52db6b2341b6881df5f89060328ef16402ad;F:
+mtimel+S¢´e

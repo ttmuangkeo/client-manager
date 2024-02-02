@@ -1,0 +1,43 @@
+{:uriI"®file://app/assets/javascripts/node_modules/webpack/schemas/plugins/IgnorePlugin.json?type=application/json&id=d36217d1abebd8d9c02b41f46d44775e3ad96c9c5525468f76ef2358e7ae1446:ET:load_pathI"app/assets/javascripts;T:filenameI"Rapp/assets/javascripts/node_modules/webpack/schemas/plugins/IgnorePlugin.json;T:	nameI"6node_modules/webpack/schemas/plugins/IgnorePlugin;T:logical_pathI";node_modules/webpack/schemas/plugins/IgnorePlugin.json;T:content_typeI"application/json;T:sourceI"ν{
+  "title": "IgnorePluginOptions",
+  "oneOf": [
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "contextRegExp": {
+          "description": "A RegExp to test the context (directory) against",
+          "instanceof": "RegExp",
+          "tsType": "RegExp"
+        },
+        "resourceRegExp": {
+          "description": "A RegExp to test the request against",
+          "instanceof": "RegExp",
+          "tsType": "RegExp"
+        }
+      }
+    },
+    {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "checkContext": {
+          "description": "A filter function for context",
+          "instanceof": "Function",
+          "tsType": "((context: string) => boolean)"
+        },
+        "checkResource": {
+          "description": "A filter function for resource and context",
+          "instanceof": "Function",
+          "tsType": "((resource: string, context: string) => boolean)"
+        }
+      }
+    }
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"`file-digest://app/assets/javascripts/node_modules/webpack/schemas/plugins/IgnorePlugin.json;TTF:charsetI"
+utf-8;F:digest"%)€φ.ΑiνσÒgk«ΈΗ'£ω®Ό4wωÿ¤:lengthiν:dependencies_digest"%Ρμ*Qα…9|T΄κ„µ1΅Ό§w£¨
+oz¥ς:idI"Ed36217d1abebd8d9c02b41f46d44775e3ad96c9c5525468f76ef2358e7ae1446;F:
+mtimel+TΆ΄e

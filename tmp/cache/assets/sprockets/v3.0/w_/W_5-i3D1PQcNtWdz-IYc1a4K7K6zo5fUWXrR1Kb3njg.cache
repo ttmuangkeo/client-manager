@@ -1,0 +1,40 @@
+{:uriI"¦file://app/assets/javascripts/node_modules/clipboard/demo/constructor-selector.html?type=text/html&id=bdba3adbcaf50d82aa7c6f5bfa9cdb71c85a3dd0f53574ac4acf9c9eaccb44a7:ET:load_pathI"app/assets/javascripts;T:filenameI"Qapp/assets/javascripts/node_modules/clipboard/demo/constructor-selector.html;T:	nameI"5node_modules/clipboard/demo/constructor-selector;T:logical_pathI":node_modules/clipboard/demo/constructor-selector.html;T:content_typeI"text/html;T:sourceI"<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>constructor-selector</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <!-- 1. Define some markup -->
+    <button class="btn" data-clipboard-text="1">Copy</button>
+    <button class="btn" data-clipboard-text="2">Copy</button>
+    <button class="btn" data-clipboard-text="3">Copy</button>
+
+    <!-- 2. Include library -->
+    <script src="../dist/clipboard.min.js"></script>
+
+    <!-- 3. Instantiate clipboard by passing a string selector -->
+    <script>
+      var clipboard = new ClipboardJS('.btn');
+
+      clipboard.on('success', function (e) {
+        console.info('Action:', e.action);
+        console.info('Text:', e.text);
+        console.info('Trigger:', e.trigger);
+      });
+
+      clipboard.on('error', function (e) {
+        console.info('Action:', e.action);
+        console.info('Text:', e.text);
+        console.info('Trigger:', e.trigger);
+      });
+    </script>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"_file-digest://app/assets/javascripts/node_modules/clipboard/demo/constructor-selector.html;TTF:charsetI"
+utf-8;F:digest"%û‰DLæÇ…‘[uRÇ0Áså#¶ìWú˜œ'¶«j	/ž:lengthi:dependencies_digest"%Ê[b
+¦â™SMv[Q"îþÔ÷+ ãHãøö@ƒ¹§ù¼:idI"Ebdba3adbcaf50d82aa7c6f5bfa9cdb71c85a3dd0f53574ac4acf9c9eaccb44a7;F:
+mtimel+R¢´e

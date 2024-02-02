@@ -1,0 +1,69 @@
+{:uriI"ïfile://app/assets/javascripts/node_modules/del/package.json?type=application/json&id=eae3a13f6a7e16e1f97ef8341217186a5d94fe05e783c9d22335089e0e0d0033:ET:load_pathI"app/assets/javascripts;T:filenameI"9app/assets/javascripts/node_modules/del/package.json;T:	nameI"node_modules/del/package;T:logical_pathI""node_modules/del/package.json;T:content_typeI"application/json;T:sourceI"‰{
+	"name": "del",
+	"version": "4.1.1",
+	"description": "Delete files and folders",
+	"license": "MIT",
+	"repository": "sindresorhus/del",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"delete",
+		"files",
+		"folders",
+		"directories",
+		"del",
+		"remove",
+		"destroy",
+		"trash",
+		"unlink",
+		"clean",
+		"cleaning",
+		"cleanup",
+		"rm",
+		"rmrf",
+		"rimraf",
+		"rmdir",
+		"glob",
+		"gulpfriendly",
+		"file",
+		"folder",
+		"directory",
+		"dir",
+		"fs",
+		"filesystem"
+	],
+	"dependencies": {
+		"@types/glob": "^7.1.1",
+		"globby": "^6.1.0",
+		"is-path-cwd": "^2.0.0",
+		"is-path-in-cwd": "^2.0.0",
+		"p-map": "^2.0.0",
+		"pify": "^4.0.1",
+		"rimraf": "^2.6.3"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"make-dir": "^2.1.0",
+		"tempy": "^0.2.1",
+		"tsd": "^0.7.1",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Gfile-digest://app/assets/javascripts/node_modules/del/package.json;TTF:charsetI"
+utf-8;F:digest"%ê<›kwl⁄Ñ™ˇ?∂ÑãÇa˜"w4(∂UfÒ cbç˘:lengthi‰:dependencies_digest"%`√:Ñ*˜ö/WL-sÚ%	vI÷[ﬂœ@‚¨£≤¬e&æeñ:idI"Eeae3a13f6a7e16e1f97ef8341217186a5d94fe05e783c9d22335089e0e0d0033;F:
+mtimel+Q¢¥e

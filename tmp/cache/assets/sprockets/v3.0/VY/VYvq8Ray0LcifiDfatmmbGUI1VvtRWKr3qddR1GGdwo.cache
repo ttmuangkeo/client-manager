@@ -1,0 +1,31 @@
+{:uriI"õfile://app/assets/javascripts/node_modules/@types/d3/package.json?type=application/json&id=3b78daca66a80aae99600888ce8f0ef1d16d46e42a34ca29d1c7ed75a9ec19be:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/@types/d3/package.json;T:	nameI"#node_modules/@types/d3/package;T:logical_pathI"(node_modules/@types/d3/package.json;T:content_typeI"application/json;T:sourceI"—{
+    "name": "@types/d3",
+    "version": "3.5.38",
+    "description": "TypeScript definitions for d3JS",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Alex Ford",
+            "url": "https://github.com/gustavderdrache"
+        },
+        {
+            "name": "Boris Yankov",
+            "url": "https://github.com/borisyankov"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "peerDependencies": {},
+    "typesPublisherContentHash": "b5b2b34469a559afab73ff387e8652650ff3007e8cce493caad789adeae0b517",
+    "typeScriptVersion": "2.0"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/@types/d3/package.json;TTF:charsetI"
+utf-8;F:digest"%áYÖÓΩ—XrB·“˜õ∏x«ë
+_¥o··FıÖ£·÷8:lengthi—:dependencies_digest"%{2tv2Alèÿü◊yxÙæ˙ÆOË}*16_B´D^†:idI"E3b78daca66a80aae99600888ce8f0ef1d16d46e42a34ca29d1c7ed75a9ec19be;F:
+mtimel+R¢¥e

@@ -1,0 +1,60 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/d3-scale-chromatic/package.json?type=application/json&id=048d8a81a8226246299c9da413870df246636e433429ee81cf7f1ccdada73d18:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/d3-scale-chromatic/package.json;T:	nameI",node_modules/d3-scale-chromatic/package;T:logical_pathI"1node_modules/d3-scale-chromatic/package.json;T:content_typeI"application/json;T:sourceI"Æ{
+  "name": "d3-scale-chromatic",
+  "version": "3.0.0",
+  "description": "Sequential, diverging and categorical color schemes.",
+  "homepage": "https://d3js.org/d3-scale-chromatic/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3/d3-scale-chromatic.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-module",
+    "color",
+    "scale",
+    "sequential",
+    "colorbrewer"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  },
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "src/**/*.js"
+  ],
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "jsdelivr": "dist/d3-scale-chromatic.min.js",
+  "unpkg": "dist/d3-scale-chromatic.min.js",
+  "exports": {
+    "umd": "./dist/d3-scale-chromatic.min.js",
+    "default": "./src/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "d3-color": "1 - 3",
+    "d3-interpolate": "1 - 3"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "mocha": "8",
+    "rollup": "2",
+    "rollup-plugin-terser": "7"
+  },
+  "scripts": {
+    "test": "mocha 'test/**/*-test.js' && eslint src test",
+    "prepublishOnly": "rm -rf dist && yarn test && rollup -c",
+    "postpublish": "git push && git push --tags && cd ../d3.github.com && git pull && cp ../${npm_package_name}/dist/${npm_package_name}.js ${npm_package_name}.v${npm_package_version%%.*}.js && cp ../${npm_package_name}/dist/${npm_package_name}.min.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git add ${npm_package_name}.v${npm_package_version%%.*}.js ${npm_package_name}.v${npm_package_version%%.*}.min.js && git commit -m \"${npm_package_name} ${npm_package_version}\" && git push && cd -"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/d3-scale-chromatic/package.json;TTF:charsetI"
+utf-8;F:digest"%*Ctw?’ià¨Áø?Ö«fA{j¼Ñ‰L¶yAq:lengthiÆ:dependencies_digest"%K¢¶(ºÇ;xb^¡%e«Ýð1•RÑŒJ–Ÿ®éñŠ}I.:idI"E048d8a81a8226246299c9da413870df246636e433429ee81cf7f1ccdada73d18;F:
+mtimel+S¢´e

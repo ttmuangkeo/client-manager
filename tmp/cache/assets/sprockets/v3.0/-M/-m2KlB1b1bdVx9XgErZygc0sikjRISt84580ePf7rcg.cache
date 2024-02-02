@@ -1,0 +1,37 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/figgy-pudding/package.json?type=application/json&id=ff172767df6b6cc21130757a7054912143eeeb30daefb2b96f39dbfd774694de:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/figgy-pudding/package.json;T:	nameI"'node_modules/figgy-pudding/package;T:logical_pathI",node_modules/figgy-pudding/package.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "name": "figgy-pudding",
+  "version": "3.5.2",
+  "description": "Delicious, festive, cascading config/opts definitions",
+  "main": "index.js",
+  "files": [
+    "*.js",
+    "lib"
+  ],
+  "scripts": {
+    "prerelease": "npm t",
+    "postrelease": "npm publish && git push --follow-tags",
+    "pretest": "standard",
+    "release": "standard-version -s",
+    "test": "tap -J --100 --coverage test/*.js"
+  },
+  "repository": "https://github.com/npm/figgy-pudding",
+  "keywords": [
+    "config",
+    "options",
+    "yummy"
+  ],
+  "author": "Kat MarchÃ¡n <kzm@sykosomatic.org>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "standard-version": "^4.4.0",
+    "tap": "^12.0.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/figgy-pudding/package.json;TTF:charsetI"
+utf-8;F:digest"%ğâåé•‰a¤¿Í0ák…àÅØóà
+qqlWbp:lengthiØ:dependencies_digest"%?ƒÈÒÈÄôRm¯Zº–ì"¨1„°ô†æ89@¶?:idI"Eff172767df6b6cc21130757a7054912143eeeb30daefb2b96f39dbfd774694de;F:
+mtimel+Q¢´e

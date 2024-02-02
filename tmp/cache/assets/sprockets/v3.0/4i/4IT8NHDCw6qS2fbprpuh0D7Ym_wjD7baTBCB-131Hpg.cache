@@ -1,0 +1,93 @@
+{:uriI"»file://app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/semver/package.json?type=application/json&id=5f6c6c6b1933f4beb4657f065d15b72b7409cd0a832fad52cca6501c7562aadd:ET:load_pathI"app/assets/javascripts;T:filenameI"_app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/semver/package.json;T:	nameI"Cnode_modules/@vue/cli-shared-utils/node_modules/semver/package;T:logical_pathI"Hnode_modules/@vue/cli-shared-utils/node_modules/semver/package.json;T:content_typeI"application/json;T:sourceI"Ë{
+  "name": "semver",
+  "version": "7.5.4",
+  "description": "The semantic version parser used by npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint",
+    "template-oss-apply": "template-oss-apply --force"
+  },
+  "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.17.0",
+    "tap": "^16.0.0"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/node-semver.git"
+  },
+  "bin": {
+    "semver": "bin/semver.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "classes/",
+    "functions/",
+    "internal/",
+    "ranges/",
+    "index.js",
+    "preload.js",
+    "range.bnf"
+  ],
+  "tap": {
+    "timeout": 30,
+    "coverage-map": "map.js",
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "lru-cache": "^6.0.0"
+  },
+  "author": "GitHub Inc.",
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.17.0",
+    "engines": ">=10",
+    "ciVersions": [
+      "10.0.0",
+      "10.x",
+      "12.x",
+      "14.x",
+      "16.x",
+      "18.x"
+    ],
+    "npmSpec": "8",
+    "distPaths": [
+      "classes/",
+      "functions/",
+      "internal/",
+      "ranges/",
+      "index.js",
+      "preload.js",
+      "range.bnf"
+    ],
+    "allowPaths": [
+      "/classes/",
+      "/functions/",
+      "/internal/",
+      "/ranges/",
+      "/index.js",
+      "/preload.js",
+      "/range.bnf"
+    ],
+    "publish": "true"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"mfile-digest://app/assets/javascripts/node_modules/@vue/cli-shared-utils/node_modules/semver/package.json;TTF:charsetI"
+utf-8;F:digest"%§‡5æ8µ$ûO4æ…O‘=0?
+Ï¤¨6ªB:lengthiË:dependencies_digest"%u¢ì'¾t¾H4I%˜­ëÀÛvb®!fù¯ÑÙxÑØİO0:idI"E5f6c6c6b1933f4beb4657f065d15b72b7409cd0a832fad52cca6501c7562aadd;F:
+mtimel+S¢´e

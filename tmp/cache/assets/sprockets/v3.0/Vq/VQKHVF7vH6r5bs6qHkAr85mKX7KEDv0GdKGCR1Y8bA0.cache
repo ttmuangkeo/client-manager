@@ -1,0 +1,26 @@
+{:uriI"–file://app/assets/javascripts/node_modules/jsbn/package.json?type=application/json&id=5160223359279b7a7f03bcb25ffac66578661e314a1e0b5f9c0d629f985eacc2:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/jsbn/package.json;T:	nameI"node_modules/jsbn/package;T:logical_pathI"#node_modules/jsbn/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "jsbn",
+  "version": "0.1.1",
+  "description": "The jsbn library is a fast, portable implementation of large-number math in pure JavaScript, enabling public-key crypto and other applications on desktop and mobile browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyperlitch/jsbn.git"
+  },
+  "keywords": [
+    "biginteger",
+    "bignumber",
+    "big",
+    "integer"
+  ],
+  "author": "Tom Wu",
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/jsbn/package.json;TTF:charsetI"
+utf-8;F:digest"%TMµæU²Ÿç+F1ùñĞB!Ù)”:>:lengthi:dependencies_digest"%°Mrî$t²©§¬q[öDxÍ™Œ €4İ±I"q:idI"E5160223359279b7a7f03bcb25ffac66578661e314a1e0b5f9c0d629f985eacc2;F:
+mtimel+Q¢´e

@@ -1,0 +1,23 @@
+{:uriI"§file://app/assets/javascripts/node_modules/@webassemblyjs/leb128/package.json?type=application/json&id=6a5b0f8aff600a267ddcb153fd35f293a6e5309b561c995d82868524804285cb:ET:load_pathI"app/assets/javascripts;T:filenameI"Kapp/assets/javascripts/node_modules/@webassemblyjs/leb128/package.json;T:	nameI"/node_modules/@webassemblyjs/leb128/package;T:logical_pathI"4node_modules/@webassemblyjs/leb128/package.json;T:content_typeI"application/json;T:sourceI" {
+  "name": "@webassemblyjs/leb128",
+  "version": "1.9.0",
+  "description": "LEB128 decoder and encoder",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@xtuc/long": "4.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0440b420888c1f7701eb9762ec657775506b87d8"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/javascripts/node_modules/@webassemblyjs/leb128/package.json;TTF:charsetI"
+utf-8;F:digest"%qpĞÆ>‹$û:éZ.;«Ô¿›*m¿^ÍBLŒ°õ:lengthi :dependencies_digest"%§mGï¡Í$ATâ–¹wFÿ ùé‡aÖ@®øã•Ü¯:idI"E6a5b0f8aff600a267ddcb153fd35f293a6e5309b561c995d82868524804285cb;F:
+mtimel+Q¢´e

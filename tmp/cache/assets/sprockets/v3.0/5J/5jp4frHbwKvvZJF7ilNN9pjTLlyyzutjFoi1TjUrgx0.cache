@@ -1,0 +1,40 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/parse-asn1/package.json?type=application/json&id=9254efe5679d6151233c0d527412f7b588882161302a37461f68392a22e6dbe8:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/parse-asn1/package.json;T:	nameI"$node_modules/parse-asn1/package;T:logical_pathI")node_modules/parse-asn1/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "parse-asn1",
+  "version": "5.1.6",
+  "description": "utility library for parsing asn1 files for use with browserify-sign.",
+  "main": "index.js",
+  "files": [
+    "asn1.js",
+    "aesid.json",
+    "certificate.js",
+    "fixProc.js",
+    "index.js"
+  ],
+  "scripts": {
+    "unit": "node ./test",
+    "standard": "standard",
+    "test": "npm run standard && npm run unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crypto-browserify/parse-asn1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1.js": "^5.2.0",
+    "browserify-aes": "^1.0.0",
+    "evp_bytestokey": "^1.0.0",
+    "pbkdf2": "^3.0.3",
+    "safe-buffer": "^5.1.1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4",
+    "tape": "^5.0.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/parse-asn1/package.json;TTF:charsetI"
+utf-8;F:digest"%F˜gæ»ÄQ&ãÆª„imNNlf³-ßÌ;‹¿À:lengthi:dependencies_digest"%½³=ä¼*~–÷9ôy«Rú÷}7àü3+b©SÈÁ:idI"E9254efe5679d6151233c0d527412f7b588882161302a37461f68392a22e6dbe8;F:
+mtimel+Q¢´e

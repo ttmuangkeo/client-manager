@@ -1,0 +1,53 @@
+{:uriI"´file://app/assets/javascripts/node_modules/fast-glob/node_modules/glob-parent/package.json?type=application/json&id=1170019b568190f29fa93b3917b15553891d7f3a1db71ae5966babfa7720fd55:ET:load_pathI"app/assets/javascripts;T:filenameI"Xapp/assets/javascripts/node_modules/fast-glob/node_modules/glob-parent/package.json;T:	nameI"<node_modules/fast-glob/node_modules/glob-parent/package;T:logical_pathI"Anode_modules/fast-glob/node_modules/glob-parent/package.json;T:content_typeI"application/json;T:sourceI"Q{
+  "name": "glob-parent",
+  "version": "5.1.2",
+  "description": "Extract the non-magic parent path from a glob string.",
+  "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
+  "contributors": [
+    "Elan Shanker (https://github.com/es128)",
+    "Blaine Bublitz <blaine.bublitz@gmail.com>"
+  ],
+  "repository": "gulpjs/glob-parent",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 6"
+  },
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "nyc mocha --async-only",
+    "azure-pipelines": "nyc mocha --async-only --reporter xunit -O output=test.xunit",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "dependencies": {
+    "is-glob": "^4.0.1"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.11",
+    "eslint": "^2.13.1",
+    "eslint-config-gulp": "^3.0.1",
+    "expect": "^1.20.2",
+    "mocha": "^6.0.2",
+    "nyc": "^13.3.0"
+  },
+  "keywords": [
+    "glob",
+    "parent",
+    "strip",
+    "path",
+    "dirname",
+    "directory",
+    "base",
+    "wildcard"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ffile-digest://app/assets/javascripts/node_modules/fast-glob/node_modules/glob-parent/package.json;TTF:charsetI"
+utf-8;F:digest"%…Šùª'Ïæî¡ÏÑ«½¡ZĞÌÈ~fè‹:ÒIú¸ßmÑ1’:lengthiQ:dependencies_digest"%ÔS™4Rµf­!çÕßjTlì¡ıÓŸÊ+ªéßòÑS:idI"E1170019b568190f29fa93b3917b15553891d7f3a1db71ae5966babfa7720fd55;F:
+mtimel+Q¢´e

@@ -1,0 +1,50 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/is-wsl/package.json?type=application/json&id=ad9dbf4f5e016b6b9fa27273d0cfb7e86d8e4a88aac63aa24ddc052be354122e:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/is-wsl/package.json;T:	nameI" node_modules/is-wsl/package;T:logical_pathI"%node_modules/is-wsl/package.json;T:content_typeI"application/json;T:sourceI"{
+	"name": "is-wsl",
+	"version": "2.2.0",
+	"description": "Check if the process is running inside Windows Subsystem for Linux (Bash on Windows)",
+	"license": "MIT",
+	"repository": "sindresorhus/is-wsl",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"check",
+		"wsl",
+		"windows",
+		"subsystem",
+		"linux",
+		"detect",
+		"bash",
+		"process",
+		"console",
+		"terminal",
+		"is"
+	],
+	"dependencies": {
+		"is-docker": "^2.0.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"clear-module": "^3.2.0",
+		"proxyquire": "^2.1.0",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/is-wsl/package.json;TTF:charsetI"
+utf-8;F:digest"%²<®'=lø	ê¬£Ã÷ëÝó7N]±¼ç\“ÍñÎ˜Ÿ:lengthi:dependencies_digest"%j@â»?B¹¢]<ñíGŒÀÌp¬+eÌqní“CüÈ:idI"Ead9dbf4f5e016b6b9fa27273d0cfb7e86d8e4a88aac63aa24ddc052be354122e;F:
+mtimel+Q¢´e

@@ -1,0 +1,15 @@
+{:uriI"•file://app/assets/javascripts/node_modules/d3-time-format/locale/fr-FR.json?type=application/json&id=0258ce6fe649991496169693285bb6205e9fc4b15b1e82c112d8d9290eff5bff:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/d3-time-format/locale/fr-FR.json;T:	nameI"-node_modules/d3-time-format/locale/fr-FR;T:logical_pathI"2node_modules/d3-time-format/locale/fr-FR.json;T:content_typeI"application/json;T:sourceI"{
+  "dateTime": "%A %e %B %Y √† %X",
+  "date": "%d/%m/%Y",
+  "time": "%H:%M:%S",
+  "periods": ["AM", "PM"],
+  "days": ["dimanche", "lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi"],
+  "shortDays": ["dim.", "lun.", "mar.", "mer.", "jeu.", "ven.", "sam."],
+  "months": ["janvier", "f√©vrier", "mars", "avril", "mai", "juin", "juillet", "ao√ªt", "septembre", "octobre", "novembre", "d√©cembre"],
+  "shortMonths": ["janv.", "f√©vr.", "mars", "avr.", "mai", "juin", "juil.", "ao√ªt", "sept.", "oct.", "nov.", "d√©c."]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/d3-time-format/locale/fr-FR.json;TTF:charsetI"
+utf-8;F:digest"%Òz+à¨s?Rv#·{À3b»0dah|-#7j,g†:lengthi:dependencies_digest"%“ÉÛttÕhÉ4$mMµã.ú*ãê ùôÿŒﬁ’U:idI"E0258ce6fe649991496169693285bb6205e9fc4b15b1e82c112d8d9290eff5bff;F:
+mtimel+R¢¥e

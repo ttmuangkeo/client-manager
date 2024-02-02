@@ -1,0 +1,20 @@
+{:uriI"–file://app/assets/javascripts/node_modules/ajv-formats/node_modules/ajv/dist/refs/json-schema-2019-09/meta/format.json?type=application/json&id=1ad090b5468b48db1e70df47c4999b793b529f025b9085e70998d337394768bf:ET:load_pathI"app/assets/javascripts;T:filenameI"tapp/assets/javascripts/node_modules/ajv-formats/node_modules/ajv/dist/refs/json-schema-2019-09/meta/format.json;T:	nameI"Xnode_modules/ajv-formats/node_modules/ajv/dist/refs/json-schema-2019-09/meta/format;T:logical_pathI"]node_modules/ajv-formats/node_modules/ajv/dist/refs/json-schema-2019-09/meta/format.json;T:content_typeI"application/json;T:sourceI"w{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "https://json-schema.org/draft/2019-09/meta/format",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2019-09/vocab/format": true
+  },
+  "$recursiveAnchor": true,
+
+  "title": "Format vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "format": {"type": "string"}
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"}file-digest://app/assets/javascripts/node_modules/ajv-formats/node_modules/ajv/dist/refs/json-schema-2019-09/meta/format.json;TTF:charsetI"
+utf-8;F:digest"%é˜»Ã©‰
+JÌ#n|´≥¶0Ú±Í˚ﬁÌ/à,›»:lengthiw:dependencies_digest"%ΩBªœQ&çÑyI∫#Ú_	qôê?=˙6}£éÄKI:idI"E1ad090b5468b48db1e70df47c4999b793b529f025b9085e70998d337394768bf;F:
+mtimel+S¢¥e

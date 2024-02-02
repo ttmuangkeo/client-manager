@@ -1,0 +1,59 @@
+{:uriI"®file://app/assets/javascripts/node_modules/datamaps/src/examples/custom-map-data.html?type=text/html&id=142267cd16121d1192e9730ef089015692316ee4ad2648333e5b2f9e8bcdf695:ET:load_pathI"app/assets/javascripts;T:filenameI"Sapp/assets/javascripts/node_modules/datamaps/src/examples/custom-map-data.html;T:	nameI"7node_modules/datamaps/src/examples/custom-map-data;T:logical_pathI"<node_modules/datamaps/src/examples/custom-map-data.html;T:content_typeI"text/html;T:sourceI"Ó<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
+  <!-- I recommend you host this file on your own, since this will change without warning -->
+  <script src="/src/rel/datamaps.usa.js?v=1"></script>
+  <h2>Datamaps New York Test</h2>
+  <p><a href="http://datamaps.github.io/">DataMaps Project Homepage</a>, Counties referred to by their <a href="http://en.wikipedia.org/wiki/List_of_counties_in_New_York">FIPS code</a></p>
+  <div id="container1" style="position: relative; width: 500px; height: 450px;"></div>
+ 
+     
+     <script>
+       //basic map config with custom fills, mercator projection
+      var map = new Datamap({
+        scope: 'subunits-ny',
+        element: document.getElementById('container1'),
+        projection: '',
+        geographyConfig: {
+          dataUrl: 'test.json'
+        },
+        setProjection: function(element) {
+          var projection = d3.geo.equirectangular()
+            .center([-72, 43])
+            .rotate([4.4, 0])
+            .scale(4000)
+            .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+          var path = d3.geo.path()
+            .projection(projection);
+          
+          return {path: path, projection: projection};
+        },
+        fills: {
+          defaultFill: '#f0af0a',
+          lt50: 'rgba(0,244,244,0.9)',
+          gt50: 'red'
+        },
+        
+        data: {
+          '071': {fillKey: 'lt50' },
+          '001': {fillKey: 'gt50' }       
+        }
+      });
+
+      map.bubbles([
+        {longitude: -77, latitude: 43, radius: 30, fillKey: 'gt50'}
+      ], {
+        popupOnHover: false,
+        highlightOnHover: false
+      });
+
+
+      
+     </script>
+</body>;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"afile-digest://app/assets/javascripts/node_modules/datamaps/src/examples/custom-map-data.html;TTF:charsetI"
+utf-8;F:digest"%†ÓÖ8π∫ºÅf‡c«níÇ˛∆2∞ôôÁzŒÇ‘Ô˜n‚3:lengthiÓ:dependencies_digest"%"ïf)4wL”ç™ï][®§Æ6¥V5Œ¯RÖ…:idI"E142267cd16121d1192e9730ef089015692316ee4ad2648333e5b2f9e8bcdf695;F:
+mtimel+U¢¥e

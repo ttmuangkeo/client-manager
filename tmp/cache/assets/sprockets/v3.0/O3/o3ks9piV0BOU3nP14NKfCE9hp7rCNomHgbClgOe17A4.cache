@@ -1,0 +1,31 @@
+{:uriI"©file://app/assets/javascripts/node_modules/css-select-base-adapter/package.json?type=application/json&id=d91695ed578d3f118e0a80472ff7ccd170f3d6fbcac78359694d04e795b0b70e:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/css-select-base-adapter/package.json;T:	nameI"1node_modules/css-select-base-adapter/package;T:logical_pathI"6node_modules/css-select-base-adapter/package.json;T:content_typeI"application/json;T:sourceI"ú{
+  "name": "css-select-base-adapter",
+  "version": "0.1.1",
+  "description": "Provides some base functions needed by a css-select adapter so that you don't have to implement the whole thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nrkn/css-select-base-adapter.git"
+  },
+  "keywords": [
+    "css",
+    "select",
+    "adapter",
+    "css-select"
+  ],
+  "bugs": {
+    "url": "https://github.com/nrkn/css-select-base-adapter/issues"
+  },
+  "homepage": "https://github.com/nrkn/css-select-base-adapter#readme",
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"[file-digest://app/assets/javascripts/node_modules/css-select-base-adapter/package.json;TTF:charsetI"
+utf-8;F:digest"%"¢Ó¸4ÈXçpA_äÚ4∆º.≥Ç∆_
+ÉÜ>¢lê`‚ﬁF:lengthiú:dependencies_digest"% Üo	…JÕ¥&®~%⁄¯I‚”Ã≠€yÖŸ˘PÄD::idI"Ed91695ed578d3f118e0a80472ff7ccd170f3d6fbcac78359694d04e795b0b70e;F:
+mtimel+Q¢¥e

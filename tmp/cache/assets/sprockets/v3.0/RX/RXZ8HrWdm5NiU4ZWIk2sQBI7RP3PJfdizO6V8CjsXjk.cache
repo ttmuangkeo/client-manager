@@ -1,0 +1,41 @@
+{:uriI" file://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/serialize-javascript/package.json?type=application/json&id=359bf8a3503e98fb5ce217dc417881fc4de3a39d651c7c223b8c7099a9084a36:ET:load_pathI"app/assets/javascripts;T:filenameI"napp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/serialize-javascript/package.json;T:	nameI"Rnode_modules/@vue/cli-plugin-eslint/node_modules/serialize-javascript/package;T:logical_pathI"Wnode_modules/@vue/cli-plugin-eslint/node_modules/serialize-javascript/package.json;T:content_typeI"application/json;T:sourceI"¢{
+  "name": "serialize-javascript",
+  "version": "6.0.2",
+  "description": "Serialize JavaScript to a superset of JSON that includes regular expressions and functions.",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node -v && node test/benchmark/serialize.js",
+    "test": "nyc --reporter=lcov mocha test/unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahoo/serialize-javascript.git"
+  },
+  "keywords": [
+    "serialize",
+    "serialization",
+    "javascript",
+    "js",
+    "json"
+  ],
+  "author": "Eric Ferraiuolo <edf@ericf.me>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/yahoo/serialize-javascript/issues"
+  },
+  "homepage": "https://github.com/yahoo/serialize-javascript",
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "chai": "^4.1.0",
+    "mocha": "^10.0.0",
+    "nyc": "^15.0.0"
+  },
+  "dependencies": {
+    "randombytes": "^2.1.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"|file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/serialize-javascript/package.json;TTF:charsetI"
+utf-8;F:digest"%é‰ÂûÜ¥r@d( ©x[0å∞˜DÛ˜º˘‰ô:lengthi¢:dependencies_digest"%Ëgçÿ[D§K ˝$˚‹séNá4≤’Ò£⁄ùä≈Ûr2,ö:idI"E359bf8a3503e98fb5ce217dc417881fc4de3a39d651c7c223b8c7099a9084a36;F:
+mtimel+Q¢¥e

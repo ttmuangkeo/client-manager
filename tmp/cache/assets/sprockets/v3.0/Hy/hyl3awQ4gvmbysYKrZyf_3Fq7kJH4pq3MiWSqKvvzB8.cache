@@ -1,0 +1,54 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/postcss-colormin/package.json?type=application/json&id=f2756cb0cb4a39f770c1b113fa4d78c5394bdd6a0a1c2f5378441e1995f07d2d:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/postcss-colormin/package.json;T:	nameI"*node_modules/postcss-colormin/package;T:logical_pathI"/node_modules/postcss-colormin/package.json;T:content_typeI"application/json;T:sourceI"b{
+  "name": "postcss-colormin",
+  "version": "4.0.3",
+  "description": "Minify colors in your CSS files with PostCSS.",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "LICENSE-MIT"
+  ],
+  "scripts": {
+    "prepublish": "cross-env BABEL_ENV=publish babel-node ./src/generate.js && babel src --out-dir dist --ignore /__tests__/,src/generate.js"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "compression",
+    "css",
+    "minify",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "cross-env": "^5.0.0",
+    "css-color-names": "0.0.4",
+    "write-file": "^1.0.0"
+  },
+  "homepage": "https://github.com/cssnano/cssnano",
+  "author": {
+    "name": "Ben Briggs",
+    "email": "beneb.info@gmail.com",
+    "url": "http://beneb.info"
+  },
+  "repository": "cssnano/cssnano",
+  "dependencies": {
+    "browserslist": "^4.0.0",
+    "color": "^3.0.0",
+    "has": "^1.0.0",
+    "postcss": "^7.0.0",
+    "postcss-value-parser": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cssnano/cssnano/issues"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/postcss-colormin/package.json;TTF:charsetI"
+utf-8;F:digest"%;hv½Cª©¦³JP¼áäM¢œª(5ªÂ¶/à‹:lengthib:dependencies_digest"%è/_T¨ÂÇË:—TB¨«iÞ`°ÖÃ~V¹¾I>FË:idI"Ef2756cb0cb4a39f770c1b113fa4d78c5394bdd6a0a1c2f5378441e1995f07d2d;F:
+mtimel+Q¢´e

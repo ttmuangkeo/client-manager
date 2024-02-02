@@ -1,0 +1,34 @@
+{:uriI"¶file://app/assets/javascripts/node_modules/websocket-extensions/package.json?type=application/json&id=32d6c68357169791cc73bfecfe47cb823b023513b9d25f3de56c2001cd3c233d:ET:load_pathI"app/assets/javascripts;T:filenameI"Japp/assets/javascripts/node_modules/websocket-extensions/package.json;T:	nameI".node_modules/websocket-extensions/package;T:logical_pathI"3node_modules/websocket-extensions/package.json;T:content_typeI"application/json;T:sourceI"ﬂ{
+          "name": "websocket-extensions",
+          "description": "Generic extension manager for WebSocket connections",
+          "homepage": "http://github.com/faye/websocket-extensions-node",
+          "author": "James Coglan <jcoglan@gmail.com> (http://jcoglan.com/)",
+          "keywords": [
+                    "websocket"
+          ],
+          "license": "Apache-2.0",
+          "version": "0.1.4",
+          "engines": {
+                    "node": ">=0.8.0"
+          },
+          "files": [
+                    "lib"
+          ],
+          "main": "./lib/websocket_extensions",
+          "devDependencies": {
+                    "jstest": "*"
+          },
+          "scripts": {
+                    "test": "jstest spec/runner.js"
+          },
+          "repository": {
+                    "type": "git",
+                    "url": "git://github.com/faye/websocket-extensions-node.git"
+          },
+          "bugs": "http://github.com/faye/websocket-extensions-node/issues"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Xfile-digest://app/assets/javascripts/node_modules/websocket-extensions/package.json;TTF:charsetI"
+utf-8;F:digest"%Çö`å’•ZA Ö∞˝RÅÆò.’?Ï,Ñì6ƒŸºËé:lengthiﬂ:dependencies_digest"%Ñ±KÀæ±˜◊göÌ^GK%z™OU+ø†&IÔZÊ(8ŸÛ:idI"E32d6c68357169791cc73bfecfe47cb823b023513b9d25f3de56c2001cd3c233d;F:
+mtimel+R¢¥e

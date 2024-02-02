@@ -1,0 +1,39 @@
+{:uriI"£file://app/assets/javascripts/node_modules/@vue/compiler-ssr/package.json?type=application/json&id=01b6715557fd73d3c1fa6fee57ebbae909f8192eca4d0a4038a85cb127da2a62:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/@vue/compiler-ssr/package.json;T:	nameI"+node_modules/@vue/compiler-ssr/package;T:logical_pathI"0node_modules/@vue/compiler-ssr/package.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "name": "@vue/compiler-ssr",
+  "version": "3.4.15",
+  "description": "@vue/compiler-ssr",
+  "main": "dist/compiler-ssr.cjs.js",
+  "types": "dist/compiler-ssr.d.ts",
+  "files": [
+    "dist"
+  ],
+  "buildOptions": {
+    "prod": false,
+    "formats": [
+      "cjs"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/core.git",
+    "directory": "packages/compiler-ssr"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/core/issues"
+  },
+  "homepage": "https://github.com/vuejs/core/tree/main/packages/compiler-ssr#readme",
+  "dependencies": {
+    "@vue/shared": "3.4.15",
+    "@vue/compiler-dom": "3.4.15"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ufile-digest://app/assets/javascripts/node_modules/@vue/compiler-ssr/package.json;TTF:charsetI"
+utf-8;F:digest"%ïK⁄Üç∂•±’å∑¶<÷Œ*≈ê™∆L/øAp§1Ω8d:lengthiÿ:dependencies_digest"%5¿îa nÆF√˙]ÛX;è
+$”Zd/”>Ù/ÔDaõâ:idI"E01b6715557fd73d3c1fa6fee57ebbae909f8192eca4d0a4038a85cb127da2a62;F:
+mtimel+R¢¥e

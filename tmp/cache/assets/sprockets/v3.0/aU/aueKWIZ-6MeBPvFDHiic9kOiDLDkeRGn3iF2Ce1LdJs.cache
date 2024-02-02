@@ -1,0 +1,51 @@
+{:uriI"šfile://app/assets/javascripts/node_modules/yargs/locales/es.json?type=application/json&id=9578a596d64e9ee93f5647d234755966fec5db2c367fff21aa22cd3928ae13c8:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/yargs/locales/es.json;T:	nameI""node_modules/yargs/locales/es;T:logical_pathI"'node_modules/yargs/locales/es.json;T:content_typeI"application/json;T:sourceI"]{
+  "Commands:": "Comandos:",
+  "Options:": "Opciones:",
+  "Examples:": "Ejemplos:",
+  "boolean": "booleano",
+  "count": "cuenta",
+  "string": "cadena de caracteres",
+  "number": "nÃºmero",
+  "array": "tabla",
+  "required": "requerido",
+  "default": "defecto",
+  "default:": "defecto:",
+  "choices:": "selecciÃ³n:",
+  "aliases:": "alias:",
+  "generated-value": "valor-generado",
+  "Not enough non-option arguments: got %s, need at least %s": {
+    "one": "Hacen falta argumentos no-opcionales: NÃºmero recibido %s, necesita por lo menos %s",
+    "other": "Hacen falta argumentos no-opcionales: NÃºmero recibido %s, necesita por lo menos %s"
+  },
+  "Too many non-option arguments: got %s, maximum of %s": {
+    "one": "Demasiados argumentos no-opcionales: NÃºmero recibido %s, mÃ¡ximo es %s",
+    "other": "Demasiados argumentos no-opcionales: NÃºmero recibido %s, mÃ¡ximo es %s"
+  },
+  "Missing argument value: %s": {
+    "one": "Falta argumento: %s",
+    "other": "Faltan argumentos: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Falta argumento requerido: %s",
+    "other": "Faltan argumentos requeridos: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Argumento desconocido: %s",
+    "other": "Argumentos desconocidos: %s"
+  },
+  "Invalid values:": "Valores invÃ¡lidos:",
+  "Argument: %s, Given: %s, Choices: %s": "Argumento: %s, Recibido: %s, Seleccionados: %s",
+  "Argument check failed: %s": "VerificaciÃ³n de argumento ha fallado: %s",
+  "Implications failed:": "Implicaciones fallidas:",
+  "Not enough arguments following: %s": "No hay suficientes argumentos despuÃ©s de: %s",
+  "Invalid JSON config file: %s": "Archivo de configuraciÃ³n JSON invÃ¡lido: %s",
+  "Path to JSON config file": "Ruta al archivo de configuraciÃ³n JSON",
+  "Show help": "Muestra ayuda",
+  "Show version number": "Muestra nÃºmero de versiÃ³n",
+  "Did you mean %s?": "Quisiste decir %s?"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/yargs/locales/es.json;TTF:charsetI"
+utf-8;F:digest"%^«¿İæDcáÊão»¯à5Ğ¨¿á>É•WÓZÉà :lengthi]:dependencies_digest"%¨NWã|§MdhjÜVÁ-œÀ?Œ–gé^]ëÒB:ûNŸ:idI"E9578a596d64e9ee93f5647d234755966fec5db2c367fff21aa22cd3928ae13c8;F:
+mtimel+S¢´e

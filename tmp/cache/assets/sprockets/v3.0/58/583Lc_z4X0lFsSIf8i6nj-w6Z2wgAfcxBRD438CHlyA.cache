@@ -1,0 +1,41 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/rgba-regex/package.json?type=application/json&id=6b2e0c6db3a551784af6da461a823b2ff8f44f76bfd703df8124bc5fdbad184d:ET:load_pathI"app/assets/javascripts;T:filenameI"@app/assets/javascripts/node_modules/rgba-regex/package.json;T:	nameI"$node_modules/rgba-regex/package;T:logical_pathI")node_modules/rgba-regex/package.json;T:content_typeI"application/json;T:sourceI"¿{
+  "name": "rgba-regex",
+  "description": "Regex for matching RGBA color strings.",
+  "author": "John Otander",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/rgba-regex.git"
+  },
+  "keywords": [
+    "css",
+    "regex",
+    "regexp",
+    "regexps",
+    "rgba",
+    "color",
+    "regular",
+    "expression"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/rgba-regex/issues"
+  },
+  "homepage": "https://github.com/johnotander/rgba-regex",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Nfile-digest://app/assets/javascripts/node_modules/rgba-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%)	àmŠ:’çÉGÂIéÎM•o1×rÜ9ŸÚí^:lengthi¿:dependencies_digest"%5OÂ÷>Ş+âÿO*Ó§oføÅëlâ¥`d!¨:idI"E6b2e0c6db3a551784af6da461a823b2ff8f44f76bfd703df8124bc5fdbad184d;F:
+mtimel+Q¢´e

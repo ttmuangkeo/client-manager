@@ -1,0 +1,49 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/cookie/package.json?type=application/json&id=e4255f7120c4945825e45b06c8ba0b9715be0c9e5da364bd07094ad52561134d:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/cookie/package.json;T:	nameI" node_modules/cookie/package;T:logical_pathI"%node_modules/cookie/package.json;T:content_typeI"application/json;T:sourceI"t{
+  "name": "cookie",
+  "description": "HTTP server cookie parsing and serialization",
+  "version": "0.5.0",
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cookie",
+    "cookies"
+  ],
+  "repository": "jshttp/cookie",
+  "devDependencies": {
+    "beautify-benchmark": "0.2.4",
+    "benchmark": "2.1.4",
+    "eslint": "7.32.0",
+    "eslint-plugin-markdown": "2.2.1",
+    "mocha": "9.2.2",
+    "nyc": "15.1.0",
+    "safe-buffer": "5.2.1",
+    "top-sites": "1.1.97"
+  },
+  "files": [
+    "HISTORY.md",
+    "LICENSE",
+    "README.md",
+    "SECURITY.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "bench": "node benchmark/index.js",
+    "lint": "eslint .",
+    "test": "mocha --reporter spec --bail --check-leaks test/",
+    "test-ci": "nyc --reporter=lcov --reporter=text npm test",
+    "test-cov": "nyc --reporter=html --reporter=text npm test",
+    "update-bench": "node scripts/update-benchmark.js",
+    "version": "node scripts/version-history.js && git add HISTORY.md"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/cookie/package.json;TTF:charsetI"
+utf-8;F:digest"%ŞR|zA}/,Gæ5ŠfH}sp«|Ô¤,•r—mñ?:lengthit:dependencies_digest"%õh#½8å°Ü ß´Úî[nWn‡fèô1œAğ:idI"Ee4255f7120c4945825e45b06c8ba0b9715be0c9e5da364bd07094ad52561134d;F:
+mtimel+Q¢´e

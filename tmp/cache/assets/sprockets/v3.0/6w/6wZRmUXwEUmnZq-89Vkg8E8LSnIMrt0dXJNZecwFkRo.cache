@@ -1,0 +1,51 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/@babel/parser/package.json?type=application/json&id=8e616b5c7ef3ae105b19a3e7007ec0e3f6db9b5af3e5712e4fe5d5738e34ab62:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/@babel/parser/package.json;T:	nameI"'node_modules/@babel/parser/package;T:logical_pathI",node_modules/@babel/parser/package.json;T:content_typeI"application/json;T:sourceI"®{
+  "name": "@babel/parser",
+  "version": "7.23.9",
+  "description": "A JavaScript parser",
+  "author": "The Babel Team (https://babel.dev/team)",
+  "homepage": "https://babel.dev/docs/en/next/babel-parser",
+  "bugs": "https://github.com/babel/babel/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3A%22pkg%3A+parser+%28babylon%29%22+is%3Aopen",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "babel",
+    "javascript",
+    "parser",
+    "tc39",
+    "ecmascript",
+    "@babel/parser"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-parser"
+  },
+  "main": "./lib/index.js",
+  "types": "./typings/babel-parser.d.ts",
+  "files": [
+    "bin",
+    "lib",
+    "typings/babel-parser.d.ts",
+    "index.cjs"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@babel/code-frame": "^7.23.5",
+    "@babel/helper-check-duplicate-nodes": "^7.22.5",
+    "@babel/helper-fixtures": "^7.23.4",
+    "@babel/helper-string-parser": "^7.23.4",
+    "@babel/helper-validator-identifier": "^7.22.20",
+    "charcodes": "^0.2.0"
+  },
+  "bin": "./bin/babel-parser.js",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/@babel/parser/package.json;TTF:charsetI"
+utf-8;F:digest"%Ðo=˜þžíÆD“Z"D«Í–sa½-ààô=É•5h©:lengthi®:dependencies_digest"%
+±þ‹÷y¢M2#EÔã<eNGñ°Ë¼Z¼S›°,Kë:idI"E8e616b5c7ef3ae105b19a3e7007ec0e3f6db9b5af3e5712e4fe5d5738e34ab62;F:
+mtimel+S¢´e

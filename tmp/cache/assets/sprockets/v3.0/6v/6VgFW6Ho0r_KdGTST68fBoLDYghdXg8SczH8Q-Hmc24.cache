@@ -1,0 +1,45 @@
+{:uriI"—file://app/assets/javascripts/node_modules/color/package.json?type=application/json&id=7a0dafab5bd8388ecfc4ed28b30fe459b664a79a720f2b1d4dafc278c99cee36:ET:load_pathI"app/assets/javascripts;T:filenameI";app/assets/javascripts/node_modules/color/package.json;T:	nameI"node_modules/color/package;T:logical_pathI"$node_modules/color/package.json;T:content_typeI"application/json;T:sourceI"Ñ{
+  "name": "color",
+  "version": "3.2.1",
+  "description": "Color conversion and manipulation with CSS string support",
+  "keywords": [
+    "color",
+    "colour",
+    "css"
+  ],
+  "authors": [
+    "Josh Junon <i.am.qix@gmail.com>",
+    "Heather Arthur <fayearthur@gmail.com>",
+    "Maxime Thirouin"
+  ],
+  "license": "MIT",
+  "repository": "Qix-/color",
+  "xo": {
+    "rules": {
+      "no-cond-assign": 0,
+      "new-cap": 0
+    }
+  },
+  "files": [
+    "CHANGELOG.md",
+    "LICENSE",
+    "index.js"
+  ],
+  "scripts": {
+    "pretest": "xo",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "color-convert": "^1.9.3",
+    "color-string": "^1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "9.0.2",
+    "xo": "0.12.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ifile-digest://app/assets/javascripts/node_modules/color/package.json;TTF:charsetI"
+utf-8;F:digest"%Ÿâ™zyø5~ÇìÐx/Nn×œ‡‡%‡ux€}zŒ:lengthiÑ:dependencies_digest"%âZ+u•¼­'uýP»Á´®¡ÄÂõ…%¥8iˆÝ+:idI"E7a0dafab5bd8388ecfc4ed28b30fe459b664a79a720f2b1d4dafc278c99cee36;F:
+mtimel+Q¢´e

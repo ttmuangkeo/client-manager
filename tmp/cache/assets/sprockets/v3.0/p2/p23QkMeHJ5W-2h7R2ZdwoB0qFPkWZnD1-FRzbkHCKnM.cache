@@ -1,0 +1,40 @@
+{:uriI"öfile://app/assets/javascripts/node_modules/js-queue/package.json?type=application/json&id=90ff1d01a6bc218e0e8512abd72cf306d59d2c489c4b6b39d17c0ab5d1aaa28f:ET:load_pathI"app/assets/javascripts;T:filenameI">app/assets/javascripts/node_modules/js-queue/package.json;T:	nameI""node_modules/js-queue/package;T:logical_pathI"'node_modules/js-queue/package.json;T:content_typeI"application/json;T:sourceI"Â{
+  "name": "js-queue",
+  "version": "2.0.2",
+  "description": "Simple JS queue with auto run for node and browsers",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIAEvangelist/js-queue.git"
+  },
+  "keywords": [
+    "queue",
+    "node",
+    "js",
+    "auto",
+    "run",
+    "execute",
+    "browser",
+    "react"
+  ],
+  "author": "Brandon Nozaki Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RIAEvangelist/js-queue/issues"
+  },
+  "homepage": "https://github.com/RIAEvangelist/js-queue#readme",
+  "dependencies": {
+    "easy-stack": "^1.0.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Lfile-digest://app/assets/javascripts/node_modules/js-queue/package.json;TTF:charsetI"
+utf-8;F:digest"%t(‘}Â†◊ñ≥¡{Ê`hFûn–sä,¯êAôπ®:lengthiÂ:dependencies_digest"%QK@aÍ∫oÂÖ¶4å§h∏‰∆ì∞∆ìw⁄kWÑŸ‹à:idI"E90ff1d01a6bc218e0e8512abd72cf306d59d2c489c4b6b39d17c0ab5d1aaa28f;F:
+mtimel+Q¢¥e

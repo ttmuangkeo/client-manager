@@ -1,0 +1,14 @@
+{:uriI"®file://app/assets/javascripts/node_modules/shapefile/test/string-property.json?type=application/json&id=217936185abd099e94291409bb31b56c2e99bc8ae3ce24caa0c5ad7a0e981ccd:ET:load_pathI"app/assets/javascripts;T:filenameI"Lapp/assets/javascripts/node_modules/shapefile/test/string-property.json;T:	nameI"0node_modules/shapefile/test/string-property;T:logical_pathI"5node_modules/shapefile/test/string-property.json;T:content_typeI"application/json;T:sourceI"Ü{
+  "type": "FeatureCollection",
+  "bbox": [1, 2, 7, 8],
+  "features": [
+    {"type": "Feature","properties": {},"geometry": {"type": "Point", "coordinates": [1, 2]}},
+    {"type": "Feature","properties": {"foo": "blue"},"geometry": {"type": "Point", "coordinates": [3, 4]}},
+    {"type": "Feature","properties": {"foo": "green"},"geometry": {"type": "Point", "coordinates": [7, 8]}}
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Zfile-digest://app/assets/javascripts/node_modules/shapefile/test/string-property.json;TTF:charsetI"
+utf-8;F:digest"%àHF•?Z˚·í ©¯eßW‚ù /¶’Âh&˚®Qf⁄:lengthiÜ:dependencies_digest"%(g?<©E¶õTcs0øÎ°9Yäèﬁ˙∞œﬂ:idI"E217936185abd099e94291409bb31b56c2e99bc8ae3ce24caa0c5ad7a0e981ccd;F:
+mtimel+S¢¥e

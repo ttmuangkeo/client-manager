@@ -1,0 +1,22 @@
+{:uriI"•file://app/assets/javascripts/node_modules/tryer/bower.json?type=application/json&id=79ca9d30cc467e97c493479789e7d5a68cd06ceb3ef400610e1eccd1251524c1:ET:load_pathI"app/assets/javascripts;T:filenameI"9app/assets/javascripts/node_modules/tryer/bower.json;T:	nameI"node_modules/tryer/bower;T:logical_pathI""node_modules/tryer/bower.json;T:content_typeI"application/json;T:sourceI"à{
+  "name": "tryer",
+  "version": "1.0.1",
+  "main": "lib/tryer.min.js",
+  "ignore": [
+    "AUTHORS",
+    "component.json",
+    "config",
+    "node_modules",
+    "package.json",
+    "README.md",
+    "src",
+    "test"
+  ]
+}
+
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Gfile-digest://app/assets/javascripts/node_modules/tryer/bower.json;TTF:charsetI"
+utf-8;F:digest"%1mª>#øë´ÎIY6K#;\
+{ßrÒsÃ®v¤œ:lengthià:dependencies_digest"%5!Aãã4¦?‹÷bú¶ox‰¢¹cäÙ¼ŠÂá@5:idI"E79ca9d30cc467e97c493479789e7d5a68cd06ceb3ef400610e1eccd1251524c1;F:
+mtimel+Q¢´e

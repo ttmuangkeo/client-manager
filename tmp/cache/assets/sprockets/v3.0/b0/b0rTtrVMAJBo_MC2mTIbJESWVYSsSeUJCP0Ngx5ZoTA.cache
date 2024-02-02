@@ -1,0 +1,49 @@
+{:uriI"ûfile://app/assets/javascripts/node_modules/browserslist/package.json?type=application/json&id=33bf48629ec8f0c6857c7046ac821215340b7574033a687f32e7adf6da223513:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/browserslist/package.json;T:	nameI"&node_modules/browserslist/package;T:logical_pathI"+node_modules/browserslist/package.json;T:content_typeI"application/json;T:sourceI"-{
+  "name": "browserslist",
+  "version": "4.22.3",
+  "description": "Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-env-preset",
+  "keywords": [
+    "caniuse",
+    "browsers",
+    "target"
+  ],
+  "funding": [
+    {
+      "type": "opencollective",
+      "url": "https://opencollective.com/browserslist"
+    },
+    {
+      "type": "tidelift",
+      "url": "https://tidelift.com/funding/github/npm/browserslist"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/ai"
+    }
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "browserslist/browserslist",
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001580",
+    "electron-to-chromium": "^1.4.648",
+    "node-releases": "^2.0.14",
+    "update-browserslist-db": "^1.0.13"
+  },
+  "engines": {
+    "node": "^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7"
+  },
+  "bin": {
+    "browserslist": "cli.js"
+  },
+  "types": "./index.d.ts",
+  "browser": {
+    "./node.js": "./browser.js",
+    "path": false
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/browserslist/package.json;TTF:charsetI"
+utf-8;F:digest"%ãBŸ_FéÛdªÅ∞°'Û¶SÃ·ñpQ\√1àD≤ªîb:lengthi-:dependencies_digest"%“7`-µîÀ[™Ñ*†·˝&UP°¨¨ŸpmnáäóΩo:idI"E33bf48629ec8f0c6857c7046ac821215340b7574033a687f32e7adf6da223513;F:
+mtimel+R¢¥e

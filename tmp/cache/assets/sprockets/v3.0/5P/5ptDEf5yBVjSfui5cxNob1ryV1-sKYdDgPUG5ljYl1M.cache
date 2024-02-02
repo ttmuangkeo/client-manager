@@ -1,0 +1,58 @@
+{:uriI"©file://app/assets/javascripts/node_modules/@ungap/structured-clone/package.json?type=application/json&id=74523218237e7d8c6c63c7d57f1bd6f9cec2620a189123eb26237887d03ff9c4:ET:load_pathI"app/assets/javascripts;T:filenameI"Mapp/assets/javascripts/node_modules/@ungap/structured-clone/package.json;T:	nameI"1node_modules/@ungap/structured-clone/package;T:logical_pathI"6node_modules/@ungap/structured-clone/package.json;T:content_typeI"application/json;T:sourceI"@{
+  "name": "@ungap/structured-clone",
+  "version": "1.2.0",
+  "description": "A structuredClone polyfill",
+  "main": "./cjs/index.js",
+  "scripts": {
+    "build": "npm run cjs && npm run rollup:json && npm run test",
+    "cjs": "ascjs esm cjs",
+    "coverage": "c8 report --reporter=text-lcov > ./coverage/lcov.info",
+    "rollup:json": "rollup --config rollup/json.config.js",
+    "test": "c8 node test/index.js"
+  },
+  "keywords": [
+    "recursion",
+    "structured",
+    "clone",
+    "algorithm"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.2",
+    "@rollup/plugin-terser": "^0.4.1",
+    "ascjs": "^5.0.1",
+    "c8": "^7.13.0",
+    "coveralls": "^3.1.1",
+    "rollup": "^3.21.4"
+  },
+  "module": "./esm/index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./esm/index.js",
+      "default": "./cjs/index.js"
+    },
+    "./json": {
+      "import": "./esm/json.js",
+      "default": "./cjs/json.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungap/structured-clone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ungap/structured-clone/issues"
+  },
+  "homepage": "https://github.com/ungap/structured-clone#readme"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"[file-digest://app/assets/javascripts/node_modules/@ungap/structured-clone/package.json;TTF:charsetI"
+utf-8;F:digest"%åÍÁß†ÍÿÕ{…ßxÖjEµ;™ºÈZš2`bxL¾¡:lengthi@:dependencies_digest"%SÅlçFgj&Âð C-XzH ÅCî[};0—®:idI"E74523218237e7d8c6c63c7d57f1bd6f9cec2620a189123eb26237887d03ff9c4;F:
+mtimel+R¢´e

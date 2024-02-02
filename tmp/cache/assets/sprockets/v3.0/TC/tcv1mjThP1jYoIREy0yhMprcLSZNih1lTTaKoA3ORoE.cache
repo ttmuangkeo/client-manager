@@ -1,0 +1,18 @@
+{:uriI"–file://app/assets/javascripts/node_modules/select/bower.json?type=application/json&id=ee3eefe810dd69a0333c324d956702936ceb29fea7587aaeccb8b3f97b373629:ET:load_pathI"app/assets/javascripts;T:filenameI":app/assets/javascripts/node_modules/select/bower.json;T:	nameI"node_modules/select/bower;T:logical_pathI"#node_modules/select/bower.json;T:content_typeI"application/json;T:sourceI"õ{
+  "name": "select",
+  "version": "1.1.0",
+  "description": "Programmatically select the text of a HTML element",
+  "license": "MIT",
+  "main": "dist/select.js",
+  "keywords": [
+    "range",
+    "select",
+    "selecting",
+    "selection"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Hfile-digest://app/assets/javascripts/node_modules/select/bower.json;TTF:charsetI"
+utf-8;F:digest"%›Õ,ÂÈ¦ôD}õ_5ƒ·±¢Bo¿³×‡ò¬]xÒ›Þ:lengthiõ:dependencies_digest"%é´‘F¤?›ÀîÛm?ðLôñQvH[ÇfZ%‹ºñ¸:idI"Eee3eefe810dd69a0333c324d956702936ceb29fea7587aaeccb8b3f97b373629;F:
+mtimel+Q¢´e

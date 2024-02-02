@@ -1,0 +1,45 @@
+{:uriI"œfile://app/assets/javascripts/node_modules/eventsource/example/index.html?type=text/html&id=e972af4425787775aaf572f2f972ca9c09a7d1f56eda9e842d7f5f1922c033a0:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/eventsource/example/index.html;T:	nameI"+node_modules/eventsource/example/index;T:logical_pathI"0node_modules/eventsource/example/index.html;T:content_typeI"text/html;T:sourceI"å<!DOCTYPE html>
+<html>
+<head>
+<style>
+.col {
+	float:left;
+	width:50%;
+	left:50%;
+}
+</style>
+</head>
+
+<body>
+<div class=col>
+  <h2>EventSource</h2>
+  <ul id=es-messages>
+  </ul>
+</div>
+
+<div class=col>
+  <h2>EventSourcePolyfill</h2>
+  <ul id=es-polyfill-messages>
+  </ul>
+</div>
+
+<script src=/eventsource-polyfill.js></script>
+
+<script>
+function subscribe(es, ul) {
+  es.addEventListener('server-time', function (e) {
+    var li = document.createElement("LI");
+    li.appendChild(document.createTextNode(e.data));
+    ul.appendChild(li);
+  });
+}
+
+subscribe(new EventSource('/sse'),         document.getElementById('es-messages'));
+subscribe(new EventSourcePolyfill('/sse'), document.getElementById('es-polyfill-messages'));
+</script>
+</body>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Ufile-digest://app/assets/javascripts/node_modules/eventsource/example/index.html;TTF:charsetI"
+utf-8;F:digest"%:„®<_¼¼ÕÆ?ÇÑXÀ©ø‡¸.Š¸†ÀŽ-Ž¼rY:lengthiå:dependencies_digest"%Û[2G!Lj‘ÄÉÏæ±`ÝÛCâ¸õÈËÃ,:idI"Ee972af4425787775aaf572f2f972ca9c09a7d1f56eda9e842d7f5f1922c033a0;F:
+mtimel+Q¢´e

@@ -1,0 +1,35 @@
+{:uriI"†file://app/assets/javascripts/node_modules/tty-browserify/package.json?type=application/json&id=0641baa5cca391d25029e0956c053145f053c800c14c7e81b00e80ca836ebb9e:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/tty-browserify/package.json;T:	nameI"(node_modules/tty-browserify/package;T:logical_pathI"-node_modules/tty-browserify/package.json;T:content_typeI"application/json;T:sourceI"j{
+  "name": "tty-browserify",
+  "version": "0.0.0",
+  "description": "the tty module from node core for browsers",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/tty-browserify.git"
+  },
+  "homepage": "https://github.com/substack/tty-browserify",
+  "keywords": [
+    "tty",
+    "browser",
+    "browserify"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/tty-browserify/package.json;TTF:charsetI"
+utf-8;F:digest"%ÅPÉÒ„*á∫∫øUÇ∏≠ΩÀç' #;Â∏`Ádr¨,:lengthij:dependencies_digest"%w˛ÁƒGäá¶Ü+ p\Ä¯¿˛h™¸!
+d]Jqf›,:idI"E0641baa5cca391d25029e0956c053145f053c800c14c7e81b00e80ca836ebb9e;F:
+mtimel+Q¢¥e

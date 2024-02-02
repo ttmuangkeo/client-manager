@@ -1,0 +1,96 @@
+{:uriI"¢file://app/assets/javascripts/node_modules/vue2-transitions/package.json?type=application/json&id=107e2fd342f13702c341e9be7729e6fa702a1b9588adf99254930bac3257336d:ET:load_pathI"app/assets/javascripts;T:filenameI"Fapp/assets/javascripts/node_modules/vue2-transitions/package.json;T:	nameI"*node_modules/vue2-transitions/package;T:logical_pathI"/node_modules/vue2-transitions/package.json;T:content_typeI"application/json;T:sourceI"ù{
+  "name": "vue2-transitions",
+  "version": "0.2.3",
+  "description": "Reusable component transitions",
+  "repository": {
+    "url": "cristij/vue2-transitions",
+    "type": "git"
+  },
+  "main": "dist/vue2-transitions.cjs.js",
+  "module": "dist/vue2-transitions.m.js",
+  "unpkg": "dist/vue-transitions",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "prepublishOnly": "npm test && npm run build",
+    "test": "test-vue-app",
+    "build": "bili",
+    "example": "poi",
+    "build:example": "poi build"
+  },
+  "author": {
+    "name": "cristij",
+    "email": "joracristi@gmail.com"
+  },
+  "license": "MIT",
+  "poi": {
+    "entry": "example/index.js",
+    "dist": "example/dist",
+    "homepage": "./",
+    "html": {
+      "template": "example/index.html"
+    }
+  },
+  "babel": {
+    "presets": [
+      [
+        "vue-app"
+      ]
+    ],
+    "plugins": [
+      "preval",
+      [
+        "component",
+        [
+          {
+            "libraryName": "element-ui",
+            "styleLibraryName": "theme-chalk"
+          }
+        ]
+      ]
+    ]
+  },
+  "bili": {
+    "format": [
+      "cjs",
+      "es",
+      "umd",
+      "umd-min"
+    ],
+    "banner": true,
+    "name": "vue2-transitions",
+    "plugins": [
+      "vue"
+    ],
+    "vue": {
+      "css": true
+    }
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^1.0.0",
+    "babel-plugin-preval": "^1.6.2",
+    "bili": "^1.3.3",
+    "element-ui": "^2.0.10",
+    "lodash.kebabcase": "^4.1.1",
+    "marked3": "^0.5.1",
+    "poi": "^9.3.10",
+    "prismjs": "^1.9.0",
+    "rollup-plugin-vue": "^2.5.2",
+    "sass-loader": "^6.0.6",
+    "test-vue-app": "^1.0.0",
+    "typeface-lato": "^0.0.44",
+    "v-tippy": "^1.0.2",
+    "vue": "^2.5.13",
+    "vue-github-badge": "^1.0.1",
+    "vue-test-utils": "^1.0.0-beta.2"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/javascripts/node_modules/vue2-transitions/package.json;TTF:charsetI"
+utf-8;F:digest"%ˆ'ÂÏŠº+ý”/7ú™{R‘P·WÍ
+r{
+¾š:lengthiù:dependencies_digest"%§J™Cyjz2.í.?s«PS:¸ouÝq"YÃæF­á:idI"E107e2fd342f13702c341e9be7729e6fa702a1b9588adf99254930bac3257336d;F:
+mtimel+Q¢´e

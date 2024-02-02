@@ -1,0 +1,35 @@
+{:uriI"Ÿfile://app/assets/javascripts/node_modules/vm-browserify/package.json?type=application/json&id=48bdc2594f401b00f6e3813c146c123378201819808869b4ad519332f6c465e3:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/vm-browserify/package.json;T:	nameI"'node_modules/vm-browserify/package;T:logical_pathI",node_modules/vm-browserify/package.json;T:content_typeI"application/json;T:sourceI"_{
+  "name": "vm-browserify",
+  "version": "1.1.2",
+  "description": "vm module for the browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/substack/vm-browserify.git"
+  },
+  "keywords": [
+    "vm",
+    "browser",
+    "eval"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^16.1.1",
+    "tape": "^4.11.0",
+    "tape-run": "^6.0.1"
+  },
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "scripts": {
+    "test": "browserify test/vm.js | tape-run"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Qfile-digest://app/assets/javascripts/node_modules/vm-browserify/package.json;TTF:charsetI"
+utf-8;F:digest"%\·Û*“	ùo=‚/Ž.H.}Ò’ÿýy×X:ø	L1‡:lengthi_:dependencies_digest"%ÈÒ0LË˜ß/˜[Y`£^@Gõ2»Žf!ƒþÂÜøÀ_:idI"E48bdc2594f401b00f6e3813c146c123378201819808869b4ad519332f6c465e3;F:
+mtimel+R¢´e

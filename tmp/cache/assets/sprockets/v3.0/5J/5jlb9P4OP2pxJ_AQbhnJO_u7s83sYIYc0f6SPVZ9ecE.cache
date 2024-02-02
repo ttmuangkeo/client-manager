@@ -1,0 +1,34 @@
+{:uriI"�file://app/assets/javascripts/node_modules/vee-validate/dist/locale/sq.json?type=application/json&id=02b0ca54436adf1a4d65588143a0af694a666a2efbaf8ec6ea8af9998b82ac78:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vee-validate/dist/locale/sq.json;T:	nameI"-node_modules/vee-validate/dist/locale/sq;T:logical_pathI"2node_modules/vee-validate/dist/locale/sq.json;T:content_typeI"application/json;T:sourceI"�{
+  "code": "sq",
+  "messages": {
+    "alpha": "{_field_} mund të përmbaj vetëm shkronja",
+    "alpha_dash": "{_field_} mund të përmbaj karaktere alfanumerike, shenja si viza dhe shenja të pikësimit",
+    "alpha_num": "{_field_} mund të përmbaj vetëm shenja alfanumerike",
+    "alpha_spaces": "{_field_} mund të përmbaj vetëm shkronja dhe hapësira",
+    "between": "{_field_} duhet të jetë në mes {min} dhe {max}",
+    "confirmed": "{_field_} e konfirmimit nuk përputhet",
+    "digits": "{_field_} duhet të jetë numerike dhe të përmbaj saktësisht {length} shifra",
+    "dimensions": "{_field_} duhet të jetë {width} piksela me {height} piksela",
+    "email": "{_field_} duhet të jetë e-mail valid",
+    "excluded": "Vlera {_field_} duhet të jetë vlerë valide",
+    "ext": "{_field_} duhet të jetë fajll valid",
+    "image": "{_field_} duhet të jetë fotografi",
+    "oneOf": "Vlera {_field_} duhet të jetë vlerë valide",
+    "max": "{_field_} nuk duhet të jetë më i gjatë se {length} karaktere",
+    "max_value": "Vlera {_field_} duhet të jetë {max} ose më e vogël",
+    "mimes": "{_field_} duhet të përmbaj llojin e fajllit valid",
+    "min": "{_field_} duhet të jetë së paku {length} karakter",
+    "min_value": "Vlera {_field_} duhet të jetë së paku {min} ose më shume",
+    "numeric": "{_field_} mund të përmbaj vetëm numra",
+    "regex": "Formati {_field_} nuk është valid",
+    "required": "Fusha {_field_} nuk duhet të jetë e zbrazët",
+    "required_if": "Fusha {_field_} nuk duhet të jetë e zbrazët",
+    "size": "{_field_} duhet të jetë më e vogël se {size}KB",
+    "double": "Fusha {_field_} duhet të jetë një dhjetore e vlefshme"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vee-validate/dist/locale/sq.json;TTF:charsetI"
+utf-8;F:digest"%D��g	s����I�L|b/D�ɴ���6:lengthi�:dependencies_digest"%Ci�*��E�%��R��	ngt�ngF2�ʍ:idI"E02b0ca54436adf1a4d65588143a0af694a666a2efbaf8ec6ea8af9998b82ac78;F:
+mtimel+S��e

@@ -1,0 +1,73 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/for-in/package.json?type=application/json&id=0f5f493fd45d577133d2fcbde72b7bf7aff554df3f0a5a3d9952a3f71869e4ad:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/for-in/package.json;T:	nameI" node_modules/for-in/package;T:logical_pathI"%node_modules/for-in/package.json;T:content_typeI"application/json;T:sourceI"’{
+  "name": "for-in",
+  "description": "Iterate over the own and inherited enumerable properties of an object, and return an object with properties that evaluate to true from the callback. Exit early by returning `false`. JavaScript/Node.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/jonschlinkert/for-in",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "contributors": [
+    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
+    "Paul Irish (http://paulirish.com)"
+  ],
+  "repository": "jonschlinkert/for-in",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/for-in/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "for",
+    "for-in",
+    "for-own",
+    "has",
+    "has-own",
+    "hasOwn",
+    "in",
+    "key",
+    "keys",
+    "object",
+    "own",
+    "value"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "arr-flatten",
+        "collection-map",
+        "for-own"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/for-in/package.json;TTF:charsetI"
+utf-8;F:digest"%ðÖŒþeÏ¼Ä^K‹Á†xÕ0õ€ëbÑÙG>%9:lengthi’:dependencies_digest"%Š¦IÚò^~gn‰Qt¬‚!'Þvl­\«ÆêB¢b'‘.:idI"E0f5f493fd45d577133d2fcbde72b7bf7aff554df3f0a5a3d9952a3f71869e4ad;F:
+mtimel+Q¢´e

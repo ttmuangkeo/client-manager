@@ -1,0 +1,38 @@
+{:uriI"›file://app/assets/javascripts/node_modules/run-queue/package.json?type=application/json&id=4620ae7563c844f20a5959b3dc19c56358b58c96b6c83505a12a07ee7623897b:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/run-queue/package.json;T:	nameI"#node_modules/run-queue/package;T:logical_pathI"(node_modules/run-queue/package.json;T:content_typeI"application/json;T:sourceI"ò{
+  "name": "run-queue",
+  "version": "1.0.3",
+  "description": "A promise based, dynamic priority queue runner, with concurrency limiting.",
+  "main": "queue.js",
+  "scripts": {
+    "test": "standard && tap -J test"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^8.6.0",
+    "tap": "^10.2.0"
+  },
+  "files": [
+    "queue.js"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "aproba": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarna/run-queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iarna/run-queue/issues"
+  },
+  "homepage": "https://npmjs.com/package/run-queue"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/run-queue/package.json;TTF:charsetI"
+utf-8;F:digest"%8éÁÕ”„‡¡<½×á´ß×œºÉ+ð:ÛâuA|¶:lengthiò:dependencies_digest"%&0ÆóÄŸß0¿m×•hrä\öçä¬Ô¡I;Ÿš·‘:idI"E4620ae7563c844f20a5959b3dc19c56358b58c96b6c83505a12a07ee7623897b;F:
+mtimel+Q¢´e

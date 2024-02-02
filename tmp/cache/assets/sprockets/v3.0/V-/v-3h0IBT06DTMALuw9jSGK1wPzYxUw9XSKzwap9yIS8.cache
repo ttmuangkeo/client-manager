@@ -1,0 +1,52 @@
+{:uriI"»file://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/anymatch/package.json?type=application/json&id=f6b443f87120aafa977c53c4998041d1072c27a11352543823989050d1a7b851:ET:load_pathI"app/assets/javascripts;T:filenameI"_app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/anymatch/package.json;T:	nameI"Cnode_modules/watchpack-chokidar2/node_modules/anymatch/package;T:logical_pathI"Hnode_modules/watchpack-chokidar2/node_modules/anymatch/package.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "name": "anymatch",
+  "version": "2.0.0",
+  "description": "Matches strings against configurable strings, globs, regular expressions, and/or functions",
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Elan Shanker",
+    "url": "http://github.com/es128"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/micromatch/anymatch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micromatch/anymatch"
+  },
+  "bugs": {
+    "url": "https://github.com/micromatch/anymatch/issues"
+  },
+  "keywords": [
+    "match",
+    "any",
+    "string",
+    "file",
+    "fs",
+    "list",
+    "glob",
+    "regex",
+    "regexp",
+    "regular",
+    "expression",
+    "function"
+  ],
+  "scripts": {
+    "test": "istanbul cover _mocha && cat ./coverage/lcov.info | coveralls"
+  },
+  "dependencies": {
+    "micromatch": "^3.1.4",
+    "normalize-path": "^2.1.1"
+  },
+  "devDependencies": {
+    "coveralls": "^2.7.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"mfile-digest://app/assets/javascripts/node_modules/watchpack-chokidar2/node_modules/anymatch/package.json;TTF:charsetI"
+utf-8;F:digest"%÷™OoË y'ók4öžÄ¬fýZV‘MÎß”Fä\ó&:lengthiØ:dependencies_digest"%ÀL¼Ë.¿ìp(òêx7/oÖø-±^Ñ	÷€:ZSt¼:idI"Ef6b443f87120aafa977c53c4998041d1072c27a11352543823989050d1a7b851;F:
+mtimel+Q¢´e

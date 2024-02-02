@@ -1,0 +1,52 @@
+{:uriI"žfile://app/assets/javascripts/node_modules/regex-parser/package.json?type=application/json&id=b1f108e9dd4b4f07c153ff6f1d04e408ecf0d9aa7156592c92ae36c035412a14:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/regex-parser/package.json;T:	nameI"&node_modules/regex-parser/package;T:logical_pathI"+node_modules/regex-parser/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "regex-parser",
+  "version": "2.3.0",
+  "description": "A module that parses a string as regular expression and returns the parsed value.",
+  "main": "lib/index.js",
+  "typings": "lib/typings/regex-parser.d.ts",
+  "scripts": {
+    "test": "vows --spec --isolate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/regex-parser.js.git"
+  },
+  "keywords": [
+    "regular",
+    "expressions",
+    "node",
+    "parser",
+    "string"
+  ],
+  "author": "IonicÄƒ BizÄƒu <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/regex-parser.js/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/regex-parser.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "vows": "^0.8.1"
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/regex-parser/package.json;TTF:charsetI"
+utf-8;F:digest"%A:oaÄ•xûÐø‹Ø{ŠRpµ8ãÕÛ…Sì:OÁÆ:lengthi:dependencies_digest"%5¼oÿûq|ƒ3Ö,è#È*ó9«×S]½‚”(É Í:idI"Eb1f108e9dd4b4f07c153ff6f1d04e408ecf0d9aa7156592c92ae36c035412a14;F:
+mtimel+Q¢´e

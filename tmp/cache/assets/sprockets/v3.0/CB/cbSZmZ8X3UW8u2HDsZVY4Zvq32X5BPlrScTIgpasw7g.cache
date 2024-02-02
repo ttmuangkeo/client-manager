@@ -1,0 +1,46 @@
+{:uriI"½file://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/path-exists/package.json?type=application/json&id=cb778865f47a8af54071be11284cc58977fc10f6a84dd389030d31fdae625cfa:ET:load_pathI"app/assets/javascripts;T:filenameI"aapp/assets/javascripts/node_modules/webpack-dev-server/node_modules/path-exists/package.json;T:	nameI"Enode_modules/webpack-dev-server/node_modules/path-exists/package;T:logical_pathI"Jnode_modules/webpack-dev-server/node_modules/path-exists/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "path-exists",
+  "version": "3.0.0",
+  "description": "Check if a path exists",
+  "license": "MIT",
+  "repository": "sindresorhus/path-exists",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "path",
+    "exists",
+    "exist",
+    "file",
+    "filepath",
+    "fs",
+    "filesystem",
+    "file-system",
+    "access",
+    "stat"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ofile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/path-exists/package.json;TTF:charsetI"
+utf-8;F:digest"%ö¡•8
+RÏõK©ÿWÓùjîr]}i›DÉàVıš:lengthi:dependencies_digest"%„A«ë\ñšÅ$(w©ÖígóâZI‚* «£œº/.q¹“:idI"Ecb778865f47a8af54071be11284cc58977fc10f6a84dd389030d31fdae625cfa;F:
+mtimel+Q¢´e

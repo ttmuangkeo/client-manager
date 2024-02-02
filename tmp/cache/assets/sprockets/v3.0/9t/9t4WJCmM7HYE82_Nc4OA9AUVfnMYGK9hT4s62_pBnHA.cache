@@ -1,0 +1,114 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/ansi-colors/package.json?type=application/json&id=7f3fc7dd663d128ba76c57816476b2da493948c52d456bb97a805c67f999f0ed:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/ansi-colors/package.json;T:	nameI"%node_modules/ansi-colors/package;T:logical_pathI"*node_modules/ansi-colors/package.json;T:content_typeI"application/json;T:sourceI"C{
+  "name": "ansi-colors",
+  "description": "Easily add ANSI colors to your text and symbols in the terminal. A faster drop-in replacement for chalk, kleur and turbocolor (without the dependencies and rendering bugs).",
+  "version": "3.2.4",
+  "homepage": "https://github.com/doowb/ansi-colors",
+  "author": "Brian Woodward (https://github.com/doowb)",
+  "contributors": [
+    "Brian Woodward (https://twitter.com/doowb)",
+    "Jason Schilling (https://sourecode.de)",
+    "Jon Schlinkert (http://twitter.com/jonschlinkert)",
+    "Jordan (https://github.com/Silic0nS0ldier)"
+  ],
+  "repository": "doowb/ansi-colors",
+  "bugs": {
+    "url": "https://github.com/doowb/ansi-colors/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "symbols.js",
+    "types/index.d.ts"
+  ],
+  "main": "index.js",
+  "types": "./types/index.d.ts",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "decache": "^4.4.0",
+    "gulp-format-md": "^1.0.0",
+    "justified": "^1.0.1",
+    "mocha": "^5.2.0",
+    "text-table": "^0.2.0"
+  },
+  "keywords": [
+    "ansi",
+    "bgblack",
+    "bgBlack",
+    "bgblue",
+    "bgBlue",
+    "bgcyan",
+    "bgCyan",
+    "bggreen",
+    "bgGreen",
+    "bgmagenta",
+    "bgMagenta",
+    "bgred",
+    "bgRed",
+    "bgwhite",
+    "bgWhite",
+    "bgyellow",
+    "bgYellow",
+    "black",
+    "blue",
+    "bold",
+    "clorox",
+    "colors",
+    "cyan",
+    "dim",
+    "gray",
+    "green",
+    "grey",
+    "hidden",
+    "inverse",
+    "italic",
+    "kleur",
+    "magenta",
+    "red",
+    "reset",
+    "strikethrough",
+    "underline",
+    "white",
+    "yellow"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "data": {
+      "author": {
+        "linkedin": "woodwardbrian",
+        "twitter": "doowb"
+      }
+    },
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "ansi-wrap",
+        "strip-color"
+      ]
+    },
+    "reflinks": [
+      "chalk",
+      "colorette",
+      "colors",
+      "kleur"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/ansi-colors/package.json;TTF:charsetI"
+utf-8;F:digest"%⁄Oå’+/¡yWœµÆ4^ˇO«]«ıe«nc	ã6$hï:lengthiC:dependencies_digest"%Ür2pN—÷© ÍöÏ≥◊è˚à˘)Õ pW&ùmP!«ÜÂ‹:idI"E7f3fc7dd663d128ba76c57816476b2da493948c52d456bb97a805c67f999f0ed;F:
+mtimel+Q¢¥e

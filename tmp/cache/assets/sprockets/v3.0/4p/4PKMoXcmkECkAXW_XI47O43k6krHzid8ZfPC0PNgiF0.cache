@@ -1,0 +1,20 @@
+{:uriI"‘file://app/assets/javascripts/node_modules/ajv-formats/node_modules/ajv/lib/refs/json-schema-2020-12/meta/unevaluated.json?type=application/json&id=b0071aca7d0dee848c4f5ddb305dfb8fb98195982579c419dcce49074e85255b:ET:load_pathI"app/assets/javascripts;T:filenameI"xapp/assets/javascripts/node_modules/ajv-formats/node_modules/ajv/lib/refs/json-schema-2020-12/meta/unevaluated.json;T:	nameI"\node_modules/ajv-formats/node_modules/ajv/lib/refs/json-schema-2020-12/meta/unevaluated;T:logical_pathI"anode_modules/ajv-formats/node_modules/ajv/lib/refs/json-schema-2020-12/meta/unevaluated.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://json-schema.org/draft/2020-12/meta/unevaluated",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/unevaluated": true
+  },
+  "$dynamicAnchor": "meta",
+
+  "title": "Unevaluated applicator vocabulary meta-schema",
+  "type": ["object", "boolean"],
+  "properties": {
+    "unevaluatedItems": {"$dynamicRef": "#meta"},
+    "unevaluatedProperties": {"$dynamicRef": "#meta"}
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Åfile-digest://app/assets/javascripts/node_modules/ajv-formats/node_modules/ajv/lib/refs/json-schema-2020-12/meta/unevaluated.json;TTF:charsetI"
+utf-8;F:digest"%èuÙ'GE˙£.JΩ∫ﬁôÙõ!ﬂ"_R˜#µ∆ C∞Ì :lengthiÿ:dependencies_digest"%Uä ¬+x¥ÓL„ tF€fØ	$:πf≤Ï—#Á˘^:idI"Eb0071aca7d0dee848c4f5ddb305dfb8fb98195982579c419dcce49074e85255b;F:
+mtimel+S¢¥e

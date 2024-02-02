@@ -3,14 +3,25 @@ class MoxiBrandingController < ApplicationController
   skip_before_action :verify_authenticity_token
 
   def fetch_branding_data
-    authenticate do |credentials|
-      moxi_works_company_id = params[:moxi_works_company_id]
-      result = fetch_moxi_data(credentials[:username], credentials[:password], "brands/#{moxi_works_company_id}")
+    Rails.logger.info(session.inspect)
 
+    session_data = session[:moxi_session]
+    moxi_works_company_id = params[:moxi_works_company_id]
+
+
+    if session_data.present?
+      cookie = session_data["cookie"]
+      creds = session_data["creds"]
+      Rails.logger.info("#{cookie}, #{creds}")
+      result = fetch_moxi_data(cookie, creds, "brands/#{moxi_works_company_id}")
+      
       if result[:success]
-        render json: {branding_data: result[:data]}
-      else render json: {error: "failed to get branding data: #{result}"}
+        render json: { data: result[:data] }
+      else
+        render json: { error: 'Failed to fetch data' }, status: :internal_server_error
       end
+    else
+      render json: { error: 'User is not authenticated' }, status: :unauthorized
     end
   end
 end

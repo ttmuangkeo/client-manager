@@ -1,0 +1,24 @@
+{:uriI"file://app/assets/javascripts/node_modules/merge-stream/package.json?type=application/json&id=e32e864fbaff8f04dbad3611d4e895b65cdb9faab457d919a42fcea3925f9330:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/merge-stream/package.json;T:	nameI"&node_modules/merge-stream/package;T:logical_pathI"+node_modules/merge-stream/package.json;T:content_typeI"application/json;T:sourceI"é{
+  "name": "merge-stream",
+  "version": "2.0.0",
+  "description": "Create a stream that emits events from multiple other streams",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "istanbul cover test.js && istanbul check-cover --statements 100 --branches 100"
+  },
+  "repository": "grncdr/merge-stream",
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "from2": "^2.0.3",
+    "istanbul": "^0.4.5"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/merge-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%+s¨L2?ù,`JBùâîøºç™ ×Í³’Ä\GÓQ?:lengthié:dependencies_digest"%ts“{£d•½Ş¦°6†£XÔo5A–íZKıÊ:idI"Ee32e864fbaff8f04dbad3611d4e895b65cdb9faab457d919a42fcea3925f9330;F:
+mtimel+Q¢´e

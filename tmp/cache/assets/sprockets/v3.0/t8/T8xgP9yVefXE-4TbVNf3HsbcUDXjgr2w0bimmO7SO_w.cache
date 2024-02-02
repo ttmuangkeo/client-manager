@@ -1,0 +1,49 @@
+{:uriI"™file://app/assets/javascripts/node_modules/esutils/package.json?type=application/json&id=674ac973b6872f746599c0679d34978770b2452b17d369d2eb6eba4a2bed0b83:ET:load_pathI"app/assets/javascripts;T:filenameI"=app/assets/javascripts/node_modules/esutils/package.json;T:	nameI"!node_modules/esutils/package;T:logical_pathI"&node_modules/esutils/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "esutils",
+  "description": "utility box for ECMAScript language tools",
+  "homepage": "https://github.com/estools/esutils",
+  "main": "lib/utils.js",
+  "version": "2.0.3",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "files": [
+    "LICENSE.BSD",
+    "README.md",
+    "lib"
+  ],
+  "maintainers": [
+    {
+      "name": "Yusuke Suzuki",
+      "email": "utatane.tea@gmail.com",
+      "web": "http://github.com/Constellation"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/estools/esutils.git"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "coffee-script": "~1.6.3",
+    "jshint": "2.6.3",
+    "mocha": "~2.2.1",
+    "regenerate": "~1.3.1",
+    "unicode-9.0.0": "~0.7.0"
+  },
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "test": "npm run-script lint && npm run-script unit-test",
+    "lint": "jshint lib/*.js",
+    "unit-test": "mocha --compilers coffee:coffee-script -R spec",
+    "generate-regex": "node tools/generate-identifier-regex.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Kfile-digest://app/assets/javascripts/node_modules/esutils/package.json;TTF:charsetI"
+utf-8;F:digest"%¯ıïIÈŠ÷\_JĞ(!`(­„ƒTı—4n}Ül:lengthi:dependencies_digest"%Ìô|"WpÈß4V„? òUÙÉ0ÂÃÓ_ç“Ù=û(Ş;Ş:idI"E674ac973b6872f746599c0679d34978770b2452b17d369d2eb6eba4a2bed0b83;F:
+mtimel+Q¢´e

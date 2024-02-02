@@ -1,0 +1,22 @@
+{:uriI"•file://app/assets/javascripts/node_modules/async/bower.json?type=application/json&id=12bc97b5a5f0870fb1dabd0a737869346b8b59eb48176fea8db5332ca75f0e02:ET:load_pathI"app/assets/javascripts;T:filenameI"9app/assets/javascripts/node_modules/async/bower.json;T:	nameI"node_modules/async/bower;T:logical_pathI""node_modules/async/bower.json;T:content_typeI"application/json;T:sourceI"õ{
+  "name": "async",
+  "main": "dist/async.js",
+  "ignore": [
+    "bower_components",
+    "lib",
+    "mocha_test",
+    "node_modules",
+    "perf",
+    "support",
+    "**/.*",
+    "*.config.js",
+    "*.json",
+    "index.js",
+    "Makefile"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Gfile-digest://app/assets/javascripts/node_modules/async/bower.json;TTF:charsetI"
+utf-8;F:digest"%¾ÿTñ¿ÀÈª§rkŠ½­ºS±‡Ró€@NøşnóJ—:lengthiõ:dependencies_digest"%ÎûøÖ.…grÍ…ü¤·îœøñï^İvBesÈªBÄ-:idI"E12bc97b5a5f0870fb1dabd0a737869346b8b59eb48176fea8db5332ca75f0e02;F:
+mtimel+S¢´e

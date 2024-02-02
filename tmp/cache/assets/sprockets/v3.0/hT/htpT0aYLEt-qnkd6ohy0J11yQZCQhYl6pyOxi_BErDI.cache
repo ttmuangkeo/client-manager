@@ -1,0 +1,47 @@
+{:uriI"†file://app/assets/javascripts/node_modules/har-schema/lib/timings.json?type=application/json&id=c5930c20faa7d2f422d9935f0ad3302c740c0372f8135ba0ae08de58c8b2dd68:ET:load_pathI"app/assets/javascripts;T:filenameI"Dapp/assets/javascripts/node_modules/har-schema/lib/timings.json;T:	nameI"(node_modules/har-schema/lib/timings;T:logical_pathI"-node_modules/har-schema/lib/timings.json;T:content_typeI"application/json;T:sourceI"á{
+  "$id": "timings.json#",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "required": [
+    "send",
+    "wait",
+    "receive"
+  ],
+  "properties": {
+    "dns": {
+      "type": "number",
+      "min": -1
+    },
+    "connect": {
+      "type": "number",
+      "min": -1
+    },
+    "blocked": {
+      "type": "number",
+      "min": -1
+    },
+    "send": {
+      "type": "number",
+      "min": -1
+    },
+    "wait": {
+      "type": "number",
+      "min": -1
+    },
+    "receive": {
+      "type": "number",
+      "min": -1
+    },
+    "ssl": {
+      "type": "number",
+      "min": -1
+    },
+    "comment": {
+      "type": "string"
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Rfile-digest://app/assets/javascripts/node_modules/har-schema/lib/timings.json;TTF:charsetI"
+utf-8;F:digest"%ÏÆò¨UeôB2´“∫‡Á	$9†¸	a<pÔé…'µ:lengthiá:dependencies_digest"%µ>ùﬂ¶ev∑Ä”P&6úë4Ò¡=∆|?››™]„‚8™Ÿ:idI"Ec5930c20faa7d2f422d9935f0ad3302c740c0372f8135ba0ae08de58c8b2dd68;F:
+mtimel+R¢¥e

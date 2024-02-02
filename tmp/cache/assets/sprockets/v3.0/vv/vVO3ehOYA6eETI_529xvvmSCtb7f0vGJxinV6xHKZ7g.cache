@@ -1,0 +1,53 @@
+{:uriI"›file://app/assets/javascripts/node_modules/clean-css/package.json?type=application/json&id=a5476dcb4554999582d9aca81a797c77ce55a93ccdcfdc4862c7900fa3e3e116:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/clean-css/package.json;T:	nameI"#node_modules/clean-css/package;T:logical_pathI"(node_modules/clean-css/package.json;T:content_typeI"application/json;T:sourceI"{{
+  "name": "clean-css",
+  "version": "4.2.4",
+  "author": "Jakub Pawlowicz <contact@jakubpawlowicz.com> (http://twitter.com/jakubpawlowicz)",
+  "description": "A well-tested CSS minifier",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "minifier"
+  ],
+  "homepage": "https://github.com/jakubpawlowicz/clean-css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubpawlowicz/clean-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakubpawlowicz/clean-css/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "lib",
+    "History.md",
+    "index.js",
+    "LICENSE"
+  ],
+  "scripts": {
+    "browserify": "browserify --standalone CleanCSS index.js | uglifyjs --compress --mangle -o cleancss-browser.js",
+    "bench": "node ./test/bench.js",
+    "check": "jshint .",
+    "prepublish": "npm run check",
+    "test": "vows"
+  },
+  "dependencies": {
+    "source-map": "~0.6.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.0.0",
+    "http-proxy": "1.x",
+    "jshint": "2.x",
+    "nock": "9.x",
+    "server-destroy": "1.x",
+    "uglify-js": ">=2.6.1",
+    "vows": "0.8.x"
+  },
+  "engines": {
+    "node": ">= 4.0"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/clean-css/package.json;TTF:charsetI"
+utf-8;F:digest"%Ê}OélË÷ù?¹y‰‚câû:¥nƒ&ÀÃ}v6:lengthi{:dependencies_digest"%bYälu—ƒæ&µcÀâ<¢Fô¬>ßj†…/Zf:idI"Ea5476dcb4554999582d9aca81a797c77ce55a93ccdcfdc4862c7900fa3e3e116;F:
+mtimel+S¢´e

@@ -21,6 +21,7 @@ export default {
       console.log('COMPANYID param', companyId)
       try {
         const res = await fetchBrandingData(companyId)
+        console.log(res)
         if(res.success) {
           console.log(res)
           this.branding = res.data

@@ -1,0 +1,39 @@
+{:uriI"›file://app/assets/javascripts/node_modules/commondir/package.json?type=application/json&id=96c5b9d396593633867a92ab3ac6e53d5f6598ebc6d402bba6f775ccdec99e57:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/commondir/package.json;T:	nameI"#node_modules/commondir/package;T:logical_pathI"(node_modules/commondir/package.json;T:content_typeI"application/json;T:sourceI"|{
+  "name": "commondir",
+  "version": "1.0.1",
+  "description": "compute the closest common parent for file paths",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/substack/node-commondir.git"
+  },
+  "keywords": [
+    "common",
+    "path",
+    "directory",
+    "file",
+    "parent",
+    "root"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/commondir/package.json;TTF:charsetI"
+utf-8;F:digest"%˜V•ã'‡‡€8°‡ZwX¸ë“ƒÓº:yq=Î°Å:lengthi|:dependencies_digest"%E¶G,os˜Îý¦ÅØd²ò°½šB¢*?n¬S^‘z@:idI"E96c5b9d396593633867a92ab3ac6e53d5f6598ebc6d402bba6f775ccdec99e57;F:
+mtimel+Q¢´e

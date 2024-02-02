@@ -1,0 +1,38 @@
+{:uriI"˜file://app/assets/javascripts/node_modules/assert/package.json?type=application/json&id=eef4fb96ec8e1a641e0d76128364007c1694a204161cf5524f78c99ec80854be:ET:load_pathI"app/assets/javascripts;T:filenameI"<app/assets/javascripts/node_modules/assert/package.json;T:	nameI" node_modules/assert/package;T:logical_pathI"%node_modules/assert/package.json;T:content_typeI"application/json;T:sourceI"U{
+  "name": "assert",
+  "description": "The node.js assert module, re-packaged for web browsers.",
+  "version": "1.5.1",
+  "dependencies": {
+    "object.assign": "^4.1.4",
+    "util": "^0.10.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "zuul": "~3.10.0",
+    "zuul-ngrok": "^4.0.0"
+  },
+  "homepage": "https://github.com/browserify/commonjs-assert",
+  "keywords": [
+    "assert",
+    "browser"
+  ],
+  "license": "MIT",
+  "main": "./assert.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/browserify/commonjs-assert.git"
+  },
+  "scripts": {
+    "browser-local": "zuul --no-coverage --local 8000 -- test.js",
+    "test": "npm run test-node && npm run test-browser",
+    "test-browser": "zuul -- test.js",
+    "test-native": "TEST_NATIVE=true mocha --ui qunit test.js",
+    "test-node": "mocha --ui qunit test.js"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Jfile-digest://app/assets/javascripts/node_modules/assert/package.json;TTF:charsetI"
+utf-8;F:digest"%§†TWyŠA]Ñ‰Ôcúseóõ÷UÙNÂÒö˜j/:lengthiU:dependencies_digest"%.–0
+?î½-c¾ì­¸(%CUåÕu°³qÁ:idI"Eeef4fb96ec8e1a641e0d76128364007c1694a204161cf5524f78c99ec80854be;F:
+mtimel+R¢´e

@@ -1,0 +1,43 @@
+{:uriI"Ãfile://app/assets/javascripts/node_modules/@babel/plugin-transform-async-generator-functions/package.json?type=application/json&id=5751df4e35391284ed31f973258bdb245d08688301f4978e839a2b38883acb79:ET:load_pathI"app/assets/javascripts;T:filenameI"gapp/assets/javascripts/node_modules/@babel/plugin-transform-async-generator-functions/package.json;T:	nameI"Knode_modules/@babel/plugin-transform-async-generator-functions/package;T:logical_pathI"Pnode_modules/@babel/plugin-transform-async-generator-functions/package.json;T:content_typeI"application/json;T:sourceI"‹{
+  "name": "@babel/plugin-transform-async-generator-functions",
+  "version": "7.23.9",
+  "description": "Turn async generator functions into ES2015 generators",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-async-generator-functions"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-async-generator-functions",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-environment-visitor": "^7.22.20",
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/helper-remap-async-to-generator": "^7.22.20",
+    "@babel/plugin-syntax-async-generators": "^7.8.4"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/helper-plugin-test-runner": "^7.22.5",
+    "babel-plugin-polyfill-corejs3": "^0.9.0",
+    "core-js-pure": "^3.30.2"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ufile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-async-generator-functions/package.json;TTF:charsetI"
+utf-8;F:digest"%ÚªÄ7bNq(„î}³-¸Q¼,.î¹‚ÈŠVdã2@ŠZ:lengthi‹:dependencies_digest"%<ÕŒ>~á[Ûä"+´ğë¸Èc±ÖFš›U†æg‚2:idI"E5751df4e35391284ed31f973258bdb245d08688301f4978e839a2b38883acb79;F:
+mtimel+R¢´e

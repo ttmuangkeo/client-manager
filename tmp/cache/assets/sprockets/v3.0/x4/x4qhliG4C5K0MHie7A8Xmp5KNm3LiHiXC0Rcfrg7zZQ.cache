@@ -1,0 +1,81 @@
+{:uriI"£file://app/assets/javascripts/node_modules/robust-predicates/package.json?type=application/json&id=46903009c3fd17a50eaeb51ee5cee0cb67eced02179e9e570864ba7b60cce38b:ET:load_pathI"app/assets/javascripts;T:filenameI"Gapp/assets/javascripts/node_modules/robust-predicates/package.json;T:	nameI"+node_modules/robust-predicates/package;T:logical_pathI"0node_modules/robust-predicates/package.json;T:content_typeI"application/json;T:sourceI"8{
+  "name": "robust-predicates",
+  "version": "3.0.2",
+  "description": "Fast robust predicates for computational geometry",
+  "keywords": [
+    "computational geometry",
+    "robust arithmetic"
+  ],
+  "author": "Vladimir Agafonkin",
+  "license": "Unlicense",
+  "type": "module",
+  "main": "index.js",
+  "unpkg": "umd/predicates.min.js",
+  "module": "index.js",
+  "exports": "./index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "mkdirp esm && node compile.js",
+    "lint": "eslint *.js src test/test.js",
+    "test": "npm run lint && npm run build && node test/test.js",
+    "cov": "c8 node test/test.js",
+    "bench": "node bench.js",
+    "prepublishOnly": "npm run test && rollup -c"
+  },
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.3",
+    "c8": "^7.13.0",
+    "eslint": "^8.41.0",
+    "eslint-config-mourner": "^3.0.0",
+    "mkdirp": "^3.0.1",
+    "nextafter": "^1.0.0",
+    "robust-in-sphere": "^1.2.1",
+    "robust-orientation": "^1.2.1",
+    "rollup": "^3.23.0"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "esm",
+    "umd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mourner/robust-predicates.git"
+  },
+  "eslintConfig": {
+    "extends": "mourner",
+    "parserOptions": {
+      "ecmaVersion": 2020
+    },
+    "rules": {
+      "camelcase": 0,
+      "new-cap": 0,
+      "no-unused-vars": [
+        2,
+        {
+          "varsIgnorePattern": "splitter|bvirt|c|[ab]hi|[ab]lo|_[ijk0]|u3|[st][01]"
+        }
+      ],
+      "no-lonely-if": 0
+    },
+    "globals": {
+      "$Fast_Two_Sum": false,
+      "$Two_Sum": false,
+      "$Two_Diff_Tail": false,
+      "$Split": false,
+      "$Two_Product": false,
+      "$Two_Product_Presplit": false,
+      "$Two_One_Product": false,
+      "$Cross_Product": false,
+      "$Square_Sum": false,
+      "$Two_Product_Sum": false
+    }
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ufile-digest://app/assets/javascripts/node_modules/robust-predicates/package.json;TTF:charsetI"
+utf-8;F:digest"%Kaã÷0YA´­ù\LÁ*P#€ãÝŸLsÑa
+oÒÙ7:lengthi8:dependencies_digest"%µoXþCåÚd&yöãán&¨j·Ÿž“–Js°:idI"E46903009c3fd17a50eaeb51ee5cee0cb67eced02179e9e570864ba7b60cce38b;F:
+mtimel+R¢´e

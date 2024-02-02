@@ -1,0 +1,35 @@
+{:uriI"ªfile://app/assets/javascripts/node_modules/execa/node_modules/which/package.json?type=application/json&id=c02d6a9da2f94fc59a7f8014aab9f2e4335f2225e3a181b9843b662fb0f0c169:ET:load_pathI"app/assets/javascripts;T:filenameI"Napp/assets/javascripts/node_modules/execa/node_modules/which/package.json;T:	nameI"2node_modules/execa/node_modules/which/package;T:logical_pathI"7node_modules/execa/node_modules/which/package.json;T:content_typeI"application/json;T:sourceI"{
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me)",
+  "name": "which",
+  "description": "Like which(1) unix command. Find the first instance of an executable in the PATH.",
+  "version": "1.3.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-which.git"
+  },
+  "main": "which.js",
+  "bin": "./bin/which",
+  "license": "ISC",
+  "dependencies": {
+    "isexe": "^2.0.0"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.6.2",
+    "tap": "^12.0.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js --cov",
+    "changelog": "bash gen-changelog.sh",
+    "postversion": "npm run changelog && git add CHANGELOG.md && git commit -m 'update changelog - '${npm_package_version}"
+  },
+  "files": [
+    "which.js",
+    "bin/which"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"\file-digest://app/assets/javascripts/node_modules/execa/node_modules/which/package.json;TTF:charsetI"
+utf-8;F:digest"%ˆ&’ˆÍúé¾Ä#-kOÛ´õ*ÕÛ!bÖ×°*/Þ*:lengthi:dependencies_digest"%."ˆÂL´¦2ô\FL¢Ò®+†Uœ1Á%Hƒ:idI"Ec02d6a9da2f94fc59a7f8014aab9f2e4335f2225e3a181b9843b662fb0f0c169;F:
+mtimel+Q¢´e

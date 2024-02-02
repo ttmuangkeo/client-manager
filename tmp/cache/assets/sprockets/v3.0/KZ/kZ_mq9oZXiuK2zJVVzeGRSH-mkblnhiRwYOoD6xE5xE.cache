@@ -1,0 +1,38 @@
+{:uriI"›file://app/assets/javascripts/node_modules/hsl-regex/package.json?type=application/json&id=def2b1e5abcd957d50bc04fc04b1e7a0f0103d439ee896c760cce35a74937e59:ET:load_pathI"app/assets/javascripts;T:filenameI"?app/assets/javascripts/node_modules/hsl-regex/package.json;T:	nameI"#node_modules/hsl-regex/package;T:logical_pathI"(node_modules/hsl-regex/package.json;T:content_typeI"application/json;T:sourceI"v{
+  "name": "hsl-regex",
+  "description": "Regex for matching HSL colors.",
+  "author": "John Otander",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regexps/hsl-regex.git"
+  },
+  "keywords": [
+    "hsl",
+    "regex",
+    "regexp",
+    "color",
+    "css"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regexps/hsl-regex/issues"
+  },
+  "homepage": "https://github.com/regexps/hsl-regex",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Mfile-digest://app/assets/javascripts/node_modules/hsl-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%ĞÁŒåçŞ ÿÃÍJ[®\Ú.XªÁÈ3o„sÍ:lengthiv:dependencies_digest"%›wlÎÃ(î„Z[Ğ˜Ğç¦iì5‚W`×x›lùµò…{[:idI"Edef2b1e5abcd957d50bc04fc04b1e7a0f0103d439ee896c760cce35a74937e59;F:
+mtimel+Q¢´e

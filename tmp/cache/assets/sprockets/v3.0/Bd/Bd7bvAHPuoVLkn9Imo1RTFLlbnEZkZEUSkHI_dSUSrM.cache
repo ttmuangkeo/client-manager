@@ -1,0 +1,31 @@
+{:uriI"ùfile://app/assets/javascripts/node_modules/fs.realpath/package.json?type=application/json&id=50a1141bfeac681a4094f5f080b3a98419c0d194d33c1ef9a4136c06c3f35122:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/fs.realpath/package.json;T:	nameI"%node_modules/fs.realpath/package;T:logical_pathI"*node_modules/fs.realpath/package.json;T:content_typeI"application/json;T:sourceI"A{
+  "name": "fs.realpath",
+  "version": "1.0.0",
+  "description": "Use node's fs.realpath, but fall back to the JS implementation if the native one fails",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/fs.realpath.git"
+  },
+  "keywords": [
+    "realpath",
+    "fs",
+    "polyfill"
+  ],
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "license": "ISC",
+  "files": [
+    "old.js",
+    "index.js"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/fs.realpath/package.json;TTF:charsetI"
+utf-8;F:digest"%)Öõ<ıâM˘∏1Åo{H3ì©ÇHû:ò√FŒ}®ó:lengthiA:dependencies_digest"%¡Éó∆õrˆC˛ –÷ùÙÊNI=YCiœ–,´ô"›N:idI"E50a1141bfeac681a4094f5f080b3a98419c0d194d33c1ef9a4136c06c3f35122;F:
+mtimel+Q¢¥e

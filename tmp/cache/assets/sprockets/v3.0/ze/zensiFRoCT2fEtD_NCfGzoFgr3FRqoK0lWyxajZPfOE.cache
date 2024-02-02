@@ -1,0 +1,66 @@
+{:uriI"òfile://app/assets/javascripts/node_modules/uglify-js/tools/props.html?type=text/html&id=9977ccd84ece87bbe2563498c2508a2116a708fe78713bbd35cbb64b636abcd8:ET:load_pathI"app/assets/javascripts;T:filenameI"Capp/assets/javascripts/node_modules/uglify-js/tools/props.html;T:	nameI"'node_modules/uglify-js/tools/props;T:logical_pathI",node_modules/uglify-js/tools/props.html;T:content_typeI"text/html;T:sourceI"h<html>
+  <head>
+  </head>
+  <body>
+    <script>(function(){
+      var props = {};
+
+      function addObject(obj) {
+        if (obj == null) return;
+        try {
+          Object.getOwnPropertyNames(obj).forEach(add);
+        } catch(ex) {}
+        if (obj.prototype) {
+          Object.getOwnPropertyNames(obj.prototype).forEach(add);
+        }
+        if (typeof obj == "function") {
+          try {
+            Object.getOwnPropertyNames(new obj).forEach(add);
+          } catch(ex) {}
+        }
+      }
+
+      function add(name) {
+        props[name] = true;
+      }
+
+      Object.getOwnPropertyNames(window).forEach(function(thing){
+        addObject(window[thing]);
+      });
+
+      try {
+        addObject(new Event("click"));
+        addObject(new Event("contextmenu"));
+        addObject(new Event("mouseup"));
+        addObject(new Event("mousedown"));
+        addObject(new Event("keydown"));
+        addObject(new Event("keypress"));
+        addObject(new Event("keyup"));
+      } catch(ex) {}
+
+      var ta = document.createElement("textarea");
+      ta.style.width = "100%";
+      ta.style.height = "20em";
+      ta.style.boxSizing = "border-box";
+      <!-- ta.value = Object.keys(props).sort(cmp).map(function(name){ -->
+      <!--   return JSON.stringify(name); -->
+      <!-- }).join(",\n"); -->
+      ta.value = JSON.stringify({
+        vars: [],
+        props: Object.keys(props).sort(cmp)
+      }, null, 2);
+      document.body.appendChild(ta);
+
+      function cmp(a, b) {
+        a = a.toLowerCase();
+        b = b.toLowerCase();
+        return a < b ? -1 : a > b ? 1 : 0;
+      }
+    })();</script>
+  </body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"Qfile-digest://app/assets/javascripts/node_modules/uglify-js/tools/props.html;TTF:charsetI"
+utf-8;F:digest"%>¶ç|I.CiÇ)Ÿ¶UJÃöô¢Û˝˛qk2Tà÷<:lengthih:dependencies_digest"%çΩ–œ∞.ì¥óv¢`¨k,j£CPØÖ¥Z∑œŸ'ü:idI"E9977ccd84ece87bbe2563498c2508a2116a708fe78713bbd35cbb64b636abcd8;F:
+mtimel+S¢¥e

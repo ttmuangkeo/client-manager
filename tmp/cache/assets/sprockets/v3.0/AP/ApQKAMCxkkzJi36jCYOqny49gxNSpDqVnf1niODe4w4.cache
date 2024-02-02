@@ -1,0 +1,38 @@
+{:uriI"file://app/assets/javascripts/node_modules/select-hose/package.json?type=application/json&id=cb1476e6393ca458c8d600f8c0aeabda8daebfba604dab045c73c3490601d925:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/select-hose/package.json;T:	nameI"%node_modules/select-hose/package;T:logical_pathI"*node_modules/select-hose/package.json;T:content_typeI"application/json;T:sourceI"6{
+  "name": "select-hose",
+  "version": "2.0.0",
+  "description": "Select protocol using first bytes of incoming data and hose stuff to the handler",
+  "main": "lib/hose.js",
+  "scripts": {
+    "test": "jscs lib/*.js test/*.js && jshint lib/*.js && mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indutny/select-hose.git"
+  },
+  "keywords": [
+    "hose",
+    "select",
+    "balance"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/select-hose/issues"
+  },
+  "homepage": "https://github.com/indutny/select-hose#readme",
+  "devDependencies": {
+    "handle-thing": "^1.2.0",
+    "jscs": "^1.13.1",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5",
+    "stream-pair": "^1.0.3"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/select-hose/package.json;TTF:charsetI"
+utf-8;F:digest"%Vg?›×ã£·m‹R‚$ô–ñüTşPPüf!Ù:lengthi6:dependencies_digest"%H@H3(/2•QÙ¶ÿI¼óóÁMú
+òØà€gÖ
+;”ú’:idI"Ecb1476e6393ca458c8d600f8c0aeabda8daebfba604dab045c73c3490601d925;F:
+mtimel+Q¢´e

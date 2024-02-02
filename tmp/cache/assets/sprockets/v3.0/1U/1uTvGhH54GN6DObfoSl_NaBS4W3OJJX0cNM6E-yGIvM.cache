@@ -1,0 +1,44 @@
+{:uriI"ºfile://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/it.json?type=application/json&id=c33d1affc73f7595bd90ebe6f3fc5afe4cccb440542b7e209bad47f9c1527cea:ET:load_pathI"app/assets/javascripts;T:filenameI"^app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/it.json;T:	nameI"Bnode_modules/webpack-dev-server/node_modules/yargs/locales/it;T:logical_pathI"Gnode_modules/webpack-dev-server/node_modules/yargs/locales/it.json;T:content_typeI"application/json;T:sourceI"Q{
+  "Commands:": "Comandi:",
+  "Options:": "Opzioni:",
+  "Examples:": "Esempi:",
+  "boolean": "booleano",
+  "count": "contatore",
+  "string": "stringa",
+  "number": "numero",
+  "array": "vettore",
+  "required": "richiesto",
+  "default:": "predefinito:",
+  "choices:": "scelte:",
+  "aliases:": "alias:",
+  "generated-value": "valore generato",
+  "Not enough non-option arguments: got %s, need at least %s": "Numero insufficiente di argomenti non opzione: inseriti %s, richiesti almeno %s",
+  "Too many non-option arguments: got %s, maximum of %s": "Troppi argomenti non opzione: inseriti %s, massimo possibile %s",
+  "Missing argument value: %s": {
+    "one": "Argomento mancante: %s",
+    "other": "Argomenti mancanti: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Argomento richiesto mancante: %s",
+    "other": "Argomenti richiesti mancanti: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Argomento sconosciuto: %s",
+    "other": "Argomenti sconosciuti: %s"
+  },
+  "Invalid values:": "Valori non validi:",
+  "Argument: %s, Given: %s, Choices: %s": "Argomento: %s, Richiesto: %s, Scelte: %s",
+  "Argument check failed: %s": "Controllo dell'argomento fallito: %s",
+  "Implications failed:": "Argomenti dipendenti mancanti:",
+  "Not enough arguments following: %s": "Argomenti insufficienti dopo: %s",
+  "Invalid JSON config file: %s": "File di configurazione JSON non valido: %s",
+  "Path to JSON config file": "Percorso del file di configurazione JSON",
+  "Show help": "Mostra la schermata di aiuto",
+  "Show version number": "Mostra il numero di versione",
+  "Did you mean %s?": "Intendi forse %s?"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"lfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/it.json;TTF:charsetI"
+utf-8;F:digest"%9ÇSÜ‘T^:z<	þÆ^þœcN* —wo¢¾íñrç:lengthiQ:dependencies_digest"%|÷’‚¿ôu¤^K¶%,¹Ú‡«~ŸÖv¯GÛiþ:idI"Ec33d1affc73f7595bd90ebe6f3fc5afe4cccb440542b7e209bad47f9c1527cea;F:
+mtimel+R¢´e

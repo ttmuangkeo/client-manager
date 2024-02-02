@@ -1,0 +1,53 @@
+{:uriI"°file://app/assets/javascripts/node_modules/brace-expansion/package.json?type=application/json&id=4576f16ed48823efd2ebf028228b45deac807b117d47e9c67294416608cdab0a:ET:load_pathI"app/assets/javascripts;T:filenameI"Eapp/assets/javascripts/node_modules/brace-expansion/package.json;T:	nameI")node_modules/brace-expansion/package;T:logical_pathI".node_modules/brace-expansion/package.json;T:content_typeI"application/json;T:sourceI"Y{
+  "name": "brace-expansion",
+  "description": "Brace expansion as known from sh/bash",
+  "version": "1.1.11",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/brace-expansion.git"
+  },
+  "homepage": "https://github.com/juliangruber/brace-expansion",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js",
+    "gentest": "bash test/generate.sh",
+    "bench": "matcha test/perf/bench.js"
+  },
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "concat-map": "0.0.1"
+  },
+  "devDependencies": {
+    "matcha": "^0.7.0",
+    "tape": "^4.6.0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/20..latest",
+      "firefox/nightly",
+      "chrome/25..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Sfile-digest://app/assets/javascripts/node_modules/brace-expansion/package.json;TTF:charsetI"
+utf-8;F:digest"%bﬁ-&J≠O'≈œ	Û∆æº*¢ À
+*¢3B√Õ„¬≥ë.:lengthiY:dependencies_digest"%„(<«%w¢›∞¶˝›ncêY§’<5uﬁ_›√Bu:idI"E4576f16ed48823efd2ebf028228b45deac807b117d47e9c67294416608cdab0a;F:
+mtimel+Q¢¥e

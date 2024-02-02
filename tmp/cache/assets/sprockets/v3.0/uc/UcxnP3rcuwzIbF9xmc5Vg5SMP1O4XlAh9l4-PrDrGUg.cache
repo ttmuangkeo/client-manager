@@ -1,0 +1,28 @@
+{:uriI"file://app/assets/javascripts/node_modules/assert-plus/package.json?type=application/json&id=3fc5667a36b48b2482dc7b27d2826ab1f924d4f3b2c8d5985465c9d40098c388:ET:load_pathI"app/assets/javascripts;T:filenameI"Aapp/assets/javascripts/node_modules/assert-plus/package.json;T:	nameI"%node_modules/assert-plus/package;T:logical_pathI"*node_modules/assert-plus/package.json;T:content_typeI"application/json;T:sourceI"){
+  "author": "Mark Cavage <mcavage@gmail.com>",
+  "name": "assert-plus",
+  "description": "Extra assertions on top of node's assert module",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./assert.js",
+  "devDependencies": {
+    "tape": "4.2.2",
+    "faucet": "0.0.1"
+  },
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "./node_modules/.bin/tape tests/*.js | ./node_modules/.bin/faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcavage/node-assert-plus.git"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ofile-digest://app/assets/javascripts/node_modules/assert-plus/package.json;TTF:charsetI"
+utf-8;F:digest"%ìs1ª¶Û1eF „ƒ&ƒô6ŒzÑz‡İÚíÌ+:lengthi):dependencies_digest"%Iz˜Š:ï—=]ëí0l<Ş&[×%,	ÍU/	-İí:idI"E3fc5667a36b48b2482dc7b27d2826ab1f924d4f3b2c8d5985465c9d40098c388;F:
+mtimel+Q¢´e

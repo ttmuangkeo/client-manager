@@ -1,0 +1,39 @@
+{:uriI"¹file://app/assets/javascripts/node_modules/@babel/plugin-transform-private-methods/package.json?type=application/json&id=9c5c71d463943238cac53e2cf252edf25147d72c291d554f7bab201723051f73:ET:load_pathI"app/assets/javascripts;T:filenameI"]app/assets/javascripts/node_modules/@babel/plugin-transform-private-methods/package.json;T:	nameI"Anode_modules/@babel/plugin-transform-private-methods/package;T:logical_pathI"Fnode_modules/@babel/plugin-transform-private-methods/package.json;T:content_typeI"application/json;T:sourceI"®{
+  "name": "@babel/plugin-transform-private-methods",
+  "version": "7.23.3",
+  "description": "This plugin transforms private class methods",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel.git",
+    "directory": "packages/babel-plugin-transform-private-methods"
+  },
+  "homepage": "https://babel.dev/docs/en/next/babel-plugin-transform-private-methods",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "@babel/helper-create-class-features-plugin": "^7.22.15",
+    "@babel/helper-plugin-utils": "^7.22.5"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0-0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/helper-plugin-test-runner": "^7.22.5"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "author": "The Babel Team (https://babel.dev/team)",
+  "type": "commonjs"
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"kfile-digest://app/assets/javascripts/node_modules/@babel/plugin-transform-private-methods/package.json;TTF:charsetI"
+utf-8;F:digest"%±|¦tFºõLİ¾€aÛû®‰›¿ÃÎuŠC‡(ºvNĞ:lengthi®:dependencies_digest"%°ÉxãÂ	¾à/ÆvPÍÒµÓ®EËÚği£P%nyh:idI"E9c5c71d463943238cac53e2cf252edf25147d72c291d554f7bab201723051f73;F:
+mtimel+Q¢´e

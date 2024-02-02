@@ -1,0 +1,51 @@
+{:uriI"≤file://app/assets/javascripts/node_modules/pkg-dir/node_modules/locate-path/package.json?type=application/json&id=bab0cf9a2c8f204fdd4c9d51bbe6b746013698510838c812ba5db0c4261c1f06:ET:load_pathI"app/assets/javascripts;T:filenameI"Vapp/assets/javascripts/node_modules/pkg-dir/node_modules/locate-path/package.json;T:	nameI":node_modules/pkg-dir/node_modules/locate-path/package;T:logical_pathI"?node_modules/pkg-dir/node_modules/locate-path/package.json;T:content_typeI"application/json;T:sourceI"–{
+	"name": "locate-path",
+	"version": "5.0.0",
+	"description": "Get the first path that exists on disk of multiple paths",
+	"license": "MIT",
+	"repository": "sindresorhus/locate-path",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"locate",
+		"path",
+		"paths",
+		"file",
+		"files",
+		"exists",
+		"find",
+		"finder",
+		"search",
+		"searcher",
+		"array",
+		"iterable",
+		"iterator"
+	],
+	"dependencies": {
+		"p-locate": "^4.1.0"
+	},
+	"devDependencies": {
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"dfile-digest://app/assets/javascripts/node_modules/pkg-dir/node_modules/locate-path/package.json;TTF:charsetI"
+utf-8;F:digest"%o∞h5thYLi†∫ÆüUè-BliFÚ«x
+å^'Ω:lengthi–:dependencies_digest"%ä2à<}‡Í’Øb*ù"˛TÑˇ⁄E⁄qo9©∂ô:idI"Ebab0cf9a2c8f204fdd4c9d51bbe6b746013698510838c812ba5db0c4261c1f06;F:
+mtimel+Q¢¥e

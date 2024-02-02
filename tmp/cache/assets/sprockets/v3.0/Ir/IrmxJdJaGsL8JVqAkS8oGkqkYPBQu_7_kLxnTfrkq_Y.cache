@@ -1,0 +1,23 @@
+{:uriI"Õfile://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-api-error/package.json?type=application/json&id=d4d8b7b13b930bbb9b0f5f4d2fdf5c46ebec2a13bc75a6a3e4a973990ddc651c:ET:load_pathI"app/assets/javascripts;T:filenameI"yapp/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-api-error/package.json;T:	nameI"]node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-api-error/package;T:logical_pathI"bnode_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-api-error/package.json;T:content_typeI"application/json;T:sourceI"“{
+  "name": "@webassemblyjs/helper-api-error",
+  "version": "1.11.6",
+  "description": "Common API errors",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtuc/webassemblyjs.git",
+    "directory": "packages/helper-api-error"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‚file-digest://app/assets/javascripts/node_modules/@vue/cli-plugin-eslint/node_modules/@webassemblyjs/helper-api-error/package.json;TTF:charsetI"
+utf-8;F:digest"% ‰Ç8ãÅœ‰0¸m=ßú¼Ñöù‹p×æìØÀ4qHÉ$a:lengthi“:dependencies_digest"%
+¦ÕÇÂÑª?5µ_ÿ¡æ!ºýÅ¥Í¥cp÷r#îáÝ±’:idI"Ed4d8b7b13b930bbb9b0f5f4d2fdf5c46ebec2a13bc75a6a3e4a973990ddc651c;F:
+mtimel+Q¢´e

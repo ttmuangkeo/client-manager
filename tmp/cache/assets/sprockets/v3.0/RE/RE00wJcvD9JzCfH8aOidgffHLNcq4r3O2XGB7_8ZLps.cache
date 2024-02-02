@@ -1,0 +1,48 @@
+{:uriI"ºfile://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pl.json?type=application/json&id=c13e29d25fe8c479a6e32afe64603869fc5a32e0d58d660221965ff68b4d4076:ET:load_pathI"app/assets/javascripts;T:filenameI"^app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pl.json;T:	nameI"Bnode_modules/webpack-dev-server/node_modules/yargs/locales/pl;T:logical_pathI"Gnode_modules/webpack-dev-server/node_modules/yargs/locales/pl.json;T:content_typeI"application/json;T:sourceI"+{
+  "Commands:": "Polecenia:",
+  "Options:": "Opcje:",
+  "Examples:": "PrzykÅ‚ady:",
+  "boolean": "boolean",
+  "count": "iloÅ›Ä‡",
+  "string": "ciÄ…g znakÃ³w",
+  "number": "liczba",
+  "array": "tablica",
+  "required": "wymagany",
+  "default:": "domyÅ›lny:",
+  "choices:": "dostÄ™pne:",
+  "aliases:": "aliasy:",
+  "generated-value": "wygenerowana-wartoÅ›Ä‡",
+  "Not enough non-option arguments: got %s, need at least %s": "NiewystarczajÄ…ca iloÅ›Ä‡ argumentÃ³w: otrzymano %s, wymagane co najmniej %s",
+  "Too many non-option arguments: got %s, maximum of %s": "Zbyt duÅ¼a iloÅ›Ä‡ argumentÃ³w: otrzymano %s, wymagane co najwyÅ¼ej %s",
+  "Missing argument value: %s": {
+    "one": "Brak wartoÅ›ci dla argumentu: %s",
+    "other": "Brak wartoÅ›ci dla argumentÃ³w: %s"
+  },
+  "Missing required argument: %s": {
+    "one": "Brak wymaganego argumentu: %s",
+    "other": "Brak wymaganych argumentÃ³w: %s"
+  },
+  "Unknown argument: %s": {
+    "one": "Nieznany argument: %s",
+    "other": "Nieznane argumenty: %s"
+  },
+  "Invalid values:": "NieprawidÅ‚owe wartoÅ›ci:",
+  "Argument: %s, Given: %s, Choices: %s": "Argument: %s, Otrzymano: %s, DostÄ™pne: %s",
+  "Argument check failed: %s": "Weryfikacja argumentÃ³w nie powiodÅ‚a siÄ™: %s",
+  "Implications failed:": "ZaÅ‚oÅ¼enia nie zostaÅ‚y speÅ‚nione:",
+  "Not enough arguments following: %s": "NiewystarczajÄ…ca iloÅ›Ä‡ argumentÃ³w nastÄ™pujÄ…cych po: %s",
+  "Invalid JSON config file: %s": "NieprawidÅ‚owy plik konfiguracyjny JSON: %s",
+  "Path to JSON config file": "ÅšcieÅ¼ka do pliku konfiguracyjnego JSON",
+  "Show help": "PokaÅ¼ pomoc",
+  "Show version number": "PokaÅ¼ numer wersji",
+  "Did you mean %s?": "Czy chodziÅ‚o Ci o %s?",
+  "Arguments %s and %s are mutually exclusive": "Argumenty %s i %s wzajemnie siÄ™ wykluczajÄ…",
+  "Positionals:": "Pozycyjne:",
+  "command": "polecenie"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"lfile-digest://app/assets/javascripts/node_modules/webpack-dev-server/node_modules/yargs/locales/pl.json;TTF:charsetI"
+utf-8;F:digest"%´»œÏù!}D×Cu¡^Š±qİ1QAìØ«m‹Û:lengthi+:dependencies_digest"%Éû€ñ\$ˆ³ì9Ğ?
+A„À‰Sòë1èÂsÄÙ:idI"Ec13e29d25fe8c479a6e32afe64603869fc5a32e0d58d660221965ff68b4d4076;F:
+mtimel+R¢´e

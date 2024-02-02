@@ -1,0 +1,43 @@
+{:uriI"•file://app/assets/javascripts/node_modules/vue-router/vetur/attributes.json?type=application/json&id=40e6ce69cd7247af5fae49f424e08a70e263052b2048aa99c24aef18293b5565:ET:load_pathI"app/assets/javascripts;T:filenameI"Iapp/assets/javascripts/node_modules/vue-router/vetur/attributes.json;T:	nameI"-node_modules/vue-router/vetur/attributes;T:logical_pathI"2node_modules/vue-router/vetur/attributes.json;T:content_typeI"application/json;T:sourceI"Ó	{
+  "name": {
+    "type": "string",
+    "description": "When a `<router-view>` has a `name` prop, it will render the component with the corresponding name in the matched route record's components option."
+  },
+  "to": {
+    "description": "Denotes the target route of the link. When clicked, the value of the `to` prop will be internally passed to `router.push()`, so the value can be either a string or a location descriptor object."
+  },
+  "append": {
+    "type": "boolean",
+    "description": "Setting the append prop always appends the relative path to the current path. For example, assuming we are navigating from /a to a relative link b, without append we will end up at /b, but with append we will end up at /a/b."
+  },
+  "tag": {
+    "description": "Specify which tag to render to, and it will still listen to click events for navigation. By default, an `a` tag is rendered."
+  },
+  "event": {
+    "description": "Specify the event(s) that can trigger the link navigation. By default, the `click` event triggers a navigation."
+  },
+  "replace": {
+    "type": "boolean",
+    "description": "Call `router.replace()` instead of `router.push()` when the link is clicked, so the navigation replaces the current history entry."
+  },
+  "exact": {
+    "description": "The default active class matching behavior is inclusive match. For example, `<router-link to=\"/a\">` will get this class applied as long as the current path starts with /a/ or is /a.\nOne consequence of this is that `<router-link to=\"/\">` will be active for every route! To force the link into \"exact match mode\", use the exact prop: `<router-link to=\"/\" exact>`"
+  },
+  "active-class": {
+    "type": "string",
+    "description": "Configure the active CSS class applied when the link is active. Note the default value can also be configured globally via the `linkActiveClass` router constructor option."
+  },
+  "exact-active-class": {
+    "type": "string",
+    "description": "Configure the active CSS class applied when the link is exactly active. Note the default value can also be configured globally via the `linkExactActiveClass` router constructor option."
+  },
+  "aria-current-value": {
+    "options": ["page", "step", "location", "date", "time", "true", "false"],
+    "description": "Configure the value of `aria-current` when the link is active with exact match. It must be one of the [allowed values for `aria-current`](https://www.w3.org/TR/wai-aria-1.2/#aria-current) in the ARIA spec. In most cases, the default of `page` should be the best fit."
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Wfile-digest://app/assets/javascripts/node_modules/vue-router/vetur/attributes.json;TTF:charsetI"
+utf-8;F:digest"%˘›kæ]˚§Ë€‚_•sT™è÷LnÙpt≥ŒÍ¶©±:lengthiÓ	:dependencies_digest"%cÚ>2: öÏÿ=rüü„{ï›N†ùƒ¸Ë¥C¶∆v∏:idI"E40e6ce69cd7247af5fae49f424e08a70e263052b2048aa99c24aef18293b5565;F:
+mtimel+S¢¥e

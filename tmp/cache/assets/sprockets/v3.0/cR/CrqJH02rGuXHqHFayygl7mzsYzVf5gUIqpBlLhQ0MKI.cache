@@ -1,0 +1,13 @@
+{:uriI"±file://app/assets/javascripts/node_modules/vue/packages/compiler-sfc/test/tsconfig.json?type=application/json&id=9498bfc06711c2fd2f0b343ca8b69f48cd847659c8cb8cce1e4f9ed3d290b71c:ET:load_pathI"app/assets/javascripts;T:filenameI"Uapp/assets/javascripts/node_modules/vue/packages/compiler-sfc/test/tsconfig.json;T:	nameI"9node_modules/vue/packages/compiler-sfc/test/tsconfig;T:logical_pathI">node_modules/vue/packages/compiler-sfc/test/tsconfig.json;T:content_typeI"application/json;T:sourceI"Œ{
+  "extends": "../../../tsconfig.json",
+  "compilerOptions": {
+    "types": ["node", "vitest/globals"]
+  },
+  "include": ["../src", "."]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"cfile-digest://app/assets/javascripts/node_modules/vue/packages/compiler-sfc/test/tsconfig.json;TTF:charsetI"
+utf-8;F:digest"%UÕ+	KF›O…žŸYŽòÙc(Ù$oÜœæü¨<P1 ^:lengthiŒ:dependencies_digest"%qKµ§™q¦n2B©ÅÐø_Ð[¦ì2å’»ç÷2x
+û:idI"E9498bfc06711c2fd2f0b343ca8b69f48cd847659c8cb8cce1e4f9ed3d290b71c;F:
+mtimel+S¢´e

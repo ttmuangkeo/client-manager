@@ -1,0 +1,62 @@
+{:uriI"¤file://app/assets/javascripts/node_modules/postcss-loader/src/options.json?type=application/json&id=820fcb4f2eac94cce306acefd631df76b81c81bd49e7e48a92011a50f9c70a2d:ET:load_pathI"app/assets/javascripts;T:filenameI"Happ/assets/javascripts/node_modules/postcss-loader/src/options.json;T:	nameI",node_modules/postcss-loader/src/options;T:logical_pathI"1node_modules/postcss-loader/src/options.json;T:content_typeI"application/json;T:sourceI"º{
+  "type": "object",
+  "properties": {
+    "config": {
+      "type": "object",
+      "properties": {
+        "path": {
+          "type": "string"
+        },
+        "ctx": {
+          "type": "object"
+        }
+      },
+      "errorMessage": {
+        "properties": {
+          "ctx": "should be {Object} (https://github.com/postcss/postcss-loader#context-ctx)",
+          "path": "should be {String} (https://github.com/postcss/postcss-loader#path)"
+        }
+      },
+      "additionalProperties": false
+    },
+    "exec": {
+      "type": "boolean"
+    },
+    "parser": {
+      "type": [ "string", "object" ]
+    },
+    "syntax": {
+      "type": [ "string", "object" ]
+    },
+    "stringifier": {
+      "type": [ "string", "object" ]
+    },
+    "plugins": {
+      "anyOf": [
+        { "type": "array" },
+        { "type": "object" },
+        { "instanceof": "Function" }
+      ]
+    },
+    "sourceMap": {
+      "type": [ "string", "boolean" ]
+    }
+  },
+  "errorMessage": {
+    "properties": {
+      "exec": "should be {Boolean} (https://github.com/postcss/postcss-loader#exec)",
+      "config": "should be {Object} (https://github.com/postcss/postcss-loader#config)",
+      "parser": "should be {String|Object} (https://github.com/postcss/postcss-loader#parser)",
+      "syntax": "should be {String|Object} (https://github.com/postcss/postcss-loader#syntax)",
+      "stringifier": "should be {String|Object} (https://github.com/postcss/postcss-loader#stringifier)",
+      "plugins": "should be {Array|Object|Function} (https://github.com/postcss/postcss-loader#plugins)",
+      "sourceMap": "should be {String|Boolean} (https://github.com/postcss/postcss-loader#sourcemap)"
+    }
+  },
+  "additionalProperties": true
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Vfile-digest://app/assets/javascripts/node_modules/postcss-loader/src/options.json;TTF:charsetI"
+utf-8;F:digest"%íÓâvý ¬™ÉÏåÜ·f'Ž?ËÇåmjºŠ¥Ô™¢á:lengthiº:dependencies_digest"%2ö`×³Ä~_ÿŠ„Mâž1Ð#¥Û}6lS:idI"E820fcb4f2eac94cce306acefd631df76b81c81bd49e7e48a92011a50f9c70a2d;F:
+mtimel+R¢´e

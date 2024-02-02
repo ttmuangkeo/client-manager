@@ -1,0 +1,44 @@
+{:uriI"µfile://app/assets/javascripts/node_modules/yorkie/node_modules/shebang-command/package.json?type=application/json&id=c8b933ef1e3909a325bd30fd075540e78a1e591cdc3187b92d8653718c0f8dc4:ET:load_pathI"app/assets/javascripts;T:filenameI"Yapp/assets/javascripts/node_modules/yorkie/node_modules/shebang-command/package.json;T:	nameI"=node_modules/yorkie/node_modules/shebang-command/package;T:logical_pathI"Bnode_modules/yorkie/node_modules/shebang-command/package.json;T:content_typeI"application/json;T:sourceI"Š{
+  "name": "shebang-command",
+  "version": "1.2.0",
+  "description": "Get the command from a shebang",
+  "license": "MIT",
+  "repository": "kevva/shebang-command",
+  "author": {
+    "name": "Kevin Martensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "cmd",
+    "command",
+    "parse",
+    "shebang"
+  ],
+  "dependencies": {
+    "shebang-regex": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"gfile-digest://app/assets/javascripts/node_modules/yorkie/node_modules/shebang-command/package.json;TTF:charsetI"
+utf-8;F:digest"%ÿ¿lwÆG‘îhW©:¢déÀ,ÊŒŽ?¸*¯Åt¾R:lengthiŠ:dependencies_digest"%§ {ÑÇ©HhÇ¾‘€øßW‡\Ÿ0ÊÃ±åclµ:idI"Ec8b933ef1e3909a325bd30fd075540e78a1e591cdc3187b92d8653718c0f8dc4;F:
+mtimel+Q¢´e

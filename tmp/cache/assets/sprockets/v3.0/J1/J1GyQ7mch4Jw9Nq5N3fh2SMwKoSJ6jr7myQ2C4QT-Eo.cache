@@ -1,0 +1,52 @@
+{:uriI"žfile://app/assets/javascripts/node_modules/pretty-error/package.json?type=application/json&id=b2415eb49a90b9a03e95beb38aab4c72e59839286631feec64cfa0c428187553:ET:load_pathI"app/assets/javascripts;T:filenameI"Bapp/assets/javascripts/node_modules/pretty-error/package.json;T:	nameI"&node_modules/pretty-error/package;T:logical_pathI"+node_modules/pretty-error/package.json;T:content_typeI"application/json;T:sourceI"‹{
+  "name": "pretty-error",
+  "version": "2.1.2",
+  "description": "See nodejs errors with less clutter",
+  "main": "./lib/PrettyError.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "mocha \"test/**/*.coffee\"",
+    "test:watch": "mocha \"test/**/*.coffee\" --watch",
+    "compile": "coffee --bare --compile --output ./lib ./src",
+    "compile:watch": "jitter src lib -b",
+    "watch": "npm run compile:watch & npm run test:watch",
+    "winwatch": "start/b npm run compile:watch & npm run test:watch",
+    "prepublish": "npm run compile"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "renderkid": "^2.0.4"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.8.0",
+    "chai": "~1.9.2",
+    "mocha": "~2.0.1",
+    "jitter": "^1.3.0"
+  },
+  "author": "Aria Minaei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AriaMinaei/pretty-error.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AriaMinaei/pretty-error/issues"
+  },
+  "keywords": [
+    "pretty",
+    "error",
+    "exception",
+    "debug",
+    "error-handling",
+    "readable",
+    "colorful",
+    "prettify",
+    "format",
+    "human"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Pfile-digest://app/assets/javascripts/node_modules/pretty-error/package.json;TTF:charsetI"
+utf-8;F:digest"%–ÓlÖ;~C!Ø·ìÆAYA…7Œ?fÌ‡8Ýª:™÷:lengthi‹:dependencies_digest"%‹ œA#¶8ÙrªØ>¶èÇò}‡Ôi	¢¬ ¢B‰Ñ:idI"Eb2415eb49a90b9a03e95beb38aab4c72e59839286631feec64cfa0c428187553;F:
+mtimel+R¢´e

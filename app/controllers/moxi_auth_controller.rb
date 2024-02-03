@@ -1,6 +1,6 @@
 class MoxiAuthController < ApplicationController
   include MoxiAuthHelper
-  skip_before_action :verify_authenticity_token, only: :authenticate
+  skip_before_action :verify_authenticity_token, only: [:authenticate, :logout]
   
   def authenticate
       provided_username = params[:username]
@@ -12,7 +12,7 @@ class MoxiAuthController < ApplicationController
         company_data_result = fetch_company_data
         
         if company_data_result[:success]
-          render json: { data: company_data_result[:data] }
+          render json: { data: company_data_result[:data], token: session[:moxi_token] }
         else
           render json: { error: "Failed to fetch company data: #{company_data_result[:error]}" }, status: :internal_server_error
         end

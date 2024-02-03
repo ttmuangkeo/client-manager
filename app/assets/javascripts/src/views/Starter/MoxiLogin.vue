@@ -20,6 +20,7 @@
 
 <script>
 import {login, logout} from '@/services/AuthenticationService.js'
+import {mapGetters, mapActions} from 'vuex'
 export default {
     data() {
         return {
@@ -29,16 +30,19 @@ export default {
         }
     },
     computed: {
-        // ...mapGetters("company", ["getCompanies"]),
+        ...mapGetters(['getToken'])
     },    
     methods: {
         async login() {
             try {
                 const result = await login(this.username, this.password)
-                console.log(result.data)
+                console.log('result from login compo', result)
                 if(result.success) {
                     this.error = ''
                     this.$store.dispatch('setCompanies', result.data)
+                    localStorage.setItem('companies', JSON.stringify(result.data))
+                    console.log('Companies stored:', result.data);
+
                     this.$store.dispatch('setLoggedIn', true)
                     this.$router.push({
                         name: 'moxiCompany', 
@@ -52,7 +56,6 @@ export default {
                 }
             } catch (error) {
                 console.log("unexpected error", error)
-                
             }
         },
         async logout() {
@@ -71,7 +74,8 @@ export default {
             } catch (error) {
                 
             }
-        }
+        },
+        ...mapActions(['setToken'])
     }
 }
 </script>

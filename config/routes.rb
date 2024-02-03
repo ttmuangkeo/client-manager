@@ -14,7 +14,7 @@ Rails.application.routes.draw do
   get '/moxi/companies', to: 'moxi_auth#show'
   get '/moxi/company/branding/:moxi_works_company_id', to: 'moxi_branding#fetch_branding_data'
 
-  delete '/logout', to: 'moxi_auth#logout'
+  post '/logout', to: 'moxi_auth#logout'
   # This catch-all route will redirect all other requests to the Vue.js app
   get '*path', to: 'application#index', via: :all
 end

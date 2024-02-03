@@ -16,16 +16,24 @@ async function login(username, password) {
         },
       }
     );
-    return {
-      success: true,
-      data: response.data.data,
-    };
+    console.log('from auth service', response)
+    if (response.status === 200) {
+      storeToken(response.token)
+      console.log(storeToken)
+      return {
+        success: true,
+        data: response.data.data,
+      }
+    }
   } catch (err) {
     return {
       success: false,
       error: "failed to auth in",
     };
   }
+}
+function storeToken(token) {
+  document.cookie = `authToken=${token}; Secure; SameSite=None; Path=/;`;
 }
 async function logout() {
   try {

@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+import Store from '../data/Store';
 import SideBar from '../views/Starter/SideBar.vue';
 
 
@@ -20,7 +21,8 @@ const router = new Router({
         {
           path: '/moxi/login',
           name: 'moxiLogin',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiLogin.vue')
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiLogin.vue'),
+          meta: {requiresGuest: true}
         },        
         {
           path: '/moxi/company/:username',
@@ -79,18 +81,16 @@ const router = new Router({
     return { x: 0, y: 0 };
   }
 });
-// logic to require access token to view the companies page
-// router.beforeEach((to, from, next) => {
-//   if(to.meta.requiredAuth) {
-//     const accessToken = store.getters.getAccessToken;
-//     if(!accessToken) {
-//       next('/');
-//     } else {
-//       next()
-//     }
-//   } else {
-//     next()
-//   }
-// })
+router.beforeEach((to, from, next) => {
+  if(to.matched.some((record) => record.meta.requiresGuest)) {
+    if(Store.getters.getLoggedIn) {
+      next({name: 'home'})
+    } else {
+      next()
+    }
+  } else {
+    next()
+  }
+})
 
 export default router

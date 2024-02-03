@@ -1,10 +1,10 @@
 <template>
   <card class="container">
-    <!-- <div v-if="!isLoggedIn">
+    <div v-if="!isLoggedIn">
       <h1>{{ username }}</h1>
       <button @click="logout" class="btn">logout</button>
-    </div> -->
-    <div class="container" v-if="companies && companies.length">
+    </div>
+    <div class="container">
       <div class="row">
         <ul class="col-4" v-for="company in companies" :key="company.id">
           <b-card class="mb-3">
@@ -70,12 +70,18 @@ export default {
     };
   },
   computed: {
-    ...mapGetters("company", ["getCompanies"]),
+    ...mapGetters('company', ['getCompanies']),
   },
   mounted() {
-    const storedCompanies = JSON.parse(localStorage.getItem('companies') || [])
-    console.log(storedCompanies)
-    this.$store.commit('setCompanies', storedCompanies)
+    console.log('Companies in Vuex store:', this.getCompany);
+    
+    const storedCompanies = localStorage.getItem('companies')
+    console.log('storedcompany', storedCompanies)
+    
+    if(storedCompanies) {
+      const parse = JSON.parse(storedCompanies)
+this.$store.dispatch('setCompanies', parse)
+    }
   },
   methods: {
     async logout() {
@@ -87,6 +93,8 @@ export default {
           this.error = "";
           this.selectedCompanyId = null;
           this.isLoggedIn = false;
+
+          localStorage.removeItem('companies');
           this.$store.dispatch('setCompanies', [])
           this.$store.dispatch('setLoggedIn', false)
 

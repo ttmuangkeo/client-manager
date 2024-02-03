@@ -18,12 +18,17 @@ def login(username, password)
         store_cookies(cookie)
         store_basic_auth_creds(username, password)
         store_session_data(cookie, creds)
-    
-        { success: true }
+
+        token = SecureRandom.hex(32)
+        store_token(token)
+        { success: true, token: token}
     rescue RestClient::ExceptionWithResponse => e
         Rails.logger.error("Error authing: #{e.response}")
         { success: false, error: "Failed to authenticate" }
     end
+    end
+    def store_token(token)
+        session[:moxi_token] = token
     end
 
     def extract_cookie_from_response(response)

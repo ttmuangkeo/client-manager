@@ -28,7 +28,7 @@
                 >
                 <b-dropdown-item
                   @click="
-                    redirectTo('moxiListings', company.moxi_works_company_id)
+                    redirectTo('moxiCompanyListings', company.moxi_works_company_id)
                   "
                   >Listings</b-dropdown-item
                 >

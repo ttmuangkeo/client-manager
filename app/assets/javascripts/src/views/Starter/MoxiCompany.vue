@@ -75,7 +75,6 @@ export default {
     const parse = JSON.parse(storedCompanies)
     console.log(parse)
     this.companies = parse
-    // this.$store.dispatch('setCompanies', parse)
   },
   methods: {
     async logout() {

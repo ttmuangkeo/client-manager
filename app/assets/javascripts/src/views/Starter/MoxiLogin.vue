@@ -26,7 +26,8 @@ export default {
         return {
             username: '',
             password: '',
-            error: ''
+            error: '',
+            companies: null
         }
     },
     computed: {

@@ -1,9 +1,10 @@
 <template>
   <card class="container">
-    <div v-if="!isLoggedIn">
-      <h1>{{ username }}</h1>
-      <button @click="logout" class="btn">logout</button>
-    </div>
+    <b-row>
+      <b-col>{{username}}</b-col>
+      <b-col col lg='2' class="btn btn-default" @click="logout">logout</b-col>
+    </b-row>
+    <hr>
     <div class="container">
       <div class="row">
         <ul class="col-4" v-for="company in companies" :key="company.id">
@@ -55,33 +56,26 @@
 <script>
 import {mapGetters} from 'vuex'
 import { logout } from "@/services/AuthenticationService.js";
-import StatsCard from "../../components/Cards/StatsCard.vue";
 
 export default {
-  props:['username', 'companies'],
-  components: {
-    StatsCard,
-  },
+  props:['username'],
   data() {
     return {
       password: "",
       error: "",
       selectedCompanyId: null,
+      companies: null
     };
   },
   computed: {
     ...mapGetters('company', ['getCompanies']),
   },
-  mounted() {
-    console.log('Companies in Vuex store:', this.getCompany);
-    
+  mounted() {  
     const storedCompanies = localStorage.getItem('companies')
-    console.log('storedcompany', storedCompanies)
-    
-    if(storedCompanies) {
-      const parse = JSON.parse(storedCompanies)
-this.$store.dispatch('setCompanies', parse)
-    }
+    const parse = JSON.parse(storedCompanies)
+    console.log(parse)
+    this.companies = parse
+    // this.$store.dispatch('setCompanies', parse)
   },
   methods: {
     async logout() {

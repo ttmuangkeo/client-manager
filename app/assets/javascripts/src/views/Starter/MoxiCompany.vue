@@ -28,7 +28,7 @@
                 >
                 <b-dropdown-item
                   @click="
-                    redirectTo('moxiListings', company.moxi_works_company_id)
+                    redirectTo('moxiCompanyListings', company.moxi_works_company_id)
                   "
                   >Listings</b-dropdown-item
                 >
@@ -75,7 +75,6 @@ export default {
     const parse = JSON.parse(storedCompanies)
     console.log(parse)
     this.companies = parse
-    // this.$store.dispatch('setCompanies', parse)
   },
   methods: {
     async logout() {

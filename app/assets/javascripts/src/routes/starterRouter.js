@@ -38,8 +38,14 @@ const router = new Router({
         },        
         {
           path: '/moxi/listings/:moxi_works_company_id',
-          name: 'moxiListings',
-          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiListings.vue'),
+          name: 'moxiCompanyListings',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiAllListings.vue'),
+          props: true
+        },        
+        {
+          path: '/moxi/listings/:moxi_works_listing_id/:moxi_works_company_id',
+          name: 'moxiListing',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/MoxiListing.vue'),
           props: true
         },        
         {

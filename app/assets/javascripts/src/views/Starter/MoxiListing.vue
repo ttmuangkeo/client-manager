@@ -1,20 +1,3 @@
-<!--<template>
-  <b-container>
-    <div>
-  <b-carousel
-    id="carousel"
-    controls
-    indicators
-    img-width="1024"
-    img-height="480"    
-  >
-    <b-carousel-slide v-for="image in images" :key="image.id"
-      :img-src="image.FullURL"
-    ></b-carousel-slide>
-  </b-carousel>
-</div>
-  </b-container>
-</template> -->
 <template>
   <div>
     <div class="header">
@@ -47,16 +30,16 @@
       </b-container>
     </div>
 
-    <!-- <b-container fluid class="mt--6">
+    <b-container fluid class="mt--6">
       <b-row>
         <b-col xl="4" class="order-xl-2 mb-5">
-          <user-card></user-card>
+          <user-card :agent-uuid="listing.ListAgentUUID"></user-card>
         </b-col>
         <b-col xl="8" class="order-xl-1">
           <edit-profile-form></edit-profile-form>
         </b-col>
       </b-row>
-    </b-container> -->
+    </b-container>
   </div>
 </template>
 

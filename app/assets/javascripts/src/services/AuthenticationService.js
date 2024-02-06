@@ -82,5 +82,21 @@ async function fetchListingData(moxi_works_company_id) {
     console.log(err)
   }
 }
+async function fetchListingId(moxi_works_listing_id, moxi_works_company_id) {
+  try {
+    const response = await axios.get(`/moxi/company/listing/${moxi_works_listing_id}/${moxi_works_company_id}`, {
+      headers: {
+        Accept: 'application/vnd.moxi-platform+json;version=1'
+      }
+    });
+    console.log('from auth svc', response)
+    return {
+      success: true,
+      data: response.data
+    };
+  } catch(err) {
+    console.log(err)
+  }
+}
 
-export { login, logout, fetchBrandingData, fetchListingData };
+export { login, logout, fetchBrandingData, fetchListingData, fetchListingId};

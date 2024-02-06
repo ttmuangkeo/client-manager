@@ -8,10 +8,15 @@
         </card>
         <img :src="branding.image_logo" alt="Company Logo" />
         <p>image_logo</p>
-        <card class="mb-4" :style="{ backgroundColor: branding.background_color }">
           <p>Background Color: {{ branding.background_color }}</p>
-          <p>Font Color Primary: {{ branding.background_font_color_primary }}</p>
+          <p>Pres Block Background Color: {{ branding.pres_block_background_color }}</p>
+        <card class="mb-4" :style="{ backgroundColor: branding.background_color }">
+          <p :style="{color: branding.background_font_color_primary}">Font Color Primary: {{ branding.background_font_color_primary }}</p>
+          <p :style="{color: branding.pres_block_text_color}">Pres Block Text Color: {{ branding.pres_block_text_color }}</p>
         </card>
+        <button class="container btn" :style="{backgroundColor: branding.button_background_color}">
+          <p :style="{color: branding.button_font_color}">{{branding.button_font_color}}</p>
+        </button>
         <img :src="branding.image_cma_pdf_logo_header" alt="CMA PDF Logo Header" />
         <p>image_cma_pdf_logo_header</p>
         <hr>

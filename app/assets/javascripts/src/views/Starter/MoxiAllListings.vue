@@ -1,6 +1,11 @@
 <template>
   <card class="container">
-    <div class="container">
+      <div class="col-sm">
+        <base-input v-model="searchListingId" label="listingId" placeholder="listingId" type="text"></base-input>
+      </div>
+      <div class="container" v-if="loading">
+        loading...
+    </div>
       <div class="row">
         <ul class="col-4" v-for="listing in listings" :key="listing.id">
           <div>
@@ -23,33 +28,35 @@
               ListOfficeAOR: <strong>{{listing.ListOfficeAOR}}</strong>
             </b-card-text>
               <b-card-text>            
-              Agent UUID: {{listing.ListAgentUUID}}
+              Agent UUID: <strong>{{listing.ListAgentUUID}}</strong>
               </b-card-text>
-
               <b-button :href="listing.ListingURL" variant="primary">Listing Page</b-button>
+              <b-button @click="redirectListingId(listing.ShortMoxiWorksListingId)" variant="primary">More Info</b-button>
             </b-card>
           </div>
         </ul>
       </div>
-    </div>
   </card>
 </template>
 
 <script>
-import { fetchListingData } from "@/services/AuthenticationService.js";
+import { fetchListingData, fetchListingId } from "@/services/AuthenticationService.js";
 
 export default {
   data() {
     return {
       listings: null,
       error: null,
+      loading: true,
+      searchListingId: '',
+      listingId: ''
     };
   },
   mounted() {
-    this.listingData();
+    this.allListingData();
   },
   methods: {
-    async listingData() {
+    async allListingData() {
       const companyId = this.$route.params.moxi_works_company_id;
 
       try {
@@ -57,6 +64,7 @@ export default {
 
         if (res.success) {
           console.log(res)
+          this.loading =true
           this.listings = res.data.data.Listings;
         } else {
           this.error = "Failed to retrieve branding data.";
@@ -66,8 +74,26 @@ export default {
       } finally {
         this.loading = false;
       }
+    },
+    async redirectListingId(listingId) {
+      const companyId = this.$route.params.moxi_works_company_id
+      try {
+        const res = await fetchListingId(listingId, companyId)
+        if(res.success)
+        
+        this.$router.push({
+          name: 'moxiListing',
+          params: {
+            moxi_works_company_id: companyId,
+            moxi_works_listing_id: listingId
+          }
+        })
+      } catch (error) {
+        this.error = 'unexpected error occured'
+        
+      }
     }
-  },
+  }
 };
 
 </script>

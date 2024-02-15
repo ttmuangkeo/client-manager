@@ -55,18 +55,17 @@ const router = new Router({
           props: true
         },        
         {
-          path: '/brytecore/company',
+          path: '/brytecore/company/:company_id',
           name: 'company',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompany.vue')
         },        
         {
-          path: '/brytecore/companies/:companyId',
+          path: '/brytecore/companies',
           name: 'getCompanies',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompanies.vue'),
           // added required auth to view this page
           // meta: {requiredAuth: true}
         },
-        // This component will be a thing if brytecore allows a get ALL company. As far as i know they do not. However if they do will need to build a company page to host all the companies
         {
           path: '/brytecore/login',
           name: 'login',

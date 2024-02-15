@@ -13,7 +13,7 @@
         <sidebar-item
             :link="{
               name: 'Brytecore',
-              path: '/brytecore/company'
+              path: '/brytecore/login'
               }"
             >
         </sidebar-item>

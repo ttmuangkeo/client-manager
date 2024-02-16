@@ -72,7 +72,14 @@ const router = new Router({
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreLogin.vue'),
           // added required auth to view this page
           // meta: {requiredAuth: true}
-        }        
+        },  
+        {
+          path: '/Promote',
+          name: 'Promote',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/Promote.vue'),
+          // added required auth to view this page
+          // meta: {requiredAuth: true}
+        }      
       ]
     }
   ],

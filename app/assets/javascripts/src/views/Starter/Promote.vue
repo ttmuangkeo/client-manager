@@ -1,66 +1,95 @@
 <template>
   <div>
-    <input v-model="companyId" placeholder="Company UUID" />
-    <input v-model="listingId" placeholder="Listing ID" />
-    {{ companyId }}
-    {{ listingId }}
-    {{ error }}
-    <ul>
-      <li>
-        Listing ID:
-        {{ listing.ShortMoxiWorksListingId }}
-      </li>
-      <li v-if="isLoaded">
-        Listing Image URL:
-        {{ listing.ListingImages[0].FullURL }}
-      </li>
-      <li>
-        List Agent Moxi Office ID:
-        {{ listing.ListAgentMoxiWorksOfficeID }}
-      </li>
-      <li>
-        List Agent UUID:
-        {{ listing.ListAgentUUID }}
-      </li>
-      <li>
-        Listing Status:
-        {{ listing.Status }}
-      </li>
-      <li>
-        List Price:
-        {{ listing.ListPrice }}
-      </li>
-      <li>
-        Listing Address:
-        {{ listing.Address }}
-      </li>
-      <li>
-        City:
-        {{ listing.City }}
-      </li>
-      <li>
-        State / Province:
-        {{ listing.StateOrProvince }}
-      </li>
-      <li>
-        Country Code:
-        {{ listing.CountryCode }}
-      </li>
-      <li>
-        Postal Code:
-        {{ listing.PostalCode }}
-      </li>
-      <li>
-        Listing Latitude:
-        {{ listing.Latitude }}
-      </li>
-      <li>
-        Listing Longitude:
-        {{ listing.Longitude }}
-      </li>
-    </ul>
-    <!--<button @click="pullListingData(companyId, listingId)">Check Listing</button>-->
-    <button @click="pullListingData()">Check Listing</button>
+
+    <card class="container">
+      <div class="row">
+        <div class="col-sm">
+          <base-input
+            v-model="companyId"
+            label="company UUID"
+            placeholder="Company UUID"
+          />
+        </div>
+        <div class="col-sm">
+          <base-input
+            v-model="listingId"
+            label="Listing ID"
+            placeholder="Listing ID"
+          />
+        </div>
+        <div class="row">
+          <div class="col-12"></div>
+          <div class="col-md-auto">
+            <button
+              class="btn btn-success"
+              @click="pullListingData(listingId, companyId)"
+            >
+              Check Listing
+            </button>
+            <div v-if="error" class="danger">{{ error }}</div>
+          </div>
+        </div>
+      </div>
+    </card>
+    <card class="container">
+      <ul class="list-group">
+        
+        <li class="list-group-item py-1">
+          Listing ID:
+          {{ listing.ShortMoxiWorksListingId }}
+        </li>
+        <li class="list-group-item py-1"> 
+            Listing Image URL:
+            <span v-if="isLoaded" v-html="$store.getters.getPulledListingData.ListingImages[0].FullURL"></span>
+        </li>
+        <li class="list-group-item py-1">
+          List Agent Moxi Office ID:
+          {{ listing.ListAgentMoxiWorksOfficeID }} ({{
+            listing.ListOfficeName
+          }})
+        </li>
+        <li class="list-group-item py-1">
+          List Agent UUID:
+          {{ listing.ListAgentUUID }} ({{ listing.ListAgentFullName }})
+        </li>
+        <li class="list-group-item py-1">
+          Listing Status:
+          {{ listing.Status }}
+        </li>
+        <li class="list-group-item py-1">
+          List Price:
+          {{ listing.ListPrice }}
+        </li>
+        <li class="list-group-item py-1">
+          Listing Address:
+          {{ listing.Address }}
+        </li>
+        <li class="list-group-item py-1">
+          City:
+          {{ listing.City }}
+        </li>
+        <li class="list-group-item py-1">
+          State / Province:
+          {{ listing.StateOrProvince }}
+        </li>
+        <li class="list-group-item py-1">
+          Country Code:
+          {{ listing.CountryCode }}
+        </li>
+        <li class="list-group-item py-1">
+          Postal Code:
+          {{ listing.PostalCode }}
+        </li>
+        <li class="list-group-item py-1">
+          Listing Latitude:
+          {{ listing.Latitude }}
+        </li>
+        <li class="list-group-item py-1">
+          Listing Longitude:
+          {{ listing.Longitude }}
+        </li>
+      </ul>
+    </card>
   </div>
 </template>
   
@@ -73,40 +102,31 @@ export default {
       listingId: "",
       error: "",
       listing: {},
-      isLoaded: false
+      isLoaded: false,
     };
   },
   methods: {
-    
-    /*async pullListingData(companyId, listingId) {
+    async pullListingData(listingId, companyId) {
       // /moxi/company/listing/:moxi_works_listing_id/:moxi_works_company_id
       try {
-        // const res = await axios.get(`/moxi/company/listing/${listingId}/${companyId}`);
-        const res = await axios.get(`/moxi/company/listings/184950370/4227244`);
-        console.log("listing ID:", listingId, "Company ID:", companyId)
-        console.log(res);
-      } catch(error) {
-        console.log(error);
-      }
-    },*/
-    async pullListingData() {
-      // /moxi/company/listing/:moxi_works_listing_id/:moxi_works_company_id
-      try {
-        // const res = await axios.get(`/moxi/company/listing/${listingId}/${companyId}`);
-        const res = await axios.get(`/moxi/company/listing/184950370/4227244`);
+        const res = await axios.get(
+          `/moxi/company/listing/${listingId}/${companyId}`
+        );
         if (res.status === 200) {
-            this.listing = res.data.data
+            const storedData = this.$store.commit("setPulledListingData", res.data.data);
+            console.log(storedData);
+            console.log(this.$store.getters.getPulledListingData);
+            console.log(res);
+          this.listing = res.data.data;
         }
         console.log(res);
       } catch (error) {
         console.log(error);
-      }
-      finally {
+      } finally {
         this.isLoaded = true;
       }
     },
   },
-  
 };
 </script>
   

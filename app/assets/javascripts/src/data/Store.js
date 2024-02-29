@@ -9,7 +9,8 @@ export default new vuex.Store({
         isLoggedIn: localStorage.getItem('isLoggedIn') !== null ? JSON.parse(localStorage.getItem('isLoggedIn')) : false,
         companies: [],
         companyBranding: null,
-        token: null
+        token: null,
+        pulledListingData: {}
     },
     mutations: {
         setAccessToken(state, token) {
@@ -29,6 +30,9 @@ export default new vuex.Store({
         },
         setToken(state, token) {
             state.token = token
+        },
+        setPulledListingData(state, listingData) {
+            state.listingData = listingData
         }
     },
     actions: {
@@ -46,6 +50,9 @@ export default new vuex.Store({
         },
         setToken({commit}, token) {
             commit('setToken', token)
+        },
+        setPulledListingData({commit}, listingData) {
+            commit('setPulledListingData', listingData)
         }
     },
     getters: {
@@ -53,6 +60,7 @@ export default new vuex.Store({
         getLoggedIn:(state) => state.isLoggedIn,
         getCompanies:(state) => state.companies,
         getCompanyBranding:(state) => state.branding,
-        getToken:(state) => state.token
+        getToken:(state) => state.token,
+        getPulledListingData:(state) => state.listingData
     }
 })

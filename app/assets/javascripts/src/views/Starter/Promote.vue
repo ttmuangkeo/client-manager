@@ -109,7 +109,7 @@ export default {
     async pullListingData(listingId, companyId) {
       // /moxi/company/listing/:moxi_works_listing_id/:moxi_works_company_id
       try {
-        const res = await axios.get(
+        const res = await axios.get( //https://axios-http.com/docs/intro
           `/moxi/company/listing/${listingId}/${companyId}`
         );
         if (res.status === 200) {

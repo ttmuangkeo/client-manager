@@ -231,6 +231,7 @@ GEM
 
 PLATFORMS
   -darwin-21
+  -darwin-23
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)

@@ -17,6 +17,13 @@
               }"
             >
         </sidebar-item>
+        <sidebar-item
+            :link="{
+              name: 'Promote',
+              path: '/Promote'
+              }"
+            >
+        </sidebar-item>
       </template>
 
     </side-bar>

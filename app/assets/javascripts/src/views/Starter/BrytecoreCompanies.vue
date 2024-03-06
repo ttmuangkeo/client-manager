@@ -1,42 +1,43 @@
-<!-- CompanyData.vue -->
 <template>
-  <div>
-    <base-header class="pt-md-5 bg-transparent">
-      <h1>all companies</h1>
-    </base-header>
-    <hr>  
-    <b-container fluid>
-      <b-row v-for="companies in company" :key="companies.id">
-        <b-col xl="12" class="order-xl-6">
-          <stats-card>
-            <p>
-              Name: {{companies.name}}
-            </p>
-              companyID: {{companies.companyId}}
-            <p>
-              Vendor ID: {{companies.vendorCompanyId}}
-            </p>
-            <p>
-              Team Email: {{companies.teamEmail}}
-            </p>
-            <p>
-              External ID: {{companies.externalId}}
-            </p>
-          </stats-card>
-        </b-col>
-        <!-- <b-col xl="3" md="6" v-for="(res, key) in this.apiKeys.data" :key="key">
-          <stats-card class="mb-4">
-            <template slot="footer">
-              <p>{{res.name}}</p>
-              <p>{{res.apiKey}}</p>
-              <p class="text-" v-if="res.trackingKey">Tracking Key</p>
-              <p v-if="res.testkey" class="btn">Test Key</p>
-            </template>  
-          </stats-card>
-        </b-col> -->
-      </b-row>
-    </b-container>
-  </div>
+  <card class="container">
+      <h1>Brytecore</h1>
+      <hr>
+    <div class="row">
+      <div class="col-md center">
+        <button class="btn btn-info">Create New Company</button>
+      </div>
+      <div class="col-md">
+        <button class="btn btn-info">Create New API Key</button>
+      </div>
+    </div>
+    <hr>
+    <div class="container">
+      <div class="row">
+        <ul class="col-4" v-for="companies in company" :key="companies.id">
+          <b-card class="mb-3">
+            <b-card-text><strong>Name:</strong> {{ companies.name }}</b-card-text>
+            <b-card-text
+              ><strong>ID:</strong>
+              {{ companies.companyId }}</b-card-text
+            >
+            <b-card-text>
+              <strong>External ID:</strong>
+              {{ companies.externalId }}
+            </b-card-text>
+            <div>
+              <b-dropdown id="dropdown" text="Info" class="m-md-2">
+                <b-dropdown-item
+                  @click="redirectTo('company', companies.companyId)">View API Keys</b-dropdown-item>
+              </b-dropdown>
+            </div>            
+          </b-card>
+        </ul>
+      </div>
+    </div>
+    <!-- <div v-else>
+      <router-link :to="{name: 'moxiLogin'}">login</router-link>
+    </div> -->
+  </card>
 </template>
 
 <script>
@@ -71,7 +72,6 @@ export default {
 
         const result = await response.json();
         this.success = true;
-        console.log(result.data.data)
         this.company = result.data.data;
 
       } catch (error) {
@@ -79,28 +79,14 @@ export default {
         this.error = 'An error occurred while fetching company data.';
         console.error('Error:', error);
       }
-    }
-    // async fetchApiKeys(companyId) {
-    //   try {
-    //     const accessToken = this.$store.getters.getAccessToken;
-    //     const res = await fetch(`http://localhost:3000/apikeys/${companyId}`, {
-    //       headers: {
-    //         'Content-Type': 'application/json',
-    //         'Authorization': `Bearer ${accessToken}`
-    //       }
-    //     });
-
-    //     if(!res.ok) {
-    //       throw new Error('Failed to fetch api keys')
-    //     }
-
-    //     const result = await res.json();
-    //     console.log(result.data)
-    //     this.apiKeys = result.data
-    //   } catch(err) {
-    //     console.log('Error fetching api keys', err);
-    //   }
-    // }
+    },
+    redirectTo(route, companyId) {
+      this.selectedCompanyId = companyId;
+      this.$router.push({
+        name: route,
+        params: { companyId },
+      });
+    }    
   }
 };
 </script>

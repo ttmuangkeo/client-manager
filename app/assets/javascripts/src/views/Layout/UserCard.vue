@@ -1,10 +1,10 @@
 <template>
   <b-card no-body class="card-profile" alt="Image placeholder" img-top>
     <b-row class="justify-content-center">
-      <b-col lg="3" class="order-lg-2">
+      <b-col lg="2" class="order-md-2">
         <div class="card-profile-image">
           <a href="#">
-            <b-img :src="agent.profile_image_url" rounded="circle" />
+            <b-img :src="agent.profile_image_url" rounded="square" />
           </a>
         </div>
       </b-col>

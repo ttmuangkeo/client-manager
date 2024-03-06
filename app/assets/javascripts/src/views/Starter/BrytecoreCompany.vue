@@ -1,15 +1,15 @@
 <template>
   <card class="container">
-      <h1>Brytecore</h1>
-      <hr>
-    <div class="row">
-      <div class="col-md center">
-        <button @click="createCompany" class="btn btn-info">Create New Company</button>
-      </div>
-      <div class="col-md">
-        <button @click="createApiKey" class="btn btn-info">Create New API Key</button>
-      </div>
-    </div>
+    <b-col xl="3" md="6" v-for="(res, key) in this.apiKeys.data" :key="key">
+      <stats-card class="mb-4">
+        <template slot="footer">
+          <p>{{res.name}}</p>
+          <p>{{res.apiKey}}</p>
+          <p class="text-" v-if="res.trackingKey">Tracking Key</p>
+          <p v-if="res.testkey" class="btn">Test Key</p>
+        </template>  
+      </stats-card>
+    </b-col>
   </card>
 </template>
 
@@ -20,32 +20,35 @@ export default {
   components: { BaseHeader, StatsCard },
   data() {
     return {
-
+      apiKeys: {}
     };
   },
   mounted() {
 
   },
   methods: {
-      async createCompany() {
-        if(!this.$store.getters.getAccessToken) {
-          this.$router.push('/brytecore/login');
-          return;
-        } else {
-          // logig to create new company can be put here
-          console.log(this.$store.getters.getAccessToken)
+    async fetchApiKeys(companyId) {
+      try {
+        const accessToken = this.$store.getters.getAccessToken;
+        const res = await fetch(`http://localhost:3000/apikeys/${companyId}`, {
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${accessToken}`
+          }
+        });
+
+        if(!res.ok) {
+          throw new Error('Failed to fetch api keys')
         }
-      },
-      async createApiKey() {
-        if(!this.$store.getters.getAccessToken) {
-          this.$router.push('/brytecore/login');
-          return;
-        } else {
-          // logic to create an api key can go here
-          console.log(this.$store.getters.getAccessToken)
-        }
+
+        const result = await res.json();
+        console.log(result.data)
+        this.apiKeys = result.data
+      } catch(err) {
+        console.log('Error fetching api keys', err);
       }
-  },
+    }
+  }
 };
 </script>
 

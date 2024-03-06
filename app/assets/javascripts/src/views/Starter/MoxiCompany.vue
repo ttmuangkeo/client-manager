@@ -9,6 +9,7 @@
       <div class="row">
         <ul class="col-4" v-for="company in companies" :key="company.id">
           <b-card class="mb-3">
+            <div v-html="$store.getters.getCompanies[0].name"></div>
             <b-card-text><strong>Name:</strong> {{ company.name }}</b-card-text>
             <b-card-text
               ><strong>Numeric ID:</strong>

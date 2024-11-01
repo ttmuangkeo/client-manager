@@ -1,5 +1,5 @@
 class BrytecoreCompaniesController < ApplicationController
-    def show
+    def get_company
         begin
           company_id = params[:id]
           access_token = request.headers['Authorization']&.split(' ')&.last
@@ -25,6 +25,35 @@ class BrytecoreCompaniesController < ApplicationController
           rescue StandardError => e 
             Rails.logger.error("Unexpected error: #{e.message}")
             render json: {success: false, error: 'Unexpected error'}, status: :internal_server_error
+        end
+      end
+
+      def get_all_company
+        begin
+          access_token = request.headers['Authorization']&.split(' ')&.last
+          page = (params[:page] || 1).to_i
+          per_page = (params[:per_page] || 10).to_i
+      
+          response = RestClient.get("#{Rails.application.config.base_api_brytecore_url}/companies", {
+            Authorization: "Bearer #{access_token}",
+            content_type: :json,
+            accept: :json
+          })
+      
+          parsed_response = JSON.parse(response.body)
+          data = parsed_response["data"] # Adjust this key if necessary to access the companies array
+
+          paginate_data = Kaminari.paginate_array(data).page(page).per(per_page)
+      
+          render json: {
+            success: true,
+            companies: paginate_data.as_json,
+            current_page: paginate_data.current_page,
+            total_pages: paginate_data.total_pages,
+            total_count: paginate_data.total_count
+          }
+        rescue RestClient::ExceptionWithResponse => e
+          render json: { success: false, error: 'Failed to get all company data' }, status: e&.response&.code || :internal_server_error
         end
       end
 

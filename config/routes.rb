@@ -6,7 +6,8 @@ Rails.application.routes.draw do
 
   # brytecore routes
   post '/authenticate', to: 'brytecore_auth#authenticate'
-  get '/companies/:id', to: 'brytecore_companies#show'
+  get '/companies/:id', to: 'brytecore_companies#get_company'
+  get '/companies', to: 'brytecore_companies#get_all_company'
   get '/apikeys/:id', to: 'brytecore_companies#api_keys'
 
   #moxi routes

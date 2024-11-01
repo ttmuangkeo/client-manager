@@ -55,8 +55,8 @@ const router = new Router({
           props: true
         },        
         {
-          path: '/brytecore/company/:company_id',
-          name: 'company',
+          path: '/brytecore/api_key/:company_id',
+          name: 'getCompanyApiKey',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCompany.vue')
         },        
         {
@@ -70,6 +70,13 @@ const router = new Router({
           path: '/brytecore/login',
           name: 'login',
           component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreLogin.vue'),
+          // added required auth to view this page
+          // meta: {requiredAuth: true}
+        },  
+        {
+          path: '/brytecore/create',
+          name: 'brytecoreCreateCompany',
+          component: () => import(/* webpackChunkName: "demo" */ '../views/Starter/BrytecoreCreateCompany.vue'),
           // added required auth to view this page
           // meta: {requiredAuth: true}
         },  
@@ -92,7 +99,8 @@ const router = new Router({
     }
     return { x: 0, y: 0 };
   }
-});
+})
+
 router.beforeEach((to, from, next) => {
   if(to.matched.some((record) => record.meta.requiresGuest)) {
     if(Store.getters.getLoggedIn) {

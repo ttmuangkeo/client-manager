@@ -2,7 +2,7 @@
   <div>
     <div class="header">
       <div>
-      <b-carousel
+      <!-- <b-carousel
         id="carousel"
         controls
         indicators
@@ -12,7 +12,7 @@
         <b-carousel-slide v-for="image in images" :key="image.id"
           :img-src="image.FullURL"
         ></b-carousel-slide>
-      </b-carousel>
+      </b-carousel> -->
       </div>      
       <b-container fluid>
         <!-- Mask -->
@@ -72,13 +72,13 @@ export default {
       try {
         const res = await fetchListingId(listingId, companyId)
         if(res.success){
-          console.log(res.data.data)
+          console.log(res, 'this is coming from somethin dshjkgbdfhjg ') 
           this.listing = res.data.data
           this.images = res.data.data.ListingImages
         }
       } catch (error) {
         this.error = 'unexpected error occured'
-        
+  
       }
     }
   },

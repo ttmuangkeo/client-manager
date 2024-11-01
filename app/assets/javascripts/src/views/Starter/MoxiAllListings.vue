@@ -9,7 +9,7 @@
       <div class="row">
         <ul class="col-4" v-for="listing in listings" :key="listing.id">
           <div>
-            <b-card
+            <!-- <b-card
               :title="listing.Address"
               :img-src="listing.ListingImages[0].FullURL"
               img-alt="Image"
@@ -17,9 +17,10 @@
               tag="article"
               style="height: auto; max-width: 100%;"
               class="mb-2"
-            >
+            > -->
             <b-card-text>
               Listing ID: <strong>{{listing.ListingID}}</strong>
+              <p>{{ listing.LastUpdated }}</p>
             </b-card-text>
             <b-card-text>
               Agent: <strong>{{listing.ListAgentFullName}}</strong>
@@ -63,9 +64,10 @@ export default {
         const res = await fetchListingData(companyId);
 
         if (res.success) {
-          console.log(res)
+          console.log(res, "comign from all lsitings page")
           this.loading =true
           this.listings = res.data.data.Listings;
+          console.log(this.listings, 'all my listings after it was decalrewd')
         } else {
           this.error = "Failed to retrieve branding data.";
         }

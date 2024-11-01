@@ -24,10 +24,11 @@ export default {
     };
   },
   mounted() {
-
+    this.fetchApiKeys(this.$route.params.companyId)
   },
   methods: {
     async fetchApiKeys(companyId) {
+      console.log("success company id pass:", this.$route.params.companyId)
       try {
         const accessToken = this.$store.getters.getAccessToken;
         const res = await fetch(`http://localhost:3000/apikeys/${companyId}`, {
